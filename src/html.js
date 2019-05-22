@@ -1,0 +1,46 @@
+import React from "react"
+import PropTypes from "prop-types"
+import { withPrefix } from 'gatsby'
+
+export default function HTML(props) {
+  return (
+    <html {...props.htmlAttributes}>
+      <head>
+        <meta charSet="utf-8" />
+        <meta httpEquiv="x-ua-compatible" content="ie=edge" />
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet"/>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet"/>
+		<link href="assets/css/style.less" rel="stylesheet/less" type="text/css"/>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js" type="text/javascript"></script>
+		{props.headComponents}
+      </head>
+      <body {...props.bodyAttributes}>
+        {props.preBodyComponents}
+        <noscript key="noscript" id="gatsby-noscript">
+          This app works best with JavaScript enabled.
+        </noscript>
+        <div
+          key={`body`}
+          id="___gatsby"
+          dangerouslySetInnerHTML={{ __html: props.body }}
+        />
+        {props.postBodyComponents}
+      </body>
+    </html>
+  )
+}
+
+HTML.propTypes = {
+  htmlAttributes: PropTypes.object,
+  headComponents: PropTypes.array,
+  bodyAttributes: PropTypes.object,
+  preBodyComponents: PropTypes.array,
+  body: PropTypes.string,
+  postBodyComponents: PropTypes.array,
+}
