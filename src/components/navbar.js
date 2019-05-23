@@ -194,7 +194,7 @@ function navbar(){
 			<nav className="nav-center green accent-4">
 				<div className="nav-wrapper">
 					<div className="container-fluid">
-						<a href="/" className="center brand-logo hide-on-large-only"><img src={"images/moblogo.png"} alt="CEK" height="50"/></a>
+						<a href="/" className="center brand-logo hide-on-large-only"><img src={"/images/moblogo.png"} alt="CEK" height="50"/></a>
 						<a href="#" data-target="mobile" className="sidenav-trigger"><i className="fa fa-bars"></i></a>
 						<ul id="nav-mobile" className="hide-on-med-and-down">
 							<GenerateNavLinks items={links}/>
@@ -215,7 +215,7 @@ function navbar(){
 				<GenerateNavLinks items={facilitiesDropdown}/>
 			</ul>
 			<ul className="sidenav" id="mobile">
-				<li className="user-view"><a href="/"><img src={"images/logo.png"} alt="College of Engineering Kidangoor"/></a></li>
+				<li className="user-view"><a href="/"><img src={"/images/logo.png"} alt="College of Engineering Kidangoor"/></a></li>
 				<li><div className="divider"></div></li>
 				<GenerateNavLinks items={links}/>
 				<li><div className="divider"></div></li>
