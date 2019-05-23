@@ -5,11 +5,6 @@ body {
 body.page {
   background: #f9f9ff;
 }
-
-strong{
-	font-weight: bold;
-}
-
 h1,
 h2,
 h3,
@@ -43,6 +38,9 @@ b {
 b.imp {
   font-size: 1.2em;
 }
+strong {
+  font-weight: bold;
+}
 ol {
   padding: 0;
   padding-left: 15px;
@@ -53,18 +51,16 @@ p {
 img {
   max-width: 100%;
 }
-
-.page-contents ul li {
-	margin: 10px 0;
-	margin-left: 25px;
-	position: relative;
-	list-style: circle;
+.page-contents ul li,
+.allow-list-style ul li {
+  margin: 10px 0;
+  margin-left: 25px;
+  position: relative;
+  list-style: circle;
 }
-
-.page-contents ul.no-style li{
-	list-style: none;
+.page-contents ul.no-style li {
+  list-style: none;
 }
-
 .btn {
   background: #42a5f5;
 }
@@ -105,20 +101,25 @@ img {
   left: 10px;
   color: #00c853;
 }
-.top .item p {
+.top .item > div {
   padding-left: 20px;
   margin: 0;
 }
-.top .item p span {
+.top .item > div div {
   display: block;
   font-size: 0.8em;
+  margin: 0;
 }
-.top .item p span:first-child {
+.top .item > div div.prop {
   font-weight: 800;
   font-size: 1em;
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #00c853;
+  margin-bottom: 10px;
+}
+.top .item > div div p {
+  margin: 0;
 }
 .top .item a {
   color: #667;
@@ -130,7 +131,7 @@ nav.fixed {
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 9999;
+  z-index: 999;
 }
 nav ul li a {
   outline: 0;
@@ -172,7 +173,6 @@ nav #nav-mobile {
 #announcements-strip {
   background: #00c853;
   color: #fff;
-  padding: 15px;
   padding-left: 40px;
   overflow: hidden;
   position: relative;
@@ -193,9 +193,6 @@ nav #nav-mobile {
 }
 #announcements-strip ul li {
   display: inline-block;
-}
-#announcements-strip ul li p {
-	margin: 0;
 }
 #announcements-strip:hover ul {
   animation-play-state: paused;
@@ -362,11 +359,14 @@ nav #nav-mobile {
   vertical-align: top;
   color: #777;
 }
+#contact .infos .data p {
+  margin: 0;
+}
 #map iframe {
   display: block;
 }
 #footer {
-  background: #212121;
+  background: #00c853;
   color: #fff;
 }
 #footer .title h2,
@@ -381,7 +381,7 @@ nav #nav-mobile {
   text-transform: uppercase;
 }
 #copyright {
-  background: #191919;
+  background: #00953e;
   padding: 10px;
   text-align: center;
   color: #fff;

@@ -29,7 +29,7 @@ export default props => (
 					<div className="title">
 						<h2 className="underlined">Welcome</h2>
 					</div>
-					<div className="contents">
+					<div className="contents allow-list-style">
 						<div className="row">
 							<div className="col s12" dangerouslySetInnerHTML={{ __html: marked(data.allBaseYaml.edges[0].node.data.welcomeMessage.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></div>
 							<div className="col s12 m6">

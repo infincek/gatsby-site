@@ -9,53 +9,86 @@ import Departments from "../components/departments"
 import Contact from "../components/contact"
 import Footer from "../components/footer"
 import {Helmet} from "react-helmet"
+import {withPrefix} from "gatsby"
 
-export default props => (
-	<React.Fragment>
-		<Helmet>
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
-		    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-		</Helmet>
-		<Header title="CEK"/>
-		<Wall/>
-		<Welcome/>
-		<div id="announcements" className="section">
-			<div className="container">
-				<div className="title">
-					<h2 className="underlined">Announcements and News</h2>
-				</div>
-				<div className="contents">
-					<div className="row">
-						<div className="col s12 m6">
-							<ul className="collection with-header">
-								<li className="collection-header"><h4>Announcements</h4></li>
-								<Announcements/>
-							</ul>
+let $;
+let M;
+try{
+	M = require("materialize-css")
+	$ = require("jquery")
+}catch(err){
+	console.log(err)
+}
+
+const owlOptions = {
+	items:1,
+	nav:true,
+	dots:true,
+	loop:true,
+	autoplay:true,
+	autoplayTimeout:5000,
+	autoplayHoverPause:true
+}
+
+
+export default class props extends React.Component{
+	componentDidMount(){
+		M.Carousel.init(document.querySelectorAll('.carousel.carousel-slider'), {
+			fullWidth: true,
+			indicators:true,
+			autoplay:true,
+			autoplayTimeout:5000,
+			autoplayHoverPause:false
+		});
+
+	}
+	render(){
+		return(
+			<React.Fragment>
+				<Header title="CEK"/>
+				<Wall/>
+				<Welcome/>
+				<div id="announcements" className="section">
+					<div className="container">
+						<div className="title">
+							<h2 className="underlined">Announcements and News</h2>
 						</div>
-						<div className="col s12 m6">
-							<ul className="collection with-header">
-								<li className="collection-header"><h4>Latest News</h4></li>
-								<News/>
-							</ul>
+						<div className="contents">
+							<div className="row">
+								<div className="col s12 m6">
+									<ul className="collection with-header">
+										<li className="collection-header"><h4>Announcements</h4></li>
+										<Announcements/>
+									</ul>
+								</div>
+								<div className="col s12 m6">
+									<ul className="collection with-header">
+										<li className="collection-header"><h4>Latest News</h4></li>
+										<News/>
+									</ul>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-		<div id="campus-life" className="section">
-			<div className="container">
-				<div className="title">
-					<h2 className="underlined">Campus Life</h2>
-				</div>
-				<div className="contents">
-					<div className="owl-carousel owl-theme" id="campus-life-carousel">
-						<CampusLife/>
+				<div id="campus-life" className="section">
+					<div className="container">
+						<div className="title">
+							<h2 className="underlined">Campus Life</h2>
+						</div>
+						<div className="contents">
+							<div className="carousel carousel-slider" id="campus-life-carousel">
+								<CampusLife/>
+							</div>
+						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-		<Departments/>
-		<Contact/>
-		<Footer/>
-	</React.Fragment>
-)
+				<Departments/>
+				<Contact/>
+				<Footer/>
+			</React.Fragment>
+		)
+
+	}
+
+}

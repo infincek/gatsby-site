@@ -32,7 +32,7 @@ export default props => (
 function getContents(data){
 	const content = [];
 	data.allMarkdownRemark.edges.forEach(function(item,i){
-		content.push(<div className="item" key={"CL-"+i}>
+		content.push(<div className="carousel-item" key={"CL-"+i}>
 			<div className="row" key={"CLP-"+i}>
 				<div className="col s12 m6 l5" key={"CLC1-"+i}>
 					<img src={item.node.frontmatter.image} alt={item.node.frontmatter.title} key={"CLCD1-"+i}/>

@@ -27,7 +27,6 @@ function getContents(props){
 	}else{
 		edges = props.data.edges
 	}
-	console.log(props,edges,hod);
 	edges.forEach(function(item,i){
 		if(!hod && item.node.frontmatter.hod) return;
 		content.push(
