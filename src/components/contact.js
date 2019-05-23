@@ -65,19 +65,19 @@ function contact(){
 							<div className="col s12 m5 infos">
 								<p className="info">
 									<i className="ico fa fa-map-marker"></i>
-									<span className="data" dangerouslySetInnerHTML={{ __html: marked(baseData.allBaseYaml.edges[0].node.data.address.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></span>
+									<div className="data" dangerouslySetInnerHTML={{ __html: marked(baseData.allBaseYaml.edges[0].node.data.address.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></div>
 								</p>
 								<p className="info">
 									<i className="ico fa fa-phone"></i>
-									<span className="data" dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.phone.join("<br/>")}}></span>
+									<div className="data" dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.phone.join("<br/>")}}></div>
 								</p>
 								<p className="info">
 									<i className="ico fa fa-fax"></i>
-									<span className="data" dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.fax}}></span>
+									<div className="data" dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.fax}}></div>
 								</p>
 								<p className="info">
 									<i className="ico fa fa-envelope"></i>
-									<span className="data"><a href={"mailto:"+baseData.allBaseYaml.edges[0].node.data.email} dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.email}}></a></span>
+									<div className="data"><a href={"mailto:"+baseData.allBaseYaml.edges[0].node.data.email} dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.email}}></a></div>
 								</p>
 							</div>
 						</div>

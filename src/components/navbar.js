@@ -169,24 +169,24 @@ function navbar(){
 						</div>
 						<div className="col ph item s6 offset-m2 m2">
 							<i className="fa fa-phone"></i>
-							<p>
-								<span>Phone</span>
-								<span dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.phone.join("<br/>")}}></span>
-							</p>
+							<div>
+								<div className="prop">Phone</div>
+								<div dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.phone.join("<br/>")}}></div>
+							</div>
 						</div>
 						<div className="col address item s6 m2">
 							<i className="fa fa-map-marker"></i>
-							<p>
-								<span>Address</span>
-								<span  dangerouslySetInnerHTML={{ __html: marked(baseData.allBaseYaml.edges[0].node.data.address.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></span>
-							</p>
+							<div>
+								<div className="prop">Address</div>
+								<div dangerouslySetInnerHTML={{ __html: marked(baseData.allBaseYaml.edges[0].node.data.address.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></div>
+							</div>
 						</div>
 						<div className="col address item s6 m2">
 							<i className="fa fa-envelope"></i>
-							<p>
-								<span>Mail</span>
-								<span><a href={"mailto:"+baseData.allBaseYaml.edges[0].node.data.email} dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.email}}></a></span>
-							</p>
+							<div>
+								<div className="prop">Mail</div>
+								<div><a href={"mailto:"+baseData.allBaseYaml.edges[0].node.data.email} dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.email}}></a></div>
+							</div>
 						</div>
 					</div>
 				</div>
