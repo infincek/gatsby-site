@@ -1,6 +1,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import marked from "marked"
+import Img from 'gatsby-image'
 var hod = false;
 export default function(props){
 	return(
@@ -33,7 +34,7 @@ function getContents(props){
 			<div className="col s12 m6 l4 member" key={"F"+i}>
 				<div className="box" key={"F"+i}>
 					<div className="image" key={"FC1"+i}>
-						<img src={item.node.frontmatter.image}  key={"FC1C"+i} alt={item.node.frontmatter.title} />
+						<Img fluid={item.node.frontmatter.image.childImageSharp.fluid} key={"FC1C"+i} alt=""/>
 					</div>
 					<div className="overlay" key={"FC2"+i}>
 						<i className="fa fa-info" key={"FC2C"+i} aria-hidden="true"></i>

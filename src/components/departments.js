@@ -1,6 +1,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import marked from "marked"
+import Img from 'gatsby-image'
 
 export default props => (
   <StaticQuery
@@ -13,7 +14,15 @@ export default props => (
 					frontmatter {
 			          	title
 			          	name
-						image
+						image{
+							publicURL
+							childImageSharp {
+				                fluid(maxWidth: 1000) {
+				                  srcSet
+				                  ...GatsbyImageSharpFluid_tracedSVG
+				                }
+				             }
+						}
 			        }
 		        }
 		    }
@@ -46,7 +55,7 @@ function getContents(data){
 			<div className="col s12 m6 l4" key={"D"+i}>
 				<div className="department" key={"D"+i}>
 					<div className="image" key={"D1"+i}>
-						<img src={item.node.frontmatter.image} key={"D11"+i} alt=""/>
+						<Img fluid={item.node.frontmatter.image.childImageSharp.fluid} key={"D11"+i} alt=""/>
 					</div>
 					<div className="description" key={"D2"+i}>
 						<a className="overlay-link" href={"/departments/"+item.node.frontmatter.name} key={"D21"+i}></a>

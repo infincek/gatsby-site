@@ -8,6 +8,22 @@ module.exports = {
 	plugins: [
 		`gatsby-plugin-react-helmet`,
 		"gatsby-transformer-json",
+		`gatsby-plugin-sharp`,
+   		`gatsby-transformer-sharp`,
+		{
+			resolve: `gatsby-transformer-remark`,
+			options: {
+      			plugins: [
+					"gatsby-remark-copy-linked-files",
+        			{
+          				resolve: `gatsby-remark-images`,
+          				options: {
+            				maxWidth: 1080
+          				}
+        			}
+      			]
+    		}
+		},
 		{
 			resolve:`gatsby-source-filesystem`,
 			options:{
@@ -22,8 +38,14 @@ module.exports = {
 				path: `${__dirname}/src/data/campus-life`
 			}
 		},
+		{
+      		resolve: `gatsby-source-filesystem`,
+      		options: {
+        		name: `images`,
+        		path: `${__dirname}/src/data/departments`
+      		}
+    	},
 		`gatsby-transformer-yaml`,
-		`gatsby-transformer-remark`
 	]
   /* Your site config here */
 }
