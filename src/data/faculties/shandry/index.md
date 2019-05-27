@@ -5,7 +5,7 @@ template: faculties
 hod: false
 department: computer-science-and-engineering
 departmentFullName: Computer Science and Technology
-image: /images/female.jpg
+image: './image.jpg'
 designation: Assistant Professor
 dateOfJoining: 01.07.2010
 experienceTeaching: 7 Yrs

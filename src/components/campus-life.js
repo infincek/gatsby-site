@@ -1,6 +1,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import marked from "marked"
+import Img from 'gatsby-image'
 
 export default props => (
   <StaticQuery
@@ -14,7 +15,15 @@ export default props => (
 			          	title
 			          	name
 			          	description
-						image
+						image{
+							publicURL
+							childImageSharp {
+				                fluid(maxWidth: 1000) {
+				                  srcSet
+				                  ...GatsbyImageSharpFluid_tracedSVG
+				                }
+				             }
+						}
 			        }
 		        }
 		    }
@@ -35,7 +44,7 @@ function getContents(data){
 		content.push(<div className="carousel-item" key={"CL-"+i}>
 			<div className="row" key={"CLP-"+i}>
 				<div className="col s12 m6 l5" key={"CLC1-"+i}>
-					<img src={item.node.frontmatter.image} alt={item.node.frontmatter.title} key={"CLCD1-"+i}/>
+					<Img fluid={item.node.frontmatter.image.childImageSharp.fluid} key={"CLD1"+i} alt=""/>
 				</div>
 				<div className="col s12 m6 l7" key={"CLC2-"+i}>
 					<h3 key={"CLCD2-"+i}>{item.node.frontmatter.title}</h3>

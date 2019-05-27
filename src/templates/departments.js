@@ -4,6 +4,7 @@ import Header from "../components/header"
 import Footer from "../components/footer"
 import Faculties from "../components/faculties"
 import marked from "marked"
+import Img from 'gatsby-image'
 
 export default ({ data }) => {
   const post = data.department;
@@ -15,7 +16,7 @@ export default ({ data }) => {
 			  	<h1 className="underlined"><span>{post.frontmatter.title}</span></h1>
 			</div>
 			<div className="image">
-	          	<img src={post.frontmatter.image} alt={post.frontmatter.title}/>
+	          	<Img fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.title}/>
 	        </div>
 		  	<div className="contents">
 				<div dangerouslySetInnerHTML={{ __html: marked(post.frontmatter.intro.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></div>
@@ -47,7 +48,15 @@ export const query = graphql`
 	      	html
 	      	frontmatter {
 	        	title
-				image
+				image{
+					publicURL
+					childImageSharp {
+						fluid(maxWidth: 1000) {
+						  srcSet
+						  ...GatsbyImageSharpFluid_tracedSVG
+						}
+					 }
+				}
 				intro
 				mission
 				vision
@@ -70,7 +79,15 @@ export const query = graphql`
 						title
 						name
 						hod
-						image
+						image{
+							publicURL
+							childImageSharp {
+				                fluid(maxWidth: 1000) {
+				                  srcSet
+				                  ...GatsbyImageSharpFluid_tracedSVG
+				                }
+				             }
+						}
 						designation
 					}
 					fields {

@@ -4,6 +4,7 @@ import Header from "../components/header"
 import Footer from "../components/footer"
 import Faculties from "../components/faculties"
 import marked from "marked"
+import Img from 'gatsby-image'
 
 export default ({ data }) => {
   const post = data.markdownRemark;
@@ -18,7 +19,7 @@ export default ({ data }) => {
 			<div className="contents">
                 <div className="row">
                     <div className="col m12 l4">
-                        <img src={post.frontmatter.image} alt={post.frontmatter.title}/>
+                        <Img fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.title}/>
                     </div>
                     <div className="col m12 l8">
                         <ul className="list no-style">
@@ -115,7 +116,15 @@ export const query = graphql`
 	        	title
 				name
 				departmentFullName
-				image
+				image{
+					publicURL
+					childImageSharp {
+						fluid(maxWidth: 1000) {
+						  srcSet
+						  ...GatsbyImageSharpFluid_tracedSVG
+						}
+					}
+				}
 				designation
 				dateOfJoining
 				experienceTeaching

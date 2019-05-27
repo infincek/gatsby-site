@@ -2,7 +2,7 @@
 title: Computer science and Engineering
 name: computer-science-and-engineering
 template: departments
-image: /images/cs.jpg
+image: './image.jpg'
 intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 
 **Seat Available :**  60 + 3 *
