@@ -1,7 +1,17 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import marked from "marked"
 import Img from 'gatsby-image'
+import Slider from "react-slick"
+
+var settings = {
+  	dots: true,
+  	infinite: true,
+  	speed: 500,
+  	slidesToShow: 1,
+  	slidesToScroll: 1,
+	autoplay: true,
+	autoplaySpeed: 4000
+};
 
 export default props => (
   <StaticQuery
@@ -31,9 +41,9 @@ export default props => (
       }
     `}
     render={data => (
-		<React.Fragment>
+		<Slider  {...settings}>
 			{getContents(data)}
-		</React.Fragment>
+		</Slider>
 	)}
   />
 );

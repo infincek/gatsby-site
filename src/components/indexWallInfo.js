@@ -1,6 +1,19 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import marked from "marked"
+import Slider from "react-slick"
+import Img from 'gatsby-image'
+
+var settings = {
+  	dots: true,
+	arrows: false,
+  	infinite: true,
+  	speed: 500,
+  	slidesToShow: 1,
+  	slidesToScroll: 1,
+	autoplay: false,
+	autoplaySpeed: 4000
+};
 
 export default props => (
   	<StaticQuery
@@ -12,7 +25,15 @@ export default props => (
 	  					  	id
 	  					  	data{
 	  						  	carousel{
-									image
+									image{
+										publicURL
+										childImageSharp {
+											fluid(maxWidth: 1920) {
+											  srcSet
+											  ...GatsbyImageSharpFluid_tracedSVG
+											}
+										}
+									}
 								}
 								announcements
 	  					  	}
@@ -24,8 +45,10 @@ export default props => (
 		render={data => (
 			<React.Fragment>
 				<div id="wall">
-					 <div className="carousel carousel-slider">
-						{getCarousel(data)}
+					 <div className="welcome-slider">
+						<Slider  {...settings}>
+							{getCarousel(data)}
+						</Slider>
 					 </div>
 				</div>
 				<div id="announcements-strip">
@@ -44,7 +67,7 @@ export default props => (
 function getCarousel(data){
 	var c = [];
 	data.allBaseYaml.edges[0].node.data.carousel.forEach(function(item,i){
-		c.push(<a className="carousel-item" key={"CARO"+i} href="#"><img key={"CARO"+i} src={item.image}/></a>);
+		c.push(<div className="carousel-item" key={"CARO"+i}><Img key={"CARO"+i} fluid={item.image.childImageSharp.fluid}/></div>);
 	})
 	return c;
 }

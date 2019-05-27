@@ -165,7 +165,9 @@ function navbar(){
 				<div className="top  hide-on-med-and-down">
 					<div className="row">
 						<div className="col logo item s12 m4">
-							<img src={'/images/logo.png'} alt="College of Engineering Kidangoor"/>
+							<a href="/">
+								<img src={'/images/logo.png'} alt="College of Engineering Kidangoor"/>
+							</a>
 						</div>
 						<div className="col ph item s6 offset-m2 m2">
 							<i className="fa fa-phone"></i>

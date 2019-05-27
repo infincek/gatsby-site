@@ -29,7 +29,8 @@
     "materialize-css": "^1.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "react-slick": "^0.24.0"
   },
   "devDependencies": {
     "prettier": "^1.17.1"
