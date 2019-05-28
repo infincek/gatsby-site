@@ -1,8 +1,5 @@
 import React from "react"
-import { StaticQuery, graphql } from "gatsby"
-import marked from "marked"
 import Img from 'gatsby-image'
-var hod = false;
 export default function(props){
 	return(
 		<React.Fragment>
@@ -43,7 +40,7 @@ function getContents(props){
 						<p className="name" key={"FC3C1"+i}>{item.node.frontmatter.title}</p>
 						<p className="subj" key={"FC3C3"+i}>{item.node.frontmatter.designation}</p>
 					</div>
-					<a href={item.node.fields.slug} key={"FC4"+i} className="overlay-link"></a>
+					<a href={item.node.fields.slug} key={"FC4"+i} className="overlay-link">{item.node.fields.slug}</a>
 				</div>
 			</div>
 		);

@@ -9,42 +9,18 @@ import Departments from "../components/departments"
 import Contact from "../components/contact"
 import Footer from "../components/footer"
 import {Helmet} from "react-helmet"
-import {withPrefix} from "gatsby"
-
-let $;
-let M;
-try{
-	M = require("materialize-css")
-	$ = require("jquery")
-}catch(err){
-	console.log(err)
-}
-
-const owlOptions = {
-	items:1,
-	nav:true,
-	dots:true,
-	loop:true,
-	autoplay:true,
-	autoplayTimeout:5000,
-	autoplayHoverPause:true
-}
-
 
 export default class props extends React.Component{
 	componentDidMount(){
-		M.Carousel.init(document.querySelectorAll('.carousel.carousel-slider'), {
-			fullWidth: true,
-			indicators:true,
-			autoplay:true,
-			autoplayTimeout:5000,
-			autoplayHoverPause:false
-		});
 
 	}
 	render(){
 		return(
 			<React.Fragment>
+				<Helmet>
+					<link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+					<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+				</Helmet>
 				<Header title="CEK"/>
 				<Wall/>
 				<Welcome/>
@@ -77,7 +53,7 @@ export default class props extends React.Component{
 							<h2 className="underlined">Campus Life</h2>
 						</div>
 						<div className="contents">
-							<div className="carousel carousel-slider" id="campus-life-carousel">
+							<div className="campus-carousel" id="campus-life-carousel">
 								<CampusLife/>
 							</div>
 						</div>

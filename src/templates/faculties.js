@@ -2,13 +2,10 @@ import React from "react"
 import { graphql } from "gatsby"
 import Header from "../components/header"
 import Footer from "../components/footer"
-import Faculties from "../components/faculties"
-import marked from "marked"
 import Img from 'gatsby-image'
 
 export default ({ data }) => {
   const post = data.markdownRemark;
-  console.log(post);
   return (
 	<React.Fragment>
 	    <Header title={post.frontmatter.title}/>
@@ -22,7 +19,7 @@ export default ({ data }) => {
                         <Img fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.title}/>
                     </div>
                     <div className="col m12 l8">
-                        <ul className="list no-style">
+                        <ul className="list no-style properties">
                             <li>
                                 <div className="header">
                                     <p><i className="fa fa-building"></i> Department </p>

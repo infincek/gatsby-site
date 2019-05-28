@@ -1,8 +1,8 @@
 - data:
     carousel:
-        - image: images/second.jpg
-        - image: images/third.jpg
-        - image: images/gandhiji.jpg
+        - image: './images/second.jpg'
+        - image: './images/third.jpg'
+        - image: './images/gandhiji.jpg'
     announcements:
         - College of Engineering Kidangoor invites sealed tenders from the registered Contractors for Painting and construction work. For getting previous details
     welcomeMessage: |-

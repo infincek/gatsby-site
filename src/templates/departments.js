@@ -23,11 +23,11 @@ export default ({ data }) => {
 				<div className="row">
 					<div className="col s12 m6">
 						<p className="font-2"><b>Mission</b></p>
-						<p dangerouslySetInnerHTML={{ __html: marked(post.frontmatter.mission.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></p>
+						<div dangerouslySetInnerHTML={{ __html: marked(post.frontmatter.mission.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></div>
 					</div>
 					<div className="col s12 m6">
 						<p className="font-2"><b>Vision</b></p>
-						<p dangerouslySetInnerHTML={{ __html: marked(post.frontmatter.vision.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></p>
+						<div dangerouslySetInnerHTML={{ __html: marked(post.frontmatter.vision.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></div>
 					</div>
 				</div>
 				<h3>Head of the Department</h3>

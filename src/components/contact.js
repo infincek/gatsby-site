@@ -1,5 +1,5 @@
 import React from "react"
-import { StaticQuery, graphql, useStaticQuery } from "gatsby"
+import { graphql, useStaticQuery } from "gatsby"
 import marked from "marked"
 
 export default contact
@@ -63,29 +63,29 @@ function contact(){
 								</div>
 							</div>
 							<div className="col s12 m5 infos">
-								<p className="info">
+								<div className="info">
 									<i className="ico fa fa-map-marker"></i>
 									<div className="data" dangerouslySetInnerHTML={{ __html: marked(baseData.allBaseYaml.edges[0].node.data.address.replace(/(?:\r\n|\r|\n)/g, '<br/>'))}}></div>
-								</p>
-								<p className="info">
+								</div>
+								<div className="info">
 									<i className="ico fa fa-phone"></i>
 									<div className="data" dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.phone.join("<br/>")}}></div>
-								</p>
-								<p className="info">
+								</div>
+								<div className="info">
 									<i className="ico fa fa-fax"></i>
 									<div className="data" dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.fax}}></div>
-								</p>
-								<p className="info">
+								</div>
+								<div className="info">
 									<i className="ico fa fa-envelope"></i>
 									<div className="data"><a href={"mailto:"+baseData.allBaseYaml.edges[0].node.data.email} dangerouslySetInnerHTML={{ __html: baseData.allBaseYaml.edges[0].node.data.email}}></a></div>
-								</p>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div id="map">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15732.586576470994!2d76.620873!3d9.668509!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b07d293a982ceeb%3A0xd62bf193983589fe!2sCollege+of+Engineering%2C+Kidangoor!5e0!3m2!1sen!2sin!4v1515566490896" width="100%" height="450" frameBorder="0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15732.586576470994!2d76.620873!3d9.668509!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b07d293a982ceeb%3A0xd62bf193983589fe!2sCollege+of+Engineering%2C+Kidangoor!5e0!3m2!1sen!2sin!4v1515566490896" width="100%" height="450" frameBorder="0" title="map"></iframe>
 			</div>
 		</React.Fragment>
 	)
