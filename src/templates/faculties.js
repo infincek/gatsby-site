@@ -19,7 +19,7 @@ export default ({ data }) => {
                         <Img fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.title}/>
                     </div>
                     <div className="col m12 l8">
-                        <ul className="list no-style">
+                        <ul className="list no-style properties">
                             <li>
                                 <div className="header">
                                     <p><i className="fa fa-building"></i> Department </p>
