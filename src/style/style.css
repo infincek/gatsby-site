@@ -180,6 +180,12 @@ nav #nav-mobile {
 #wall .carousel-item .gatsby-image-wrapper > img {
   position: relative !important;
 }
+.page-contents .gatsby-image-wrapper > div {
+  display: none;
+}
+.page-contents .gatsby-image-wrapper > img {
+  position: relative !important;
+}
 #announcements-strip {
   background: #00c853;
   color: #fff;
@@ -526,6 +532,9 @@ nav #nav-mobile {
     position: relative;
     opacity: 1;
     transform: none;
+  }
+  .page-contents .properties li {
+    margin-left: 0;
   }
 }
 @media only screen and (max-width: 600px) {

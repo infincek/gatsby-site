@@ -216,6 +216,17 @@ nav{
 	}
 }
 
+.page-contents{
+	.gatsby-image-wrapper{
+		& > div{
+			display: none
+		}
+		& > img{
+			position: relative !important;
+		}
+	}
+}
+
 #announcements-strip{
 	background: @primaryColor;
 	color: #fff;
@@ -603,6 +614,9 @@ nav{
 		position: relative;
 		opacity: 1;
 		transform: none;
+	}
+	.page-contents .properties li{
+		margin-left: 0;
 	}
 }
 
