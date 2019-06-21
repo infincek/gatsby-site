@@ -22,27 +22,27 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1{
-	font-size: 3.5rem;
-}
-
-h2{
 	font-size: 3rem;
 }
 
-h3{
+h2{
 	font-size: 2.6rem;
 }
 
+h3{
+	font-size: 2rem;
+}
+
 h4{
-	font-size: 2.1rem;
+	font-size: 1.7rem;
 }
 
 h5{
-	font-size: 1.8rem;
+	font-size: 1.5rem;
 }
 
 h6{
-	font-size: 1.5rem;
+	font-size: 1.2rem;
 }
 
 b{
@@ -225,6 +225,9 @@ nav{
 			position: relative !important;
 		}
 	}
+	.image{
+		max-width: 750px;
+	}
 }
 
 #announcements-strip{
@@ -309,7 +312,7 @@ nav{
 			margin:10px 0;
 			box-shadow:1px 1px 10px -4px rgba(0,0,0,.3);
 			border:0;
-			border-radius:15px;
+			border-radius: 5px;
 			transition:box-shadow .5s;
 			&.imp{
 				border-left: 8px solid @primaryColor;
@@ -353,7 +356,7 @@ nav{
 	}
 	.department{
 		position: relative;
-		border-radius: 10px;
+		border-radius: 5px;
 		overflow: hidden;
 		box-shadow: 2px 2px 10px -2px #888;
 		.overlay-link{
@@ -377,7 +380,6 @@ nav{
 			transform:scale(.7,.7);
 			opacity:0;
 			transition: opacity .5s, transform .5s;
-			border-radius:5px;
 			b{
 				color:#fff;
 			}
@@ -424,11 +426,8 @@ nav{
 }
 
 #footer{
-	background:@primaryColor;
+	background:@sectionColor;
 	color:#fff;
-	.title h2,a{
-		color:#fff;
-	}
 	ul li{
 		margin:10px 0;
 		a{
@@ -439,7 +438,7 @@ nav{
 }
 
 #copyright{
-	background: darken(@primaryColor, 10%);
+	background: @primaryColor;
 	padding: 10px;
 	text-align: center;
 	color: #fff;

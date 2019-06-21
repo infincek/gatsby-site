@@ -23,6 +23,9 @@ export default props => (
 				             }
 						}
 			        }
+					fields{
+						slug
+					}
 		        }
 		    }
 		}
@@ -51,19 +54,25 @@ function getContents(data){
 	const content = [];
 	data.allMarkdownRemark.edges.forEach(function(item,i){
 		content.push(
-			<div className="col s12 m6 l4" key={"D"+i}>
-				<div className="department" key={"D"+i}>
-					<div className="image" key={"D1"+i}>
-						<Img fluid={item.node.frontmatter.image.childImageSharp.fluid} key={"D11"+i} alt=""/>
-					</div>
-					<div className="description" key={"D2"+i}>
-						<span className="v-center" key={"D22"+i}></span>
-						<p className="font-2 middle" key={"D23"+i}><b key={"D23"+i}>{item.node.frontmatter.title}</b></p>
-					</div>
-					<a className="overlay-link" href={"/departments/"+item.node.frontmatter.name} key={"D21"+i}>{item.node.frontmatter.title}</a>
-				</div>
-			</div>
+			<DataCol key={item.node.id} item={item}/>
 		);
 	})
 	return content;
+}
+
+function DataCol(props){
+	return(
+		<div className="col s12 m6 l4">
+			<div className="department">
+				<div className="image">
+					<Img fluid={props.item.node.frontmatter.image.childImageSharp.fluid} alt=""/>
+				</div>
+				<div className="description">
+					<span className="v-center"></span>
+					<p className="font-2 middle"><b>{props.item.node.frontmatter.title}</b></p>
+				</div>
+				<a className="overlay-link" href={props.item.node.fields.slug}>{props.item.node.frontmatter.title}</a>
+			</div>
+		</div>
+	);
 }

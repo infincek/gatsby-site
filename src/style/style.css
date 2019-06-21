@@ -15,22 +15,22 @@ h6 {
   color: #222;
 }
 h1 {
-  font-size: 3.5rem;
-}
-h2 {
   font-size: 3rem;
 }
-h3 {
+h2 {
   font-size: 2.6rem;
 }
+h3 {
+  font-size: 2rem;
+}
 h4 {
-  font-size: 2.1rem;
+  font-size: 1.7rem;
 }
 h5 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
 }
 h6 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 b {
   color: #4e4e5c;
@@ -186,6 +186,9 @@ nav #nav-mobile {
 .page-contents .gatsby-image-wrapper > img {
   position: relative !important;
 }
+.page-contents .image {
+  max-width: 750px;
+}
 #announcements-strip {
   background: #00c853;
   color: #fff;
@@ -263,7 +266,7 @@ nav #nav-mobile {
   margin: 10px 0;
   box-shadow: 1px 1px 10px -4px rgba(0, 0, 0, 0.3);
   border: 0;
-  border-radius: 15px;
+  border-radius: 5px;
   transition: box-shadow 0.5s;
 }
 #announcements .collection li.imp {
@@ -298,7 +301,7 @@ nav #nav-mobile {
 }
 #departments .department {
   position: relative;
-  border-radius: 10px;
+  border-radius: 5px;
   overflow: hidden;
   box-shadow: 2px 2px 10px -2px #888;
 }
@@ -323,7 +326,6 @@ nav #nav-mobile {
   transform: scale(0.7, 0.7);
   opacity: 0;
   transition: opacity 0.5s, transform 0.5s;
-  border-radius: 5px;
 }
 #departments .department .description b {
   color: #fff;
@@ -361,11 +363,7 @@ nav #nav-mobile {
   display: block;
 }
 #footer {
-  background: #00c853;
-  color: #fff;
-}
-#footer .title h2,
-#footer a {
+  background: #f9f9ff;
   color: #fff;
 }
 #footer ul li {
@@ -376,7 +374,7 @@ nav #nav-mobile {
   text-transform: uppercase;
 }
 #copyright {
-  background: #00953e;
+  background: #00c853;
   padding: 10px;
   text-align: center;
   color: #fff;

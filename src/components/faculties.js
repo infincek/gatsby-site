@@ -28,22 +28,28 @@ function getContents(props){
 	edges.forEach(function(item,i){
 		if(!hod && item.node.frontmatter.hod) return;
 		content.push(
-			<div className="col s12 m6 l4 member" key={"F"+i}>
-				<div className="box" key={"F"+i}>
-					<div className="image" key={"FC1"+i}>
-						<Img fluid={item.node.frontmatter.image.childImageSharp.fluid} key={"FC1C"+i} alt=""/>
-					</div>
-					<div className="overlay" key={"FC2"+i}>
-						<i className="fa fa-info" key={"FC2C"+i} aria-hidden="true"></i>
-					</div>
-					<div className="description" key={"FC3"+i}>
-						<p className="name" key={"FC3C1"+i}>{item.node.frontmatter.title}</p>
-						<p className="subj" key={"FC3C3"+i}>{item.node.frontmatter.designation}</p>
-					</div>
-					<a href={item.node.fields.slug} key={"FC4"+i} className="overlay-link">{item.node.fields.slug}</a>
-				</div>
-			</div>
+			<DataCol key={item.node.id} item={item}/>
 		);
 	})
 	return content;
+}
+
+function DataCol(props){
+	return(
+		<div className="col s12 m6 l4 member">
+			<div className="box">
+				<div className="image">
+					<Img fluid={props.item.node.frontmatter.image.childImageSharp.fluid} alt=""/>
+				</div>
+				<div className="overlay">
+					<i className="fa fa-info" aria-hidden="true"></i>
+				</div>
+				<div className="description">
+					<p className="name">{props.item.node.frontmatter.title}</p>
+					<p className="subj">{props.item.node.frontmatter.designation}</p>
+				</div>
+				<a href={props.item.node.fields.slug} className="overlay-link">{props.item.node.fields.slug}</a>
+			</div>
+		</div>
+	);
 }
