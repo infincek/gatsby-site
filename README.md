@@ -1,5 +1,6 @@
 # CEK Website
-Gatby website of CEK
+Website of CEK made with :heart: by CEK   
+Powered by Gatsby 
 
 ## Running
 
