@@ -1,8 +1,8 @@
 # CEK Website
-*v1.2.0.0*
+*v1.2.1.0*
 
 
-Gatby website of CEK
+Gatsby website of CEK
 
 ## Running
 
@@ -42,9 +42,9 @@ And go to `localhost:9000` to test the site.
 
 ## To-do
 
-  - [ ] SEO
-  - [ ] Naming convention for Faculties and Departments
+  - [x] SEO
+  - [x] Naming convention for Faculties and Departments
   - [ ] Page for campus life
   - [ ] Page for independent datas
-  - [ ] Favicon
+  - [x] Favicon
   - [ ] Working contact form

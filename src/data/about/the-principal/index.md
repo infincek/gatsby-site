@@ -1,6 +1,7 @@
 ---
 title: The Principal
 template: about-pages
+image: ./principal.jpg
 ---
 ![The Principal](./principal.jpg)
 ### Dr. K G Viswanadhan
