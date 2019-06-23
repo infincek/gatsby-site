@@ -1,6 +1,8 @@
 import React from "react"
 import {graphql,useStaticQuery} from "gatsby"
 import marked from "marked"
+import logo from "../assets/logo.png"
+import mobLogo from "../assets/moblogo.png"
 
 export default navbar
 
@@ -166,7 +168,7 @@ function navbar(){
 					<div className="row">
 						<div className="col logo item s12 m4">
 							<a href="/">
-								<img src={'/images/logo.png'} alt="College of Engineering Kidangoor"/>
+								<img src={logo} alt="College of Engineering Kidangoor"/>
 							</a>
 						</div>
 						<div className="col ph item s6 offset-m2 m2">
@@ -196,7 +198,7 @@ function navbar(){
 			<nav className="nav-center green accent-4">
 				<div className="nav-wrapper">
 					<div className="container-fluid">
-						<a href="/" className="center brand-logo hide-on-large-only"><img src={"/images/moblogo.png"} alt="CEK" height="50"/></a>
+						<a href="/" className="center brand-logo hide-on-large-only"><img src={mobLogo} alt="CEK" height="50"/></a>
 						<a href="#" data-target="mobile" className="sidenav-trigger"><i className="fa fa-bars"></i></a>
 						<ul id="nav-mobile" className="hide-on-med-and-down">
 							<GenerateNavLinks items={links}/>

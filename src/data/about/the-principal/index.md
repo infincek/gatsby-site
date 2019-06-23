@@ -2,7 +2,7 @@
 title: The Principal
 template: about-pages
 ---
-![The Principal](/images/princi002.jpg)
+![The Principal](./principal.jpg)
 ### Dr. K G Viswanadhan
 
 Principal, College Of Engineering Kidangoor.

@@ -1,9 +1,8 @@
 ---
 title: Shandry K K
-name: shandry-k
 template: faculties
 hod: false
-department: computer-science-and-engineering
+department: cse
 departmentFullName: Computer Science and Technology
 image: './image.jpg'
 designation: Assistant Professor

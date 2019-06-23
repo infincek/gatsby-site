@@ -1,6 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "cek-website",
   "private": true,
+  "author":"Akshay <hi@akzhy.com> (http://akzhy.com)",
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "MIT",

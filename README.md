@@ -1,6 +1,13 @@
 # CEK Website
+
+*v1.2.0.0*
+
+
+Gatby website of CEK
+
 Website of CEK made with :heart: by CEK   
 Powered by Gatsby 
+
 
 ## Running
 
@@ -46,4 +53,3 @@ And go to `localhost:9000` to test the site.
   - [ ] Page for independent datas
   - [ ] Favicon
   - [ ] Working contact form
-  

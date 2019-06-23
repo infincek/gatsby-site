@@ -1,9 +1,8 @@
 ---
 title: Ojus Thomas Lee
-name: ojus-thomas-lee
 template: faculties
 hod: true
-department: computer-science-and-engineering
+department: cse
 departmentFullName: Computer Science and Technology
 image: './image.jpg'
 designation: Associate Professor

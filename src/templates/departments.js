@@ -46,6 +46,7 @@ export const query = graphql`
   	query($slug: String!, $name: String) {
 	    department: markdownRemark(fields: { slug: { eq: $slug } }) {
 	      	html
+			id
 	      	frontmatter {
 	        	title
 				image{
@@ -75,6 +76,7 @@ export const query = graphql`
 		{
 			edges {
 				node {
+					id
 					frontmatter{
 						title
 						name

@@ -7,7 +7,7 @@ export default ({ data }) => {
   const post = data.markdownRemark
   return (
 	<React.Fragment>
-	    <Header/>
+	    <Header title={post.frontmatter.title}/>
 			<div className="page-contents container">
 			  <div className="title center">
 				  <h1 className="underlined"><span>{post.frontmatter.title}</span></h1>

@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { withPrefix } from 'gatsby'
+import favIcon from "./assets/favicon.png"
 
 export default function HTML(props) {
   return (
@@ -12,6 +13,7 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
+		<link rel="icon" href={favIcon} type="image/png"/>
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet"/>
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet" type="text/css"/>
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet"/>
