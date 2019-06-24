@@ -51,7 +51,7 @@ export default class setHeader extends React.Component{
 		return(
 			<React.Fragment>
 				<Helmet>
-					<title>{title}</title>
+					<title>{this.props.title}</title>
 					<meta name="keywords" content="CEK,kidangoor,College of Engineering,College,Engineering"/>
 				</Helmet>
 				<Navbar/>
