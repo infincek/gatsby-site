@@ -5,11 +5,33 @@ import Footer from "../components/footer"
 import Faculties from "../components/faculties"
 import marked from "marked"
 import Img from 'gatsby-image'
+import {Helmet} from "react-helmet"
+import { globalHistory } from "@reach/router"
+
+const path = globalHistory.location.href;
+const origin = globalHistory.location.origin;
+
+
 
 export default ({ data }) => {
   const post = data.department;
+
+  let metaKeywords = "CEK,College of Engineering,KGR,"+post.frontmatter.title;
+
+  let CollegeImage = post.frontmatter.image;
+  if(CollegeImage) CollegeImage = post.frontmatter.image.publicURL;
+  else CollegeImage = "";
+
   return (
 	<React.Fragment>
+		<Helmet>
+			<meta name="description" content={post.excerpt}/>
+			<meta name="keywords" content={metaKeywords}/>
+			<meta property="og:title" content={post.frontmatter.title+" | CEK"} />
+			<meta property="og:type" content="article" />
+			<meta property="og:url" content={path} />
+			<meta property="og:image" content={origin+CollegeImage} />
+		</Helmet>
 	    <Header title={post.frontmatter.title}/>
 		<div className="page-contents container">
 		  	<div className="title center">

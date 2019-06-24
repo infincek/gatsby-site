@@ -1,4 +1,5 @@
 - data:
+    image: './images/college.jpg'
     carousel:
         - image: './images/second.jpg'
         - image: './images/third.jpg'

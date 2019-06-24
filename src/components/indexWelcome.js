@@ -1,6 +1,12 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import marked from "marked"
+import {Helmet} from "react-helmet"
+import { globalHistory } from "@reach/router"
+
+const path = globalHistory.location.href;
+const origin = globalHistory.location.origin;
+
 
 export default props => (
   <StaticQuery
@@ -11,6 +17,9 @@ export default props => (
   				  	node {
   					  	id
   					  	data{
+							image{
+								publicURL
+							}
   						  	welcomeMessage
   						  	mission
   						  	qualityObjectives
@@ -24,6 +33,14 @@ export default props => (
     `}
     render={data => (
 		<React.Fragment>
+			<Helmet>
+				<meta name="description" content={data.allBaseYaml.edges[0].node.data.welcomeMessage}/>
+				<meta name="keywords" content="CEK,College of Engineering,Kidangoor,KGR"/>
+				<meta property="og:title" content="CEK" />
+				<meta property="og:type" content="article" />
+				<meta property="og:url" content={path} />
+				<meta property="og:image" content={origin+data.allBaseYaml.edges[0].node.data.image.publicURL} />
+			</Helmet>
 			<div id="welcome" className="section">
 				<div className="container">
 					<div className="title">
