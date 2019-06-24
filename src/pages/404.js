@@ -8,7 +8,7 @@ class NotFoundPage extends React.Component{
                 const siteTitle=`CE Kidangoor`
 
                 return (
-                        <Header location={this.props.location} title={siteTitle}/>
+                        <Header location={this.props.location} title={siteTitle}></Header>
                         <h1>Not Found</h1>
                         <p>You just hit a route that <b>Doesn&#39;t Exist</b>.... We recommend you to check out the other things.....</p>
                         
