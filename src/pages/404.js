@@ -5,7 +5,7 @@ import Header from "../components/header"
 class NotFoundPage extends React.Component{
         render(){
                 const {data}=this.props
-                const siteTitle=data.site.siteMetaData.title
+                const siteTitle=`CE Kidangoor`
 
                 return (
                         <Header location={this.props.location} title={siteTitle}>
@@ -16,13 +16,3 @@ class NotFoundPage extends React.Component{
         }
 }
 export default NotFoundPage
-
-export const pagequery= graphql`
-query{
-  site{
-    siteMetadata{
-        title
-        }
-      }
-}
-`
