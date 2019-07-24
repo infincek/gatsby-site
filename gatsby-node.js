@@ -23,7 +23,15 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 }
 
 exports.createPages = ({ graphql, actions }) => {
-  	const { createPage } = actions
+  	const { createPage,createRedirect } = actions
+
+	createRedirect({
+	    fromPath: `/about`,
+	    toPath: `/about/the-college/`,
+	    redirectInBrowser: true,
+	    isPermanent: true,
+  	})
+
   	return graphql(`
     	{
       		allMarkdownRemark {
