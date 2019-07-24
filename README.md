@@ -7,24 +7,35 @@ Gatsby website of CEK
 
 ## Running
 
-Assuming you have npm installed.
+Assuming you have npm/yarn installed.
 
 Install the Gatsby CLI.
 
-```
+```bash
 npm install -g gatsby-cli
+```
+or 
+```
+yarn global add gatsby-cli
 ```
 
 Clone or download this repository.
 
 ```
-cd gatsby-site
+git clone https://github.com/infincek/gatsby-site.git
+```
+then CD,
+```
+cd gatsby-site 
 ```
 
 ```
 npm install
 ```
-
+or 
+```
+yarn install
+```
 ```
 gatsby develop
 ```
