@@ -119,7 +119,7 @@ const CarouselItem = ({data}) => {
                             <h3>{data.title}</h3>
                         }
                         {data.description &&
-                            <p dangerouslySetInnerHTML={{ __html: marked(data.description)}}></p>
+                            <div dangerouslySetInnerHTML={{ __html: marked(data.description)}}></div>
                         }
                     </div>
                 </div>
