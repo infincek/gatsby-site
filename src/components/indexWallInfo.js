@@ -8,7 +8,6 @@ import Announcements from "./announcements"
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import style from "../style/wall.module.less"
-import ann from "../style/announcements.module.less"
 
 var settings = {
     dots: true,

@@ -1,16 +1,13 @@
 import React from "react"
 import {graphql} from "gatsby"
 import Img from 'gatsby-image'
-import {Helmet} from "react-helmet"
 import marked from "marked"
-import {globalHistory} from "@reach/router"
 import Faculties from "../components/faculties"
 import Layout from "../components/layout"
 import "../style/single-page.less"
 
 export default({data}) => {
     const post = data.department;
-    let metaKeywords = post.frontmatter.title;
 
     const meta = {
         title: post.frontmatter.title,
