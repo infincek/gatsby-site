@@ -1,7 +1,8 @@
 import React from "react"
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
 import Img from 'gatsby-image'
 import Slider from "react-slick"
+
 
 var settings = {
   	dots: true,
@@ -35,6 +36,9 @@ export default props => (
 				             }
 						}
 			        }
+                    fields {
+                        slug
+                    }
 		        }
 		    }
 		}
@@ -48,21 +52,27 @@ export default props => (
   />
 );
 
+const Carousel = ({data}) => (
+    <div className="carousel-item">
+        <div className="row">
+            <div className="col s12 m6 l5">
+                <Img fluid={data.node.frontmatter.image.childImageSharp.fluid} alt={data.node.frontmatter.name}/>
+            </div>
+            <div className="col s12 m6 l7">
+                <h3>{data.node.frontmatter.title}</h3>
+                <p>{data.node.frontmatter.description}</p>
+                <Link className="btn" title={data.node.frontmatter.name} to={data.node.fields.slug}>Know More</Link>
+            </div>
+        </div>
+    </div>
+)
+
 function getContents(data){
 	const content = [];
 	data.allMarkdownRemark.edges.forEach(function(item,i){
-		content.push(<div className="carousel-item" key={"CL-"+i}>
-			<div className="row" key={"CLP-"+i}>
-				<div className="col s12 m6 l5" key={"CLC1-"+i}>
-					<Img fluid={item.node.frontmatter.image.childImageSharp.fluid} key={"CLD1"+i} alt=""/>
-				</div>
-				<div className="col s12 m6 l7" key={"CLC2-"+i}>
-					<h3 key={"CLCD2-"+i}>{item.node.frontmatter.title}</h3>
-					<p key={"CLCD3-"+i}>{item.node.frontmatter.description}</p>
-					<a key={"CLCD4-"+i} className="btn btn-medium waves-effect" href={item.node.frontmatter.name}>Know More</a>
-				</div>
-			</div>
-		</div>);
+		content.push(
+            <Carousel key={item.node.id} data={item}/>
+        );
 	})
 	return content;
 }

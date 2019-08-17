@@ -1,0 +1,186 @@
+@import "trunk";
+@import "color";
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: @textPrimary;
+	font-size: 18px;
+}
+
+body.page {
+	background: @sectionColor;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 700;
+	color: @textBold;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 2.7rem;
+}
+
+h3 {
+	font-size: 2rem;
+}
+
+h4 {
+	font-size: 1.8rem;
+}
+
+h5 {
+	font-size: 1.5rem;
+}
+
+h6 {
+	font-size: 1.1rem;
+}
+
+b {
+	color: darken(@textPrimary,10%);
+
+	&.imp {
+		font-size: 1.2em;
+	}
+}
+
+strong {
+	font-weight: bold;
+}
+
+ol {
+	padding: 0 0 0 15px;
+}
+
+p, ul, ol {
+	line-height: 1.9;
+}
+
+img {
+	max-width: 100%;
+}
+
+.font-2 {
+	font-size: 1.2em;
+}
+
+.v-center {
+	display: inline-block;
+	vertical-align: middle;
+	height: 100%;
+	width: 0;
+}
+
+.v-center + .middle {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.text-primary,
+.text-primary a {
+	color: @textPrimary;
+}
+
+.color-primary {
+	&,
+	& a {
+		color: @primaryColor;
+	}
+}
+
+.bg-primary {
+	background: @primaryColor;
+}
+
+.section {
+	padding: 86px 0;
+
+	.contents {
+		padding-top: 64px;
+	}
+
+	.title {
+		text-align: center;
+	}
+
+	&:nth-child(even) {
+		background: @sectionColor;
+	}
+}
+
+.underlined{
+	display:inline-block;
+	position:relative;
+	padding-bottom:15px;
+	&:after,&:before{
+		content:"";
+		position:absolute;
+		height:6px;
+		width:20%;
+		background:@primaryColor;
+		bottom:0px;
+		left:0;
+	}
+	&:after{
+		width: 80%;
+		left:20%;
+		height: 2px;
+		bottom:2px;
+		background: @lightGrey;
+	}
+}
+
+ul{
+	padding-left: 24px;
+
+	li{
+		margin: 12px 0;
+	}
+}
+
+.btn{
+	font-size: 16px;
+	border: 1px solid @primaryColor;
+	border-radius: 4px;
+	height: auto;
+	line-height: normal;
+	padding: 8px 20px;
+	transition: background .25s, color .25s;
+}
+
+.btn:hover{
+	background: @primaryColor;
+	color: #fff;
+}
+
+.input-field{
+	width: 100%;
+
+	label{
+		font-size: 16px;
+	}
+
+	input, textarea{
+		width: 100%;
+		border: 1px solid rgba(0,0,0,.2);
+
+		&:hover, &:active, &:focus{
+			border: 1px solid @primaryColor;
+		}
+	}
+}
+
+@media only screen and (max-width: 1020px) {
+	body{
+		font-size: 16px;
+	}
+}

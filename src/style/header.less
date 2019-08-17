@@ -1,0 +1,249 @@
+@import "color";
+
+.top {
+    padding: 20px 20px 10px;
+
+    & > .row {
+        margin-bottom: 0;
+    }
+
+    .item {
+        position: relative;
+        padding: 10px;
+
+        img {
+            width: 85%;
+        }
+
+        i {
+            position: absolute;
+            top: 15px;
+            left: 10px;
+        }
+
+        & > div {
+            padding-left: 20px;
+            margin: 0;
+
+            div {
+                display: block;
+                font-size: 0.8em;
+                margin: 0;
+
+                &.prop {
+                    font-weight: 800;
+                    font-size: 1em;
+                    letter-spacing: 1px;
+                    text-transform: uppercase;
+                    margin-bottom: 10px;
+                }
+
+                p {
+                    margin: 0;
+                }
+            }
+        }
+    }
+}
+
+nav {
+
+    position: relative;
+
+    .home-navlink{
+        position: absolute;
+        left: 24px;
+        top: 50%;
+        transform: translate(0,-50%);
+        display: none;
+    }
+
+    &.fixed {
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 999;
+
+        .home-navlink{
+            display: block;
+
+            img{
+                height: 42px;
+            }
+        }
+    }
+
+    .mobile {
+        display: none;
+    }
+
+
+    .nav {
+        height: 64px;
+        line-height: 64px;
+
+        ul {
+            list-style: none;
+            text-align: right;
+            padding: 0px 15px;
+            line-height: inherit;
+
+            li {
+                display: inline-block;
+                position: relative;
+                padding: 0;
+                margin: 0;
+
+                &:hover{
+                    background: darken(@primaryColor,3%);
+                }
+
+                a {
+                    color: @textInverted;
+                    padding: 0 15px;
+                    display: inline-block;
+
+                    &:hover, &.active{
+                        background: darken(@primaryColor,3%);
+                    }
+                }
+
+                ul {
+                    display: none;
+                    position: absolute;
+                    z-index: 10;
+                    text-align: left;
+                    width: 220px;
+                    background: @primaryColor;
+                    top: 100%;
+                    list-style: none;
+                    padding: 0;
+                    line-height: normal;
+
+                    li {
+                        display: block;
+                        padding: 0;
+
+                        a {
+                            padding: 15px;
+                            display: block;
+                            background: @primaryColor;
+                            transition: background 0.25s;
+                            margin: 0;
+
+                            &:hover, &.active {
+                                background: darken(@primaryColor,5%);
+                            }
+                        }
+                    }
+                }
+
+                &:hover {
+                    ul {
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+}
+
+div[role="navigation"]{
+    left: -100%;
+    right: 0;
+}
+
+.sidebar-content{
+	min-width: 45%;
+	max-width: 75%;
+    background: @background;
+    font-size: 18px;
+
+	.sidebar-contents{
+		text-align: left;
+		height: 100%;
+
+		.logo{
+            display: inline-block;
+            padding: 22px;
+
+			img{
+				width: 50%;
+			}
+		}
+
+		ul{
+			list-style: none;
+            padding: 0px;
+
+            ul{
+                padding: 0 20px;
+            }
+
+			li{
+                margin: 0;
+
+                a{
+                    color: @textPrimary;
+                    display: inline-block;
+                    padding: 12px 22px;
+
+                    &.active{
+                        color: @primaryColor;
+                    }
+                }
+			}
+		}
+
+        .contact{
+            padding: 22px;
+
+            .col{
+                margin: 22px 0;
+            }
+
+            .prop{
+                display: inline-block;
+                margin-left: 12px;
+                font-weight: 700;
+                letter-spacing: 1px;
+
+                & + div{
+                    padding-left: 12px;
+                }
+            }
+        }
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	.top, .nav{
+        display: none;
+    }
+
+    nav .home-navlink{
+        position: relative;
+        display: block;
+        transform: none;
+        padding: 12px 0;
+        text-align: center;
+        left: 0;
+
+        img{
+            height: 32px;
+        }
+    }
+
+    nav .mobile{
+        display: block;
+        position: absolute;
+        left: 32px;
+        top: 50%;
+        transform: translate(0, -50%);
+
+        a{
+            color: @textInverted;
+        }
+    }
+}

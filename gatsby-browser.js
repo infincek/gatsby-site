@@ -1,1 +1,1 @@
-import "./src/style/style.css"
+import "./src/style/theme.less"

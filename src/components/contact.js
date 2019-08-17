@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 import marked from "marked"
+import "../style/contact.less"
 
 export default contact
 
@@ -37,27 +38,27 @@ function contact(){
 								<div className="htmlForm">
 									<div className="row">
 									   	<div className="input-field col s12">
+											<label htmlFor="name">Name *</label>
 										 	<input id="name" type="text" className="validate"/>
-										 	<label htmlFor="name">Name</label>
 									    </div>
 										<div className="input-field col s12">
-										 	<input id="email" type="text" className="validate"/>
-										 	<label htmlFor="email">Email</label>
+											<label htmlFor="email">Email *</label>
+										 	<input id="email" type="email" className="validate"/>
 									    </div>
 										<div className="input-field col s12">
-										 	<input id="phone" type="text"/>
-										 	<label htmlFor="phone">Phone</label>
+											<label htmlFor="phone">Phone</label>
+										 	<input id="phone" type="number"/>
 									    </div>
 										<div className="input-field col s12">
+											<label htmlFor="subject">Subject</label>
 										 	<input id="subject" type="text"/>
-										 	<label htmlFor="subject">Subject</label>
 									    </div>
 										<div className="input-field col s12">
-											<textarea id="message" className="materialize-textarea"></textarea>
-			   								<label htmlFor="message">Message</label>
+											<label htmlFor="message">Message *</label>
+											<textarea rows="4" id="message"></textarea>
 									    </div>
 										<div className="input-field col s12">
-											<button type="submit" name="submit" id="submit" className="btn btn-large waves-effect">Send <i className="fa fa-paper-plane"></i></button>
+											<button type="submit" name="submit" id="submit" className="btn">Send <i className="fa fa-paper-plane"></i></button>
 										</div>
 									</div>
 								</div>
