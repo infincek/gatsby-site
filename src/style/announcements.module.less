@@ -1,0 +1,33 @@
+@import "color.less";
+
+.announcements {
+    :global {
+        .collection {
+            border: 0;
+            padding: 10px;
+            list-style: none;
+
+            li {
+                margin: 10px 0;
+                padding: 22px;
+                box-shadow: 1px 1px 10px -4px rgba(0,0,0,.3);
+                border: 0;
+                border-radius: 5px;
+                background: @background;
+                transition: box-shadow 0.5s;
+
+                &.imp {
+                    border-left: 8px solid @primaryColor;
+                }
+
+                img {
+                    max-width: 100%;
+                }
+
+                &:not(.collection-header):hover {
+                    box-shadow: 2px 3px 10px -3px rgba(0,0,0,.4);
+                }
+            }
+        }
+    }
+}

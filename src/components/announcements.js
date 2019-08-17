@@ -2,6 +2,7 @@ import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import marked from "marked"
 
+
 export default class props extends React.Component{
 	componentDidMount(){
 

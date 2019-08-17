@@ -1,6 +1,7 @@
 import React from "react"
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
 import Img from 'gatsby-image'
+import style from "../style/departments.module.less"
 
 export default props => (
   <StaticQuery
@@ -33,7 +34,7 @@ export default props => (
     `}
     render={data => (
 		<React.Fragment>
-			<div id="departments" className="section">
+			<div id="departments" className={"section "+style.departments}>
 				<div className="container">
 					<div className="title">
 						<h2 className="underlined">Departments</h2>
@@ -71,7 +72,7 @@ function DataCol(props){
 					<span className="v-center"></span>
 					<p className="font-2 middle"><b>{props.item.node.frontmatter.title}</b></p>
 				</div>
-				<a className="overlay-link" href={props.item.node.fields.slug}>{props.item.node.frontmatter.title}</a>
+				<Link className="overlay-link" title={props.item.node.frontmatter.title} to={props.item.node.fields.slug}>{props.item.node.frontmatter.title}</Link>
 			</div>
 		</div>
 	);

@@ -1,6 +1,6 @@
 
 # CEK Website
-*v1.2.1.0*
+*v2.0.0.0*
 
 
 Gatsby website of CEK
@@ -14,7 +14,7 @@ Install the Gatsby CLI.
 ```bash
 npm install -g gatsby-cli
 ```
-or 
+or
 ```
 yarn global add gatsby-cli
 ```
@@ -26,13 +26,13 @@ git clone https://github.com/infincek/gatsby-site.git
 ```
 then CD,
 ```
-cd gatsby-site 
+cd gatsby-site
 ```
 
 ```
 npm install
 ```
-or 
+or
 ```
 yarn install
 ```
@@ -57,7 +57,6 @@ And go to `localhost:9000` to test the site.
   - [x] SEO
   - [x] Naming convention for Faculties and Departments
   - [ ] Page for campus life
-  - [ ] Page for independent datas
+  - [ ] Page for independent data
   - [x] Favicon
   - [ ] Working contact form
- 

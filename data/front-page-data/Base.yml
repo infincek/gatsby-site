@@ -1,0 +1,52 @@
+- data:
+    image: './images/college.jpg'
+    carousel:
+        - image: './images/second.jpg'
+          title: Sunshine
+          description: Nullam gravida pharetra sapien non tincidunt. *Nulla* vel arcu non neque ultrices sodales tempor a ante.
+        - image: './images/third.jpg'
+          title: NCREIS
+          description: Nullam gravida pharetra sapien non tincidunt. *Nulla* vel arcu non neque ultrices sodales tempor a ante.
+        - image: './images/gandhiji.jpg'
+    announcements:
+        - College of Engineering Kidangoor invites sealed tenders from the registered Contractors for Painting and construction work. For getting previous details
+    welcomeMessage: |-
+        **College of Engineering, Kidangoor (CEK)**, Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala. Now the institution is glistening with outstanding records in both academic and extracurricular fields backed by excellent faculty and full-fledged facilities.
+    mission: |-
+        To prepare engineering graduates for the development activities of the society and industry, and to prepare them for higher engineering education.
+    vision: |-
+        To be a leading engineering institution in the region, providing competent professionals, who engage in lifelong learning, driven by societyal values.
+    qualityObjectives: |-
+        * To be a technical institution of national importance by fostering professionalism,leadership and entrepreneurship.
+        * To provide top quality education and to impart long term value creation.
+        * To organize continuing education programs to keep the students and faculty abreast with the latest technological advancements.
+        * To anticipate and fulfil the requirements of students,industry and community.
+    qualityPolicy: |-
+        We are committed to moulding,competent professionals in engineering with integrity, fairness, technological excellence, human and social values who engage in lifelong learning through good teaching practices and professional excellence to meet the requirements of the prospective employers,the industry and the society with high degree of satisfaction through continual improvement.
+    phone:
+        - +91-48 22-256 056
+        - +91 8825 5056
+    fax: "04822 256056"
+    address: |-
+        College of Enginnering,
+        KIDANGOOR SOUTH P.O
+        KOTTAYAM – 686 583
+    email: cekcape@gmail.com
+    quickLinks:
+        col1:
+            - name: Moodle@cek
+              url: http://172.17.0.50/moodle
+            - name: Moodle@cek
+              url: http://172.17.0.50/moodle
+            - name: Moodle@cek
+              url: http://172.17.0.50/moodle
+            - name: Moodle@cek
+              url: http://172.17.0.50/moodle
+            - name: Moodle@cek
+              url: http://172.17.0.50/moodle
+        col2:
+            - name: Moodle@cek
+              url: http://172.17.0.50/moodle
+        col3:
+            - name: Moodle@cek
+              url: http://172.17.0.50/moodle

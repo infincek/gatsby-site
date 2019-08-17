@@ -1,5 +1,5 @@
 import React from "react"
-import Header from "../components/header"
+import Layout from "../components/layout"
 import Wall from "../components/indexWallInfo"
 import Welcome from "../components/indexWelcome"
 import Announcements from "../components/announcements"
@@ -7,8 +7,9 @@ import News from "../components/news"
 import CampusLife from "../components/campus-life"
 import Departments from "../components/departments"
 import Contact from "../components/contact"
-import Footer from "../components/footer"
-import {Helmet} from "react-helmet"
+import announcements from "../style/announcements.module.less"
+import "../style/campus-life.less"
+
 
 export default class props extends React.Component{
 	componentDidMount(){
@@ -16,15 +17,10 @@ export default class props extends React.Component{
 	}
 	render(){
 		return(
-			<React.Fragment>
-				<Helmet>
-					<link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
-					<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
-				</Helmet>
-				<Header title="CEK"/>
+			<Layout meta={{title: "College of Engineering, Kidangoor"}}>
 				<Wall/>
 				<Welcome/>
-				<div id="announcements" className="section">
+				<div id="announcements" className={"section "+announcements.announcements}>
 					<div className="container">
 						<div className="title">
 							<h2 className="underlined">Announcements and News</h2>
@@ -61,8 +57,7 @@ export default class props extends React.Component{
 				</div>
 				<Departments/>
 				<Contact/>
-				<Footer/>
-			</React.Fragment>
+			</Layout>
 		)
 
 	}

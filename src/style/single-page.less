@@ -1,0 +1,82 @@
+@import "color";
+
+.page-contents{
+	background: #fff;
+	margin: 30px auto;
+
+	.title{
+		padding: 42px 0;
+        text-align: center;
+	}
+	.contents{
+		padding: 20px 30px;
+
+		p,ul,table{
+			margin: 20px 0;
+		}
+
+        .col{
+            padding: 15px;
+        }
+
+        .font-2{
+            margin: 22px 0;
+        }
+
+		table{
+			thead{
+				background: @primaryColor;
+				color: #fff;
+			}
+			tbody{
+				tr{
+					td{
+						padding:15px 10px;
+					}
+
+					&:nth-child(odd){
+						background: @sectionColor;
+					}
+					&:nth-child(even){
+						background: @extraLightGreen;
+					}
+				}
+			}
+		}
+	}
+}
+
+.list{
+	list-style: none;
+	p{
+		margin: 0 !important;
+	}
+	li{
+		padding: 20px 10px;
+		background: lighten(@lightGrey,5%);
+		&:nth-child(even){
+			background: lighten(@extraLightGreen,5%);
+		}
+	}
+	.header{
+		i{
+			color: @secondaryColor;
+			margin-right: 5px;
+		}
+		font-weight: bold;
+		font-size: 1em;
+	}
+	.value{
+		margin-left: 30px !important;
+	}
+	div.value{
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+}
+
+@media only screen and (max-width: 901) {
+	.avatar-image{
+		float: none;
+	}
+}

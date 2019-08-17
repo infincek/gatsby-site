@@ -1,12 +1,14 @@
 import React from "react"
 import Img from 'gatsby-image'
+import { Link } from "gatsby"
+import "../style/faculties.less"
+
+
 export default function(props){
 	return(
-		<React.Fragment>
-			<div className="row faculty-members">
-				{getContents(props)}
-			</div>
-		</React.Fragment>
+		<div className="row faculty-members">
+			{getContents(props)}
+		</div>
 	)
 }
 
@@ -48,7 +50,7 @@ function DataCol(props){
 					<p className="name">{props.item.node.frontmatter.title}</p>
 					<p className="subj">{props.item.node.frontmatter.designation}</p>
 				</div>
-				<a href={props.item.node.fields.slug} className="overlay-link">{props.item.node.fields.slug}</a>
+				<Link to={props.item.node.fields.slug} title={props.item.node.fields.slug} className="overlay-link">{props.item.node.fields.slug}</Link>
 			</div>
 		</div>
 	);

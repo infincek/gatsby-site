@@ -1,10 +1,8 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
+import "../style/footer.less"
 
-export default footer
-
-
-function footer(){
+export default () => {
 	const baseData = useStaticQuery(graphql`
 	    query footerQuery {
 			allBaseYaml {
@@ -74,7 +72,9 @@ function getContents(data){
 	const content = [];
 	if(!data) return;
 	data.forEach(function(item,i){
-		content.push(<li  key={"QL"+i}><a key={"QL"+i} href={item.url}>{item.name}</a></li>);
+		content.push(
+			<li  key={"QL"+i}><a key={"QL"+i} href={item.url}>{item.name}</a></li>
+		);
 	})
 	return content;
 }
