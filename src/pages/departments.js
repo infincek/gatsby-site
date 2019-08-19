@@ -1,12 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import Footer from "../components/footer"
 import Departments from "../components/departments"
-import {Helmet} from "react-helmet"
-import { globalHistory } from "@reach/router"
-
-const path = globalHistory.location.href;
-const origin = globalHistory.location.origin;
 
 const meta = {
 	title: "Departments",

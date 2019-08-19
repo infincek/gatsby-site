@@ -1,11 +1,6 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import marked from "marked"
-import {Helmet} from "react-helmet"
-import { globalHistory } from "@reach/router"
-
-const path = globalHistory.location.href;
-const origin = globalHistory.location.origin;
 
 const margin = "22px 0"; // don't judge, too lazy
 
