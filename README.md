@@ -60,3 +60,5 @@ And go to `localhost:9000` to test the site.
   - [ ] Page for independent data
   - [x] Favicon
   - [ ] Working contact form
+  - [ ] Placement Page
+  - [ ] Research page
