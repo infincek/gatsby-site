@@ -36,17 +36,33 @@
         col1:
             - name: Moodle@cek
               url: http://172.17.0.50/moodle
-            - name: Moodle@cek
+            - name: BOG MEMBERS-TEQIP
               url: http://172.17.0.50/moodle
-            - name: Moodle@cek
+            - name: STUDENT CORNER
               url: http://172.17.0.50/moodle
-            - name: Moodle@cek
+            - name: TEQUIP
               url: http://172.17.0.50/moodle
-            - name: Moodle@cek
+            - name: TENDER NOTICES
               url: http://172.17.0.50/moodle
         col2:
-            - name: Moodle@cek
+            - name: PTA
+              url: http://172.17.0.50/moodle
+            - name: ALUMINI
+              url: http://172.17.0.50/moodle
+            - name: ANTI-RAGGING
+              url: http://172.17.0.50/moodle
+            - name: MANDATORY DISCLOSURE
+              url: http://172.17.0.50/moodle
+            - name: RIGHT TO INFORMATION ACT
               url: http://172.17.0.50/moodle
         col3:
-            - name: Moodle@cek
+            - name: CONTACT US
+              url: http://172.17.0.50/moodle
+            - name: FACULTY LOGIN
+              url: http://172.17.0.50/moodle
+            - name: DOWNLOADS
+              url: http://172.17.0.50/moodle
+            - name: CAMPUS MANAGEMENT SYSTEM
+              url: http://172.17.0.50/moodle
+            - name: WEBMAIL
               url: http://172.17.0.50/moodle

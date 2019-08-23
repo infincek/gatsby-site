@@ -28,35 +28,50 @@ module.exports = {
             			link:"/about/the-principal"
             		},
             		{
-            			name:"Head of the Departments",
-            			link:"/about/head-of-departments"
-            		}
+            			name:"CAPE",
+            			link:"/about/cape"
+            		},
+
                 ]
     		},
     		{
-    			name:"Admission 2019-20",
-    			link:"/admission"
+    			name:"Research",
+    			link:"/",
+          children: [
+            {
+              name:"Projects",
+              link:"/research/projects"
+            },
+            {
+              name:"Publications",
+              link:"/research/publications"
+            },
+          ]
     		},
     		{
     			name:"Academics",
-    			link:"/academics",
+    			link:"/",
     			children: [
+                {
+                  name:"Admissions",
+                  link:"/academics/admission"
+                },
                     {
             			name:"UG Programme",
-            			link:"/ug-programme"
+            			link:"/academics/ugprogramme"
             		},
             		{
             			name:"PG Programme",
-            			link:"/pg-programme"
+            			link:"/academics/pgprogramme"
             		},
             		{
             			name:"Syllabus",
-            			link:"/syllabus"
+            			link:"https://ktu.edu.in/eu/acd/academicRegulation.htm?=d%2FoY2W6v3%2FgC8nqDvJQEH%2FPo1Vgvv0tN%2Be4eMVkD6M8GrmcoIlMugwKVVJWmeG8H"
             		},
-            		{
-            			name:"Research",
-            			link:"/research"
-            		}
+                {
+                  name:"TEQUIP",
+                  link:"/academics/tequip"
+                },
                 ]
     		},
     		{
@@ -72,15 +87,15 @@ module.exports = {
             			link:"/departments/electrical-engineering"
             		},
             		{
-            			name:"Electronics & instrumentation",
+            			name:"Electronics & Instrumentation Engineering",
             			link:"/departments/electronics-and-instrumentation"
             		},
             		{
-            			name:"Electronics & Communication",
+            			name:"Electronics & Communication Engineering",
             			link:"/departments/electronics-and-communication"
             		},
             		{
-            			name:"Computer Science",
+            			name:"Computer Science Engineering",
             			link:"/departments/computer-science-and-engineering"
             		},
             		{
@@ -99,20 +114,28 @@ module.exports = {
     			children: [
                     {
             			name:"Central Computer Facility",
-            			link:"/central-computer-facility"
+            			link:"/facilities/ccf"
             		},
             		{
             			name:"Library",
-            			link:"/library"
+            			link:"/facilities/library"
             		},
             		{
             			name:"Office",
-            			link:"/office"
+            			link:"/facilities/office"
             		},
             		{
+            			name:"Transport",
+            			link:"/facilities/transport"
+            		},
+                {
+            			name:"Hostel",
+            			link:"/facilities/hostel"
+            		},
+                {
             			name:"Other",
-            			link:"/other"
-            		}
+            			link:"/facilities/other"
+            		},
                 ]
     		},
     		{
