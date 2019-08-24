@@ -1,6 +1,6 @@
 
 # CEK Website
-*v2.0.1.0*
+*v2.0.1.1*
 
 
 Gatsby website of CEK
