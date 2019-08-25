@@ -24,7 +24,6 @@ export default props => (
 		          	id
 					frontmatter {
 			          	title
-			          	name
 			          	description
 						image{
 							publicURL
@@ -56,12 +55,12 @@ const Carousel = ({data}) => (
     <div className="carousel-item">
         <div className="row">
             <div className="col s12 m6 l5">
-                <Img fluid={data.node.frontmatter.image.childImageSharp.fluid} alt={data.node.frontmatter.name}/>
+                <Img fluid={data.node.frontmatter.image.childImageSharp.fluid} alt={data.node.frontmatter.title}/>
             </div>
             <div className="col s12 m6 l7">
                 <h3>{data.node.frontmatter.title}</h3>
                 <p>{data.node.frontmatter.description}</p>
-                <Link className="btn" title={data.node.frontmatter.name} to={data.node.fields.slug}>Know More</Link>
+                <Link className="btn" title={data.node.frontmatter.title} to={data.node.fields.slug}>Know More</Link>
             </div>
         </div>
     </div>
