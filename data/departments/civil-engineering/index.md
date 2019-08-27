@@ -2,7 +2,7 @@
 title: Civil Engineering
 name: ce
 template: departments
-image: './image.jpg'
+image: ./image.jpg
 intro: "The Civil Engineering Department was established in 2010, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 
 **Seat Available :**  60 + 3 *
