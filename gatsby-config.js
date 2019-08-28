@@ -149,7 +149,6 @@ module.exports = {
         ]
     },
 	plugins: [
-		`gatsby-plugin-react-helmet`,
 		`gatsby-plugin-sharp`,
    		`gatsby-transformer-sharp`,
 		{
@@ -173,6 +172,7 @@ module.exports = {
 				path: `${__dirname}/data`
 			}
 		},
+        `gatsby-plugin-react-helmet`,
 		`gatsby-transformer-yaml`,
         `gatsby-plugin-less`
 	]
