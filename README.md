@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6cefa17a-34bf-4966-b9c3-668f8423d2a4/deploy-status)](https://app.netlify.com/sites/cekweb/deploys)     
 # CEK Website
-*v2.0.1.1*
+*v2.0.1.2*
 
 
 Gatsby website of CEK
