@@ -6,15 +6,15 @@ department: cse
 departmentFullName: Computer Science and Technology
 image: './image.jpg'
 designation: Assistant Professor
-dateOfJoining: 01.07.2010
-experienceTeaching: 7 Yrs
-experienceIndustry: 1 Yr
+dateOfJoining: 04/07/2012
+experienceTeaching: 9 years
+experienceIndustry: 1 Year
 ugAndInstitution: "B.Tech,
 Adisankara Institute of Engineering & Technology, Kalady."
-pgAndInstitution: "M.Tech,CUSAT"
-subject: Computer Science
+pgAndInstitution: "Department of Computer Science,CUSAT"
+subject: Computer and Information Science
 phd: NIL
-specialization:  Computer and InformationScience
+specialization:  NIL
 otherData: "NIL"
 mobileNumber: 9048825985
 ---
