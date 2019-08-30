@@ -1,15 +1,15 @@
-import React from "react"
-import { graphql, useStaticQuery, Link } from "gatsby"
+import React from 'react';
+import { graphql, useStaticQuery, Link } from 'gatsby';
 
 export default () => {
     const query = useStaticQuery(graphql`
-        query{
-            site{
-                siteMetadata{
-                    navLinks{
+        query {
+            site {
+                siteMetadata {
+                    navLinks {
                         name
                         link
-                        children{
+                        children {
                             name
                             link
                         }
@@ -21,30 +21,36 @@ export default () => {
 
     const list = [];
 
-    query.site.siteMetadata.navLinks.forEach(function(e,i){
-        if(e.children){
-            const children = e.children.map((item) =>
-                <li key={item.link+""+i+item.name}>
-                    <Link activeClassName="active" title={item.name} to={item.link}>{item.name}</Link>
+    query.site.siteMetadata.navLinks.forEach(function(e, i) {
+        if (e.children) {
+            const children = e.children.map(item => (
+                <li key={item.link + '' + i + item.name}>
+                    <Link
+                        activeClassName="active"
+                        title={item.name}
+                        to={item.link}
+                    >
+                        {item.name}
+                    </Link>
                 </li>
-            )
+            ));
             list.push(
-                <li key={e.link+""+i+e.name}>
-                    <Link activeClassName="active" to={e.link} title={e.name}>{e.name}</Link>
+                <li key={e.link + '' + i + e.name}>
+                    <Link activeClassName="active" to={e.link} title={e.name}>
+                        {e.name}
+                    </Link>
                     <ul>{children}</ul>
                 </li>
-            )
-        }else{
+            );
+        } else {
             list.push(
-                <li key={e.link+""+i+e.name}>
-                    <Link activeClassName="active" to={e.link} title={e.name}>{e.name}</Link>
+                <li key={e.link + '' + i + e.name}>
+                    <Link activeClassName="active" to={e.link} title={e.name}>
+                        {e.name}
+                    </Link>
                 </li>
-            )
+            );
         }
-    })
-    return(
-        <ul>
-            {list}
-        </ul>
-    )
-}
+    });
+    return <ul>{list}</ul>;
+};
