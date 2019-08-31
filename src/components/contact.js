@@ -3,9 +3,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 import marked from 'marked';
 import '../style/contact.less';
 
-export default contact;
-
-function contact() {
+export default () => {
     const baseData = useStaticQuery(graphql`
         query contactInfoQuery {
             allBaseYaml {

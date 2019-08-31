@@ -26,7 +26,7 @@ export default ({ data }) => {
                 </div>
                 <div className="image">
                     <Img
-                        fluid={post.frontmatter.image.childImageSharp.fluid}
+                        fluid={post.frontmatter.banner.childImageSharp.fluid}
                         alt={post.frontmatter.title}
                     />
                 </div>
@@ -96,7 +96,7 @@ export const query = graphql`
             frontmatter {
                 title
                 description
-                image {
+                banner {
                     publicURL
                     childImageSharp {
                         fluid(maxWidth: 1000) {

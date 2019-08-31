@@ -41,7 +41,7 @@ function DataCol(props) {
                             props.item.node.frontmatter.image.childImageSharp
                                 .fluid
                         }
-                        alt=""
+                        alt={props.item.node.frontmatter.title}
                     />
                 </div>
                 <div className="overlay">
