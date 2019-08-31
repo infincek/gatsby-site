@@ -1,9 +1,9 @@
-import React from "react"
-import {graphql} from "gatsby"
-import Layout from "../components/layout"
-import "../style/single-page.less"
+import React from 'react';
+import { graphql } from 'gatsby';
+import Layout from '../components/layout';
+import '../style/single-page.less';
 
-export default({data}) => {
+export default ({ data }) => {
     const post = data.markdownRemark;
 
     const meta = {
@@ -11,7 +11,7 @@ export default({data}) => {
         image: post.frontmatter.image,
         description: post.frontmatter.description,
         keywords: post.frontmatter.title
-    }
+    };
 
     return (
         <Layout meta={meta}>
@@ -21,25 +21,28 @@ export default({data}) => {
                         <span>{post.frontmatter.title}</span>
                     </h1>
                 </div>
-                <div className="contents" dangerouslySetInnerHTML={{
+                <div
+                    className="contents"
+                    dangerouslySetInnerHTML={{
                         __html: post.html
-                }}></div>
+                    }}
+                />
             </div>
         </Layout>
-    )
-}
+    );
+};
 
-export const query = graphql `
-  	query($slug: String!) {
-	    markdownRemark(fields: { slug: { eq: $slug } }) {
-	      	html
-			excerpt
-	      	frontmatter {
-	        	title
-				image{
-					publicURL
-				}
-	      	}
-	    }
-  	}
-`
+export const query = graphql`
+    query($slug: String!) {
+        markdownRemark(fields: { slug: { eq: $slug } }) {
+            html
+            excerpt
+            frontmatter {
+                title
+                image {
+                    publicURL
+                }
+            }
+        }
+    }
+`;

@@ -1,18 +1,17 @@
-import React from "react"
-import Head from "./head"
-import Navbar from "./navbar"
-import Seo from "./seo"
-import Footer from "./footer"
+import React from 'react';
+import Head from './head';
+import Navbar from './navbar';
+import Seo from './seo';
+import Footer from './footer';
 
 export default ({ meta, children }) => {
-
-    return(
+    return (
         <React.Fragment>
             <Head />
-            <Seo {...meta}/>
+            <Seo {...meta} />
             <Navbar />
             {children}
             <Footer />
         </React.Fragment>
-    )
-}
+    );
+};
