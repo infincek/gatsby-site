@@ -1,20 +1,20 @@
 ---
-title: Shandry K K
+title: Binimol V.K
 template: faculties
 hod: false
-department: cse
+department: eee
 departmentFullName: Computer Science and Technology
 image: './image.jpg'
 designation: Assistant Professor
-dateOfJoining: 04/07/2012
-experienceTeaching: 9 years
-experienceIndustry: 1 Year
+dateOfJoining: 01.07.2010
+experienceTeaching: 7 Yrs
+experienceIndustry: 1 Yr
 ugAndInstitution: "B.Tech,
 Adisankara Institute of Engineering & Technology, Kalady."
-pgAndInstitution: "Department of Computer Science,CUSAT"
-subject: Computer and Information Science
+pgAndInstitution: "M.Tech,CUSAT"
+subject: Computer Science
 phd: NIL
-specialization:  NIL
+specialization:  Computer and InformationScience
 otherData: "NIL"
 mobileNumber: 9048825985
 ---
