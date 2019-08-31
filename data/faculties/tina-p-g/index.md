@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
-image: "./image.jpg"
+image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 20-02-2004
 experienceTeaching: 15 years

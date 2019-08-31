@@ -4,7 +4,7 @@ template: faculties
 hod: true
 department: ece
 departmentFullName: Electronics and Communication
-image: "./image.jpg"
+image: ./image.jpg
 designation: Professor
 dateOfJoining: 31 May 2018
 experienceTeaching: 17 years

@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: eee
 departmentFullName: Computer Science and Technology
-image: "./image.jpg"
+image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 30 July 2016
 experienceTeaching: 9 years

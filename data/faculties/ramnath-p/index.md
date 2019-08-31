@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department:
 departmentFullName: DASH
-image: "./image.jpg"
+image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: July 2016
 experienceTeaching: 9 years

@@ -2,9 +2,9 @@
 title: SUNISH KURIAN
 template: faculties
 hod: false
-department:
-departmentFullName: DASH
-image: "./image.jpg"
+department: dash
+departmentFullName: Department of Applied Sciences and Humanities
+image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 26-05-2011
 experienceTeaching: 10 years

@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ce
 departmentFullName: Computer Science and Technology
-image: "./image.jpg"
+image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 01/01/2014
 experienceTeaching: 12 Years
