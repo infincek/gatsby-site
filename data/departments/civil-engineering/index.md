@@ -15,26 +15,55 @@ mission: "To provide quality education to students at undergraduate through cons
 
 ### Lab details
 
-- **P.C. Hardware Lab**
+- **Transportation Engineering Laboratory**
 
-      	This Lab is well equipped with latest computer systems of different configuration for the purpose of training students. The lab is equipped with more than 12 new branded and 10 old computers. Computers are based on Intel and AMD processors like 8086, 80386,80486, PIII, Celeron and Duron. Motherboards of different types for testing purpose and advanced peripherals like different types of Printers, Scanners, Modems, CDD etc are also available in the Hardware laboratory.
+The Transportation Engineering Laboratory is equipped with facilities for testing of Aggregates and Bitumen. The Laboratory is fully equipped for conduct regular experiments at UG level, consultancy works and research activities.
+The laboratory is facilitated with ring and ball apparatus, Aggregate impact testing machine, shape test apparatus, ductility testing machine, Standard tar viscometer, Los Angeles Abrasion testing machine, Flash and fire point apparatus, Universal penetrometer, Marshall stability apparatus etc.
 
-- **Multimedia Lab**
 
-      	This lab is well equipped for the study of various multimedia software. This lab is intended for Information technology students in order to expose them to Multimedia Projects like Animation,3D Objects creation etc.
+- **Geo-Technical Engineering Laboratory**
 
-- **System Programming and Advanced Micro Processor Lab**
+It is well equipped with instruments and machineries for conducting laboratory tests and undergraduate students are being encouraged to do research in the field of geotechnical engineering by making use of facilities available.
+The equipments in the geotechnical lab is used to determine the physical properties,  strength, compressibility and permeability of soil.
+The laboratory is equipped with Field density testing apparatus, Permeability testing   apparatus ,CBR testing apparatus, Consolidation testing apparatus, Direct shear test  apparatus, Atterberg Limits testing apparatus, Soil Hydrometer , proctor compaction   testing apparatus etc.
+Consultancy work from the government, semi government and private agencies are  undertaken. Soil investigation for various projects in Kottayam district is conducted in Geotechnical Engineering lab.
 
-      	This lab is established for the study of low-level programming, which includes assembly level programming and machine level programming. This lab is intended for Information Technology and Computer Science Students.
 
-- **Network and OS Lab**
+- **Fluid Mechanics and Hydraulic Machines Lab**
 
-      	Objective of this lab is to improve the knowledge in the field of Advanced Networking technologies.This Lab is well equipped for the study of various communication protocols like TCP/IPand the familiarization of Unix system calls like stat, fork and creation of semaphores etc.
+The activities in this laboratory are focused on the physical understanding, modeling and manipulation of flows and their instabilities.
+The main objective of this laboratory is that, student should be able to verify the principles studied in theory by conducting the experiments
+The laboratory is facilitated with pipe friction apparatus, Bernoullis apparatus, Pelton turbine, Francis turbine, Venturimeter and orifice meter, Keplan turbine , notch apparatus etc.
 
-- **Language Processing Lab**
 
-      	The objective of this Lab is to build small compilers,interpreters and linkers by using the linux environments and lex,flex,yacc tools.This lab is also useful for understanding the design of compilers and assemblers.
+- **Survey Lab**
 
-- **Project Lab**
+Here practical lessons on surveying theory are provided. Starting from the old metric chains to latest total station are provided in the lab. The various instruments/equipments include plane table, automatic level, prismatic compass, theodolite, electronic theodolite, GPS ,Total Station etc.
 
-      	Students can do any online project by using advanced software.This may be web based or stand alone software.This Lab will be help them for handful training in fields of project development cycles
+- **Materials Testing Lab**
+
+This lab is well equipped for testing structural materials including steel, timber, concrete etc., and has a 40 T  UTM, 100 T and 200 T compression testing machine, Double shear test apparatus, Impact testing machine, torsion testing machine etc. Standard tests are routinely performed for Government and Private Organizations.
+
+- **Concrete  Lab**
+
+This lab provides facilities for various tests for cement and concrete which includes test for compressive strength, flexural strength, fineness, and mix design of concrete etc.
+This laboratory is actively involved in consultancy work for various Government and Non government organizations.
+        The laboratory is facilitated with hot air oven, Vicat apparatus etc.
+
+- **Computer Aided Design Lab**
+
+A well-equipped computer lab with advanced facilities is established for the benefit of the Civil Engineering students. Advanced Civil Engineering software  is procured for making the students globally competitive and industry ready. At CAD lab, students get professional training on AutoCAD software, STAAD and PRIMEVERA. Here students will gain the knowledge of design, drafting and project management needed for Civil Engineering graduates.
+
+- **Environmental Engineering Lab**
+
+This lab is mainly intended for qualitative and quantitative analysis of the characteristics of water and waste water. Laboratory is well equipped to conduct experimental studies in U G program as well as to encourage students to do research in the field of Environmental Engineering
+The laboratory is facilitated with hot air oven, Jar test apparatus, Distillation unit, Muffle furnace, pH meter, turbidimeter, water bath, Potable water quality analyzer etc.
+
+- **Non Destructive Testing Laboratory**
+
+Non-destructive testing (NDT) is the process of inspecting, testing, or evaluating materials, components or assemblies for discontinuities, or differences in characteristics without destroying the serviceability of the part or system. In other words, when the inspection or test is completed the part can still be used.
+The laboratory is facilitated with Anemometer, Ultrasonic Pulse velocity meter, Rebound hammer, Penetrometer, Hygrometer, Lux meter , Digital thermometer etc.
+
+- **Basic Civil Engineering Workshop**
+
+This lab is intended to conduct the practical sessions of the first year B-Tech students. Training sessions like Setting out of building, Area and Volume calculation of building and building components, making of brick bonds and basics surveying using levelling instruments are conducted by using this lab facility.
