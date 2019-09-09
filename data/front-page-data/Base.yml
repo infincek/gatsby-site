@@ -48,7 +48,7 @@
             - name: PTA
               url: /quicklinks/pta
             - name: ALUMINI
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/alumini
             - name: ANTI-RAGGING
               url: http://172.17.0.50/moodle
             - name: MANDATORY DISCLOSURE
