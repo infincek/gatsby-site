@@ -41,12 +41,12 @@
             - name: STUDENT CORNER
               url: http://172.17.0.50/moodle
             - name: TEQUIP
-              url: http://172.17.0.50/moodle
+              url: /academics/tequip
             - name: TENDER NOTICES
               url: http://172.17.0.50/moodle
         col2:
             - name: PTA
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/pta
             - name: ALUMINI
               url: http://172.17.0.50/moodle
             - name: ANTI-RAGGING
