@@ -29,6 +29,8 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
   - Set up Play Ground, Basket Ball court, Badminton Court .
 
 **PTA Executive Members (2018-19)**
+****
+<br>
 <h6>President</h6>
 Dr. K.G. Viswanadhan<br>
 Principal<br>
@@ -36,12 +38,20 @@ College of Engineering Kidangoor
 <br>
 <br>
 
+****
+<br>
+
 <h6>PTA Secretary</h6>
 Romy Roy<br>
 Assistant Professor<br>
 Department of Applied Science and Humanities<br>
 <br>
+
+****
+<br>
+
 <h6>Executive Members</h6>
+<br>
 Mr. Sunish Kurian<br>
 Assistant Professor<br>
 Department of Applied Science & Humanities<br>
@@ -58,6 +68,10 @@ Mr. Ojus Thomas Lee<br>
 HOD<br>
 Computer Science & Engineering<br>
 <br>
+
+****
+<br>
+
 <h6>Mens Hostel Warden</h6>
 Mr. Saji Justus<br>
 Assistant professor<br>

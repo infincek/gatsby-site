@@ -39,7 +39,7 @@
             - name: BOG MEMBERS-TEQIP
               url: /quicklinks/bog
             - name: STUDENT CORNER
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/studentscorner
             - name: TEQUIP
               url: /academics/tequip
             - name: TENDER NOTICES
@@ -61,7 +61,7 @@
             - name: FACULTY LOGIN
               url: http://172.17.0.50/moodle
             - name: DOWNLOADS
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/downloads
             - name: CAMPUS MANAGEMENT SYSTEM
               url: http://webyourcampus.in/CEKDGR/public/home
             - name: WEBMAIL
