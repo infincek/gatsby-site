@@ -37,32 +37,32 @@
             - name: Moodle@cek
               url: http://172.17.0.50/moodle
             - name: BOG MEMBERS-TEQIP
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/bog
             - name: STUDENT CORNER
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/studentscorner
             - name: TEQUIP
-              url: http://172.17.0.50/moodle
+              url: /academics/tequip
             - name: TENDER NOTICES
               url: http://172.17.0.50/moodle
         col2:
             - name: PTA
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/pta
             - name: ALUMINI
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/alumini
             - name: ANTI-RAGGING
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/antiragging
             - name: MANDATORY DISCLOSURE
               url: http://172.17.0.50/moodle
             - name: RIGHT TO INFORMATION ACT
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/rti
         col3:
             - name: CONTACT US
               url: http://172.17.0.50/moodle
             - name: FACULTY LOGIN
               url: http://172.17.0.50/moodle
             - name: DOWNLOADS
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/downloads
             - name: CAMPUS MANAGEMENT SYSTEM
-              url: http://172.17.0.50/moodle
+              url: http://webyourcampus.in/CEKDGR/public/home
             - name: WEBMAIL
-              url: http://172.17.0.50/moodle
+              url: https://p3plcpnl0662.prod.phx3.secureserver.net:2096/

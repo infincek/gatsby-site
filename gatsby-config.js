@@ -72,6 +72,10 @@ module.exports = {
                     {
                         name: 'TEQUIP',
                         link: '/academics/tequip'
+                    },
+                    {
+                        name: 'NBA Accreditation',
+                          link: '/academics/nba'
                     }
                 ]
             },
