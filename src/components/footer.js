@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
+import Link from "./link";
 import '../style/footer.less';
 
 export default () => {
@@ -82,9 +83,9 @@ function getContents(data) {
     data.forEach(function(item, i) {
         content.push(
             <li key={'QL' + i}>
-                <a key={'QL' + i} href={item.url}>
+                <Link key={'QL' + i} to={item.url} title={item.name}>
                     {item.name}
-                </a>
+                </Link>
             </li>
         );
     });
