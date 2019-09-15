@@ -51,6 +51,12 @@ gatsby serve
 
 And go to `localhost:9000` to test the site.
 
+----
+![](/static/images/lhaudit.png)
+
+This is Our LightHouse Audit results
+
+----
 
 ## To-do
 
@@ -62,3 +68,4 @@ And go to `localhost:9000` to test the site.
   - [ ] Working contact form
   - [ ] Placement Page
   - [ ] Research page
+ 
