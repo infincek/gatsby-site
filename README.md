@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6cefa17a-34bf-4966-b9c3-668f8423d2a4/deploy-status)](https://app.netlify.com/sites/cekweb/deploys)     
 # CEK Website
-*v2.1.2.1*
+*v2.2.0.1*
 
 
 Gatsby website of CEK
@@ -51,6 +51,12 @@ gatsby serve
 
 And go to `localhost:9000` to test the site.
 
+----
+![](/static/images/lhaudit.png)
+
+This is Our LightHouse Audit results
+
+----
 
 ## To-do
 
@@ -62,3 +68,4 @@ And go to `localhost:9000` to test the site.
   - [ ] Working contact form
   - [ ] Placement Page
   - [ ] Research page
+ 
