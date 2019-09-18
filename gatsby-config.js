@@ -155,7 +155,6 @@ module.exports = {
     plugins: [
         `gatsby-plugin-sharp`,
         `gatsby-transformer-sharp`,
-        `gatsby-transformer-json`,
         {
             resolve: `gatsby-transformer-remark`,
             options: {
