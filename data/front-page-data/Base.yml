@@ -52,7 +52,7 @@
             - name: ANTI-RAGGING
               url: /quicklinks/antiragging
             - name: MANDATORY DISCLOSURE
-              url: http://172.17.0.50/moodle
+              url: /quicklinks/mandatorydisclosure
             - name: RIGHT TO INFORMATION ACT
               url: /quicklinks/rti
         col3:

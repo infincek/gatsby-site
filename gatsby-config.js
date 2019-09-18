@@ -88,16 +88,16 @@ module.exports = {
                         link: '/departments/civil-engineering'
                     },
                     {
-                        name: 'Electrical Engineering',
-                        link: '/departments/electrical-engineering'
+                        name: 'Electrical & Electronics Engineering',
+                        link: '/departments/electrical-and-electronics-engineering'
                     },
                     {
                         name: 'Electronics & Instrumentation Engineering',
-                        link: '/departments/electronics-and-instrumentation'
+                        link: '/departments/electronics-and-instrumentation-engineering'
                     },
                     {
                         name: 'Electronics & Communication Engineering',
-                        link: '/departments/electronics-and-communication'
+                        link: '/departments/electronics-and-communication-engineering'
                     },
                     {
                         name: 'Computer Science Engineering',
