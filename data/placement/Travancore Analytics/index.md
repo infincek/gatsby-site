@@ -7,7 +7,7 @@ selections:
     - name: Aravand Sagar
       department: CSE
       image: ./image.jpg
-     - name: Sofiya Antony
+    - name: Sofiya Antony
       department: CSE
       image: ./female.jpg
 ---
