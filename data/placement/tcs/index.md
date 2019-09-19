@@ -1,10 +1,25 @@
 ---
 title: Tata Consultancy Services
-description: description about tata consultancy
+description: Global Leader in IT Services, Consulting, Technology and Digital Solutions with a Large Network of Innovation & Delivery Centers.
 logo: ./logo.png
 template: placement
 selections:
-    - name: Student Name
+    - name: Anals Thomas
       department: CS
-      image: ./student.jpg
+      image: ./image.jpg
+    - name: Arjun Sarkar
+      department: EIE
+      image: ./image.jpg
+    - name: Anujasree Antharjanam
+      department: ECE
+      image: ./female.jpg
+    - name: Litty Treesa James
+      department: CS
+      image: ./female.jpg
+    - name: Susan Thomas
+      department: CS
+      image: ./female.jpg
+    - name: Merin Sandra Philip
+      department: CS
+      image: ./female.jpg
 ---
