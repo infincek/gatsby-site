@@ -16,7 +16,7 @@ export default function() {
                     <div className="title">
                         <h2 className="underlined" style={{ "fontSize": "72px"}}>404</h2>
                     </div>
-                    <p style={{ "marginTop" : "40px"}}>This page cannot be found....The Sadness 😔😔😔. Maybe You can check out our Other Details like our</p>
+                    <p style={{ "marginTop" : "40px"}}>This page cannot be found.... <br/> Maybe You can check out our Other Details like our</p>
                     <Link to="/" title="Home">Home</Link><br/>
                     <Link to="/departments" title="Departments"> Departments</Link>
                 </div>
