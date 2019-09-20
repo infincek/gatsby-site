@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../components/layout';
-
+import Link from '../components/link'
 
 const meta = {
     title: '404',
@@ -16,7 +16,9 @@ export default function() {
                     <div className="title">
                         <h2 className="underlined" style={{ "fontSize": "72px"}}>404</h2>
                     </div>
-                    <p style={{ "marginTop" : "40px"}}>This page cannot be found</p>
+                    <p style={{ "marginTop" : "40px"}}>This page cannot be found....Maybe You can check Our Other Details like our</p>
+                    <Link to="/" title="Home">Home</Link>
+                    <Link to="/departments" title="Departments"> Departments</Link>
                 </div>
             </div>
         </Layout>
