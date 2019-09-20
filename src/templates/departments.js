@@ -74,7 +74,7 @@ export default ({ data }) => {
                         </div>
                     </div>
                     <h3>Head of the Department</h3>
-                    <Faculties data={data.faculties} hod="true" />
+                    <Faculties data={data.hod} />
                     <div
                         dangerouslySetInnerHTML={{
                             __html: post.html
@@ -89,56 +89,87 @@ export default ({ data }) => {
 };
 
 export const query = graphql`
-    query($slug: String!, $name: String) {
-        department: markdownRemark(fields: { slug: { eq: $slug } }) {
-            html
-            id
-            frontmatter {
-                title
-                description
-                banner {
-                    publicURL
-                    childImageSharp {
-                        fluid(maxWidth: 1000) {
-                            srcSet
-                            ...GatsbyImageSharpFluid_tracedSVG
-                        }
+    
+query($slug: String!, $name: String) {
+    department: markdownRemark(fields: { slug: { eq: $slug } }) {
+        html
+        id
+        frontmatter {
+            title
+            description
+            banner {
+                publicURL
+                childImageSharp {
+                    fluid(maxWidth: 1000) {
+                        srcSet
+                        ...GatsbyImageSharpFluid_tracedSVG
                     }
                 }
-                intro
-                mission
-                vision
             }
+            intro
+            mission
+            vision
         }
-        faculties: allMarkdownRemark(
-            filter: {
-                frontmatter: { department: { eq: $name } }
-                fileAbsolutePath: { regex: "/faculties/" }
-            }
-        ) {
-            edges {
-                node {
-                    id
-                    frontmatter {
-                        title
-                        name
-                        hod
-                        image {
-                            publicURL
-                            childImageSharp {
-                                fluid(maxWidth: 1000) {
-                                    srcSet
-                                    ...GatsbyImageSharpFluid_tracedSVG
-                                }
+    }
+    faculties: allMarkdownRemark(
+        filter: {
+            frontmatter: { department: { eq: $name }, hod: {eq: false} }
+            fileAbsolutePath: { regex: "/faculties/" }
+        }
+    ) {
+        edges {
+            node {
+                id
+                frontmatter {
+                    title
+                    name
+                    hod
+                    image {
+                        publicURL
+                        childImageSharp {
+                            fluid(maxWidth: 1000) {
+                                srcSet
+                                ...GatsbyImageSharpFluid_tracedSVG
                             }
                         }
-                        designation
                     }
-                    fields {
-                        slug
-                    }
+                    designation
+                }
+                fields {
+                    slug
                 }
             }
         }
     }
+    hod: allMarkdownRemark(
+        filter: {
+            frontmatter: { department: { eq: $name }, hod: {eq: true} }
+            fileAbsolutePath: { regex: "/faculties/" }
+        }
+    ) {
+        edges {
+            node {
+                id
+                frontmatter {
+                    title
+                    name
+                    hod
+                    image {
+                        publicURL
+                        childImageSharp {
+                            fluid(maxWidth: 1000) {
+                                srcSet
+                                ...GatsbyImageSharpFluid_tracedSVG
+                            }
+                        }
+                    }
+                    designation
+                }
+                fields {
+                    slug
+                }
+            }
+        }
+    }
+}
 `;

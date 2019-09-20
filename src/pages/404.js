@@ -1,10 +1,6 @@
 import React from 'react';
 import Layout from '../components/layout';
-<<<<<<< HEAD
-
-=======
 import Link from '../components/link'
->>>>>>> ed8c2b63084466e40a747d74e279ecd30a37b3bf
 
 const meta = {
     title: '404',

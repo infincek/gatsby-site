@@ -9,23 +9,9 @@ export default function(props) {
 
 function getContents(props) {
     const content = [];
-    var edges = [];
-    var hod = props.hod === 'true';
-    if (hod) {
-        var h = props.data.edges.find(obj => {
-            return obj.node.frontmatter.hod;
-        });
-        if (h)
-            edges.push(
-                props.data.edges.find(obj => {
-                    return obj.node.frontmatter.hod;
-                })
-            );
-    } else {
-        edges = props.data.edges;
-    }
+    var edges = props.data.edges;
+
     edges.forEach(function(item, i) {
-        if (!hod && item.node.frontmatter.hod) return;
         content.push(<DataCol key={item.node.id} item={item} />);
     });
     return content;
