@@ -1,12 +1,12 @@
 - data:
     image: ./images/college.jpg
     carousel:
-        - image: ./images/second.jpg
-          title: Sunshine
-          description: Nullam gravida pharetra sapien non tincidunt. *Nulla* vel arcu non neque ultrices sodales tempor a ante.
-        - image: ./images/third.jpg
-          title: NCREIS
-          description: Nullam gravida pharetra sapien non tincidunt. *Nulla* vel arcu non neque ultrices sodales tempor a ante.
+        - image: ./images/collegenew.jpg
+          title: CEK
+          description: A Luscious and Green campus among CAPE institutions 
+        - image: ./images/placement-02.jpg
+          title:
+          description:
         - image: ./images/gandhiji.jpg
     announcements:
         - College of Engineering Kidangoor invites sealed tenders from the registered Contractors for Painting and construction work. For getting previous details
