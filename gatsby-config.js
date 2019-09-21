@@ -11,6 +11,7 @@ module.exports = {
         mobLogo: '/images/moblogo.png',
         description:
             ' College of Engineering, Kidangoor (CEK), Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala. Now the institution is glistening with outstanding records in both academic and extracurricular fields backed by excellent faculty and full-fledged facilities.',
+        currentPlacementYear: 2019,
         navLinks: [
             {
                 name: 'Home',
@@ -40,7 +41,7 @@ module.exports = {
             },
             {
                 name: 'Research',
-                link: '/',
+                link: '/research',
                 children: [
                     {
                         name: 'Projects',

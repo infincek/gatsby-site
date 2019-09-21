@@ -2,6 +2,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`);
 const path = require(`path`);
 const webpack = require(`webpack`);
 
+
 exports.onCreateNode = ({ node, getNode, actions }) => {
     const { createNodeField } = actions;
     if (node.internal.type === `MarkdownRemark`) {
@@ -23,14 +24,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
 exports.createPages = ({ graphql, actions }) => {
     const { createPage, createRedirect } = actions;
-
-    createRedirect({
-        fromPath: `/about`,
-        toPath: `/about/the-college/`,
-        redirectInBrowser: true,
-        isPermanent: true
-    });
-
     return graphql(`
         {
             allMarkdownRemark {
