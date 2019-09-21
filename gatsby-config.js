@@ -32,6 +32,11 @@ module.exports = {
                         name: 'CAPE',
                         link: '/about/cape'
                     },
+
+                    {
+                        name: 'HOD',
+                        link: '/about/hod'
+                    }
                 ]
             },
             {
