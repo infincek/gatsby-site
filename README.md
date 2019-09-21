@@ -1,6 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6cefa17a-34bf-4966-b9c3-668f8423d2a4/deploy-status)](https://app.netlify.com/sites/cekweb/deploys)     
 # CEK Website
-*v2.3.0.0*
+*v2.3.0.1*
+
 
 
 Gatsby website of CEK
@@ -68,4 +69,3 @@ This is Our LightHouse Audit results
   - [ ] Working contact form
   - [ ] Placement Page
   - [ ] Research page
- 

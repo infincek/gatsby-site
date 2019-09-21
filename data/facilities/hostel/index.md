@@ -5,4 +5,4 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ---
 
 
-**Page under Construction**
+A number of hostels for both boys and girls, with good quality food and amenities are available near the College. The facilities available for boys and girls at present are adequate. Private owners manage these hostels and the Parent Teachers Association (PTA) of the College closely monitors their functioning. For the information and guidance of the students, the hostels have been graded on a five-point scale and published. The new entrants to the College and their parents can draw information from this and choose a hostel of their liking. Permanent Hostel buildings of the College initially for girls and later for boys will be established at the permanent site, only after the completion of the construction of various blocks
