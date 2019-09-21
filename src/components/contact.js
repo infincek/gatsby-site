@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 import marked from 'marked';
 import '../style/contact.less';
 
-export default () => {
+export default ({tag}) => {
     const baseData = useStaticQuery(graphql`
         query contactInfoQuery {
             allBaseYaml {
@@ -27,7 +27,7 @@ export default () => {
             <div id="contact" className="section">
                 <div className="container">
                     <div className="title">
-                        <h2 className="underlined">Contact</h2>
+                        {(tag === 'h1') ? <h1 className="underlined">Contact</h1> :  <h2 className="underlined">Contact</h2>}
                     </div>
                     <div className="contents">
                         <div className="row">

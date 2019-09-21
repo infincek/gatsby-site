@@ -1,44 +1,15 @@
 import React from "react";
-import { graphql, useStaticQuery, Link } from "gatsby";
+import { Link } from "gatsby";
 import Img from "gatsby-image";
 import "../style/placement.less";
 
-export default () => {
-    const query = useStaticQuery(graphql`
-        query{
-            allMarkdownRemark(
-                filter: { fileAbsolutePath: { regex: "/placement/" } }
-            ) {
-                edges {
-                    node {
-                        id
-                        frontmatter {
-                            title
-                            logo {
-                                publicURL
-                                childImageSharp {
-                                    fluid(maxWidth: 1000) {
-                                        srcSet
-                                        ...GatsbyImageSharpFluid_tracedSVG
-                                    }
-                                }
-                            }
-                        }
-                        fields {
-                            slug
-                        }
-                    }
-                }
-            }
-        }
-    `);
+export default ({data}) => {
     const items = [];
-    query.allMarkdownRemark.edges.forEach((e,i) => {
+    data.forEach((e,i) => {
         items.push(
-            <Item data={e} key={e.node.id}/>
+            <Item data={e} key={e.id}/>
         )
     })
-
     return items;
 }
 
@@ -49,7 +20,7 @@ const Item = (props) => {
                 <div className="image">
                     <Img
                         fluid={
-                            props.data.node.frontmatter.logo.childImageSharp
+                            props.data.frontmatter.logo.childImageSharp
                                 .fluid
                         }
                         alt=""
@@ -58,15 +29,15 @@ const Item = (props) => {
                 <div className="description">
                     <span className="v-center" />
                     <p className="font-2 middle">
-                        <b>{props.data.node.frontmatter.title}</b>
+                        <b>{props.data.frontmatter.title}</b>
                     </p>
                 </div>
                 <Link
                     className="overlay-link"
-                    title={props.data.node.frontmatter.title}
-                    to={props.data.node.fields.slug}
+                    title={props.data.frontmatter.title}
+                    to={props.data.fields.slug}
                 >
-                    {props.data.node.frontmatter.title}
+                    {props.data.frontmatter.title}
                 </Link>
             </div>
         </div>
