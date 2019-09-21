@@ -167,6 +167,17 @@ export default ({ data }) => {
                                 <li>
                                     <div className="header">
                                         <p>
+                                            <i className="fa fa-envelope" />
+                                            E-mail
+                                        </p>
+                                    </div>
+                                    <p className="value">
+                                        {post.frontmatter.mailid}
+                                    </p>
+                                </li>
+                                <li>
+                                    <div className="header">
+                                        <p>
                                             <i className="fa fa-bullhorn" />
                                             Any Other Relevant Details
                                         </p>
@@ -219,6 +230,7 @@ export const query = graphql`
                 specialization
                 otherData
                 mobileNumber
+                mailid
             }
         }
     }

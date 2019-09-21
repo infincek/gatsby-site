@@ -13,7 +13,7 @@ ugAndInstitution: "B.Tech,Rajagiri School of Engineering and Technology."
 pgAndInstitution: "M.Tech,NIT CALICUT"
 subject: Telecommunication
 phd: NIL
-specialization:  
+specialization: NIL
 otherData: "NIL"
 mobileNumber: 9497279205
 mailid: yesmelbin@gmail.com

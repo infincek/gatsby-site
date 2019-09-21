@@ -3,8 +3,8 @@ title: Ojus Thomas Lee
 template: faculties
 hod: true
 department: cse
-departmentFullName: Computer Science and Technology
-image: ./image.jpg
+departmentFullName: Computer Science and Engineering
+image: ./ojus1.jpg
 designation: Associate Professor
 dateOfJoining: 24/01/2001
 experienceTeaching: 20 years

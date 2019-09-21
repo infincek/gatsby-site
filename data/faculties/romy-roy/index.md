@@ -2,8 +2,8 @@
 title: ROMY ROY
 template: faculties
 hod: false
-department:
-departmentFullName: DASH
+department: dash
+departmentFullName: Department of Applied Sciences and Humanities
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 14-08-2013

@@ -13,7 +13,7 @@ ugAndInstitution: "MA College of Engg, Kothamangalam,   MG University"
 pgAndInstitution: "TKM College of Engg, Kollam, University of Kerala"
 subject: Structural Engineering and construction management
 phd: NIL
-specialization: Computer and InformationScience
+specialization: NIL
 otherData: "NIL"
 mobileNumber: 9895919280
 mailid: appuklm@gmail.com

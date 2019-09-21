@@ -13,7 +13,7 @@ ugAndInstitution: "B.Tech Civil Engineering"
 pgAndInstitution: "M.Tech,CUSAT"
 subject: Computer Aided Structural ANALYSIS AND DESIGN
 phd: NIL
-specialization:
+specialization: NIL
 otherData: "NIL"
 mobileNumber: 9496464455
 mailid: maryjkappen@gmail.com

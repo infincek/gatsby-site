@@ -3,19 +3,19 @@ title: Anitha Abraham
 template: faculties
 hod: false
 department: cse
-departmentFullName: Computer Science and Technology
+departmentFullName: Computer Science and Engineering
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: 01.06.2017
-experienceTeaching: 7 Yrs
-experienceIndustry: 1 Yr
-ugAndInstitution: "B.Tech,
-Adisankara Institute of Engineering & Technology, Kalady."
+dateOfJoining: 30-07-2007
+# experienceTeaching: 
+# experienceIndustry: 
+ugAndInstitution: "B.Tech"
 pgAndInstitution: "M.Tech"
 subject: Computer Science
 phd: NIL
 specialization: 
 otherData: "NIL"
-mobileNumber: 9048825985
+mobileNumber: 
+mailid: anitha_256@yahoo.com
 ---
 

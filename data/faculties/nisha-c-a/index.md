@@ -13,7 +13,7 @@ ugAndInstitution: " B Tech,College of Engineering,Vadakara."
 pgAndInstitution: "M Tech,DCS,CUSAT"
 subject: Computer and Information Science
 phd: NIL
-specialization:
+specialization: NIL
 otherData: "No. of International Journal - 2,No. of International Conferences - 1"
 mobileNumber: 8129011466
 mailid: nisha.ca@gmail.com

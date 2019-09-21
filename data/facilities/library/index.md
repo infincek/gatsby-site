@@ -82,3 +82,16 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 </tbody>
 </table>
 </div>
+
+||| COLLECTION STATISTICS |            ||                                   
+| :-------------------: | :--------------: | :---: | :----: | :--------------------------: |
+|         Sl No         |   Particulars    | Title | Volume |            Total             |
+|           1           |  GENERAL BOOKS   |       | 13811  |                              |
+|           2           |   TEQIP BOOKS    |       |  4797  |                              |
+|           3           |    BOOK BANK     |       |  1718  |                              |
+|           4           | LITERATURE BOOKS |       |  2289  |                              |
+|           5           |     E-BOOKS      | 2902  |  2289  |                              |
+|           6           | PRINTED JOURNALS |  60   |   60   |              60              |
+|           7           |    E-JOURNALS    |   1   |   1    | EBSCO Engineering Collection |
+|           8           |  BOUND VOLUMES   |  112  |  112   |                              |
+|           9           |  CD COLLECTION   | 1825  |  1825  |                              |

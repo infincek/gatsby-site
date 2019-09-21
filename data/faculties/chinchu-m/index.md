@@ -3,12 +3,12 @@ title: CHINCHU M
 template: faculties
 hod: false
 department: ece
-departmentFullName: Electronics and communication engineering
+departmentFullName: Electronics and Communication Engineering
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 25 May 2018
 experienceTeaching: 14 years
-experienceIndustry: 1 Yr
+experienceIndustry: NIL
 ugAndInstitution: "B.Tech, CUSAT."
 pgAndInstitution: "M.Tech, CUSAT"
 subject: Digital electronics

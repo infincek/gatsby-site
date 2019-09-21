@@ -2,11 +2,11 @@
 title: RAMNATH P
 template: faculties
 hod: false
-department:
-departmentFullName: DASH
+department: dash
+departmentFullName: Department of Applied Sciences and Humanities
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: July 2016
+dateOfJoining: July 2015
 experienceTeaching: 9 years
 experienceIndustry: 3 years
 ugAndInstitution: "B Tech,Mechanical Engineering ,VTU ."

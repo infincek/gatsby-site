@@ -3,18 +3,18 @@ title: Binimol V.K
 template: faculties
 hod: false
 department: eee
-departmentFullName: Computer Science and Technology
+departmentFullName: Electrical and Electronics Engineering
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: 01.07.2010
-experienceTeaching: 7 Yrs
-experienceIndustry: 1 Yr
-ugAndInstitution: "B.Tech,
-Adisankara Institute of Engineering & Technology, Kalady."
-pgAndInstitution: "M.Tech,CUSAT"
-subject: Computer Science
+dateOfJoining: 17/02/2012
+experienceTeaching: 12 years
+experienceIndustry: NIL
+ugAndInstitution: "B.Tech, RIT KOTTAYAM/ MG University"
+pgAndInstitution: "M.Tech, GEC Thrissur/Calicut University"
+subject: Power Systems
 phd: NIL
-specialization:  Computer and InformationScience
+specialization: NIL
 otherData: "NIL"
-mobileNumber: 9048825985
+mobileNumber: 9446366609
+mailid: binsvk@gmail.com
 ---
