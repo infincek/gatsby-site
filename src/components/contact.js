@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 import marked from 'marked';
 import '../style/contact.less';
 
-export default () => {
+export default ({tag}) => {
     const baseData = useStaticQuery(graphql`
         query contactInfoQuery {
             allBaseYaml {
@@ -27,61 +27,10 @@ export default () => {
             <div id="contact" className="section">
                 <div className="container">
                     <div className="title">
-                        <h2 className="underlined">Contact</h2>
+                        {(tag === 'h1') ? <h1 className="underlined">Contact</h1> :  <h2 className="underlined">Contact</h2>}
                     </div>
                     <div className="contents">
                         <div className="row">
-                            <div className="col s12 m7">
-                                <div className="htmlForm">
-                                    <div className="row">
-                                        <div className="input-field col s12">
-                                            <label htmlFor="name">Name *</label>
-                                            <input
-                                                id="name"
-                                                type="text"
-                                                className="validate"
-                                            />
-                                        </div>
-                                        <div className="input-field col s12">
-                                            <label htmlFor="email">
-                                                Email *
-                                            </label>
-                                            <input
-                                                id="email"
-                                                type="email"
-                                                className="validate"
-                                            />
-                                        </div>
-                                        <div className="input-field col s12">
-                                            <label htmlFor="phone">Phone</label>
-                                            <input id="phone" type="number" />
-                                        </div>
-                                        <div className="input-field col s12">
-                                            <label htmlFor="subject">
-                                                Subject
-                                            </label>
-                                            <input id="subject" type="text" />
-                                        </div>
-                                        <div className="input-field col s12">
-                                            <label htmlFor="message">
-                                                Message *
-                                            </label>
-                                            <textarea rows="4" id="message" />
-                                        </div>
-                                        <div className="input-field col s12">
-                                            <button
-                                                type="submit"
-                                                name="submit"
-                                                id="submit"
-                                                className="btn"
-                                            >
-                                                Send{' '}
-                                                <i className="fa fa-paper-plane" />
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                             <div className="col s12 m5 infos">
                                 <div className="info">
                                     <i className="ico fa fa-map-marker" />
@@ -138,19 +87,19 @@ export default () => {
                                     </div>
                                 </div>
                             </div>
+                            <div className="col s12 m7">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15732.586576470994!2d76.620873!3d9.668509!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b07d293a982ceeb%3A0xd62bf193983589fe!2sCollege+of+Engineering%2C+Kidangoor!5e0!3m2!1sen!2sin!4v1515566490896"
+                                    width="100%"
+                                    height="450"
+                                    frameBorder="0"
+                                    title="map"
+                                />
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div id="map">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15732.586576470994!2d76.620873!3d9.668509!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b07d293a982ceeb%3A0xd62bf193983589fe!2sCollege+of+Engineering%2C+Kidangoor!5e0!3m2!1sen!2sin!4v1515566490896"
-                    width="100%"
-                    height="450"
-                    frameBorder="0"
-                    title="map"
-                />
-            </div>
         </React.Fragment>
     );
-}
+};
