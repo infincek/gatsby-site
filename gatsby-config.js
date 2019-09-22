@@ -76,7 +76,7 @@ module.exports = {
                             'https://ktu.edu.in/eu/acd/academicRegulation.htm?=d%2FoY2W6v3%2FgC8nqDvJQEH%2FPo1Vgvv0tN%2Be4eMVkD6M8GrmcoIlMugwKVVJWmeG8H'
                     },
                     {
-                        name: 'TEQUIP',
+                        name: 'TEQIP',
                         link: '/academics/tequip'
                     },
                     {
@@ -94,7 +94,7 @@ module.exports = {
                         link: '/departments/civil-engineering'
                     },
                     {
-                        name: 'Electrical Engineering',
+                        name: 'Electrical & Electronics Engineering',
                         link:
                             '/departments/electrical-and-electronics-engineering/'
                     },
