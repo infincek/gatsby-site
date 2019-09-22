@@ -1,7 +1,7 @@
 ---
 title: Wipro
 description: Global company delivering innovation-led strategy, technology, and business consulting services.
-logo: ./wipro-logo.png
+logo: ./Wipro.jpg
 template: placement
 selections:
     - name: Anand P S

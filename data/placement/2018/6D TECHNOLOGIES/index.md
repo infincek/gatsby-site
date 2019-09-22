@@ -1,7 +1,7 @@
 ---
 title: 6D TECHNOLOGIES
 description: 6d Technologies is an Best-In Class Technology Solutions & Services Provider for Mobile Operators and Telecom Industry. We have extensive experience in.
-logo: ./6D TECHNOLOGIES.png
+logo: ./6D-TECHNOLOGIES.jpg
 template: placement
 selections:
     - name: Abhijith
