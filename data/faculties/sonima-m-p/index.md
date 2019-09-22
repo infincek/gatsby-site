@@ -3,7 +3,7 @@ title: Sonima M P
 template: faculties
 hod: false
 department: eee
-departmentFullName: Computer Science and Technology
+departmentFullName: Electrical and Electronics Engineering
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 02/07/2013

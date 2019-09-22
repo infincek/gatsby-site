@@ -1,20 +1,20 @@
 ---
-title: Anish A Aziz
+title: BINU M
 template: faculties
 hod: false
-department: it
-departmentFullName: Information Technology
+department: dash
+departmentFullName: Department of Applied Sciences and Humanities
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: 19/03/2014
-experienceTeaching: 10 years
+dateOfJoining: 31/05/2019
+experienceTeaching: 6 years
 experienceIndustry: NIL
-ugAndInstitution: "B Tech,TKM IT."
-pgAndInstitution: "M Tech,MSU"
-subject: Computer and Information Science
-phd: NIL
-specialization: NIL
-otherData: "No. of National Journal - 2,No.of national conferences - 2"
-mobileNumber: 9947808238
-mailid: anish.abdulaziz@gmail.com
+ugAndInstitution: "Mathematics, St. Mary's college Thrissur"
+pgAndInstitution: "Dept.of Mathematics, University of Calicut"
+subject: Pure Mathematics
+phd: National Institute of Technology Calicut
+specialization: Network Analysis with Fuzzy Graph Theory
+otherData: nil
+mobileNumber: 9745174583
+mailid: binka.7@gmail.com
 ---

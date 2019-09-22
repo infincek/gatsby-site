@@ -3,12 +3,12 @@ title: Priya M
 template: faculties
 hod: false
 department: ece
-departmentFullName: Electronics and communication engineering
+departmentFullName: Electronics and Communication Engineering
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: 24 July 2015
-experienceTeaching: 12years
-experienceIndustry: 1 Yr
+dateOfJoining: 24/07/2015
+experienceTeaching: 12 years
+experienceIndustry: NIL
 ugAndInstitution: "B.Tech,CUSAT."
 pgAndInstitution: "M.Tech,Kerala University"
 subject: Signal Processing

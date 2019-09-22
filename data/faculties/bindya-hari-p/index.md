@@ -13,7 +13,7 @@ ugAndInstitution: CET/University of Kerala
 pgAndInstitution: CET/University of Kerala
 subject: Environmental Engineering
 phd: "NIL"
-specialization: Computer and InformationScience
+specialization: NIL
 otherData: "NIL"
 mobileNumber: 8281978472
 mailid: bindiyahari@yahoo.co.in

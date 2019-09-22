@@ -3,14 +3,14 @@ title: Praseetha K
 template: faculties
 hod: false
 department: eee
-departmentFullName: Electrical and Electronics
+departmentFullName: Electrical and Electronics Engineering
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 02/07/2019
 experienceTeaching: 10 Years
 experienceIndustry: NIL
-ugAndInstitution: GCE Kannur, Kannur University
-pgAndInstitution: GEC Thrissur/Calicut University
+ugAndInstitution: B.Tech, GCE Kannur, Kannur University
+pgAndInstitution: M.Tech, GEC Thrissur/Calicut University
 subject: Power Systems
 phd: Doing GCE Kannur(KTU)
 specialization: 

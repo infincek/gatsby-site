@@ -1,12 +1,12 @@
 ---
 title: TINA PG
 template: faculties
-hod: false
+hod: true
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: 20-02-2004
+dateOfJoining: 20/02/2004
 experienceTeaching: 15 years
 experienceIndustry: 5 years
 ugAndInstitution: "B Tech,College of Engineering Trivandrum, University of Kerala"

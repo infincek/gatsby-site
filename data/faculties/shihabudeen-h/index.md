@@ -3,7 +3,7 @@ title: SHIHABUDEEN H
 template: faculties
 hod: false
 department: ece
-departmentFullName: Electronics and communication engineering
+departmentFullName: Electronics and Communication Engineering
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 07/01/2019

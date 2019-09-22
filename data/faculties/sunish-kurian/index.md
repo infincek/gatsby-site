@@ -1,12 +1,12 @@
 ---
 title: SUNISH KURIAN
 template: faculties
-hod: false
+hod: true
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./image.jpg
+image: ./sunish.jpg
 designation: Assistant Professor
-dateOfJoining: 26-05-2011
+dateOfJoining: 26/05/2011
 experienceTeaching: 10 years
 experienceIndustry: 15 years
 ugAndInstitution: "B Tech Mechanical Engineering ,College of Engineering Trivandrum."

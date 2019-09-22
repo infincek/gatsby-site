@@ -6,11 +6,11 @@ department: ece
 departmentFullName: Electronics and communication engineering
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: 24 July 2015
+dateOfJoining: 24/07/2015
 experienceTeaching: 12years
-experienceIndustry: 1 Yr
-ugAndInstitution: "B.Tech,CUSAT."
-pgAndInstitution: "M.Tech,Kerala University"
+experienceIndustry: NIL
+ugAndInstitution: "B.Tech, CUSAT."
+pgAndInstitution: "M.Tech, Kerala University"
 subject: Signal Processing
 phd: NIL
 specialization: NIL
