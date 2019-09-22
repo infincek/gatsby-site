@@ -3,9 +3,9 @@ title: Dr. K. S. Angel Viji
 template: faculties
 hod: false
 department: cse
-departmentFullName: Computer Science and Technology
+departmentFullName: Computer Science and Engineering
 image: ./image.jpg
-designation: Assistant Professor
+designation: Associate Professor
 dateOfJoining: 18/03/2016
 experienceTeaching: 11.6 years
 experienceIndustry: NIL
@@ -14,7 +14,7 @@ pgAndInstitution: "Noorul Islam college of Engineering"
 subject: Computer Science and Engineerinhg
 phd: Noorul Islam University
 specialization: Medical Image Processing
+otherData: NIL
 mobileNumber: 9751280848
+mailid: ksangelviji@gmail.com
 ---
-
-<h3>No. of International Journal </h3>- 23 , No of national journals - 10+,No. of International Conferences - 2 ,No.of national conferences - 16

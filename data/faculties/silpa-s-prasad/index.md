@@ -2,13 +2,13 @@
 title: SILPA S PRASAD
 template: faculties
 hod: false
-department: eee
-departmentFullName: Computer Science and Technology
+department: ece
+departmentFullName: Electronics and Communication Engineering
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 30 July 2016
 experienceTeaching: 9 years
-experienceIndustry: 1 Yr
+experienceIndustry: NIL
 ugAndInstitution: "B.Tech,M.G.University."
 pgAndInstitution: "M.Tech,Amrita University "
 subject: VLSI DESIGN

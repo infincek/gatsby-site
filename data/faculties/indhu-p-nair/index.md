@@ -3,18 +3,18 @@ title: Indhu P. Nair
 template: faculties
 hod: true
 department: eee
-departmentFullName: Computer Science and Technology
+departmentFullName: Electrical & Electronics Engineering
 image: ./image.jpg
-designation: Assistant Professor
-dateOfJoining: 01.07.2010
+designation: Associate Professor
+dateOfJoining: 	06/07/2012
 experienceTeaching: 7 Yrs
-experienceIndustry: 1 Yr
-ugAndInstitution: "B.Tech,
-Adisankara Institute of Engineering & Technology, Kalady."
-pgAndInstitution: "M.Tech,CUSAT"
+experienceIndustry: NIL
+ugAndInstitution: "B.Tech."
+pgAndInstitution: "M.Tech"
 subject: Computer Science
 phd: NIL
-specialization:  Computer and InformationScience
+specialization:  NIL
 otherData: "NIL"
 mobileNumber: 9048825985
+mailid: indhupnair@ce-kgr.org
 ---

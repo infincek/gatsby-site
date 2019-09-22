@@ -3,10 +3,10 @@ title: NEENA A J
 template: faculties
 hod: false
 department: ece
-departmentFullName: Computer Science and Technology
+departmentFullName: Electronics and Communication Engineering
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: 30 July 2016
+dateOfJoining: 30/07/2016
 experienceTeaching: 9 years
 experienceIndustry: 3 years
 ugAndInstitution: "B.Tech,Kerala University ."

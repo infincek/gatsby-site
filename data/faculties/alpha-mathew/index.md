@@ -4,9 +4,9 @@ template: faculties
 hod: false
 department: it
 departmentFullName: Information Technology
-image: ./image.jpg
+image: ./female.jpg
 designation: Assistant Professor
-dateOfJoining: 01-07-2010
+dateOfJoining: 01/07/2010
 experienceTeaching: 11 years
 experienceIndustry: 1.5 years
 ugAndInstitution: "B Tech ,Govt.Engineering College   Sreekrishnapuram Calicut University"
