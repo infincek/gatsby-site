@@ -2,9 +2,18 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import marked from 'marked';
+import MD from 'gatsby-custom-md';
 import Faculties from '../components/faculties';
 import Layout from '../components/layout';
+import { Row, Col, Fl, Box } from '../components/custom';
 import '../style/single-page.less';
+
+const components = {
+    row: Row,
+    col: Col,
+    fl: Fl,
+    box: Box
+}
 
 export default ({ data }) => {
     const post = data.department;
@@ -75,11 +84,9 @@ export default ({ data }) => {
                     </div>
                     <h3>Head of the Department</h3>
                     <Faculties data={data.hod} />
-                    <div
-                        dangerouslySetInnerHTML={{
-                            __html: post.html
-                        }}
-                    />
+                    <div>
+                        <MD htmlAst={post.htmlAst} components={components}/>
+                    </div>
                     <h3>Faculties</h3>
                     <Faculties data={data.faculties} hod="false" />
                 </div>
@@ -93,6 +100,7 @@ export const query = graphql`
 query($slug: String!, $name: String) {
     department: markdownRemark(fields: { slug: { eq: $slug } }) {
         html
+        htmlAst
         id
         frontmatter {
             title
