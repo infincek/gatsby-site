@@ -46,8 +46,9 @@ The following objectives are what the faculty expects graduates from the program
 The Transportation Engineering Laboratory is equipped with facilities for testing of Aggregates and Bitumen. The Laboratory is fully equipped for conduct regular experiments at UG level, consultancy works and research activities.
 The laboratory is facilitated with ring and ball apparatus, Aggregate impact testing machine, shape test apparatus, ductility testing machine, Standard tar viscometer, Los Angeles Abrasion testing machine, Flash and fire point apparatus, Universal penetrometer, Marshall stability apparatus etc.
 
+[fl width='500']
 ![Lab1](lab1.jpg)
-
+[/fl]
 
  **Geo-Technical Engineering Laboratory**
 
