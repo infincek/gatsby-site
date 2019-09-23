@@ -82,13 +82,19 @@ export default ({ data }) => {
                             />
                         </div>
                     </div>
-                    <h3>Head of the Department</h3>
-                    <Faculties data={data.hod} />
+                    {data.hod.edges.length > 0 &&
+                        <div>
+                            <h3>Head of the Department</h3>
+                            <Faculties data={data.hod} />
+                        </div>
+                    }
                     <div>
                         <MD htmlAst={post.htmlAst} components={components}/>
                     </div>
                     <h3>Faculties</h3>
-                    <Faculties data={data.faculties} hod="false" />
+                    <Faculties data={data.faculties}/>
+                    <h3>Technical Staffs</h3>
+                    <Faculties data={data.technical}/>
                 </div>
             </div>
         </Layout>
@@ -122,6 +128,36 @@ query($slug: String!, $name: String) {
     faculties: allMarkdownRemark(
         filter: {
             frontmatter: { department: { eq: $name }, hod: {eq: false} }
+            fileAbsolutePath: { regex: "/faculties/" }
+        }
+    ) {
+        edges {
+            node {
+                id
+                frontmatter {
+                    title
+                    name
+                    hod
+                    image {
+                        publicURL
+                        childImageSharp {
+                            fluid(maxWidth: 1000) {
+                                srcSet
+                                ...GatsbyImageSharpFluid_tracedSVG
+                            }
+                        }
+                    }
+                    designation
+                }
+                fields {
+                    slug
+                }
+            }
+        }
+    }
+    technical: allMarkdownRemark(
+        filter: {
+            frontmatter: { department: { eq: $name }, teaching: {eq: false} }
             fileAbsolutePath: { regex: "/faculties/" }
         }
     ) {
