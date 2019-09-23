@@ -33,11 +33,15 @@ class Navbar extends React.Component {
         const topBarHeight = this.topBar.current.getBoundingClientRect().height;
         const nav = this.nav.current;
 
+        console.log(topBarHeight);
+
         window.addEventListener('scroll', function(e) {
             const top =
                 window.pageYOffset || document.documentElement.scrollTop;
 
-            if (top >= topBarHeight) {
+            console.log(top);
+
+            if (top > topBarHeight) {
                 nav.classList.add('fixed');
             } else {
                 nav.classList.remove('fixed');
