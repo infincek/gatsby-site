@@ -3,7 +3,7 @@ title: Mary Priyanka K S
 template: faculties
 hod: false
 department: cse
-departmentFullName: Computer Science and Technology
+departmentFullName: Computer Science and Engineering
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 20/12/2013
@@ -16,4 +16,5 @@ phd: NIL
 specialization:  NIL
 otherData: "NIL"
 mobileNumber: 9446743486
+mailid: mary.priyankaa@gmail.com
 ---

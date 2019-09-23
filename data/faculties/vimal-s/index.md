@@ -2,8 +2,8 @@
 title: VIMAL S V
 template: faculties
 hod: false
-department: it
-departmentFullName: Information Technology
+department: dash
+departmentFullName: Department of Applied Sciences and Humanities
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 01/06/2018

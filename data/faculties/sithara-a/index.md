@@ -14,7 +14,7 @@ pgAndInstitution: "M.Tech,KTU"
 subject: Signal Processing
 phd: NIL
 specialization: NIL
-otherData: "NIL"
+otherData: "No. of International Conferences - 1"
 mobileNumber: 9946228889
 mailid: sithuappu@gmail.com
 ---

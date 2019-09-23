@@ -6,7 +6,7 @@ department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./female.jpg
 designation: Assistant Professor
-dateOfJoining: 21-07-2015
+dateOfJoining: 21/07/2015
 experienceTeaching: 14 years
 experienceIndustry: NIL
 ugAndInstitution: Mathematics,K.E College,Mannanam.

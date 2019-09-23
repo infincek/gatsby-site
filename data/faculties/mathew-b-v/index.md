@@ -6,7 +6,7 @@ department: ce
 departmentFullName: Civil Engineering
 image: ./image.jpg
 designation: Professor
-dateOfJoining:
+# dateOfJoining:
 experienceTeaching: 31 years
 experienceIndustry: 1.5 years
 ugAndInstitution: GECT - Calicut University

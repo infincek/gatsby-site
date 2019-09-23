@@ -3,8 +3,8 @@ title: Dr. Bindu S Mony
 template: faculties
 hod: false
 department: cse
-departmentFullName: Computer Science and Technology
-image: ./image.jpg
+departmentFullName: Computer Science and Engineering
+image: ./bindu.jpg
 designation: Assistant Professor
 dateOfJoining: 01/01/2019
 experienceTeaching: 9 years

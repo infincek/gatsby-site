@@ -1,7 +1,7 @@
 ---
 title: Tata Consultancy Services
 description: Global Leader in IT Services, Consulting, Technology and Digital Solutions with a Large Network of Innovation & Delivery Centers.
-logo: ./logo.png
+logo: ./logo.jpg
 template: placement
 selections:
     - name: Anals Thomas
