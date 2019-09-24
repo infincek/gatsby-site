@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
-image: ./image.jpg
+image: ./shincy.jpg
 designation: Assistant Professor
 dateOfJoining: 13/08/2013
 experienceTeaching: 8 years

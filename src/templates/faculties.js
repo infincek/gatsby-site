@@ -66,6 +66,7 @@ export default ({ data }) => {
                                         {post.frontmatter.dateOfJoining}
                                     </p>
                                 </li>
+                                { (post.frontmatter.experienceTeaching || post.frontmatter.experienceIndustry) &&
                                 <li>
                                     <div className="header">
                                         <p>
@@ -73,25 +74,25 @@ export default ({ data }) => {
                                             Experience
                                         </p>
                                     </div>
+                                    {post.frontmatter.experienceTeaching && 
                                     <div className="value">
                                         <strong>Teaching</strong>
                                         <p className="value">
-                                            {
-                                                post.frontmatter
-                                                    .experienceTeaching
-                                            }
+                                            { post.frontmatter.experienceTeaching }
                                         </p>
                                     </div>
+                                    }
+                                    { post.frontmatter.experienceIndustry &&
                                     <div className="value">
                                         <strong>Industry</strong>
                                         <p className="value">
-                                            {
-                                                post.frontmatter
-                                                    .experienceIndustry
-                                            }
+                                            { post.frontmatter.experienceIndustry }
                                         </p>
                                     </div>
+                                    }
                                 </li>
+                                }
+                                {post.frontmatter.ugAndInstitution &&
                                 <li>
                                     <div className="header">
                                         <p>
@@ -106,6 +107,8 @@ export default ({ data }) => {
                                         )}
                                     </p>
                                 </li>
+                                }
+                                {post.frontmatter.pgAndInstitution && 
                                 <li>
                                     <div className="header">
                                         <p>
@@ -120,6 +123,8 @@ export default ({ data }) => {
                                         )}
                                     </p>
                                 </li>
+                                }
+                                {post.frontmatter.subject &&
                                 <li>
                                     <div className="header">
                                         <p>
@@ -131,6 +136,8 @@ export default ({ data }) => {
                                         {post.frontmatter.subject}
                                     </p>
                                 </li>
+                                }
+                                {post.frontmatter.phd &&
                                 <li>
                                     <div className="header">
                                         <p>
@@ -142,6 +149,8 @@ export default ({ data }) => {
                                         {post.frontmatter.phd}
                                     </p>
                                 </li>
+                                }
+                                {post.frontmatter.specialization &&
                                 <li>
                                     <div className="header">
                                         <p>
@@ -153,6 +162,8 @@ export default ({ data }) => {
                                         {post.frontmatter.specialization}
                                     </p>
                                 </li>
+                                }
+                                {post.frontmatter.mobileNumber &&
                                 <li>
                                     <div className="header">
                                         <p>
@@ -164,6 +175,21 @@ export default ({ data }) => {
                                         {post.frontmatter.mobileNumber}
                                     </p>
                                 </li>
+                                }
+                                {post.frontmatter.mailid &&
+                                <li>
+                                    <div className="header">
+                                        <p>
+                                            <i className="fa fa-envelope" />
+                                            E-mail
+                                        </p>
+                                    </div>
+                                    <p className="value">
+                                        {post.frontmatter.mailid}
+                                    </p>
+                                </li>
+                                }
+                                {post.frontmatter.otherData &&
                                 <li>
                                     <div className="header">
                                         <p>
@@ -175,6 +201,7 @@ export default ({ data }) => {
                                         {post.frontmatter.otherData}
                                     </p>
                                 </li>
+                                }
                             </ul>
                         </div>
                     </div>
@@ -219,6 +246,7 @@ export const query = graphql`
                 specialization
                 otherData
                 mobileNumber
+                mailid
             }
         }
     }

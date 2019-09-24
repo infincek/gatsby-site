@@ -127,7 +127,7 @@ query($slug: String!, $name: String) {
     }
     faculties: allMarkdownRemark(
         filter: {
-            frontmatter: { department: { eq: $name }, hod: {eq: false} }
+            frontmatter: { department: { eq: $name }, hod: {eq: false}, teaching: { ne: false} }
             fileAbsolutePath: { regex: "/faculties/" }
         }
     ) {

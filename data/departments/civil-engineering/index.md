@@ -37,8 +37,10 @@ The following objectives are what the faculty expects graduates from the program
 - **Communication:** Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
 - **Project management and finance:** Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
 - **Life-long learning:** Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
-
-
+### Program Specific Outcomes
+- **PSO1**-Ability to carry out civil engineering planning and design independently.
+- **PSO2**-Ability to evaluate the project costs including that of the environmental impacts.
+- **PSO3**-Ability to use various software and tools required for professional civil engineering practice.
 ### Lab details
 
  **Transportation Engineering Laboratory**

@@ -2,9 +2,10 @@
 title: Helena Thomas
 template: faculties
 hod: false
+teaching: true
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image.jpg
+image: ./helena.jpg
 designation: Assistant Professor
 dateOfJoining: 22/08/2019
 experienceTeaching: Nil

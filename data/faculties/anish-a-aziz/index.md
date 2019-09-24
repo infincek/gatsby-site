@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: it
 departmentFullName: Information Technology
-image: ./image.jpg
+image: ./anish.jpg
 designation: Assistant Professor
 dateOfJoining: 19/03/2014
 experienceTeaching: 10 years
