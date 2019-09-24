@@ -190,8 +190,49 @@ ul{
 	max-width: 100%;
 }
 
+.flex{
+	.col{
+		float: none;
+		flex-grow: 1;
+	}
+}
+
 @media only screen and (max-width: 1020px) {
 	body{
 		font-size: 16px;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+
+	.box .float-left{
+		width: 100%;
+	}
+
+	.row.flex{
+		display: block;
+	}
+
+	.contents{
+		padding: 20px 15px !important;
+	}
+
+	h1{
+		font-size: 2.2em;
+	}
+	h2{
+		font-size: 1.9em;
+	}
+	h3{
+		font-size: 1.6em;
+	}
+	h4{
+		font-size: 1.4em;
+	}
+	h5{
+		font-size: 1.2em;
+	}
+	h6{
+		font-size: 1.05em;
 	}
 }
