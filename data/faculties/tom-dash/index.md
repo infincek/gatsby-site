@@ -1,10 +1,10 @@
 ---
-title: VIMAL S V
+title: TOM
 template: faculties
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./vimal.jpg
+image: ./tom-new.jpg
 designation: Assistant Professor
 dateOfJoining: 01/06/2018
 experienceTeaching: 11 years

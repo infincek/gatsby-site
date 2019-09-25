@@ -6,7 +6,6 @@ teaching: false
 department: ece
 departmentFullName: Electronics and Communication
 image: ./image.jpg
-designation: Trade Instructor Gr-II
-dateOfJoining: 20/12/2004
-mobileNumber: 9447843374
-mailid: sudhickdvu@gmail.com
+designation: Instructor Gr-II
+dateOfJoining: 01/07/2010
+mailid: remsha84@gmail.com

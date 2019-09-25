@@ -5,7 +5,7 @@ hod: false
 teaching: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./image.jpg
+image: ./aneesh.jpg
 designation: Trade Instructor Gr-II
 dateOfJoining: 20/12/2004
 mobileNumber: 9447843374

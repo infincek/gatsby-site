@@ -3,7 +3,7 @@ title: Electronics and Communication Engineering
 name: ece
 template: departments
 image: ./eclogo2.jpg
-banner: ./image.jpg
+banner: ./ec-new.jpg
 intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 
 **Seats Available :**  60 + 3 *"

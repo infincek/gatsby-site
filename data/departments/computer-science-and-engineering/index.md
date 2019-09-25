@@ -3,7 +3,7 @@ title: Computer science and Engineering
 name: cse
 template: departments
 image: ./cslogo.png
-banner: ./image.jpg
+banner: ./cs-new.jpg
 description: Computer science and Engineering Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 
