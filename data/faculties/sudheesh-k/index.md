@@ -3,6 +3,7 @@ title: Sudheesh K
 template: faculties
 hod: false
 teaching: false
+qualification: ITI
 department: ece
 departmentFullName: Electronics and Communication
 image: ./sudheesh.jpg
