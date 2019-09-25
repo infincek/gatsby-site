@@ -11,6 +11,7 @@ class Navbar extends React.Component {
         super(props);
         this.topBar = React.createRef();
         this.nav = React.createRef();
+        this.navPlaceholder = React.createRef();
 
         this.state = {
             sidebarOpen: false
@@ -33,16 +34,21 @@ class Navbar extends React.Component {
         const topBarHeight = this.topBar.current.getBoundingClientRect().height;
         const nav = this.nav.current;
 
-        window.addEventListener('scroll', function(e) {
-            const top =
-                window.pageYOffset || document.documentElement.scrollTop;
+        if(window.innerWidth < 901){
+            nav.classList.add("fixed");
+            this.navPlaceholder.current.style.height = nav.getBoundingClientRect().height + "px";
+        }else {
+            window.addEventListener('scroll', function(e) {
+                const top =
+                    window.pageYOffset || document.documentElement.scrollTop;
 
-            if (top >= topBarHeight) {
-                nav.classList.add('fixed');
-            } else {
-                nav.classList.remove('fixed');
-            }
-        });
+                if (top >= topBarHeight) {
+                    nav.classList.add('fixed');
+                } else {
+                    nav.classList.remove('fixed');
+                }
+            });
+        }
     }
 
     render() {
@@ -124,6 +130,7 @@ class Navbar extends React.Component {
                         <Navlinks />
                     </div>
                 </nav>
+                <div className="navbar-placeholder" ref={this.navPlaceholder}></div>
                 <Sidebar
                     sidebar={
                         <SidebarContents
