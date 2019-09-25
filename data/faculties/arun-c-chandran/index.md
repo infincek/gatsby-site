@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ece
 departmentFullName: Electronics and communication engineering
-image: ./image.jpg
+image: ./arun.jpg
 designation: Assistant Professor
 dateOfJoining: 03/07/2016
 experienceTeaching: 9.5 years

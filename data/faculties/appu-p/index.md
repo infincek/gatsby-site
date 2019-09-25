@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./image.jpg
+image: ./appu.jpg
 designation: Assistant Professor
 dateOfJoining: 04/07/2017
 experienceTeaching: 11 Years

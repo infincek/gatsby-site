@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image.jpg
+image: ./mary-priyanka.jpg
 designation: Assistant Professor
 dateOfJoining: 20/12/2013
 experienceTeaching: 8 years

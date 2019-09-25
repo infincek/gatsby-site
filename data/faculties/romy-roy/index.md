@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./image.jpg
+image: ./romi-roy.jpg
 designation: Assistant Professor
 dateOfJoining: 14/08/2013
 experienceTeaching: 12 years

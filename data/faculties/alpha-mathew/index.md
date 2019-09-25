@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: it
 departmentFullName: Information Technology
-image: ./female.jpg
+image: ./alpha.jpg
 designation: Assistant Professor
 dateOfJoining: 01/07/2010
 experienceTeaching: 11 years

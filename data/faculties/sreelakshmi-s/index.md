@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./female.jpg
+image: ./sreelakshmi.jpg
 designation: Assistant Professor
 dateOfJoining: 21/07/2015
 experienceTeaching: 14 years
