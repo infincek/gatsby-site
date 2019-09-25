@@ -16,3 +16,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 * Students should not misplace articles, furniture or books in the classrooms, laboratories or library
 * Under any circumstance, no student or staff or outsider is permitted to enter the classroom while classes are going on, without the permission of the staff member concerned.
 * Any type of ragging, teasing, torturing, or misbehaviour to the junior students is strictly prohibited. Legal actions will be taken against those students who are found guilty as per the prevailing laws and directions of honourable courts.
+
+###Campus Life
+
+[Campus Life](/doc/)

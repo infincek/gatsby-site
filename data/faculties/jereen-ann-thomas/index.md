@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./image.jpg
+image: ./jereen.jpg
 designation: Assistant Professor
 dateOfJoining: 15/03/2017
 experienceTeaching: 2 years

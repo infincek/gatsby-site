@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image.jpg
+image: ./angel-viji.jpg
 designation: Associate Professor
 dateOfJoining: 18/03/2016
 experienceTeaching: 11.6 years

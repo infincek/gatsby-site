@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./sid.jpg
+image: ./sidharth.jpg
 designation: Assistant Professor
 dateOfJoining: 05/08/2019
 experienceTeaching: 1 year and 4 months
