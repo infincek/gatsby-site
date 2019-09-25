@@ -76,12 +76,12 @@ module.exports = {
                             'https://ktu.edu.in/eu/acd/academicRegulation.htm?=d%2FoY2W6v3%2FgC8nqDvJQEH%2FPo1Vgvv0tN%2Be4eMVkD6M8GrmcoIlMugwKVVJWmeG8H'
                     },
                     {
-                        name: 'TEQIP',
-                        link: '/academics/tequip'
+                        name: 'IQAC',
+                        link: '/academics/iqac'
                     },
                     {
-                        name: 'NBA Accreditation',
-                          link: '/academics/nba'
+                        name: 'Academic Calender',
+                          link: '/academics/academicalender'
                     }
                 ]
             },

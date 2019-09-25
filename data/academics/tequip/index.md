@@ -29,10 +29,3 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 |    Dr.Indhu   P.Nair    |    HoD   EEE    |    8547674266    |
 
 ###Maintenance Committee
-
-|    Name    |    Designation    |    Contact    |
-|--------------------------|---------------------------------------------|------------------|
-|    Dr.K.G.Viswanadhan    |    Principal    |    9447414470    |
-|    Linda   Sebastian    |    AP   in CSE    |         |
-|    Saji   Justus    |    Nodal   Officer(Procurement)/AP in EI    |    9847460411    |
-|    Priya   M.    |    AP   in ECE    |    9447797841    |
