@@ -1,12 +1,12 @@
 ---
-title: PRATHEESH.P.S
+title: CHERIAN.V
 template: faculties
 hod: false
 teaching: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./image.jpg
-designation: Trade Instructor Gr-II
+designation: TRADESMAN
 dateOfJoining: 01/07/2010
-mobileNumber: 9809855397
-mailid: pratheeshpoothotta38@gmail.com
+mobileNumber: 9847203137
+mailid: cherianv1976@gmail.com

@@ -6,7 +6,7 @@ teaching: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./aneesh.jpg
-designation: Trade Instructor Gr-II
-dateOfJoining: 20/12/2004
-mobileNumber: 9447843374
-mailid: sudhickdvu@gmail.com
+designation: Instructor Gr-II
+dateOfJoining: 01/07/2010
+mobileNumber: 9447719866
+mailid: annkichu@gmail.com

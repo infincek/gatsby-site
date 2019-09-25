@@ -7,6 +7,6 @@ department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./vijaykumar.jpg
 designation: Trade Instructor Gr-II
-dateOfJoining: 20/12/2004
-mobileNumber: 9447843374
-mailid: sudhickdvu@gmail.com
+dateOfJoining: 01/07/2010
+mobileNumber: 8281019040
+mailid: vsvijayakumar11@gmail.com

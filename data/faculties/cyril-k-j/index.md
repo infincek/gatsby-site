@@ -1,12 +1,12 @@
 ---
-title: Dhanyaja Mol M M
+title: Cyril K J
 template: faculties
 hod: false
 teaching: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./female.jpg
-designation: Computer Programmer
-dateOfJoining: 03/05/2018
-mobileNumber: 9497743596
-mailid: dhanyajamol@gmail.com
+designation: Apprentice Trainee
+dateOfJoining: 22/01/2019
+mobileNumber: 7510829054
+mailid: cyril4112@gmail.com

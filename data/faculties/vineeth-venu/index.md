@@ -1,12 +1,12 @@
 ---
-title: Shinu Jacob
+title: Vineeth Venu
 template: faculties
 hod: false
 teaching: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./image.jpg
-designation: Trade Instructor Gr-II
-dateOfJoining: 01/07/2010
-mobileNumber: 9496541663
-mailid: shinu2009@gmail.com
+designation: Apprentice Trainee
+dateOfJoining: 16/07/2019
+mobileNumber: 8893721118
+mailid: vineethvenu1997@gmail.com

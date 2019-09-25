@@ -1,12 +1,12 @@
 ---
-title: Shinu Jacob
+title: Sarath K S 
 template: faculties
 hod: false
 teaching: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./image.jpg
-designation: Trade Instructor Gr-II
-dateOfJoining: 01/07/2010
-mobileNumber: 9496541663
-mailid: shinu2009@gmail.com
+designation: Apprentice Trainee
+dateOfJoining: 16/04/2019
+mobileNumber: 9605476797
+mailid: sarathks782@gmail.com

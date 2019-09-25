@@ -1,7 +1,7 @@
 ---
 title: TINA PG
 template: faculties
-hod: true
+hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
 image: ./image.jpg

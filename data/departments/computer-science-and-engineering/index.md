@@ -40,6 +40,20 @@ Graduates of Computer Science and Engineering at College of Engineering Kidangoo
 - **Project management and finance:** Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
 - **Life-long learning:** Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
 
+### PROGRAM SPECIFIC OUTCOME
+- **PSO1**- Ability to appreciate, learn and develop applications using modern programming languages, and databases.
+- **PS02**- Ability to understand and analyze computer networks, distributed systems and computer system architectures for the designing of  new systems. 
+- **PS03**- Ability to apply knowledge of domains like  machine learning, cloud computing , image processing, data mining and software engineering to tackle innovative problems. 
+
+### PROGRAM EDUCATIONAL OBJECTIVES
+Graduates of Computer Science and Engineering at College of Engineering Kidangoor are expected to:
+- **PEO1**- **Have sound knowledge** and technical skills required to remain productive in the field of Computer Science and Engineering.
+- **PEO2**- **Be efficient team leaders**, effective communicators and successful entrepreneurs.
+- **PEO3**- **Resolve technical problems** with a positive outlook towards well-being of the society.
+- **PEO4**- **Function in diverse environments** with the ability and competence to solve challenging problems.
+- **PEO5**- **Pursue lifelong learning** and professional development through higher education.
+
+
 ### Lab details
 
 - **P.C. Hardware Lab**
