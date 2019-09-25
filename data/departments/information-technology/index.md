@@ -27,26 +27,18 @@ mission: "To provide quality in both the theoretical and applied foundations of 
 
 ### Lab details
 
-- **P.C. Hardware Lab**
+- **P.C. Hardware Lab (Shared)**
 
       	This Lab is well equipped with latest computer systems of different configuration for the purpose of training students. The lab is equipped with more than 12 new branded and 10 old computers. Computers are based on Intel and AMD processors like 8086, 80386,80486, PIII, Celeron and Duron. Motherboards of different types for testing purpose and advanced peripherals like different types of Printers, Scanners, Modems, CDD etc are also available in the Hardware laboratory.
 
-- **Multimedia Lab**
+- **Multimedia Lab (Shared)**
 
       	This lab is well equipped for the study of various multimedia software. This lab is intended for Information technology students in order to expose them to Multimedia Projects like Animation,3D Objects creation etc.
 
-- **System Programming and Advanced Micro Processor Lab**
+- **Cloud Computing Lab (Shared)**
 
-      	This lab is established for the study of low-level programming, which includes assembly level programming and machine level programming. This lab is intended for Information Technology and Computer Science Students.
-
-- **Network and OS Lab**
-
-      	Objective of this lab is to improve the knowledge in the field of Advanced Networking technologies.This Lab is well equipped for the study of various communication protocols like TCP/IPand the familiarization of Unix system calls like stat, fork and creation of semaphores etc.
-
-- **Language Processing Lab**
-
-      	The objective of this Lab is to build small compilers,interpreters and linkers by using the linux environments and lex,flex,yacc tools.This lab is also useful for understanding the design of compilers and assemblers.
+      	It is used for getting efficiency in Cloud Computing, MATLAB and to Conduct Seminars and Short Term training programs. MATLAB software is installed. This lab will help students to learn Cloud Computing and Virtualization technologies. This lab intended for both M.Tech and B.Tech Students.
 
 - **Project Lab**
 
-      	Students can do any online project by using advanced software.This may be web based or stand alone software.This Lab will be help them for handful training in fields of project development cycles
+      	Students can do any online project by using advanced software. This may be web based or stand alone software. This Lab will be help them for handful training in fields of project development cycles.

@@ -40,7 +40,7 @@
               url: /quicklinks/bog
             - name: STUDENT CORNER
               url: /quicklinks/studentscorner
-            - name: TEQUIP
+            - name: TEQIP
               url: /academics/tequip
             - name: TENDER NOTICES
               url: http://172.17.0.50/moodle
@@ -64,5 +64,5 @@
               url: /quicklinks/downloads
             - name: CAMPUS MANAGEMENT SYSTEM
               url: http://webyourcampus.in/CEKDGR/public/home
-            - name: WEBMAIL
+            - name: NBA accreditation 
               url: https://p3plcpnl0662.prod.phx3.secureserver.net:2096/
