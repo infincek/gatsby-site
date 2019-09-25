@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./divya-s-nair.jpg
+image: ./divya-photo.jpg
 designation: Assistant Professor
 # dateOfJoining: 
 experienceTeaching: 9 years

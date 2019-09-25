@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./shalini.jpg
+image: ./salini-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 12/11/2013
 experienceTeaching: 10 Years

@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./raji-raghu.jpg
+image: ./raji-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 6/8/2018
 experienceTeaching: 4 years

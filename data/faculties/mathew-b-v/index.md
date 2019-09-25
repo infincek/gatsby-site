@@ -4,7 +4,7 @@ template: faculties
 hod: true
 department: ce
 departmentFullName: Civil Engineering
-image: ./mathew-hod.jpg
+image: ./mathew-new.jpg
 designation: Professor
 # dateOfJoining:
 experienceTeaching: 31 years

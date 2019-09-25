@@ -5,7 +5,7 @@ hod: false
 teaching: false
 department: ece
 departmentFullName: Electronics and Communication
-image: ./sudheesh.jpg
+image: ./sudheesh-photo1.jpg
 designation: Trade Instructor Gr-II
 dateOfJoining: 20/12/2004
 mobileNumber: 9446738967

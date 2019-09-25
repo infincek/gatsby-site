@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./mary-james-kappen.jpg
+image: ./mary-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 01/07/2010
 experienceTeaching: 10 years

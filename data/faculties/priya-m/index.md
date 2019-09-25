@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./priya-m.jpg
+image: ./priya-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 24/07/2015
 experienceTeaching: 12 years

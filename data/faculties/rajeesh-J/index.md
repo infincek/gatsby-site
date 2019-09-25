@@ -4,7 +4,7 @@ template: faculties
 hod: true
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./rajeesh.jpg
+image: ./rajeesh-new.jpg
 designation: Professor
 dateOfJoining: 31/05/2018
 experienceTeaching: 17 years

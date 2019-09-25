@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./bindu.jpg
+image: ./bindu-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 01/01/2019
 experienceTeaching: 9 years
