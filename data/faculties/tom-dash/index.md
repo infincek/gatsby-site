@@ -16,5 +16,4 @@ phd: NIL
 specialization: NIL
 otherData: "NIL"
 mobileNumber: 8086782321
-mailid: @gmail.com
 ---
