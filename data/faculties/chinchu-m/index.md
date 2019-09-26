@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./image.jpg
+image: ./chinchu-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 25/05/2018
 experienceTeaching: 14 years

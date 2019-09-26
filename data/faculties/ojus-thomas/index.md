@@ -4,7 +4,7 @@ template: faculties
 hod: true
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./ojus1.jpg
+image: ./ojus-photo.jpg
 designation: Associate Professor
 dateOfJoining: 24/01/2001
 experienceTeaching: 20 years

@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
-image: ./sithara.jpg
+image: ./sithara-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 1/7/2010
 experienceTeaching: 10 years

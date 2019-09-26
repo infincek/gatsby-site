@@ -5,7 +5,7 @@ hod: false
 teaching: true
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./helena.jpg
+image: ./helena-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 22/08/2019
 experienceTeaching: Nil

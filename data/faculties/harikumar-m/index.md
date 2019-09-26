@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./harikumar.jpg
+image: ./harikumar-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 24/06/2019
 experienceTeaching: 4.5 Years

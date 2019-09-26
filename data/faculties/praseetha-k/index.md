@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./praseetha-k.jpg
+image: ./praseetha-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 02/07/2019
 experienceTeaching: 10 Years
