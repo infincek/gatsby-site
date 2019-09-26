@@ -3,6 +3,13 @@ title: Placements
 description: Placement details
 template: singlepage
 ---
+
+
+[btn to="/placement/2018" title="2018"][/btn]
+[btn to="/placement/2019" title="2019"][/btn]
+
+<br>
+
 ### CGPC Coodinator
 **Mr. Arun R.Chandran**
 <br>
@@ -21,8 +28,3 @@ Email Address: cgpckgr@gmail.com
 | Mr.Ojus Thomas Lee 	| HOD Computer Science and Engineering 	|
 | Dr.Tina P.G 	| HOD Electronics and Instrumentation Engineering 	|
 | Mr.Suneesh Kurian 	| HOD Applied Science and Humanities 	|
-
-### Years
-
-- [2019](/placement/2019)
-- [2018](/placement/2018)

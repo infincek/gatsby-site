@@ -37,3 +37,9 @@ export const Box = ({attrs, children}) => {
         </div>
     )
 }
+
+export const Button = ({attrs}) => {
+    return(
+        <a href={attrs.to} className="btn" title={attrs.title}>{attrs.title}</a>
+    )
+}
