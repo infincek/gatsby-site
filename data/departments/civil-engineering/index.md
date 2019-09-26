@@ -58,6 +58,7 @@ The laboratory is facilitated with ring and ball apparatus, Aggregate impact tes
 [fl width='500']
 ![Lab2](lab2.jpg)
 [/fl]
+
  **Geo-Technical Engineering Laboratory**
 
 It is well equipped with instruments and machineries for conducting laboratory tests and undergraduate students are being encouraged to do research in the field of geotechnical engineering by making use of facilities available.
