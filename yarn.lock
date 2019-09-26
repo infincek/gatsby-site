@@ -5257,10 +5257,10 @@ gatsby-core-utils@^1.0.6:
   resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.6.tgz#f7fa24b87ad4820d92851a702e6c45d540177033"
   integrity sha512-q03XqN9WO6K/9mXfx0p+pUg+cY2W0wYeNKlNPmkMCYdAO7Rht+vb8mLp0bIQOxooz8hf8O4jr00r+H+xlYZ9rg==
 
-gatsby-custom-md@^1.2.4:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/gatsby-custom-md/-/gatsby-custom-md-1.2.4.tgz#40f634e696d5cb434ab33a1bd7126891b615a7be"
-  integrity sha512-8Rjf3WN6GYLLIUJEnD0wnsvXXkFIAAPaSboZy4XNRyHtyvMHUTb19TpfWeNJ+x/cg7KWSSD2ySixI9d1UXSaeA==
+gatsby-custom-md@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/gatsby-custom-md/-/gatsby-custom-md-1.3.0.tgz#6ccfa010916ed285d3276909b80ead4464e47e7b"
+  integrity sha512-VUOA+mXoX64JoSkbKlodPqJvveJzDFvyx/7MeOKiCzHZDZx1jFLzoBotFE90EMNCXgKEVgis06EH5qMpjx3XBg==
   dependencies:
     html-react-parser "^0.9.1"
     react "^16.8.6"

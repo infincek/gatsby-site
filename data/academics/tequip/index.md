@@ -8,10 +8,10 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 |    Members    |    Name     |    Contact    |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-|    BOG   Chairman    |    Dr.K.Gopakuma    Professor, <br>   Dept of Electronic Systems Engineering ,      Indian Institute of   Science, Bangalore-560012    |    kgop@iisc.ac.in   Mob: 9448227853        |
-|    Principal    |    Dr.   K.G. Viswanadhan    |    cekcape@gmail.com   Mob   :9447414470    |
-|    TEQIP   co-ordinator    |    Dr.Indhu   P. Nair,  Asso. Prof. and HoD Dept. of EEE    |    indhunairp@gmail.com   Mob:8547674266    |
-|    Nodal   Officer(Finance )    |    Sunish   Kurian, AP in ME    |    sunishkurian@gmail.com   mob:9447249867    |
+|    BOG   Chairman    |    Dr.K.Gopakuma    Professor, <br>   Dept of Electronic Systems Engineering , <br>       Indian Institute of   Science, Bangalore-560012    |    kgop@iisc.ac.in <br>  Mob: 9448227853        |
+|    Principal    |    Dr.   K.G. Viswanadhan    |    cekcape@gmail.com <br>  Mob   :9447414470    |
+|    TEQIP   co-ordinator    |    Dr.Indhu   P. Nair, <br> Asso. Prof. and HoD Dept. of EEE    |    indhunairp@gmail.com <br>  Mob:8547674266    |
+|    Nodal   Officer(Finance )    |    Sunish   Kurian,<br> AP in ME    |    sunishkurian@gmail.com   mob:9447249867    |
 |    Nodal   Officer(Academic)     |    Sreelakshmi   S.,     AP in Mathematics    |    sreelaksmianand69@gmail.com   mob:9446283678    |
 |    Nodal   Officer(Procurement)     |    Saji   Justus,  AP in EIE    |    sajijustus@gmail.com   mob:9847460411    |
 |    III   Cell Co-ordinator    |    Gitty   Rose Eugine,  AP in CE    |    gitty.rose@gmail.com   mob:9846418556    |
@@ -29,3 +29,10 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 |    Dr.Indhu   P.Nair    |    HoD   EEE    |    8547674266    |
 
 ###Maintenance Committee
+
+|    Name    |    Designation    |    Contact    |
+|--------------------------|-------------------------------------------------|------------------|
+|    Dr.K.G.Viswanadhan    |    Principal    |    9447414470    |
+|    Linda   Sebastian    |    AP<br>   in CSE    |         |
+|    Saji   Justus    |    Nodal<br>   Officer(Procurement)/AP in EI    |    9847460411    |
+|    Priya   M.    |    AP<br>   in ECE    |    9447797841    |
