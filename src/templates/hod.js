@@ -7,8 +7,6 @@ import Layout from "../components/layout.js";
 export default ({ data }) => {
     const post = data.allMarkdownRemark;
 
-    console.log(post);
-
     const meta = {
         title: "HODs",
         keywords: "HOD, Head of the Departments",

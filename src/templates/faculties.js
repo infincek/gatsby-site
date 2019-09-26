@@ -13,6 +13,7 @@ export default ({ data }) => {
         keywords: post.frontmatter.title
     };
 
+
     return (
         <Layout meta={meta}>
             <div className="page-contents container">
@@ -124,16 +125,16 @@ export default ({ data }) => {
                                     </p>
                                 </li>
                                 }
-                                {post.frontmatter.subject &&
+                                {post.frontmatter.qualification &&
                                 <li>
                                     <div className="header">
                                         <p>
-                                            <i className="fa fa-book" />
-                                            Subject
+                                            <i className="fa fa-bank" />
+                                            Qualification
                                         </p>
                                     </div>
                                     <p className="value">
-                                        {post.frontmatter.subject}
+                                        {post.frontmatter.qualification}
                                     </p>
                                 </li>
                                 }
@@ -247,6 +248,7 @@ export const query = graphql`
                 otherData
                 mobileNumber
                 mailid
+                qualification
             }
         }
     }
