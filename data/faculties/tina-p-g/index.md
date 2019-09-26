@@ -17,4 +17,5 @@ specialization: Genomics Signal Processing
 otherData: "No. of International Journal - 3 , No. of International Conferences - 3, No.of national conferences - 1 "
 mobileNumber: 9496593261
 mailid: tinapgcek@gmail.com
+position: 1
 ---

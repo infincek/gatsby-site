@@ -10,3 +10,4 @@ designation: Apprentice Trainee
 dateOfJoining: 16/07/2019
 mobileNumber: 8893721118
 mailid: vineethvenu1997@gmail.com
+---

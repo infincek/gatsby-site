@@ -17,5 +17,5 @@ You can contact a member of the community via email Provided Below, or directly 
 - Gokuldas K M - Student Program Coordinator
  gokuldas027@gmail.com
 
-- sAthul Cyriac Ajay- Organizing Committee
+- Athul Cyriac Ajay- Organizing Committee
  athul8720@gmail.com

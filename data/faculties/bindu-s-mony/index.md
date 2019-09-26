@@ -17,4 +17,5 @@ specialization: Image Processing, Soft Computing
 otherData: "No. of International Journal - 3"
 mobileNumber: 9446334621
 mailid: bindusmony@gmail.com
+position: 9 
 ---
