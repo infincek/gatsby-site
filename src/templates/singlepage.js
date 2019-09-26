@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import MD from 'gatsby-custom-md';
 import Layout from '../components/layout';
-import { Row, Col, Fl, Box } from '../components/custom';
+import { Row, Col, Fl, Box, Button } from '../components/custom';
 import '../style/single-page.less';
 
 const components = {
@@ -10,6 +10,7 @@ const components = {
     col: Col,
     fl: Fl,
     box: Box,
+    btn: Button
 }
 
 export default ({ data }) => {
