@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./image.jpg
+image: ./vimal.jpg
 designation: Assistant Professor
 dateOfJoining: 01/06/2018
 experienceTeaching: 11 years

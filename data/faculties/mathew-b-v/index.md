@@ -4,7 +4,7 @@ template: faculties
 hod: true
 department: ce
 departmentFullName: Civil Engineering
-image: ./mathew.jpg
+image: ./mathew-hod.jpg
 designation: Professor
 # dateOfJoining:
 experienceTeaching: 31 years
@@ -16,5 +16,5 @@ phd: Madras University
 specialization: Civil Engineering- Engineering Education
 otherData: "NIL"
 mobileNumber: 9526304512
-mailId: bvmathew11@gmail.com
+mailid: bvmathew11@gmail.com
 ---

@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./image.jpg
+image: ./reshmi.jpg
 designation: Assistant Professor
 dateOfJoining: 30/05/2017
 experienceTeaching: 8.5 years

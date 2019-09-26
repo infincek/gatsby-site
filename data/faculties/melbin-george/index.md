@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ece
 departmentFullName: Electronics and communication
-image: ./image.jpg
+image: ./melbin-ec.jpg
 designation: Assistant Professor
 dateOfJoining: 31/05/2019
 experienceTeaching: 3 years

@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics
-image: ./image.jpg
+image: ./haridas.jpg
 designation: Assistant Professor
 dateOfJoining: 15/06/2019
 experienceTeaching: 9 Years
