@@ -129,7 +129,8 @@ query($slug: String!, $name: String) {
         filter: {
             frontmatter: { department: { eq: $name }, hod: {eq: false}, teaching: { ne: false} }
             fileAbsolutePath: { regex: "/faculties/" }
-        }
+        },
+        sort: {fields: frontmatter___position}
     ) {
         edges {
             node {
