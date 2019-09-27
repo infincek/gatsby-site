@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
+import Img from "gatsby-image";
 import Layout from '../components/layout';
 import PlacementList from '../components/placement-list';
 
@@ -33,6 +34,19 @@ export default function({data}) {
         )
     })
 
+    const currentlyPlacedStudents = [];
+
+    currentYearPlacements.forEach((cpe) => {
+        if(cpe.frontmatter.selections){
+            currentlyPlacedStudents.push(...cpe.frontmatter.selections);
+        }
+    })
+
+    const listPlacedStudents = [];
+
+    currentlyPlacedStudents.forEach((cpe, cpi) => {
+        listPlacedStudents.push(<PlacementSelection data={cpe} key={cpe.name+""+cpi}/>);
+    })
 
     return (
         <Layout meta={meta}>
@@ -47,6 +61,11 @@ export default function({data}) {
                                 {years}
                             </div>
                         </div>
+                        <h3>Students</h3>
+                        <div className="row flex">
+                            {listPlacedStudents}
+                        </div>
+                        <h3>Companies</h3>
                         <div className="row flex">
                             <PlacementList data={currentYearPlacements}/>
                         </div>
@@ -54,6 +73,29 @@ export default function({data}) {
                 </div>
             </div>
         </Layout>
+    );
+}
+
+const PlacementSelection = ({data}) => {
+    return (
+        <div className="col s12 m6 l4 student">
+            <div className="box">
+                <div className="image">
+                    <Img
+                        fluid={
+                            data.image.childImageSharp.fluid
+                        }
+                        alt={data.name}
+                    />
+                </div>
+                <div className="description">
+                    <h5 className="name">{data.name}</h5>
+                    <p className="dep">
+                        {data.department}
+                    </p>
+                </div>
+            </div>
+        </div>
     );
 }
 
@@ -77,6 +119,19 @@ export const query = graphql`
                             fluid(maxWidth: 1000) {
                                 srcSet
                                 ...GatsbyImageSharpFluid_tracedSVG
+                            }
+                        }
+                    }
+                    selections{
+                        name
+                        department
+                        image{
+                            publicURL
+                            childImageSharp {
+                                fluid(maxWidth: 1000) {
+                                    srcSet
+                                    ...GatsbyImageSharpFluid_tracedSVG
+                                }
                             }
                         }
                     }
