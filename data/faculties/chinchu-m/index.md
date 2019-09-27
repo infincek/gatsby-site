@@ -17,4 +17,5 @@ specialization:
 otherData: "No. of International Conferences - 1,No.of national conferences - 2"
 mobileNumber: 9400093154
 mailid: chinchubibin13@gmail.com
+position: 1
 ---

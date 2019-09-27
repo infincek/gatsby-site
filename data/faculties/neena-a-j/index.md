@@ -17,4 +17,5 @@ specialization: NIL
 otherData: "No. of International Journal - 1,No. of National Journal - 2 ,No.of national conferences - 2"
 mobileNumber: 9946940049
 mailid: neena.aj09@gmail.com
+position: 6
 ---
