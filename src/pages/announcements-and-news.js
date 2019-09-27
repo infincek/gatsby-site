@@ -82,7 +82,7 @@ query {
             node {
                 data
                 new
-                date
+                date(formatString: "DD MMMM YYYY")
             }
         }
     }
@@ -91,7 +91,7 @@ query {
             node {
                 data
                 new
-                date
+                date(formatString: "DD MMMM YYYY")
             }
         }
     }

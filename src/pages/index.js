@@ -1,8 +1,8 @@
 import React from 'react';
+import { Link } from 'gatsby';
 import Layout from '../components/layout';
 import Wall from '../components/indexWallInfo';
 import Welcome from '../components/indexWelcome';
-import Announcements from '../components/announcements';
 import Tenders from "../components/tenders"
 import News from '../components/news';
 import CampusLife from '../components/campus-life';
@@ -33,7 +33,7 @@ export default class props extends React.Component {
                                 <div className="col s12 m6">
                                     <ul className="collection with-header">
                                         <li className="collection-header">
-                                            <h4>Tenders</h4>
+                                            <h4>Tenders <Link to="/tenders" title="View all Announcements"><i className="fa fa-chain"></i></Link></h4>
                                         </li>
                                         <Tenders />
                                     </ul>
@@ -41,7 +41,7 @@ export default class props extends React.Component {
                                 <div className="col s12 m6">
                                     <ul className="collection with-header">
                                         <li className="collection-header">
-                                            <h4>Latest News</h4>
+                                            <h4>Latest News <Link to="/announcements-and-news" title="View all Announcements and news"><i className="fa fa-chain"></i></Link></h4>
                                         </li>
                                         <News />
                                     </ul>
