@@ -13,7 +13,7 @@ Area of Specialisation: Mechanical Engineering, Production Engineering
 
 **Education Summary**
 
-* Ph.D in Quality Engineering & Management form IISc Bangalore
+* Ph.D in Quality Engineering & Management from IISc Bangalore
 * M.Tech in Production Engineering from PSG College of Technology, Coimbatore
 * B.Tech in Mechanical Engineering from M A College of Engineering, Kothamangalam
 
