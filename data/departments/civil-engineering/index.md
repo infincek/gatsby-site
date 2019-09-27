@@ -12,6 +12,7 @@ intro: "The Civil Engineering Department was established in 2010, and now has be
 vision: "To be a leading centre of eminence, providing competent civil engineering professionals, with state of the art knowledge of the industry and commitment to sustainable development of the society."
 mission: "To provide quality education to students at undergraduate through constant knowledge upgradation and, to strive to maintain pace with the latest and most sophisticated innovations, research and development in the field of civil engineering within the ambit of sustainable development."
 ---
+
 ###Program Educational Objectives
 
 The following objectives are what the faculty expects graduates from the program to be able to accomplish a few years after the commencement of their careers and stem directly from the program mission. The alumni from the Bachelor of Technology in Civil Engineering (B. Tech. CE) program at Civil Engineering Department of College of Engineering Kidangoor should:
@@ -58,6 +59,7 @@ The laboratory is facilitated with ring and ball apparatus, Aggregate impact tes
 [fl width='500']
 ![Lab2](lab2.jpg)
 [/fl]
+
  **Geo-Technical Engineering Laboratory**
 
 It is well equipped with instruments and machineries for conducting laboratory tests and undergraduate students are being encouraged to do research in the field of geotechnical engineering by making use of facilities available.
