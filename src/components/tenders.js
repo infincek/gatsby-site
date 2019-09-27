@@ -13,7 +13,7 @@ export default class props extends React.Component {
                                 node {
                                     data
                                     new
-                                    date
+                                    date(formatString: "DD MMMM YYYY")
                                 }
                             }
                         }
@@ -30,7 +30,6 @@ export default class props extends React.Component {
 function getData(data) {
     const ann = [];
     data.allTendersYaml.edges.forEach(function(item, i) {
-      console.log(item)
         ann.push(
             <ListItem key={"tender"+i} data={item.node}/>
         );

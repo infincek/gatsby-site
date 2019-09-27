@@ -1,5 +1,5 @@
 import React from 'react';
-import { StaticQuery, graphql } from 'gatsby';
+import { StaticQuery, graphql, Link } from 'gatsby';
 import marked from 'marked';
 import Slider from 'react-slick';
 import Img from 'gatsby-image';
@@ -8,6 +8,7 @@ import Announcements from './announcements';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import style from '../style/wall.module.less';
+import ann from '../style/announcements.module.less';
 
 var settings = {
     dots: true,
@@ -30,10 +31,10 @@ class Wall extends React.Component {
                     <div className="welcome-slider">
                         <Slider {...settings}>{getCarousel(data)}</Slider>
                     </div>
-                    <div className="announcements">
+                    <div className={"announcements "+ann.announcements}>
                         <Scrollbars autoHide>
                             <div className="title-strip">
-                                <h3>Announcements</h3>
+                                <h3>Announcements <Link to="/announcements-and-news" title="View all Announcements"><i className="fa fa-chain"></i></Link></h3>
                             </div>
                             <ul className="collection">
                                 <Announcements />

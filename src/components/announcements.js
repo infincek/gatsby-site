@@ -3,7 +3,6 @@ import { StaticQuery, graphql } from 'gatsby';
 import marked from 'marked';
 
 export default class props extends React.Component {
-    componentDidMount() {}
     render() {
         return (
             <StaticQuery
@@ -13,29 +12,42 @@ export default class props extends React.Component {
                             edges {
                                 node {
                                     data
+                                    new
+                                    date(formatString: "DD MMMM YYYY")
                                 }
                             }
                         }
                     }
                 `}
                 render={data => (
-                    <React.Fragment>{getAnnouncements(data)}</React.Fragment>
+                    <React.Fragment>{getData(data)}</React.Fragment>
                 )}
             />
         );
     }
 }
 
-function getAnnouncements(data) {
+function getData(data) {
     const ann = [];
     data.allAnnouncementsYaml.edges.forEach(function(item, i) {
         ann.push(
-            <li
-                className="collection-item"
-                key={i}
-                dangerouslySetInnerHTML={{ __html: marked(item.node.data) }}
-            />
+            <ListItem key={"announcement"+i} data={item.node}/>
         );
     });
     return ann;
+}
+
+const ListItem = ({data}) => {
+    return(
+        <li className="collection-item">
+            {data.new &&
+                <span className="badge">new</span>
+            }
+            <div dangerouslySetInnerHTML={{ __html: marked(data.data) }}></div>
+            {
+                data.date &&
+                <span className="date"><i className="fa fa-calendar"></i> {data.date}</span>
+            }
+        </li>
+    )
 }

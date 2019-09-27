@@ -1,6 +1,5 @@
 import React from "react";
-import { graphql, Link } from"gatsby";
-import Img from "gatsby-image";
+import { graphql } from"gatsby";
 import marked from "marked"
 import Layout from "../components/layout";
 import '../style/single-page.less';
@@ -62,7 +61,7 @@ query {
             node {
                 data
                 new
-                date
+                date(formatString: "DD MMMM YYYY")
             }
         }
     }

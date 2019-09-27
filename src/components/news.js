@@ -1,47 +1,53 @@
 import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
 import marked from 'marked';
-marked.setOptions({
-    renderer: new marked.Renderer(),
-    pedantic: false,
-    gfm: true,
-    tables: true,
-    breaks: false,
-    sanitize: false,
-    smartLists: true,
-    smartypants: false,
-    xhtml: true
-});
 
-export default props => (
-    <StaticQuery
-        query={graphql`
-            query {
-                allNewsYaml(limit: 5) {
-                    edges {
-                        node {
-                            data
+export default class props extends React.Component {
+    render() {
+        return (
+            <StaticQuery
+                query={graphql`
+                    query {
+                        allNewsYaml(limit: 5) {
+                            edges {
+                                node {
+                                    data
+                                    new
+                                    date(formatString: "DD MMMM YYYY")
+                                }
+                            }
                         }
                     }
-                }
-            }
-        `}
-        render={data => (
-            <React.Fragment>{getAnnouncements(data)}</React.Fragment>
-        )}
-    />
-);
+                `}
+                render={data => (
+                    <React.Fragment>{getData(data)}</React.Fragment>
+                )}
+            />
+        );
+    }
+}
 
-function getAnnouncements(data) {
+function getData(data) {
     const ann = [];
     data.allNewsYaml.edges.forEach(function(item, i) {
         ann.push(
-            <li
-                className="collection-item"
-                key={i}
-                dangerouslySetInnerHTML={{ __html: marked(item.node.data) }}
-            />
+            <ListItem key={"news"+i} data={item.node}/>
         );
     });
     return ann;
+}
+
+const ListItem = ({data}) => {
+    return(
+        <li className="collection-item">
+            {data.new &&
+                <span className="badge">new</span>
+            }
+            <div dangerouslySetInnerHTML={{ __html: marked(data.data) }}></div>
+            {
+                data.date &&
+                <span className="date"><i className="fa fa-calendar"></i> {data.date}</span>
+            }
+        </li>
+    )
 }
