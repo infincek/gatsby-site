@@ -16,8 +16,8 @@ marked.setOptions({
 export default props => (
     <StaticQuery
         query={graphql`
-            query NewsQuery {
-                allNewsYaml {
+            query {
+                allNewsYaml(limit: 5) {
                     edges {
                         node {
                             data

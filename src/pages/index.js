@@ -3,6 +3,7 @@ import Layout from '../components/layout';
 import Wall from '../components/indexWallInfo';
 import Welcome from '../components/indexWelcome';
 import Announcements from '../components/announcements';
+import Tenders from "../components/tenders"
 import News from '../components/news';
 import CampusLife from '../components/campus-life';
 import Departments from '../components/departments';
@@ -24,7 +25,7 @@ export default class props extends React.Component {
                     <div className="container">
                         <div className="title">
                             <h2 className="underlined">
-                                Announcements and News
+                                Tenders and News
                             </h2>
                         </div>
                         <div className="contents">
@@ -32,9 +33,9 @@ export default class props extends React.Component {
                                 <div className="col s12 m6">
                                     <ul className="collection with-header">
                                         <li className="collection-header">
-                                            <h4>Announcements</h4>
+                                            <h4>Tenders</h4>
                                         </li>
-                                        <Announcements />
+                                        <Tenders />
                                     </ul>
                                 </div>
                                 <div className="col s12 m6">

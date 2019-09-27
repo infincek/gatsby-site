@@ -8,8 +8,8 @@ export default class props extends React.Component {
         return (
             <StaticQuery
                 query={graphql`
-                    query AnnouncementsQuery {
-                        allAnnouncementsYaml {
+                    query {
+                        allAnnouncementsYaml(limit: 5) {
                             edges {
                                 node {
                                     data
