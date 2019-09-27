@@ -8,6 +8,7 @@ import Announcements from './announcements';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import style from '../style/wall.module.less';
+import ann from '../style/announcements.module.less';
 
 var settings = {
     dots: true,
@@ -30,7 +31,7 @@ class Wall extends React.Component {
                     <div className="welcome-slider">
                         <Slider {...settings}>{getCarousel(data)}</Slider>
                     </div>
-                    <div className="announcements">
+                    <div className={"announcements "+ann.announcements}>
                         <Scrollbars autoHide>
                             <div className="title-strip">
                                 <h3>Announcements</h3>

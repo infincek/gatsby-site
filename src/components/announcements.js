@@ -13,7 +13,7 @@ export default class props extends React.Component {
                                 node {
                                     data
                                     new
-                                    date
+                                    date(formatString: "DD MMMM YYYY")
                                 }
                             }
                         }
