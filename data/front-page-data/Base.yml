@@ -1,13 +1,13 @@
 - data:
     image: ./images/college.jpg
     carousel:
-        - image: ./images/collegenew-04 (2).jpg
+        - image: ./images/cllslid.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
-        - image: ./images/placement posters Placement Cell.jpg
+        - image: ./images/cllplace.jpg
           title:
           description:
-        - image: ./images/gandhiji (2).jpg
+        - image: ./images/cllgan.jpg
     announcements:
         - College of Engineering Kidangoor invites sealed tenders from the registered Contractors for Painting and construction work. For getting previous details
     welcomeMessage: |-
@@ -43,7 +43,7 @@
             - name: TEQIP
               url: /academics/tequip
             - name: TENDER NOTICES
-              url: http://172.17.0.50/moodle
+              url: /tenders/
         col2:
             - name: PTA
               url: /quicklinks/pta
@@ -64,5 +64,5 @@
               url: /quicklinks/downloads
             - name: CAMPUS MANAGEMENT SYSTEM
               url: http://webyourcampus.in/CEKDGR/public/home
-            - name: CAPE  
+            - name: CAPE
               url: https://p3plcpnl0662.prod.phx3.secureserver.net:2096/
