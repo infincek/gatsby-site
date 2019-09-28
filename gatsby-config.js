@@ -8,6 +8,7 @@ module.exports = {
     siteMetadata: {
         title: 'College of Engineering, Kidangoor',
         logo: '/images/logo.png',
+        siteUrl: 'https://www.ce-kgr.org/',
         mobLogo: '/images/moblogo.png',
         description:
             ' College of Engineering, Kidangoor (CEK), Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala. Now the institution is glistening with outstanding records in both academic and extracurricular fields backed by excellent faculty and full-fledged facilities.',
@@ -186,6 +187,7 @@ module.exports = {
                 path: `${__dirname}/data`
             }
         },
+        `gatsby-plugin-sitemap`,
         `gatsby-plugin-react-helmet`,
         `gatsby-transformer-yaml`,
         `gatsby-plugin-less`
