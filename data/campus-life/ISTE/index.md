@@ -2,6 +2,6 @@
 title: ISTE
 image: ./lumiere.png
 template: singlepage
-description: ISTE
+description: Coming Soon
 ---
 <h1>Coming Soon</h1>
