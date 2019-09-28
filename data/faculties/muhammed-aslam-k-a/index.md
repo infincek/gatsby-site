@@ -3,6 +3,7 @@ title: MUHAMMED ASLAM K.A
 template: faculties
 hod: false
 teaching: false
+qualification: ITI
 department: eee
 departmentFullName: Electrical & Electronics Engineering
 image: ./image.jpg

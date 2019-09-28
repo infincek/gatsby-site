@@ -3,6 +3,7 @@ title: Binu Joseph
 template: faculties
 hod: false
 teaching: false
+qualification: ITI, Diploma
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
 image: ./binu-photo.jpg

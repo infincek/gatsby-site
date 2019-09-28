@@ -3,6 +3,7 @@ title: ANEESH K.A
 template: faculties
 hod: false
 teaching: false
+qualification: Diploma
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./aneesh-photo.jpg

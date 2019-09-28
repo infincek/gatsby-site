@@ -3,6 +3,7 @@ title: Cyril K J
 template: faculties
 hod: false
 teaching: false
+qualification: ITI
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./female.jpg
