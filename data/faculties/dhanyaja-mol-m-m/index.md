@@ -3,6 +3,7 @@ title: Dhanyaja Mol M M
 template: faculties
 hod: false
 teaching: false
+qualification: B.Tech in Computer Science
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./female.jpg

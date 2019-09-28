@@ -3,6 +3,7 @@ title: CHERIAN.V
 template: faculties
 hod: false
 teaching: false
+qualification: ITI
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./image.jpg

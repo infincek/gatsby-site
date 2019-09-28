@@ -3,6 +3,7 @@ title: ANUSHA.P.A
 template: faculties
 hod: false
 teaching: false
+qualification: Diploma 
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./image.jpg

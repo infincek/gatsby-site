@@ -3,6 +3,7 @@ title: Bismina Beegum
 template: faculties
 hod: false
 teaching: false
+qualification: Degree , ITI
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./female.jpg

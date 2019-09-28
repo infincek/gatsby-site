@@ -3,6 +3,7 @@ title: Vineeth Venu
 template: faculties
 hod: false
 teaching: false
+qualification: Diploma in Computer Science
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./image.jpg

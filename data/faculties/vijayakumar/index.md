@@ -3,6 +3,7 @@ title: VIJAYAKUMAR .A
 template: faculties
 hod: false
 teaching: false
+qualification: ITI, Diploma
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./vijayakumar-photo.jpg

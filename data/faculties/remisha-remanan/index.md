@@ -3,6 +3,7 @@ title: Remisha Remanan
 template: faculties
 hod: false
 teaching: false
+qualification: ITI, Diploma
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./image.jpg
