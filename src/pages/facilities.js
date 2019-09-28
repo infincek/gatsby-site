@@ -15,7 +15,7 @@ export default ({ data }) => {
     const facilities = [];
     data.allMarkdownRemark.edges.forEach((e,i) => {
         facilities.push(
-            <Facility data={e.node}/>
+            <Facility data={e.node} key={e.node.id}/>
         )
     })
     return(

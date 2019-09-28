@@ -5,8 +5,10 @@ template: singlepage
 ---
 
 
-[btn to="/placement/2018" title="2018"][/btn]
-[btn to="/placement/2019" title="2019"][/btn]
+
+[btn to="/placement/2019" title="2019 Placements"][/btn]
+[btn to="/placement/2018" title="2018 Placements"][/btn]
+[btn to="/placement/2017" title="2017 Placements"][/btn]
 
 <br>
 
