@@ -41,7 +41,7 @@ const ListItem = ({data}) => {
     return(
         <li className="collection-item">
             {data.new &&
-                <span className="badge">new</span>
+                <span className="badge">New</span>
             }
             <div dangerouslySetInnerHTML={{ __html: marked(data.data) }}></div>
             {
