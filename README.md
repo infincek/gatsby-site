@@ -65,9 +65,9 @@ This is Our LightHouse Audit results
 
   - [x] SEO
   - [x] Naming convention for Faculties and Departments
-  - [ ] Page for campus life
-  - [ ] Page for independent data
+  - [x] Page for campus life
+  - [x] Page for independent data
   - [x] Favicon
-  - [ ] Working contact form
-  - [ ] Placement Page
-  - [ ] Research page
+  - [x] Working contact form
+  - [x] Placement Page
+  - [x] Research page
