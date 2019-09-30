@@ -20,7 +20,7 @@ image: ./college.jpg
 	</div>
 	<div class="col s12 m6">
 		<p class="font-2"><b>Vision</b></p>
-		<p>To be a leading engineering institution in the region, providing competent professionals, who engage in lifelong learning, driven by societyal values.</p>
+		<p>To be a leading engineering institution in the region, providing competent professionals, who engage in lifelong learning, driven by social values.</p>
 		<p class="font-2"><b>Quality Policy of Institution</b></p>
 		<p>We are committed to moulding,competent professionals in engineering with integrity, fairness, technological excellence, human and social values who engage in lifelong learning through good teaching practices and professional excellence to meet the requirements of the prospective employers,the industry and the society with high degree of satisfaction through continual improvement.</p>
 	</div>
