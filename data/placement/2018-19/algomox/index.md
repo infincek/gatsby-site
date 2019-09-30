@@ -1,7 +1,7 @@
 ---
 title: Algomox
 description: Information Technology & Services  BANGALORE, KARNATAKA
-logo: ./logo.png
+logo: ./algomox.jpg
 template: placement
 selections:
     - name: Joseph Thomas
