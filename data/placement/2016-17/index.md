@@ -1,7 +1,7 @@
 ---
-title: 2017 Placements
+title: 2016-17 Placements
 description: Placement details for the year 2018
-template: singlepage
+template: placementlist
 ---
 | Sl. No. 	| Name of Student 	| Branch 	| Company 	|
 |:-------:	|:--------------------:	|:------:	|:---------------------------------------------:	|
