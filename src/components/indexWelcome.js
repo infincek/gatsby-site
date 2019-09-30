@@ -46,7 +46,7 @@ export default props => (
                                     )
                                 }}
                             />
-                            <div className="col s12 m6">
+                            <div className="col s12 m6 p2">
                                 <p
                                     className="font-2"
                                     style={{ margin: margin }}
@@ -78,7 +78,7 @@ export default props => (
                                     }}
                                 />
                             </div>
-                            <div className="col s12 m6">
+                            <div className="col s12 m6 p2">
                                 <p
                                     className="font-2"
                                     style={{ margin: margin }}
