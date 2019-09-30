@@ -3,6 +3,7 @@ import { graphql, Link } from 'gatsby';
 import Img from "gatsby-image";
 import Layout from '../components/layout';
 import PlacementList from '../components/placement-list';
+import "../style/single-page.less";
 
 const meta = {
     title: 'Placements',
@@ -48,9 +49,11 @@ export default function({data}) {
         listPlacedStudents.push(<PlacementSelection data={cpe} key={cpe.name+""+cpi}/>);
     })
 
+    meta.title = data.currentYear.frontmatter.title;
+
     return (
         <Layout meta={meta}>
-            <div className="section placement">
+            <div className="placement page-contents">
                 <div className="container">
                     <div className="title">
                         <h2 className="underlined">Placements</h2>
@@ -61,14 +64,25 @@ export default function({data}) {
                                 {years}
                             </div>
                         </div>
-                        <h3>Students</h3>
-                        <div className="row flex">
-                            {listPlacedStudents}
+                        <div className="row">
+                            <div dangerouslySetInnerHTML={{ __html: data.currentYear.html }}/>
                         </div>
-                        <h3>Companies</h3>
-                        <div className="row flex">
-                            <PlacementList data={currentYearPlacements}/>
-                        </div>
+                        {listPlacedStudents.length > 0 && 
+                            <React.Fragment>
+                                <h3 className="p2">Students</h3>
+                                <div className="row flex">
+                                    {listPlacedStudents}
+                                </div>
+                            </React.Fragment>
+                        }
+                        {currentYearPlacements.length > 0 && 
+                            <React.Fragment>
+                                <h3 className="p2">Companies</h3>
+                                <div className="row flex">
+                                    <PlacementList data={currentYearPlacements}/>
+                                </div>
+                            </React.Fragment>
+                        }
                     </div>
                 </div>
             </div>
@@ -103,6 +117,10 @@ export const query = graphql`
     query($slug: String!){
         currentYear:markdownRemark(fields: {slug: {eq: $slug}}) {
             id
+            html
+            frontmatter{
+                title
+            }
             fields{
                 slug
             }
