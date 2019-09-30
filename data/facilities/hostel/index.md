@@ -6,4 +6,11 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ---
 
 
-A number of hostels for both boys and girls, with good quality food and amenities are available near the College. The facilities available for boys and girls at present are adequate. Private owners manage these hostels and the Parent Teachers Association (PTA) of the College closely monitors their functioning. For the information and guidance of the students, the hostels have been graded on a five-point scale and published. The new entrants to the College and their parents can draw information from this and choose a hostel of their liking. Permanent Hostel buildings of the College initially for girls and later for boys will be established at the permanent site, only after the completion of the construction of various blocks
+A number of hostels for both boys and girls, with good quality food and amenities are available near the College. The facilities available for boys and girls at present are adequate. Private owners manage these hostels and the Parent Teachers Association (PTA) of the College closely monitors their functioning. For the information and guidance of the students, the hostels have been graded on a five-point scale and published. The new entrants to the College and their parents can draw information from this and choose a hostel of their liking. Permanent Hostel buildings of the College initially for girls and later for boys will be established at the permanent site, only after the completion of the construction of various blocks.
+
+College provides hostel facility for 280 students in hostels located within 800 meters from the campus. Separate hostel facilities are available for boys and girls. Boys hostel can accommodate 135 students and girls hostel can accommodate 145 students. Tidy rooms and hygienic facilities make for an ideal stay away from home ambience. The mess facilities in the hostels are designed to meet hygiene standards. All these hostels are fully under the control of college PTA. College Ladies Hostel with an intake capacity of 100 students is under construction and expected to be completed by Dec 2019.
+
+College Office –  0482-2256056<br>
+PTA Secretary –  Rinson Varghese, Assistant Professor in ECE<br>
+Ladies Hostel Warden – Bushara M, Assistant Professor in ECE<br>
+Gents Hostel Warden – Saji Justus, Assistant Professor in ECE
