@@ -17,7 +17,7 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 | Programs | Merit | Management | NRI | Total |
 |-----------------------------------------|-------|------------|-----|-------|
 | B tech in Civil Engineering | 36 | 19+2* | 3 | 60 |
-| B tech in Computer Science | 54 | 30+2* | 4 | 90 |
+| B tech in Computer Science and Engineering | 54 | 30+2* | 4 | 90 |
 | B Tech in Electronics and Communication | 36 | 19+2* | 3 | 60 |
 | B Tech in Electrical and Electronics | 36 | 19+2* | 3 | 60 |
 | Total | 162 | 95 | 13 | 270 |
