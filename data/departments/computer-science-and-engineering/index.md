@@ -42,8 +42,8 @@ Graduates of Computer Science and Engineering at College of Engineering Kidangoo
 
 ### PROGRAM SPECIFIC OUTCOME
 - **PSO1**- Ability to appreciate, learn and develop applications using modern programming languages, and databases.
-- **PS02**- Ability to understand and analyze computer networks, distributed systems and computer system architectures for the designing of  new systems. 
-- **PS03**- Ability to apply knowledge of domains like  machine learning, cloud computing , image processing, data mining and software engineering to tackle innovative problems. 
+- **PSO2**- Ability to understand and analyze computer networks, distributed systems and computer system architectures for the designing of  new systems. 
+- **PSO3**- Ability to apply knowledge of domains like  machine learning, cloud computing , image processing, data mining and software engineering to tackle innovative problems. 
 
 ### PROGRAM EDUCATIONAL OBJECTIVES
 Graduates of Computer Science and Engineering at College of Engineering Kidangoor are expected to:
@@ -58,28 +58,26 @@ Graduates of Computer Science and Engineering at College of Engineering Kidangoo
 
 - **P.C. Hardware Lab**
 
-This Lab is well equipped with latest computer systems of different configuration for the purpose of training students. The lab is equipped with more than 12 new branded and 10 old computers. Computers are based on Intel and AMD processors like 8086, 80386,80486, PIII, Celeron and Duron. Motherboards of different types for testing purpose and advanced peripherals like different types of Printers, Scanners, Modems, CDD etc are also available in the Hardware laboratory.
-
-- **Multimedia Lab**
-
-This Lab is well equipped with 35 branded computer systems of different configuration . This lab is well equipped for the study of various multimedia software. This lab is intended for Information technology and Computer Science students in order to expose them to Multimedia Projects like Animation,3D Objects creation etc.
-
-- **Basic Computational Lab**
-
-BCL is established for the study of low-level programming, which includes assembly level programming and machine level programming. This lab is equipped with more than 35 Computer System. This lab is intended for Information Technology and Computer Science Students.
-
-- **Image Processing Lab**
-
-Objective of this lab is to improve the knowledge in the field of Advanced Networking technologies and .This Lab is well equipped for the study of various communication protocols like TCP/IPand the familiarization of Unix system calls like stat, fork and creation of semaphores etc.
-
-- **Project Lab**
-
-Students can do any online project by using advanced software.This may be web based or stand alone software.This Lab will be help them for handful training in fields of project development cycles.
-
-- **Research Lab**
-
-This lab is intended for M.Tech students. It is used for Implementation of multi domain research projects. This lab will helps students to better understand published works, learn to balance collaborative and individual work, determine an area of interest, and jump start their careers as researchers.
+PC Hardware lab is meant to provide hardware related training to students of the programme. This involves introducing and familiarization of various hardware components. This lab enables students to understand the working and troubleshooting of computers. In addition, microprocessor (8086) and microcontroller (8051) programming familiarization and related experiments are also conducted in the lab.
 
 - **Cloud Computing Lab**
 
-It is used for getting efficiency in Cloud Computing, MATLAB and to Conduct Seminars and Short Term training programs. MATLAB softwrae is installed. This lab will help students to learn Cloud Computing and Virtualization technologies. This lab intended for both M.Tech and B.Tech Students.        
+Cloud computing lab is having 15 systems and NAS facility for training students in the cloud computing domain. Students use this facility to do cloud related projects. In addition this facility is also used to run the Web Application Development laboratory for IT students. Building and troubleshooting the front end and back end of web application are taught in this lab.       
+
+- **Basic Computational Lab**
+
+Basic Computational lab has 36 computers to do basic and core programming labs of the curriculum. The lab is having power backup by 2 Nos of 5 KVA UPS. A Major course handled in this laboratory is data structure lab which teaches students on implementation of the data structure concepts. Data structure implementations are done using C and Java programming languages. Another major course is the Network OS lab where the students practice the ideas on network and operating systems which they have learned in theory. The lab also provides facility to practice Django framework of python.
+
+
+- **Multimedia Lab**
+
+Multimedia lab has 35 computers of latest configuration with 2Nos of 5 KVA UPS.  This lab provides platform for training the students on the lab courses of database, compiler. Students practice data base concepts in this lab using MySQL. Working of the compilers are taught in the compiler lab with the help of Lex and YACC softwares. This lab also has python based tools to practice machine learning.
+
+
+- **Image Processing Lab**
+
+ Image processing lab has 22 computers with i5 based processors and is supported by a 10KVA UPS. The major lab course provided in the lab are image processing for the M.Tech students, database lab for B.Tech CSE students. M.Tech students use the MATLAB software to practice the image processing concepts. Oracle database is used by the students to practice data base concepts in this lab.
+
+- **Research & Project Lab**
+
+This lab has got 18 systems with one 5 KVA UPS. The lab is mainly used by the M.Tech students for their regular labs and research work. This lab is also used for the B.Tech projects.

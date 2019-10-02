@@ -34,9 +34,12 @@ module.exports = {
                         name: 'CAPE',
                         link: '/about/cape'
                     },
-
                     {
-                        name: 'HOD',
+                        name: 'Administration',
+                        link: '/about/administration'
+                    },
+                    {
+                        name: 'HODs',
                         link: '/about/hod'
                     }
                 ]
@@ -95,6 +98,10 @@ module.exports = {
                         link: '/departments/civil-engineering'
                     },
                     {
+                        name: 'Computer Science Engineering',
+                        link: '/departments/computer-science-and-engineering'
+                    },
+                    {
                         name: 'Electrical & Electronics Engineering',
                         link:
                             '/departments/electrical-and-electronics-engineering/'
@@ -108,10 +115,6 @@ module.exports = {
                         name: 'Electronics & Communication Engineering',
                         link:
                             '/departments/electronics-and-communication-engineering'
-                    },
-                    {
-                        name: 'Computer Science Engineering',
-                        link: '/departments/computer-science-and-engineering'
                     },
                     {
                         name: 'Information Technology',

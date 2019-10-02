@@ -36,12 +36,12 @@
         col1:
             - name: Moodle@cek
               url: http://172.17.0.50/moodle
-            - name: BOG MEMBERS-TEQIP
-              url: /quicklinks/bog
+            - name: Office
+              url: /quicklinks/office
             - name: STUDENT CORNER
               url: /quicklinks/studentscorner
             - name: TEQIP
-              url: /academics/tequip
+              url: /quicklinks/teqip
             - name: TENDER NOTICES
               url: /tenders/
         col2:
