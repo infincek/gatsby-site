@@ -35,7 +35,7 @@
     quickLinks:
         col1:
             - name: Moodle@cek
-              url: http://172.17.0.50/moodle
+              url: http://moodle.cekgr.co.in
             - name: Office
               url: /quicklinks/office
             - name: STUDENT CORNER
