@@ -53,12 +53,12 @@ export default ({ data }) => {
                     <div className="row">
                         <div className="col s12 m6">
                             <p className="font-2">
-                                <b>Mission</b>
+                                <b>Vision</b>
                             </p>
                             <div
                                 dangerouslySetInnerHTML={{
                                     __html: marked(
-                                        post.frontmatter.mission.replace(
+                                        post.frontmatter.vision.replace(
                                             /(?:\r\n|\r|\n)/g,
                                             '<br/>'
                                         )
@@ -68,12 +68,12 @@ export default ({ data }) => {
                         </div>
                         <div className="col s12 m6">
                             <p className="font-2">
-                                <b>Vision</b>
+                                <b>Mission</b>
                             </p>
                             <div
                                 dangerouslySetInnerHTML={{
                                     __html: marked(
-                                        post.frontmatter.vision.replace(
+                                        post.frontmatter.mission.replace(
                                             /(?:\r\n|\r|\n)/g,
                                             '<br/>'
                                         )
