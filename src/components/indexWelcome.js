@@ -51,12 +51,12 @@ export default props => (
                                     className="font-2"
                                     style={{ margin: margin }}
                                 >
-                                    <b>Mission</b>
+                                    <b>Vision</b>
                                 </p>
                                 <div
                                     dangerouslySetInnerHTML={{
                                         __html: marked(
-                                            data.allBaseYaml.edges[0].node.data.mission.replace(
+                                            data.allBaseYaml.edges[0].node.data.vision.replace(
                                                 /(?:\r\n|\r|\n)/g,
                                                 '<br/>'
                                             )
@@ -83,12 +83,12 @@ export default props => (
                                     className="font-2"
                                     style={{ margin: margin }}
                                 >
-                                    <b>Vision</b>
+                                    <b>Mission</b>
                                 </p>
                                 <div
                                     dangerouslySetInnerHTML={{
                                         __html: marked(
-                                            data.allBaseYaml.edges[0].node.data.vision.replace(
+                                            data.allBaseYaml.edges[0].node.data.mission.replace(
                                                 /(?:\r\n|\r|\n)/g,
                                                 '<br/>'
                                             )
