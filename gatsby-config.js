@@ -139,10 +139,6 @@ module.exports = {
                         link: '/facilities/library'
                     },
                     {
-                        name: 'Office',
-                        link: '/facilities/office'
-                    },
-                    {
                         name: 'Transport',
                         link: '/facilities/transport'
                     },
