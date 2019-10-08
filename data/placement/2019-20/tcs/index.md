@@ -8,10 +8,10 @@ selections:
       department: CS
       image: ./image.jpg
     - name: ABHISHEK BIJOY
-      department: EIE
+      department: CS
       image: ./image.jpg
     - name: NANDANUNNI SABU
-      department: ECE
+      department: CS
       image: ./image.jpg
     - name: ANJALI AJITH
       department: CS
@@ -37,4 +37,31 @@ selections:
     - name: AKHIL M P
       department: CS
       image: ./image.jpg
+    - name: ALAN MATHEWS
+      department: ECE
+      image: ./image.jpg
+    - name: APARNA ANAND
+      department: ECE
+      image: ./female.jpg
+    - name: SREEVIN J NAIR
+      department: ECE
+      image: ./image.jpg
+    - name: ARAVIND V M
+      department: ECE
+      image: ./image.jpg
+    - name: ANJITHA R NAIR
+      department: IT
+      image: ./female.jpg
+    - name: FATIMA SHERIN
+      department: IT
+      image: ./female.jpg
+    - name: KEVIN BABU
+      department: EEE
+      image: ./female.jpg
+    - name: VYSHAK BALACHANDRAN
+      department: IT
+      image: ./image.jpg
+    - name: AISWARYA
+      department: M.Tech,CS
+      image: ./female.jpg
 ---
