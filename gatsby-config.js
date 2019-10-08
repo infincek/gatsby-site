@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+    pathPrefix: "/reponame",
     siteMetadata: {
         title: 'College of Engineering, Kidangoor',
         logo: '/images/logo.png',
