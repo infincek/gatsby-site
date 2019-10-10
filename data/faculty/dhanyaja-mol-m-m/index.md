@@ -1,6 +1,6 @@
 ---
 title: Dhanyaja Mol M M
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: B.Tech in Computer Science

@@ -1,6 +1,6 @@
 ---
 title: Ojus Thomas Lee
-template: faculties
+template: faculty
 hod: true
 department: cse
 departmentFullName: Computer Science and Engineering

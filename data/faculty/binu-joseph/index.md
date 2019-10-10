@@ -1,6 +1,6 @@
 ---
 title: Binu Joseph
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI, Diploma

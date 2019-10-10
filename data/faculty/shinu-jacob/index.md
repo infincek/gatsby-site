@@ -1,6 +1,6 @@
 ---
 title: Shinu Jacob
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: Degree , ITI

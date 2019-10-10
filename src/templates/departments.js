@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import marked from 'marked';
 import MD from 'gatsby-custom-md';
-import Faculties from '../components/faculties';
+import faculty from '../components/faculty';
 import Layout from '../components/layout';
 import { Row, Col, Fl, Box } from '../components/custom';
 import '../style/single-page.less';
@@ -85,16 +85,16 @@ export default ({ data }) => {
                     {data.hod.edges.length > 0 &&
                         <div>
                             <h3>Head of the Department</h3>
-                            <Faculties data={data.hod} />
+                            <faculty data={data.hod} />
                         </div>
                     }
                     <div>
                         <MD htmlAst={post.htmlAst} components={components}/>
                     </div>
-                    <h3>Faculties</h3>
-                    <Faculties data={data.faculties}/>
+                    <h3>faculty</h3>
+                    <faculty data={data.faculty}/>
                     <h3>Technical Staffs</h3>
-                    <Faculties data={data.technical}/>
+                    <faculty data={data.technical}/>
                 </div>
             </div>
         </Layout>
@@ -125,10 +125,10 @@ query($slug: String!, $name: String) {
             vision
         }
     }
-    faculties: allMarkdownRemark(
+    faculty: allMarkdownRemark(
         filter: {
             frontmatter: { department: { eq: $name }, hod: {eq: false}, teaching: { ne: false} }
-            fileAbsolutePath: { regex: "/faculties/" }
+            fileAbsolutePath: { regex: "/faculty/" }
         },
         sort: {fields: frontmatter___position}
     ) {
@@ -159,7 +159,7 @@ query($slug: String!, $name: String) {
     technical: allMarkdownRemark(
         filter: {
             frontmatter: { department: { eq: $name }, teaching: {eq: false} }
-            fileAbsolutePath: { regex: "/faculties/" }
+            fileAbsolutePath: { regex: "/faculty/" }
         }
     ) {
         edges {
@@ -189,7 +189,7 @@ query($slug: String!, $name: String) {
     hod: allMarkdownRemark(
         filter: {
             frontmatter: { department: { eq: $name }, hod: {eq: true} }
-            fileAbsolutePath: { regex: "/faculties/" }
+            fileAbsolutePath: { regex: "/faculty/" }
         }
     ) {
         edges {

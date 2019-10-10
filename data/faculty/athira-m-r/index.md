@@ -1,6 +1,6 @@
 ---
 title: Athira M R
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI Draughtsman Civil

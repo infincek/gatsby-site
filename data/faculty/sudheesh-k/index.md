@@ -1,6 +1,6 @@
 ---
 title: Sudheesh K
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI

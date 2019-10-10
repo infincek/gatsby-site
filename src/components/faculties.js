@@ -1,7 +1,7 @@
 import React from 'react';
 import Img from 'gatsby-image';
 import { Link } from 'gatsby';
-import '../style/faculties.less';
+import '../style/faculty.less';
 
 export default function(props) {
     return <div className="row faculty-members">{getContents(props)}</div>;

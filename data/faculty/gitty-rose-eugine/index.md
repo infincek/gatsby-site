@@ -1,6 +1,6 @@
 ---
 title: Gitty Rose Eugine
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering

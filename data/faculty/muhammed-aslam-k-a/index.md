@@ -1,6 +1,6 @@
 ---
 title: MUHAMMED ASLAM K.A
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI

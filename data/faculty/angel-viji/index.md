@@ -1,6 +1,6 @@
 ---
 title: Dr. K. S. Angel Viji
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering

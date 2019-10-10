@@ -1,6 +1,6 @@
 ---
 title: Dr. Bindu S Mony
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering

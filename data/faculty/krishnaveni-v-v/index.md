@@ -1,6 +1,6 @@
 ---
 title: Krishnaveni V V
-template: faculties
+template: faculty
 hod: false
 department: it
 departmentFullName: Information Technology

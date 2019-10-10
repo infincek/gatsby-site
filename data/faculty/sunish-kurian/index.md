@@ -1,6 +1,6 @@
 ---
 title: SUNISH KURIAN
-template: faculties
+template: faculty
 hod: true
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities

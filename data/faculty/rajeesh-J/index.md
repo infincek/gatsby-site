@@ -1,6 +1,6 @@
 ---
 title: Dr.Rajeesh J
-template: faculties
+template: faculty
 hod: true
 department: ece
 departmentFullName: Electronics and Communication Engineering

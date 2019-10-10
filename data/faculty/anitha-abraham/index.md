@@ -1,6 +1,6 @@
 ---
 title: Anitha Abraham
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering

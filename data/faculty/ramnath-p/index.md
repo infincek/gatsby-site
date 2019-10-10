@@ -1,6 +1,6 @@
 ---
 title: RAMNATH P
-template: faculties
+template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities

@@ -1,6 +1,6 @@
 ---
 title: CHERIAN.V
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI

@@ -1,6 +1,6 @@
 ---
 title: Gokul T Das
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: B.tech Civil Engineering

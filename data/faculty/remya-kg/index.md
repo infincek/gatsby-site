@@ -1,6 +1,6 @@
 ---
 title: REMYA KG
-template: faculties
+template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities

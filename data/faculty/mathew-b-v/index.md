@@ -1,6 +1,6 @@
 ---
 title: Dr.Mathew B V
-template: faculties
+template: faculty
 hod: true
 department: ce
 departmentFullName: Civil Engineering

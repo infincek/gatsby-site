@@ -1,6 +1,6 @@
 ---
 title: Alpha Mathew
-template: faculties
+template: faculty
 hod: false
 department: it
 departmentFullName: Information Technology
