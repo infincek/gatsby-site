@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 import '../style/faculties.less';
 
 export default function(props) {
-    return <div className="row faculty-members">{getContents(props)}</div>;
+    return <div className="row faculty-members hide-des">{getContents(props)}</div>;
 }
 
 function getContents(props) {
@@ -38,10 +38,15 @@ function DataCol(props) {
                     <p className="subj">
                         {props.item.node.frontmatter.designation}
                     </p>
+                    {props.item.node.frontmatter.departmentFullName &&
+                        <p className="dep">
+                            {props.item.node.frontmatter.departmentFullName}
+                        </p>
+                    }
                 </div>
                 <Link
                     to={props.item.node.fields.slug}
-                    title={props.item.node.fields.slug}
+                    title={props.item.node.frontmatter.title}
                     className="overlay-link"
                 >
                     {props.item.node.fields.slug}
