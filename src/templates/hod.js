@@ -34,7 +34,7 @@ export const query = graphql`
         allMarkdownRemark(
         filter: {
             frontmatter: { hod: { eq: true  }}
-            fileAbsolutePath: { regex: "/faculties/" }
+            fileAbsolutePath: { regex: "/faculty/" }
         }
     ) {
         edges {
