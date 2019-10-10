@@ -102,7 +102,7 @@ export default ({ data }) => {
 };
 
 export const query = graphql`
-    
+
 query($slug: String!, $name: String) {
     department: markdownRemark(fields: { slug: { eq: $slug } }) {
         html
@@ -128,7 +128,7 @@ query($slug: String!, $name: String) {
     faculties: allMarkdownRemark(
         filter: {
             frontmatter: { department: { eq: $name }, hod: {eq: false}, teaching: { ne: false} }
-            fileAbsolutePath: { regex: "/faculties/" }
+            fileAbsolutePath: { regex: "/faculty/" }
         },
         sort: {fields: frontmatter___position}
     ) {
@@ -159,7 +159,7 @@ query($slug: String!, $name: String) {
     technical: allMarkdownRemark(
         filter: {
             frontmatter: { department: { eq: $name }, teaching: {eq: false} }
-            fileAbsolutePath: { regex: "/faculties/" }
+            fileAbsolutePath: { regex: "/faculty/" }
         }
     ) {
         edges {
@@ -189,7 +189,7 @@ query($slug: String!, $name: String) {
     hod: allMarkdownRemark(
         filter: {
             frontmatter: { department: { eq: $name }, hod: {eq: true} }
-            fileAbsolutePath: { regex: "/faculties/" }
+            fileAbsolutePath: { regex: "/faculty/" }
         }
     ) {
         edges {

@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6cefa17a-34bf-4966-b9c3-668f8423d2a4/deploy-status)](https://app.netlify.com/sites/cekweb/deploys)     
 # CEK Website
 
-*v2.5.3.0*
+*v2.6.0.0*
 
 
 
@@ -64,7 +64,7 @@ This is Our LightHouse Audit results
 ## To-do
 
   - [x] SEO
-  - [x] Naming convention for Faculties and Departments
+  - [x] Naming convention for faculty and Departments
   - [x] Page for campus life
   - [x] Page for independent data
   - [x] Favicon

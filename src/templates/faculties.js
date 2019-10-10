@@ -75,7 +75,7 @@ export default ({ data }) => {
                                             Experience
                                         </p>
                                     </div>
-                                    {post.frontmatter.experienceTeaching && 
+                                    {post.frontmatter.experienceTeaching &&
                                     <div className="value">
                                         <strong>Teaching</strong>
                                         <p className="value">
@@ -109,7 +109,7 @@ export default ({ data }) => {
                                     </p>
                                 </li>
                                 }
-                                {post.frontmatter.pgAndInstitution && 
+                                {post.frontmatter.pgAndInstitution &&
                                 <li>
                                     <div className="header">
                                         <p>
