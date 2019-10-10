@@ -56,32 +56,17 @@ export default ({ data }) => {
                                         {post.frontmatter.designation}
                                     </p>
                                 </li>
-                                {post.frontmatter.dateOfJoiningCek &&
                                 <li>
                                     <div className="header">
                                         <p>
                                             <i className="fa fa-calendar" />
-                                            Date of joining CEK
+                                            Date of joining
                                         </p>
                                     </div>
                                     <p className="value">
-                                        {post.frontmatter.dateOfJoiningCek}
+                                        {post.frontmatter.dateOfJoining}
                                     </p>
                                 </li>
-                                }
-                                {post.frontmatter.dateOfJoiningCape &&
-                                <li>
-                                    <div className="header">
-                                        <p>
-                                            <i className="fa fa-calendar" />
-                                            Date of joining CAPE
-                                        </p>
-                                    </div>
-                                    <p className="value">
-                                        {post.frontmatter.dateOfJoiningCape}
-                                    </p>
-                                </li>
-                                }
                                 { (post.frontmatter.experienceTeaching || post.frontmatter.experienceIndustry) &&
                                 <li>
                                     <div className="header">
@@ -252,8 +237,7 @@ export const query = graphql`
                     }
                 }
                 designation
-                dateOfJoiningCek
-                dateOfJoiningCape
+                dateOfJoining
                 experienceTeaching
                 experienceIndustry
                 ugAndInstitution
