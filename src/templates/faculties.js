@@ -56,17 +56,32 @@ export default ({ data }) => {
                                         {post.frontmatter.designation}
                                     </p>
                                 </li>
+                                {post.frontmatter.dateOfJoiningCek &&
                                 <li>
                                     <div className="header">
                                         <p>
                                             <i className="fa fa-calendar" />
-                                            Date of joining
+                                            Date of joining CEK
                                         </p>
                                     </div>
                                     <p className="value">
-                                        {post.frontmatter.dateOfJoining}
+                                        {post.frontmatter.dateOfJoiningCek}
                                     </p>
                                 </li>
+                                }
+                                {post.frontmatter.dateOfJoiningCape &&
+                                <li>
+                                    <div className="header">
+                                        <p>
+                                            <i className="fa fa-calendar" />
+                                            Date of joining CAPE
+                                        </p>
+                                    </div>
+                                    <p className="value">
+                                        {post.frontmatter.dateOfJoiningCape}
+                                    </p>
+                                </li>
+                                }
                                 { (post.frontmatter.experienceTeaching || post.frontmatter.experienceIndustry) &&
                                 <li>
                                     <div className="header">
@@ -75,7 +90,7 @@ export default ({ data }) => {
                                             Experience
                                         </p>
                                     </div>
-                                    {post.frontmatter.experienceTeaching && 
+                                    {post.frontmatter.experienceTeaching &&
                                     <div className="value">
                                         <strong>Teaching</strong>
                                         <p className="value">
@@ -109,7 +124,7 @@ export default ({ data }) => {
                                     </p>
                                 </li>
                                 }
-                                {post.frontmatter.pgAndInstitution && 
+                                {post.frontmatter.pgAndInstitution &&
                                 <li>
                                     <div className="header">
                                         <p>
@@ -237,7 +252,8 @@ export const query = graphql`
                     }
                 }
                 designation
-                dateOfJoining
+                dateOfJoiningCek
+                dateOfJoiningCape
                 experienceTeaching
                 experienceIndustry
                 ugAndInstitution

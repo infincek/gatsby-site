@@ -6,7 +6,8 @@ department: it
 departmentFullName: Information Technology
 image: ./alpha-photo.jpg
 designation: Assistant Professor
-dateOfJoining: 01/07/2010
+dateOfJoiningCek: 01/07/2010
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 11 years
 experienceIndustry: 1.5 years
 ugAndInstitution: "B Tech ,Govt.Engineering College   Sreekrishnapuram Calicut University"

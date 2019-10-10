@@ -20,7 +20,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ###Purchase Commitee
 
 |    Name    |    Designation    |    Contact    |
-|------------------------------|---------------------------------------------|----------------------|
+|:-----------------------------|:-------------------------------------------:|:--------------------:|
 |    Dr.K.G.Viswanadhan    |    Principal    |    9447414470    |
 |    Saji   Justus    |    Nodal   Officer(Procurement)/AP in EI    |    9847460411    |
 |    Dr.Rajeesh   J.    |    HoD   ECE    |         |
@@ -31,25 +31,50 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ###Maintenance Committee
 
 |    Name    |    Designation    |    Contact    |
-|--------------------------|-------------------------------------------------|------------------|
+|:-------------------------:|:-----------------------------------------------:|:-----------------:|
 |    Dr.K.G.Viswanadhan    |    Principal    |    9447414470    |
 |    Linda   Sebastian    |    AP<br>   in CSE    |         |
 |    Saji   Justus    |    Nodal<br>   Officer(Procurement)/AP in EI    |    9847460411    |
 |    Priya   M.    |    AP<br>   in ECE    |    9447797841    |
 
-###BOG Members-TEQIP
 
-| Sl.No | Name & Designation | Status in BOG | Remarks |
-|-------|----------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------|
-| 1 | Dr. K GopakumarProfessorDept. of Electronics Systems EngineeringIndian Institute of ScienceBangalore 560012 | Chairman |  |
-| 2 | Prof. (Dr.) T  K Suresh BabuProfessor, Training and placementNational Institute of TechnologyCalicut | Member |  |
-| 3 | Dr. A K AsraffGroup DirectorStructural Dynamics & Analysis Group, LPSCValiamalaTrivandrum | Member |  |
-| 4 | Prof. (Dr.) B V MathewProfessorCollege of Engineering Kidangoor | Member | Institutional Member |
-| 5 | Mrs. Indu P NairAssociate ProfessorCollege of Engineering Kidangoor | Member |  Institutional Member |
-| 6 | Higher Education Department | Member |  State Govt. Nominee |
-| 7 | Govt. Finance Department | Ex-Officio Member |  State Govt. Nominee |
-| 8 | Director CAPE | Ex-Officio Member |  |
-| 9 | Director SPFU | Ex-Officio Member |  |
-| 10 | Dr. G P PadmakumarRegistrar, KTU | Member | University Nominee |
-| 11 | Dr. Ramesh UnnikrishnanRegional Officer & DirectorAICTE-South Western Regional Office (SWRO)Thiruvananthapuram | Member | AICTE Nominee |
-| 12 | PrincipalCollege of Engineering Kidangoor | Ex-Officio Member Secretary | Principal of Institution |
+###Academic Committee
+
+|    Name    |    Designation    |    Contact    |
+|:----------------------------:|:-------------------------------:|:----------------:|
+|    Dr.K.G.Viswanadhan    |    Principal    |    9447414470    |
+|    Sreelakshmi   S.,         |    Nodal   Officer(Academic)    |    9446283678    |
+|    Bhindya   Hari P.    |    AP   in CE    |    8281978472    |
+|    Mary   Priyanka    |    AP   in CSE    |    9446763486    |
+|    Dr.Tina   P.G.    |    AP   in  EI    |    9496593261    |
+
+###EAP Committee
+
+|    Name    |    Designation    |    Contact    |
+|:------------------------:|:-------------------------------:|:----------------:|
+|    Dr.K.G.Viswanadhan    |    Principal    |    9447414470    |
+|    Sonima   M.P     |    Nodal   Officer(EAP)    |    9496347470    |
+|    Sunish   Kurian    |    AP   in ME    |    9447249867    |
+|    Dr.Indhu   P. Nair    |    Asso.   Prof. &HoD in EEE    |    8547674266    |
+|    Dr.Tina   P.G.    |    AP   in  EI    |    9496593261    |
+|    Mary   Priyanka    |    AP   in CSE    |    9446763486    |
+
+###III Cell COMMITTEE
+
+|    Name    |    Designation    |    Contact    |
+|:--------------------------:|:------------------------------:|:----------------:|
+|    Dr.K.G.Viswanadhan    |    Principal    |    9447414470    |
+|    Gitty   Rose Eugine     |    Coordinator   (III Cell)    |    9846418556    |
+|    Salini   M Venugopal    |    AP   in EEE    |    9847241212    |
+|    Anish   A Aziz    |    AP   in IT    |    9947808238    |
+
+###Finance Committee
+
+|    Name    |    Designation    |    Contact    |
+|:------------------------:|:-------------------------------:|:----------------:|
+|    Dr.K.G.Viswanadhan    |    Principal    |    9447414470    |
+|    Sunish   Kurian    |    Nodal   Officer(Finance)    |    9447249867    |
+|    Dr.Indhu   P. Nair    |    Asso.   Prof. &HoD in EEE    |    8547674266    |
+|    Saji   Justus    |    AP   in EI    |    9847460411    |
+|    Sonima   M.P     |    AP   in EEE    |    9496347470    |
+|    Anith   Krishnan    |    AP   in EEE    |    9895696249    |

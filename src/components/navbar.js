@@ -66,7 +66,7 @@ class Navbar extends React.Component {
                         <div className="col ph item s6 m2 l2">
                             <i className="fa fa-phone color-primary" />
                             <div>
-                                <div className="prop color-primary">Phone</div>
+                                <div className="prop color-primary">Contact</div>
                                 <div
                                     dangerouslySetInnerHTML={{
                                         __html: baseData.allBaseYaml.edges[0].node.data.phone.join(
@@ -95,9 +95,9 @@ class Navbar extends React.Component {
                             </div>
                         </div>
                         <div className="col address item s6 m3 l2">
-                            <i className="fa fa-envelope color-primary" />
+                            <i className="fa fa-bookmark color-primary" />
                             <div>
-                                <div className="prop color-primary">Mail</div>
+                                <div className="prop color-primary">College Code : KGR</div>
                                 <div>
                                     <a
                                         className="text-primary"
