@@ -6,7 +6,7 @@ teaching: false
 qualification: ITI Draughtsman Civil
 department: ce
 departmentFullName: Civil Engineering
-image: ./image.jpg
+image: ./rakhi.jpg
 designation: Tradesman trainee
 dateOfJoining: 02/06/19
 mobileNumber: 7902854572

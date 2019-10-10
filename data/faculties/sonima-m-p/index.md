@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./image.jpg
+image: ./sonima-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 02/07/2013
 experienceTeaching: 7.5 years

@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./image.jpg
+image: ./neena-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 30/07/2016
 experienceTeaching: 9 years

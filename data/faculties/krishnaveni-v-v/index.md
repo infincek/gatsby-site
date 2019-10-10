@@ -4,11 +4,11 @@ template: faculties
 hod: false
 department: it
 departmentFullName: Information Technology
-image: ./image.jpg
+image: ./krishnaveni.jpg
 designation: Assistant Professor
 dateOfJoining: 11/8/2014
-experienceTeaching: 8 Yrs
-experienceIndustry: nil
+experienceTeaching: 11 years
+experienceIndustry: 1.5 years
 ugAndInstitution: "B.Tech,
 CUSAT,College of engineering kidangoor"
 pgAndInstitution: "M.Tech,Anna University"

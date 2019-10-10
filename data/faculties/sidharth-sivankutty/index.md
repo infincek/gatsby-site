@@ -5,7 +5,7 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./sidharth-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Adhoc)
 dateOfJoining: 05/08/2019
 experienceTeaching: 1 year and 4 months
 experienceIndustry: NIL
@@ -17,5 +17,5 @@ specialization: NIL
 otherData: NIL
 mobileNumber: 9633019067
 mailid: sidharth.sivankutty@gmail.com
-position: 10
+position: 11
 ---

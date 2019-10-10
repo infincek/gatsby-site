@@ -6,7 +6,7 @@ teaching: false
 qualification: ITI
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./image.jpg
+image: ./cheriyan.jpg
 designation: TRADESMAN
 dateOfJoining: 01/07/2010
 mobileNumber: 9847203137

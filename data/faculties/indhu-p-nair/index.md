@@ -1,10 +1,10 @@
 ---
-title: Indhu P. Nair
+title: Dr.Indhu P. Nair
 template: faculties
 hod: true
 department: eee
 departmentFullName: Electrical & Electronics Engineering
-image: ./image.jpg
+image: ./indhu-miss.jpg
 designation: Associate Professor
 dateOfJoining: 	06/07/2012
 experienceTeaching: 7 Yrs

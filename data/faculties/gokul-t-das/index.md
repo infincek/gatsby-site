@@ -6,7 +6,7 @@ teaching: false
 qualification: B.tech Civil Engineering
 department: ce
 departmentFullName:  Civil Engineering
-image: ./image.jpg
+image: ./gokul.jpg
 designation: Tradesman trainee
 dateOfJoining: 08/02/19
 mobileNumber: 8547572301

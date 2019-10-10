@@ -4,7 +4,7 @@ template: faculties
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./image.jpg
+image: ./sreekala.jpg
 designation: Assistant Professor
 dateOfJoining: 01/08/2016
 experienceTeaching: 11 years
