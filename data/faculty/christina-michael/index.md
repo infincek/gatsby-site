@@ -1,10 +1,10 @@
 ---
 title: CHRISTINA MICHAEL
-template: faculties
+template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./female.jpg
+image: ./christina.jpg
 designation: Assistant Professor
 dateOfJoining: 22/09/2016
 experienceTeaching: 3 years

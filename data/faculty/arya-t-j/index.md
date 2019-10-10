@@ -1,11 +1,11 @@
 ---
 title: Arya T J
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./arya-cs.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Adhoc)
 dateOfJoining: 06/08/2019
 experienceTeaching: 10 months
 experienceIndustry: NIL
@@ -17,5 +17,5 @@ specialization:  NIL
 otherData: "NIL"
 mobileNumber: 9495743941    
 mailid: aryatjg7@gmail.com
-position: 13
+position: 14
 ---

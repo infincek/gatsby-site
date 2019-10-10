@@ -102,7 +102,7 @@ export default ({ data }) => {
 };
 
 export const query = graphql`
-    
+
 query($slug: String!, $name: String) {
     department: markdownRemark(fields: { slug: { eq: $slug } }) {
         html

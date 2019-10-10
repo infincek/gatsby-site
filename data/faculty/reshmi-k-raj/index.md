@@ -1,6 +1,6 @@
 ---
 title: Reshmi k.Raj 
-template: faculties
+template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering

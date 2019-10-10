@@ -1,10 +1,10 @@
 ---
 title: Joby James
-template: faculties
+template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and communication engineering
-image: ./image.jpg
+image: ./joby-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 24/07/2015
 experienceTeaching: 12years

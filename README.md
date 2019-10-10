@@ -64,7 +64,7 @@ This is Our LightHouse Audit results
 ## To-do
 
   - [x] SEO
-  - [x] Naming convention for Faculties and Departments
+  - [x] Naming convention for faculty and Departments
   - [x] Page for campus life
   - [x] Page for independent data
   - [x] Favicon

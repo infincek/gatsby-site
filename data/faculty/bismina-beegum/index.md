@@ -1,6 +1,6 @@
 ---
 title: Bismina Beegum
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: Degree , ITI

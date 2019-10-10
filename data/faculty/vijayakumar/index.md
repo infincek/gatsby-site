@@ -1,6 +1,6 @@
 ---
 title: VIJAYAKUMAR .A
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI, Diploma

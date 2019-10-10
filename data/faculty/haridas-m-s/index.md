@@ -1,6 +1,6 @@
 ---
 title: Haridas M S
-template: faculties
+template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics

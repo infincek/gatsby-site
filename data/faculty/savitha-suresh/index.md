@@ -1,10 +1,10 @@
 ---
 title: Savitha Suresh
-template: faculties
+template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./image.jpg
+image: ./savitha.jpg
 designation: Assistant Professor
 dateOfJoining: 22/09/2016
 experienceTeaching: 12 Years

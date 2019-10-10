@@ -1,10 +1,10 @@
 ---
 title: Rinson Varghese
-template: faculties
+template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./image.jpg
+image: ./rinson-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 7/07/2018
 experienceTeaching: 9 years

@@ -1,12 +1,12 @@
 ---
 title: PRATHEESH.P.S
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./image.jpg
+image: ./pratheesh.jpg
 designation: Trade Instructor Gr-II
 dateOfJoining: 01/07/2010
 mobileNumber: 9809855397

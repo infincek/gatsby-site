@@ -1,12 +1,12 @@
 ---
 title: Vineeth Venu
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: Diploma in Computer Science
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image.jpg
+image: ./vin.jpg
 designation: Apprentice Trainee
 dateOfJoining: 16/07/2019
 mobileNumber: 8893721118

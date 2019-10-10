@@ -1,10 +1,10 @@
 ---
 title: Sreekumari T K
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./image.jpg
+image: ./sreekumari.jpg
 designation: Assistant Professor
 dateOfJoining: 01/01/2014
 experienceTeaching: 12 Years

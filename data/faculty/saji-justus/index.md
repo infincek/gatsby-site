@@ -1,10 +1,10 @@
 ---
 title: SAJI JUSTUS
-template: faculties
+template: faculty
 hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
-image: ./image.jpg
+image: ./saji.jpg
 designation: Assistant Professor
 dateOfJoining: 1/7/2010
 experienceTeaching: 10 years

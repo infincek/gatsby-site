@@ -1,10 +1,10 @@
 ---
 title: Linda Sebastian
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image1.jpg
+image: ./linda-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 26/5/2018
 experienceTeaching: 15 years

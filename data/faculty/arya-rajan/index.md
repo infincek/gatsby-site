@@ -1,6 +1,6 @@
 ---
 title: Arya Rajan
-template: faculties
+template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering

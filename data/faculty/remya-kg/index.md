@@ -1,10 +1,10 @@
 ---
 title: REMYA KG
-template: faculties
+template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./female.jpg
+image: ./remya.jpg
 designation: Assistant Professor
 dateOfJoining: 6/8/2018
 experienceTeaching: 4 years

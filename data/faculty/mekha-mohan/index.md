@@ -1,10 +1,10 @@
 ---
 title: Mekha Mohan
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./image.jpg
+image: ./mekha.jpg
 designation: Assistant Professor
 dateOfJoining: 11/02/2019
 experienceTeaching: 1 year

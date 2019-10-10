@@ -1,12 +1,12 @@
 ---
 title: Shinu Jacob
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: Degree , ITI
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image.jpg
+image: ./shinu.jpg
 designation: Trade Instructor Gr-II
 dateOfJoining: 01/07/2010
 mobileNumber: 9496541663

@@ -1,12 +1,12 @@
 ---
 title: Athira M R
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI Draughtsman Civil
 department: ce
 departmentFullName: Civil Engineering
-image: ./image.jpg
+image: ./athira.jpg
 designation: Tradesman trainee
 dateOfJoining: 02/04/19
 mobileNumber: 8606637028

@@ -1,10 +1,10 @@
 ---
 title: TINA PG
-template: faculties
+template: faculty
 hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
-image: ./image.jpg
+image: ./tina.jpg
 designation: Assistant Professor
 dateOfJoining: 20/02/2004
 experienceTeaching: 15 years

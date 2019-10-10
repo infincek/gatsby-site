@@ -1,10 +1,10 @@
 ---
 title: Gitty Rose Eugine
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./image.jpg
+image: ./gitty.jpg
 designation: Assistant Professor
 dateOfJoining: 30/09/2013
 experienceTeaching: 9years
