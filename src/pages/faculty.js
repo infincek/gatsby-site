@@ -134,4 +134,4 @@ export const query = graphql`
             }
         }
     }
-`
+` 

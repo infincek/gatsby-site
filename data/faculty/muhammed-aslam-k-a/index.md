@@ -6,7 +6,7 @@ teaching: false
 qualification: ITI
 department: eee
 departmentFullName: Electrical & Electronics Engineering
-image: ./image.jpg
+image: ./asl.jpg
 designation: Trade Instructor Gr-II
 dateOfJoining: 01/07/2004
 mobileNumber: 9846698165

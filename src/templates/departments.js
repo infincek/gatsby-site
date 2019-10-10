@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import marked from 'marked';
 import MD from 'gatsby-custom-md';
-import faculty from '../components/faculty';
+import Faculties from '../components/faculties';
 import Layout from '../components/layout';
 import { Row, Col, Fl, Box } from '../components/custom';
 import '../style/single-page.less';
@@ -85,16 +85,16 @@ export default ({ data }) => {
                     {data.hod.edges.length > 0 &&
                         <div>
                             <h3>Head of the Department</h3>
-                            <faculty data={data.hod} />
+                            <Faculties data={data.hod} />
                         </div>
                     }
                     <div>
                         <MD htmlAst={post.htmlAst} components={components}/>
                     </div>
-                    <h3>faculty</h3>
-                    <faculty data={data.faculty}/>
+                    <h3>Faculties</h3>
+                    <Faculties data={data.faculties}/>
                     <h3>Technical Staffs</h3>
-                    <faculty data={data.technical}/>
+                    <Faculties data={data.technical}/>
                 </div>
             </div>
         </Layout>
@@ -102,7 +102,7 @@ export default ({ data }) => {
 };
 
 export const query = graphql`
-    
+
 query($slug: String!, $name: String) {
     department: markdownRemark(fields: { slug: { eq: $slug } }) {
         html
@@ -125,7 +125,7 @@ query($slug: String!, $name: String) {
             vision
         }
     }
-    faculty: allMarkdownRemark(
+    faculties: allMarkdownRemark(
         filter: {
             frontmatter: { department: { eq: $name }, hod: {eq: false}, teaching: { ne: false} }
             fileAbsolutePath: { regex: "/faculty/" }
