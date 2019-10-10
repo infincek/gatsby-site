@@ -41,6 +41,10 @@ module.exports = {
                     {
                         name: 'HODs',
                         link: '/about/hod'
+                    },
+                    {
+                        name: 'Faculty',
+                        link: '/faculty'
                     }
                 ]
             },
