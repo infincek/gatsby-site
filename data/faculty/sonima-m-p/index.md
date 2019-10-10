@@ -1,6 +1,6 @@
 ---
 title: Sonima M P
-template: faculties
+template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering

@@ -1,6 +1,6 @@
 ---
 title: SAJI JUSTUS
-template: faculties
+template: faculty
 hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation

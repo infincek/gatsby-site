@@ -1,6 +1,6 @@
 ---
 title: Mary Priyanka K S
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering

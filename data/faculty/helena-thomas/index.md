@@ -1,6 +1,6 @@
 ---
 title: Helena Thomas
-template: faculties
+template: faculty
 hod: false
 teaching: true
 department: cse

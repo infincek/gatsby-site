@@ -1,6 +1,6 @@
 ---
 title: TINA PG
-template: faculties
+template: faculty
 hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation

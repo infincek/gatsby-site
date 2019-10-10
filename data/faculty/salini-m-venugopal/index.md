@@ -1,6 +1,6 @@
 ---
 title: Salini M Venugopal
-template: faculties
+template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering

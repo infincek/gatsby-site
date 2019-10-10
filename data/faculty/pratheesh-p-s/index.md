@@ -1,6 +1,6 @@
 ---
 title: PRATHEESH.P.S
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI

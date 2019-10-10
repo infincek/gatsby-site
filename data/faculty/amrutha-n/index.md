@@ -1,6 +1,6 @@
 ---
 title: Amrutha N
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI Draughtsman Civil

@@ -1,6 +1,6 @@
 ---
 title: Shandry K K
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering

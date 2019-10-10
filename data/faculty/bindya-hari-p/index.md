@@ -1,6 +1,6 @@
 ---
 title: Bindiya Hari P
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering

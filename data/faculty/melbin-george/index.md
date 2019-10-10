@@ -1,6 +1,6 @@
 ---
 title: MELBIN GEORGE
-template: faculties
+template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and communication

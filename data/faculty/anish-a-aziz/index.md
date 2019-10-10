@@ -1,6 +1,6 @@
 ---
 title: Anish A Aziz
-template: faculties
+template: faculty
 hod: false
 department: it
 departmentFullName: Information Technology

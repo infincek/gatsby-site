@@ -1,6 +1,6 @@
 ---
 title: Anith Krishnan
-template: faculties
+template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering

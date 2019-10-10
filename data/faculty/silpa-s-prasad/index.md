@@ -1,6 +1,6 @@
 ---
 title: SILPA S PRASAD
-template: faculties
+template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering

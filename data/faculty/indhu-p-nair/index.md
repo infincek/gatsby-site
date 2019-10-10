@@ -1,6 +1,6 @@
 ---
 title: Dr.Indhu P. Nair
-template: faculties
+template: faculty
 hod: true
 department: eee
 departmentFullName: Electrical & Electronics Engineering

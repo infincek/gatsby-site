@@ -1,6 +1,6 @@
 ---
 title: ANUSHA.P.A
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: Diploma 

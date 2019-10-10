@@ -1,6 +1,6 @@
 ---
 title: Appu P
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering

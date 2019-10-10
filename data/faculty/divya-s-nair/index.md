@@ -1,6 +1,6 @@
 ---
 title: Divya S Nair
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering

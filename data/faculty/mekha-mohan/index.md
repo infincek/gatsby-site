@@ -1,6 +1,6 @@
 ---
 title: Mekha Mohan
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering

@@ -1,6 +1,6 @@
 ---
 title: Asha Vijayan
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering

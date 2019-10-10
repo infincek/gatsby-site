@@ -1,22 +1,21 @@
 ---
 title: Anitha Abraham
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image.jpg
+image: ./ani.jpg
 designation: Assistant Professor
 dateOfJoining: 30/07/2007
-# experienceTeaching: 
-# experienceIndustry: 
+# experienceTeaching:
+# experienceIndustry:
 ugAndInstitution: "B.Tech"
 pgAndInstitution: "M.Tech"
 subject: Computer Science
 phd: NIL
-specialization: 
+specialization:
 otherData: "NIL"
-mobileNumber: 
+mobileNumber:
 mailid: anitha_256@yahoo.com
 position: 4
 ---
-

@@ -1,10 +1,10 @@
 ---
 title: Tinimol Andrews
-template: faculties
+template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image.jpg
+image: ./tin.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 05/08/2019
 experienceTeaching: 3.4 years

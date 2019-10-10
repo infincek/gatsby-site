@@ -1,6 +1,6 @@
 ---
 title: CHRISTINA MICHAEL
-template: faculties
+template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities

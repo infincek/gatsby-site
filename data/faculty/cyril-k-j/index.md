@@ -1,6 +1,6 @@
 ---
 title: Cyril K J
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI

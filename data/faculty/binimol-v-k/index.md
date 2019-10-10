@@ -1,6 +1,6 @@
 ---
 title: Binimol V.K
-template: faculties
+template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering

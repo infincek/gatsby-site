@@ -1,6 +1,6 @@
 ---
 title: Sarath K S 
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: Degree , ITI

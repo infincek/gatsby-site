@@ -1,6 +1,6 @@
 ---
 title: Mary James Kappen
-template: faculties
+template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering

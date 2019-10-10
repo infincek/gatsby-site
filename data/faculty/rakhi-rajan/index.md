@@ -1,6 +1,6 @@
 ---
 title: Rakhi Rajan
-template: faculties
+template: faculty
 hod: false
 teaching: false
 qualification: ITI Draughtsman Civil

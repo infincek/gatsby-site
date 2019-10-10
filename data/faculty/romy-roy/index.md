@@ -1,6 +1,6 @@
 ---
 title: ROMY ROY
-template: faculties
+template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities

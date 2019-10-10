@@ -1,6 +1,6 @@
 ---
 title: Savitha Suresh
-template: faculties
+template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
