@@ -7,6 +7,7 @@ departmentFullName: Civil Engineering
 image: ./harikumar-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 24/06/2019
+dateOfJoiningCape: 11/12/2015
 experienceTeaching: 4.5 Years
 experienceIndustry: 1.5yrs
 ugAndInstitution: "CET/University of Kerala."

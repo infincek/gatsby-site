@@ -6,7 +6,8 @@ department: cse
 departmentFullName: Computer Science and Engineering
 image: ./image.jpg
 designation: Assistant Professor
-dateOfJoining: 29/06/19
+dateOfJoining: 04/03/2004
+dateOfJoiningCape: 01/07/2003
 experienceTeaching: 17 yrs
 experienceIndustry: NIL
 ugAndInstitution: "Kerala University"
@@ -17,5 +18,5 @@ specialization: NIL
 otherData: "No. of International Journal - 6, No. of International Conferences - 3,"
 mobileNumber: 9495285272
 mailid: anitharshibu@gmail.com
-position: 10
+position: 4
 ---

@@ -6,7 +6,8 @@ department: ece
 departmentFullName: Electronics and communication engineering
 image: ./arun-photo.jpg
 designation: Assistant Professor
-dateOfJoining: 03/07/2016
+dateOfJoining: 03/08/2016
+dateOfJoiningCape: 01/07/2013
 experienceTeaching: 9.5 years
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech,Musaliar College of Engineering and Technology, Pathanamthitta."

@@ -1,6 +1,6 @@
 ---
 title: InfinCEK
-image: ./infincek.png
+image: ./infin-logo.jpg
 template: singlepage
 description: InfinCEK is a research and development society that aims to improve student research capacity. The society wants to nurture a technocratic culture in the college which is lead by originality and creativity.
 ---

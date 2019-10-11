@@ -6,7 +6,8 @@ department: ce
 departmentFullName: Civil Engineering
 image: ./bindya-photo.jpg
 designation: Assistant Professor
-dateOfJoining: 12/08/2013
+dateOfJoining: 02/07/2013
+dateOfJoiningCape: 09/07/2012
 experienceTeaching: 9 Years
 experienceIndustry: "NIL"
 ugAndInstitution: CET/University of Kerala

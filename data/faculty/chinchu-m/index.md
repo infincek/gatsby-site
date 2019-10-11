@@ -7,6 +7,7 @@ departmentFullName: Electronics and Communication Engineering
 image: ./chinchu-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 25/05/2018
+dateOfJoiningCape: 09/01/2007
 experienceTeaching: 14 years
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech, CUSAT."

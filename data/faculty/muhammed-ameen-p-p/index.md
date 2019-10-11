@@ -7,6 +7,7 @@ departmentFullName: Electronics and communication engineering
 image: ./ameen.jpg
 designation: Assistant Professor
 dateOfJoining: 01/07/2010
+dateOfJoiningCape: 
 experienceTeaching: 9 years
 experienceIndustry: 1 year
 ugAndInstitution: "B.Tech, College of Engineering,Adoor"

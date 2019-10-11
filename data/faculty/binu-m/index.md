@@ -1,12 +1,13 @@
 ---
-title: BINU M
+title: Dr.BINU M
 template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./binu.jpg
 designation: Assistant Professor
-dateOfJoining: 31/05/2019
+dateOfJoining: 02/07/2013
+dateOfJoiningCape: 09/07/2012
 experienceTeaching: 6 years
 experienceIndustry: NIL
 ugAndInstitution: "Mathematics, St. Mary's college Thrissur"

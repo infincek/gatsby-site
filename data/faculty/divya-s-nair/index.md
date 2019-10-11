@@ -6,7 +6,8 @@ department: ce
 departmentFullName: Civil Engineering
 image: ./divya-photo.jpg
 designation: Assistant Professor
-# dateOfJoining: 
+dateOfJoining: 15/06/2019
+dateOfJoiningCape: 01/07/2013
 experienceTeaching: 9 years
 experienceIndustry: NIL
 ugAndInstitution: "MA College of Engg, Kothamangalam,   MG University"

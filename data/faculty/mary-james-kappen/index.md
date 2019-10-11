@@ -7,6 +7,7 @@ departmentFullName: Civil Engineering
 image: ./mary-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 01/07/2010
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 10 years
 experienceIndustry: nil
 ugAndInstitution: "B.Tech Civil Engineering"
