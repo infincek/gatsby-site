@@ -6,7 +6,8 @@ department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./ramnath-photo.jpg
 designation: Assistant Professor
-dateOfJoining: /07/2015
+dateOfJoining: 17/07/2015
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 9 years
 experienceIndustry: 3 years
 ugAndInstitution: "B Tech,Mechanical Engineering ,VTU ."

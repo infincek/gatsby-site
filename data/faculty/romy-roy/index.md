@@ -6,7 +6,8 @@ department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./romy-photo.jpg
 designation: Assistant Professor
-dateOfJoining: 14/08/2013
+dateOfJoining: 03/06/2017
+dateOfJoiningCape: 05/08/2013
 experienceTeaching: 12 years
 experienceIndustry: NIL
 ugAndInstitution: "Mathematics,Deva Matha College, Kuravilangad."

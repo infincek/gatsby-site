@@ -7,6 +7,7 @@ departmentFullName: Applied Electronics & Instrumentation
 image: ./tina.jpg
 designation: Assistant Professor
 dateOfJoining: 20/02/2004
+dateOfJoiningCape: 20/02/2004
 experienceTeaching: 15 years
 experienceIndustry: 5 years
 ugAndInstitution: "B Tech,College of Engineering Trivandrum, University of Kerala"
