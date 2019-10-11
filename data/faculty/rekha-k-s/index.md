@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./rek.jpg
+image: ./rekha-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 02/07/2004
 experienceTeaching: 17 years

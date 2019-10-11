@@ -8,7 +8,8 @@ department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./cheriyan.jpg
 designation: TRADESMAN
-dateOfJoining: 01/07/2010
+dateOfJoining: 12/08/2016
+dateofjoiningCape: 01/07/2010
 mobileNumber: 9847203137
 mailid: cherianv1976@gmail.com
 ---

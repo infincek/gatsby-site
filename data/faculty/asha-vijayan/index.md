@@ -7,6 +7,7 @@ departmentFullName: Computer Science and Engineering
 image: ./asha1.jpg
 designation: Assistant Professor
 dateOfJoining: 11/8/2011
+dateofjoiningCape: 01/07/2010
 experienceTeaching: 9 years
 experienceIndustry: NIL
 ugAndInstitution: "M G University"

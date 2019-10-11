@@ -7,6 +7,7 @@ departmentFullName: Electrical and Electronics Engineering
 image: ./anith.jpg
 designation: Assistant Professor
 dateOfJoining: 05/07/2012
+dateofjoiningCape: 01/07/2010
 experienceTeaching: 9.75 Years
 experienceIndustry: 0.25 Years
 ugAndInstitution: "School of Engineering/Cochin University of Science & Technology."

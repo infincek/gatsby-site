@@ -6,7 +6,8 @@ department: it
 departmentFullName: Information Technology
 image: ./anish-photo.jpg
 designation: Assistant Professor
-dateOfJoining: 19/03/2014
+dateOfJoining: 01/06/2017
+dateofjoiningCape: 19/03/2014
 experienceTeaching: 10 years
 experienceIndustry: NIL
 ugAndInstitution: "B Tech,TKM IT."

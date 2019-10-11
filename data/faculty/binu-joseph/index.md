@@ -8,7 +8,8 @@ department: ei
 departmentFullName: Applied Electronics & Instrumentation
 image: ./binu-photo.jpg
 designation: Trademan (contract)
-dateOfJoining: 08/07/2007
+dateOfJoining: 06/07/2008
+dateofjoiningCape: 06/07/2008
 mobileNumber: 9446125893
 mailid: binkjoseph@gmail.com
 ---
