@@ -22,15 +22,15 @@ export default ({data}) => {
                 <div className="contents">
                     <div className="row">
                         <h2>HODs</h2>
-                        <Faculties data={data.hod}/>
+                        <Faculties data={data.hod} page={true}/>
                     </div>
                     <div className="row">
                         <h2>Teaching</h2>
-                        <Faculties data={data.faculties}/>
+                        <Faculties data={data.faculties} page={true}/>
                     </div>
                     <div className="row">
                         <h2>Technical Staff</h2>
-                        <Faculties data={data.technical}/>
+                        <Faculties data={data.technical} page={true}/>
                     </div>
                 </div>
             </div>
