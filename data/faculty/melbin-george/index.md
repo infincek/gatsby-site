@@ -3,7 +3,7 @@ title: MELBIN GEORGE
 template: faculty
 hod: false
 department: ece
-departmentFullName: Electronics and communication
+departmentFullName: Electronics and Communication Engineering 
 image: ./melbin-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 31/05/2019
