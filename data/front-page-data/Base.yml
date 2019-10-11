@@ -26,18 +26,19 @@
     phone:
         - +91-48 22-256 056
         - +91 8825 5056
+        - cekcape@gmail.com
     fax: "04822 256056"
     address: |-
         College of Engineering,
         KIDANGOOR SOUTH P.O
         KOTTAYAM – 686 583
-    email: cekcape@gmail.com
+    email: AISHE Code :- c-9457
     quickLinks:
         col1:
             - name: Moodle@cek
               url: http://moodle.cekgr.co.in
-            - name: Office
-              url: /quicklinks/office
+            - name: Institution Documents
+              url: /quicklinks/instdoc
             - name: STUDENT CORNER
               url: /quicklinks/studentscorner
             - name: TEQIP

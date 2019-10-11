@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 import '../style/faculties.less';
 
 export default function(props) {
-    return <div className="row faculty-members hide-des">{getContents(props)}</div>;
+    return <div className={"row faculty-members "+ (props.page === undefined ? "" : props.page ? "hide-des" : "")}>{getContents(props)}</div>;
 }
 
 function getContents(props) {
