@@ -5,7 +5,7 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./sidharth-photo.jpg
-designation: Assistant Professor(Adhoc)
+designation: Assistant Professor (Adhoc)
 dateOfJoining: 05/08/2019
 experienceTeaching: 1 year and 4 months
 experienceIndustry: NIL

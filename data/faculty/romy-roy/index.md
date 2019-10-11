@@ -5,7 +5,7 @@ hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./romy-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 14/08/2013
 experienceTeaching: 12 years
 experienceIndustry: NIL

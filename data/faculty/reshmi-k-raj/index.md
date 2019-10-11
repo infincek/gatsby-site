@@ -5,7 +5,7 @@ hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./reshmi-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 30/05/2017
 experienceTeaching: 8.5 years
 experienceIndustry: 1 Year

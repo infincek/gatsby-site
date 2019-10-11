@@ -5,7 +5,7 @@ hod: false
 department: ce
 departmentFullName: Civil Engineering
 image: ./appu-photo1.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 04/07/2017
 dateOfJoiningCape: 01/07/2013
 experienceTeaching: 11 Years

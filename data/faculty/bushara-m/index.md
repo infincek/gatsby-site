@@ -5,7 +5,7 @@ hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
 image: ./bushara-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 20/09/2012
 dateOfJoiningCape: 06/07/2012
 experienceTeaching: 10 years

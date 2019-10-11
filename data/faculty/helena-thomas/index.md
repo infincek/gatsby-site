@@ -6,7 +6,7 @@ teaching: true
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./helena-photo.jpg
-designation: Assistant Professor(Adhoc)
+designation: Assistant Professor (Adhoc)
 dateOfJoining: 22/08/2019
 experienceTeaching: Nil
 experienceIndustry: NIL

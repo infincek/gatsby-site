@@ -5,7 +5,7 @@ hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./tom-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 01/06/2018
 experienceTeaching: 11 years
 experienceIndustry: NIL

@@ -5,7 +5,7 @@ hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./remya.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Adhoc)
 dateOfJoining: 6/8/2018
 experienceTeaching: 4 years
 experienceIndustry: NIL

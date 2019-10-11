@@ -5,7 +5,7 @@ hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./lakshmija-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Adhoc)
 dateOfJoining: 9/01/2018
 experienceTeaching: 6 years
 experienceIndustry: NIL

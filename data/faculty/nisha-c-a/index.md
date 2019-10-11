@@ -5,7 +5,7 @@ hod: false
 department: it
 departmentFullName: Information Technology
 image: ./nisha-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 4/7/2012
 experienceTeaching: 12 years
 experienceIndustry: NIL
