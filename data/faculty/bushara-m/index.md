@@ -7,7 +7,7 @@ departmentFullName: Applied Electronics & Instrumentation
 image: ./bushara-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 20/09/2012
-dateofJoiningCape: 06/07/2012
+dateOfJoiningCape: 06/07/2012
 experienceTeaching: 10 years
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech, Kerala University."

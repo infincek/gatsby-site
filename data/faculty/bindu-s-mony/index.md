@@ -7,7 +7,7 @@ departmentFullName: Computer Science and Engineering
 image: ./bindu-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 01/01/2019
-dateofJoiningCape: 01/07/2013
+dateOfJoiningCape: 01/07/2013
 experienceTeaching: 9 years
 experienceIndustry: NIL
 ugAndInstitution: "B Sc. Mathematics , Mahatma Gandhi University"

@@ -7,7 +7,7 @@ departmentFullName: Computer Science and Engineering
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 04/03/2004
-dateofJoiningCape: 01/07/2003
+dateOfJoiningCape: 01/07/2003
 experienceTeaching: 17 yrs
 experienceIndustry: NIL
 ugAndInstitution: "Kerala University"

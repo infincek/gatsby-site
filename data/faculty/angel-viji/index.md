@@ -7,7 +7,7 @@ departmentFullName: Computer Science and Engineering
 image: ./angel-photo.jpg
 designation: Associate Professor
 dateOfJoining: 18/03/2016
-dateofJoiningCape: 18/03/2016
+dateOfJoiningCape: 18/03/2016
 experienceTeaching: 11.6 years
 experienceIndustry: NIL
 ugAndInstitution: "St. Xavier's Catholic College of Engineering"

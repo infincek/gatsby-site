@@ -7,7 +7,7 @@ departmentFullName: Civil Engineering
 image: ./appu-photo1.jpg
 designation: Assistant Professor
 dateOfJoining: 04/07/2017
-dateofJoiningCape: 01/07/2013
+dateOfJoiningCape: 01/07/2013
 experienceTeaching: 11 Years
 experienceIndustry: nil
 ugAndInstitution: "MA College of Engg, Kothamangalam,   MG University"

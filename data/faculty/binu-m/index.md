@@ -7,7 +7,7 @@ departmentFullName: Department of Applied Sciences and Humanities
 image: ./binu.jpg
 designation: Assistant Professor
 dateOfJoining: 02/07/2013
-dateofJoiningCape: 09/07/2012
+dateOfJoiningCape: 09/07/2012
 experienceTeaching: 6 years
 experienceIndustry: NIL
 ugAndInstitution: "Mathematics, St. Mary's college Thrissur"

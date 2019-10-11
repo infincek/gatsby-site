@@ -7,7 +7,7 @@ departmentFullName: Computer Science and Engineering
 image: ./jyothis-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 02/07/2004
-dateofJoiningCape: 01/07/2003
+dateOfJoiningCape: 01/07/2003
 experienceTeaching: 17 yrs
 experienceIndustry: NIL
 ugAndInstitution: "MES college of Engg,Kuttippuram"

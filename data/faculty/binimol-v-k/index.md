@@ -7,7 +7,7 @@ departmentFullName: Electrical and Electronics Engineering
 image: ./image.jpg
 designation: Assistant Professor
 dateOfJoining: 17/01/2012
-dateofJoiningCape: 01/07/2010
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 12 years
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech, RIT KOTTAYAM/ MG University"
