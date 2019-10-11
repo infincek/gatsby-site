@@ -14,4 +14,4 @@ Name of Public Authority :  **Co-operative Academy of Professional Education**
 | Sl No. | Name | Designation of Officers | Designated post | Phone No.with STD | Fax | Email |
 |--------|---------------------|-------------------------|----------------------------|-------------------|--------------|-------------------|
 | 1 | Dr.K.G. Viswanadhan | Principal | Appellate Authority | 04822-255056 | 04822-255056 | cekcape@gmail.com |
-| 2 | Sri. M G Nainan | Administrative Officer | Public Information Officer | 04822-257656 | 04822-255056 | cekcape@gmail.com |
+| 2 | Suvin Sundar | Administrative Officer | Public Information Officer | 04822-257656 | 04822-255056 | cekcape@gmail.com |
