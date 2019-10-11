@@ -5,7 +5,7 @@ hod: false
 department: ce
 departmentFullName: Civil Engineering
 image: ./divya-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 # dateOfJoining: 
 experienceTeaching: 9 years
 experienceIndustry: NIL

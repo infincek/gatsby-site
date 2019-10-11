@@ -5,7 +5,7 @@ hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./anith.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 05/07/2012
 experienceTeaching: 9.75 Years
 experienceIndustry: 0.25 Years

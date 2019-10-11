@@ -5,7 +5,7 @@ hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./savitha.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Adhoc)
 dateOfJoining: 22/09/2016
 experienceTeaching: 12 Years
 experienceIndustry: 6 months

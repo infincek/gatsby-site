@@ -5,7 +5,7 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./image.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 29/06/19
 experienceTeaching: 17 yrs
 experienceIndustry: NIL

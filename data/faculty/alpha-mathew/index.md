@@ -5,7 +5,7 @@ hod: false
 department: it
 departmentFullName: Information Technology
 image: ./alpha-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 01/07/2010
 experienceTeaching: 11 years
 experienceIndustry: 1.5 years

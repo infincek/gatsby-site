@@ -5,7 +5,7 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./ani.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 30/07/2007
 # experienceTeaching:
 # experienceIndustry:

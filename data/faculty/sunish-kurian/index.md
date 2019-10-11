@@ -5,7 +5,7 @@ hod: true
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./sunish-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 26/05/2011
 experienceTeaching: 10 years
 experienceIndustry: 15 years

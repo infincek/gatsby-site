@@ -5,7 +5,7 @@ hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./image.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 17/02/2012
 experienceTeaching: 12 years
 experienceIndustry: NIL

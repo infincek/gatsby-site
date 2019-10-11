@@ -5,7 +5,7 @@ hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
 image: ./saji.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 1/7/2010
 experienceTeaching: 10 years
 experienceIndustry: NIL

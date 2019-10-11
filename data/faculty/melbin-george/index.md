@@ -5,7 +5,7 @@ hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering 
 image: ./melbin-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 31/05/2019
 experienceTeaching: 3 years
 experienceIndustry: 2 years

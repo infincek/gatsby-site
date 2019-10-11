@@ -5,7 +5,7 @@ hod: false
 department: ece
 departmentFullName: Electronics and communication engineering
 image: ./arun-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 03/07/2016
 experienceTeaching: 9.5 years
 experienceIndustry: NIL
