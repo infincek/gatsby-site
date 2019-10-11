@@ -1,6 +1,6 @@
 ---
 title: ISTE
-image: ./lumiere.png
+image: ./iste-logo.jpg
 template: singlepage
 description: COMING SOON
 ---
