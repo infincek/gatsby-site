@@ -1,6 +1,6 @@
 ---
 title: College Union
-image: ./infincek.png
+image: ./college-union.jpg
 template: singlepage
 description: COMING SOON
 ---
