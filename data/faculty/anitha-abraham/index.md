@@ -7,7 +7,7 @@ departmentFullName: Computer Science and Engineering
 image: ./anitha.jpg
 designation: Assistant Professor
 dateOfJoining: 01/01/2010
-dateofjoiningCape: 30/07/2007
+dateofJoiningCape: 30/07/2007
 # experienceTeaching:
 # experienceIndustry:
 ugAndInstitution: "B.Tech"

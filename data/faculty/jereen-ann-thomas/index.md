@@ -7,7 +7,7 @@ departmentFullName: Civil Engineering
 image: ./jereen-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 24/07/2015
-dateofjoiningCape: 01/08/2007
+dateofJoiningCape: 01/08/2007
 experienceTeaching: 2 years
 experienceIndustry: 1.5 years
 ugAndInstitution: "B.Tech, St.Joseph's College of Engineering and Technology/ M G University"

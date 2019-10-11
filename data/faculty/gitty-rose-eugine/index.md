@@ -7,7 +7,7 @@ departmentFullName: Civil Engineering
 image: ./gitty.jpg
 designation: Assistant Professor
 dateOfJoining: 30/09/2013
-dateofjoiningCape: 08/07/2013
+dateofJoiningCape: 08/07/2013
 experienceTeaching: 9years
 experienceIndustry: 1.5yrs
 ugAndInstitution: "CET/University of Kerala."

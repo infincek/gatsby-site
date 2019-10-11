@@ -7,7 +7,7 @@ departmentFullName: Electrical and Electronics
 image: ./haridas-photo.jpg
 designation: Assistant Professor
 dateOfJoining: 15/06/2019
-dateofjoiningCape: 01/07/2010
+dateofJoiningCape: 01/07/2010
 experienceTeaching: 9 Years
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech, RIT KOTTAYAM/ MG University"

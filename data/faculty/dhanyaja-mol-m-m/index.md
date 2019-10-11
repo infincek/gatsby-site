@@ -9,7 +9,7 @@ departmentFullName: Computer Science and Engineering
 image: ./dhanyaja.jpg
 designation: Computer Programmer
 dateOfJoining: 06/08/2013
-dateofjoiningCape: 06/08/2013
+dateofJoiningCape: 06/08/2013
 mobileNumber: 9497743596
 mailid: dhanyajamol@gmail.com
 ---

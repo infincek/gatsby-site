@@ -9,7 +9,7 @@ departmentFullName: Department of Applied Sciences and Humanities
 image: ./anusha.jpg
 designation: Instructor Gr-II
 dateOfJoining: 01/07/2010
-dateofjoiningCape: 01/07/2010
+dateofJoiningCape: 01/07/2010
 mobileNumber: 9562600473
 mailid: anushapadayattil@gmail.com
 ---
