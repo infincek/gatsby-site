@@ -6,7 +6,8 @@ department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./salini-photo.jpg
 designation: Assistant Professor(Regular)
-dateOfJoining: 12/11/2013
+dateOfJoining: 04/11/2013
+dateOfJoiningCape: 01/07/2013
 experienceTeaching: 10 Years
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech, Calicut University"

@@ -7,6 +7,7 @@ departmentFullName: Department of Applied Sciences and Humanities
 image: ./sunish-photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 26/05/2011
+dateOfJoiningCape: 01/10/2009
 experienceTeaching: 10 years
 experienceIndustry: 15 years
 ugAndInstitution: "B Tech Mechanical Engineering ,College of Engineering Trivandrum."

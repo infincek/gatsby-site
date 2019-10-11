@@ -7,6 +7,7 @@ departmentFullName: Electrical and Electronics Engineering
 image: ./praseetha-photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 02/07/2019
+dateOfJoiningCape: 06/07/2012
 experienceTeaching: 10 Years
 experienceIndustry: NIL
 ugAndInstitution: B.Tech, GCE Kannur, Kannur University

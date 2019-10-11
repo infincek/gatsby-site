@@ -6,7 +6,8 @@ department: ei
 departmentFullName: Applied Electronics & Instrumentation
 image: ./sithara-photo.jpg
 designation: Assistant Professor(Regular)
-dateOfJoining: 1/7/2010
+dateOfJoining: 03/07/2012
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 10 years
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech,Calicut University"

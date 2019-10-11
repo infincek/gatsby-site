@@ -7,6 +7,7 @@ departmentFullName: Department of Applied Sciences and Humanities
 image: ./vimal.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 01/06/2018
+dateOfJoiningCape: 05/07/2012
 experienceTeaching: 11 years
 experienceIndustry: NIL
 ugAndInstitution: "B Tech,Mechanical Engineering,M.G.University"

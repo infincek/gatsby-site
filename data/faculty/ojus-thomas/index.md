@@ -6,7 +6,8 @@ department: cse
 departmentFullName: Computer Science and Engineering
 image: ./ojus-photo.jpg
 designation: Associate Professor
-dateOfJoining: 24/01/2001
+dateOfJoining: 25/01/2001
+dateOfJoiningCape: 08/11/1999
 experienceTeaching: 20 years
 experienceIndustry: Nil
 ugAndInstitution: "B.Tech,

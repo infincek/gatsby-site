@@ -7,6 +7,7 @@ departmentFullName: Electronics and Communication Engineering
 image: ./priya-photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 24/07/2015
+dateOfJoiningCape: 18/08/2007
 experienceTeaching: 12 years
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech,CUSAT."
