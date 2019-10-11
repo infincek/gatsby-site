@@ -5,7 +5,7 @@ hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./christina.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Adhoc)
 dateOfJoining: 22/09/2016
 experienceTeaching: 3 years
 experienceIndustry: NIL

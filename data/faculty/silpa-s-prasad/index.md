@@ -5,7 +5,7 @@ hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./shilpa.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 30/07/2016
 dateOfJoiningCape: 01/07/2010
 experienceTeaching: 9 years

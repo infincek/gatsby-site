@@ -5,7 +5,7 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./jyothis-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 02/07/2004
 dateOfJoiningCape: 01/07/2003
 experienceTeaching: 17 yrs

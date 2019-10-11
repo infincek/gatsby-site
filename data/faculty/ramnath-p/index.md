@@ -5,7 +5,7 @@ hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./ramnath-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 17/07/2015
 dateOfJoiningCape: 01/07/2010
 experienceTeaching: 9 years

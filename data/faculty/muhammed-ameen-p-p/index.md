@@ -5,7 +5,7 @@ hod: false
 department: ece
 departmentFullName: Electronics and communication engineering
 image: ./ameen.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 24/11/2014
 dateOfJoiningCape: 01/07/2011
 experienceTeaching: 9 years

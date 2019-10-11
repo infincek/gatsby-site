@@ -5,7 +5,7 @@ hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./rinson-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 7/07/2018
 dateOfJoiningCape: 14/02/2011
 experienceTeaching: 9 years

@@ -5,7 +5,7 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./asha1.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 11/8/2011
 dateOfJoiningCape: 01/07/2010
 experienceTeaching: 9 years

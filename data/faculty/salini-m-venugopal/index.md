@@ -5,7 +5,7 @@ hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./salini-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 04/11/2013
 dateOfJoiningCape: 01/07/2013
 experienceTeaching: 10 Years

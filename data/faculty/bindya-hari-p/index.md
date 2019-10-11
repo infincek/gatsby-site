@@ -5,7 +5,7 @@ hod: false
 department: ce
 departmentFullName: Civil Engineering
 image: ./bindya-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 02/07/2013
 dateOfJoiningCape: 09/07/2012
 experienceTeaching: 9 Years

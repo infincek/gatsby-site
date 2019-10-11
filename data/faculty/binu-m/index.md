@@ -5,7 +5,7 @@ hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./binu.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 02/07/2013
 dateOfJoiningCape: 09/07/2012
 experienceTeaching: 6 years

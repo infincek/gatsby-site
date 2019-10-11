@@ -5,7 +5,7 @@ hod: false
 department: ce
 departmentFullName: Civil Engineering
 image: ./jereen-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Adhoc)
 dateOfJoining: 24/07/2015
 dateOfJoiningCape: 01/08/2007
 experienceTeaching: 2 years

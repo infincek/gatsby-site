@@ -5,7 +5,7 @@ hod: false
 department: ce
 departmentFullName: Civil Engineering
 image: ./divya-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 15/06/2019
 dateOfJoiningCape: 01/07/2013
 experienceTeaching: 9 years
