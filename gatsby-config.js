@@ -39,6 +39,10 @@ module.exports = {
                         link: '/about/administration'
                     },
                     {
+                        name: 'Board Of  Governors',
+                        link: '/about/bog'
+                    },
+                    {
                         name: 'HODs',
                         link: '/about/hod'
                     },

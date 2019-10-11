@@ -32,34 +32,84 @@ mission: "To achieve academic excellence in students of all ability levels throu
 
 ### Lab details
 
+[box]
+[fl width='500']
+![Basic Electronics Lab](BasicElectronics.jpeg)
+[/fl]
+
 **Basic Electronics Lab**
 
 This lab is well equipped for study of solid-state devices viz. Diode, Bipolar junction Transistors, Field effect transistors resistors and capacitors. This lab is intended for the 3rd semester EC,EI and CS students, preparing them for a smooth take off to the dazzling world of Electronics.
+
+[/box]
+
+[box]
+[fl width='500']
+![Circuits Lab](CircuitsLab.jpeg)
+[/fl]
 
 **Circuits Lab**
 
 Designing Amplifiers, power supplies, signal generators and signal conditioner circuits, will be just child play for the fourth semester students, after they complete this course. We have a well-equipped lab set up for experiments in electronic circuit designing.You will find all sorts of equipments and devices (CROs, Function generators, power supplies, trainer kits) for the development of the future technocrats.
 
+[/box]
+
+[box]
+[fl width='500']
+![Digital Electronics Lab](DigitalElectronics.jpeg)
+[/fl]
 **Digital Electronics Lab**
 
 In this era of every thing “Going Digital”, we are committed to make our students real masters in digital designing. The digital electronics lab has all the facilities to experiment with SSI and MSI chips (GATES, FLIPFLOPS, Counters, MUX/DEMUX, RAM and ROMS). We give training in designing and developing digital circuits, experimenting using Digital Trainer Kits.
 
+[/box]
+
+[box]
+[fl width='500']
+![Power Electronics Lab](PowerElectronics.jpeg)
+[/fl]
 **Power Electronics Lab**
 
 The power electronics lab facility of the college empowers our students in the areas of industrial power devices like dc/ac motors, SMPS and INVERTERS. We have specially designed training systems to familiarize our students with circuits using Thyristors, MOS and IGBTs.
 
+[/box]
+
+[box]
+[fl width='500']
+![Micro processor Lab](Microprocessor.jpeg)
+[/fl]
 **Micro processor Lab**
 
 This lab is set up for imparting training in various various microprocessors. The lab experiments include microprocessor system familiarization, assembly language programming, interfacing with ADC/DACs, relay switches LEDs, 8085 and 8086 programming kits and interfacing experiments like interrupt controller, DMA interface, CRT, centronics port, serial port etc.
 
+[/box]
+
+[box]
+[fl width='500']
+![Basic Electronics Lab](BasicElectronics.jpeg)
+[/fl]
 **Embedded Systems Lab**
 
 Our students are trained in developing 8051 and PIC micro controller based systems. We have the facility to program devices including Most E (E) PROM, flash, GAL, EP3KK/6kk, PEEL, PLACE, B PAL, PLC’s PLs, PLH, PLC, ATV, ATH, CPL, 85 cck/5cck/DS 12 kk, Micro controllers 87 kk/9kk, D75 pkk, D78pkk, pp75 kk, HD 63 kkk/PIC 16kkk/17kk/cop87kk and PSD 8kk.
 
+[/box]
+
+[box]
+[fl width='500']
+![Digital Signal Processing Lab](DigitalSignalProcessing.jpeg)
+[/fl]
 **Digital Signal Processing Lab**
 
 This lab gives hands on training in various DSP kits like TMS 320C54xx,TMS 320C55XX and has got facilities to do real time system projects also.
 
+[/box]
+
+[box]
+[fl width='500']
+![Microwave and Antennas Lab](MicrowaveandAntenna.jpeg)
+[/fl]
 **Microwave and Antennas Lab**
 
 This lab includes training kits for microwave antenna studies and the students get a real feel of the electromagnetic concepts.
+
+[/box]
