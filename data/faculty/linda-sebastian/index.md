@@ -6,7 +6,8 @@ department: cse
 departmentFullName: Computer Science and Engineering
 image: ./linda-photo.jpg
 designation: Assistant Professor(Regular)
-dateOfJoining: 26/5/2018
+dateOfJoining: 26/05/2018
+dateOfJoiningCape: 26/08/2006
 experienceTeaching: 15 years
 experienceIndustry: NIL
 ugAndInstitution: "School of Engineering,CUSAT"

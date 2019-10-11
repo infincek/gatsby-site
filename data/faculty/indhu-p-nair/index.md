@@ -6,7 +6,8 @@ department: eee
 departmentFullName: Electrical & Electronics Engineering
 image: ./indhu-miss.jpg
 designation: Associate Professor
-dateOfJoining: 	06/07/2012
+dateOfJoining: 	06/02/2006
+dateOfJoiningCape: 06/02/2006
 experienceTeaching: 7 Yrs
 experienceIndustry: NIL
 ugAndInstitution: "B.Tech."

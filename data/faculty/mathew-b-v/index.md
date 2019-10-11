@@ -6,7 +6,8 @@ department: ce
 departmentFullName: Civil Engineering
 image: ./mathew-new.jpg
 designation: Professor
-# dateOfJoining:
+dateOfJoining: 30/06/2017
+dateOfJoiningCape: 04/01/2016
 experienceTeaching: 31 years
 experienceIndustry: 1.5 years
 ugAndInstitution: GECT - Calicut University

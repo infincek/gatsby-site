@@ -7,6 +7,7 @@ departmentFullName: Computer Science and Engineering
 image: ./priyanka-photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 20/12/2013
+dateOfJoiningCape: 01/07/2011
 experienceTeaching: 8 years
 experienceIndustry: NIL
 ugAndInstitution: "College of Engineering Poonjar"

@@ -4,9 +4,10 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./ani.jpg
+image: ./anitha.jpg
 designation: Assistant Professor(Regular)
-dateOfJoining: 30/07/2007
+dateOfJoining: 01/01/2010
+dateOfJoiningCape: 30/07/2007
 # experienceTeaching:
 # experienceIndustry:
 ugAndInstitution: "B.Tech"
@@ -17,5 +18,5 @@ specialization:
 otherData: "NIL"
 mobileNumber:
 mailid: anitha_256@yahoo.com
-position: 4
+position: 10
 ---

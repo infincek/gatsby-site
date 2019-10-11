@@ -6,7 +6,8 @@ department: it
 departmentFullName: Information Technology
 image: ./krishnaveni.jpg
 designation: Assistant Professor(Regular)
-dateOfJoining: 11/8/2014
+dateOfJoining: 12/08/2014
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 11 years
 experienceIndustry: 1.5 years
 ugAndInstitution: "B.Tech,
