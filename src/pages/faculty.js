@@ -11,6 +11,18 @@ const meta = {
 };
 
 export default ({data}) => {
+    const faculties = [];
+    data.faculties.group.forEach((item,i) => {
+        faculties.push(
+            <Faculties data={item} key={"fac"+i} page={true}/>
+        )
+    })
+    const technical = [];
+    data.technical.group.forEach((item,i) => {
+        technical.push(
+            <Faculties data={item} key={"tech"+i} page={true}/>
+        )
+    })
     return (
         <Layout meta={meta}>
             <div className="page-contents container">
@@ -26,11 +38,11 @@ export default ({data}) => {
                     </div>
                     <div className="row">
                         <h2>Teaching</h2>
-                        <Faculties data={data.faculties} page={true}/>
+                        {faculties}
                     </div>
                     <div className="row">
                         <h2>Technical Staff</h2>
-                        <Faculties data={data.technical} page={true}/>
+                        {technical}
                     </div>
                 </div>
             </div>
@@ -47,27 +59,29 @@ export const query = graphql`
             },
             sort: {fields: frontmatter___position}
         ) {
-            edges {
-                node {
-                    id
-                    frontmatter {
-                        title
-                        name
-                        hod
-                        departmentFullName
-                        image {
-                            publicURL
-                            childImageSharp {
-                                fluid(maxWidth: 1000) {
-                                    srcSet
-                                    ...GatsbyImageSharpFluid_tracedSVG
+            group(field: frontmatter___department) {
+                edges {
+                    node {
+                        id
+                        frontmatter {
+                            title
+                            name
+                            hod
+                            departmentFullName
+                            image {
+                                publicURL
+                                childImageSharp {
+                                    fluid(maxWidth: 1000) {
+                                        srcSet
+                                        ...GatsbyImageSharpFluid_tracedSVG
+                                    }
                                 }
                             }
+                            designation
                         }
-                        designation
-                    }
-                    fields {
-                        slug
+                        fields {
+                            slug
+                        }
                     }
                 }
             }
@@ -78,26 +92,28 @@ export const query = graphql`
                 fileAbsolutePath: { regex: "/faculty/" }
             }
         ) {
-            edges {
-                node {
-                    id
-                    frontmatter {
-                        title
-                        name
-                        departmentFullName
-                        image {
-                            publicURL
-                            childImageSharp {
-                                fluid(maxWidth: 1000) {
-                                    srcSet
-                                    ...GatsbyImageSharpFluid_tracedSVG
+            group(field: frontmatter___departmentFullName) {
+                edges {
+                    node {
+                        id
+                        frontmatter {
+                            title
+                            name
+                            departmentFullName
+                            image {
+                                publicURL
+                                childImageSharp {
+                                    fluid(maxWidth: 1000) {
+                                        srcSet
+                                        ...GatsbyImageSharpFluid_tracedSVG
+                                    }
                                 }
                             }
+                            designation
                         }
-                        designation
-                    }
-                    fields {
-                        slug
+                        fields {
+                            slug
+                        }
                     }
                 }
             }
@@ -108,6 +124,7 @@ export const query = graphql`
                 fileAbsolutePath: { regex: "/faculty/" }
             }
         ) {
+            
             edges {
                 node {
                     id
@@ -130,7 +147,7 @@ export const query = graphql`
                     fields {
                         slug
                     }
-                }
+                } 
             }
         }
     }
