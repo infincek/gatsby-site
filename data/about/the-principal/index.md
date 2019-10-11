@@ -11,6 +11,8 @@ Principal, College Of Engineering Kidangoor.
 
 Area of Specialisation: Mechanical Engineering, Production Engineering
 
+[Profile](PrincipalProfile.pdf)
+
 **Education Summary**
 
 * Ph.D in Quality Engineering & Management from IISc Bangalore
