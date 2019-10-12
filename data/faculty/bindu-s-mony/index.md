@@ -8,14 +8,14 @@ image: ./bindu-photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 01/01/2019
 dateOfJoiningCape: 01/07/2013
-experienceTeaching: 9 years
+experienceTeaching: 20 years
 experienceIndustry: NIL
 ugAndInstitution: "B Sc. Mathematics , Mahatma Gandhi University"
-pgAndInstitution: "MCA, Mahatma Gandhi University"
+pgAndInstitution: "MCA, Bharathidasan University"
 subject: Mathematics
 phd: Mahatma Gandhi University
-specialization: Image Processing, Soft Computing
-otherData: "No. of International Journal - 3"
+specialization: Digital Image Processing, Neural Networks
+otherData: "No. of International Journal - 6  (National - 2)"
 mobileNumber: 9446334621
 mailid: bindusmony@gmail.com
 position: 9 
