@@ -21,7 +21,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
     - Alumini
     - TEQIP
 5. [Circulars/Orders/Rules](/quicklinks/instdoc/cor/)
-6. [Rank Holders List (Atleast from …..)](/quicklinks/instdoc/rank/)
+6. [Rank Holders List](/quicklinks/instdoc/rank/)
 7. [Staff List as on](/quicklinks/instdoc/staff/)
     - 31.03.2019
     - 30.09.19

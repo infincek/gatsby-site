@@ -1,5 +1,5 @@
 ---
-title: Computer science and Engineering
+title: Computer Science and Engineering
 name: cse
 template: departments
 image: ./cslogo.png
@@ -43,7 +43,8 @@ Graduates of Computer Science and Engineering at College of Engineering Kidangoo
 - **PEO5**- **Pursue lifelong learning** and professional development through higher education.
 
 
-### Lab details
+### Lab Details
+<br>
 
 [box]
 [fl width='500']
