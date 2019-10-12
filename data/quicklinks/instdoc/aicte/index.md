@@ -6,7 +6,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 [AICTE frist approval 2000](/docs/AICTEApprovals/AICTEfristapproval2000.pdf)
 
-[AICTE Approval 2001-02](/docs/AICTEApprovals/AICTEApproval2001-02.pdf)
+[AICTE Approval 2001-02](/docs/AICTEApprovals/AICTEApproval%202001-02.pdf)
 
 [AICTE Approval 2002-03](/docs/AICTEApprovals/AICTEApproval2002-03.pdf)
 
@@ -43,3 +43,4 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 [AICTE Approval 2018-19](/docs/AICTEApprovals/AICTEApproval2018-19.pdf)
 
 [AICTE Approval 2019-20](/docs/AICTEApprovals/AICTEApproval2019-20.pdf)
+

@@ -21,3 +21,13 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 [Auditor's Report 2016-2017](/docs/PTAAuditReport/auditor'sreport_2016_2017.pdf)
 
 [Auditor's Report 2017-2018](/docs/PTAAuditReport/auditor'sreport_2017_2018.pdf)
+
+[Inst-Audit Report 2012- 2015](/docs/AUDIT%20REPORTS/Inst-Audit%20Report%202012-%202015.pdf)
+
+[Statutory Audit Report for the Period 01.04.2017 to 31.07.2017](/docs/AUDIT%20REPORTS/Statutory%20Audit%20Report%20for%20the%20Period%2001.04.2017%20to%2031.07.2017%20.pdf)
+
+[TEQIP Audit report 15-16](/docs/AUDIT%20REPORTS/TEQIP%20Audit%20report%2015-16.pdf)
+
+[TEQIP Audit Report 16-17](/docs/AUDIT%20REPORTS/TEQIP%20Audit%20Report%2016-17.pdf)
+
+[TEQIP Audit Report April to July 2017](/docs/AUDIT%20REPORTS/TEQIP%20Audit%20Report%20April%20to%20July%202017.pdf)
