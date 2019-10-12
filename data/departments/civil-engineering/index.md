@@ -13,16 +13,12 @@ vision: "To be a leading centre of eminence, providing competent civil engineeri
 mission: "To provide quality education to students at undergraduate level through constant knowledge upgradation and to strive to maintain pace with the latest and most sophisticated innovations, research and development in the field of civil engineering within the ambit of sustainable development."
 ---
 
-###Program Educational Objectives
-
-The following objectives are what the faculty expects graduates from the program to be able to accomplish a few years after the commencement of their careers and stem directly from the program mission. The alumni from the Bachelor of Technology in Civil Engineering (B. Tech. CE) program at Civil Engineering Department of College of Engineering Kidangoor should:
-
-1. Practice in civil engineering or a related field.
-2. Practice and propagate concept of sustainable engineering.
-3. Pursue advanced or continuing education in civil engineering or a related field.
-4. Act as responsible, effective, and ethical citizens.
-5. Communicate and collaborate effectively.
-
+### Program Educational Outcomes (PEO)
+- **PEO1**-Have sound knowledge and technical skills required and remain productive in the field of Civil Engineering.
+- **PEO2**-Practice and propogate concept of sustainable engineering.
+- **PEO3**-Pursue advanced or continuing educatiion in Civil Engineering or a related field.
+- **PEO4**-Act as responsible, effective and ethical citizens.
+- **PEO5**-Communicate and collaborate effectively.
 <br>
 
 ###Program Outcomes
@@ -38,7 +34,7 @@ The following objectives are what the faculty expects graduates from the program
 - **Communication:** Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
 - **Project management and finance:** Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
 - **Life-long learning:** Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
-### Program Specific Outcomes
+### Program Specific Outcomes (PSO)
 - **PSO1**-Ability to carry out civil engineering planning and design independently.
 - **PSO2**-Ability to evaluate the project costs including that of the environmental impacts.
 - **PSO3**-Ability to use various software and tools required for professional civil engineering practice.
