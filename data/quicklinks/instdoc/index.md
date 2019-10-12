@@ -30,3 +30,4 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
     - 2017-18 (4years)
     - 2018-19 (4years)
     - 2019-20 (4years)
+9. [Budget/ Audited Statement](/quicklinks/instdoc/budget/)
