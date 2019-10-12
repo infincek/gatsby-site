@@ -15,8 +15,14 @@ pgAndInstitution: "MCA, Bharathidasan University"
 subject: Mathematics
 phd: Mahatma Gandhi University
 specialization: Digital Image Processing, Neural Networks
-otherData: "No. of International Journal - 6  (National - 2)"
+#otherData: "No. of International Journal - 6  (National - 2)"
 mobileNumber: 9446334621
 mailid: bindusmony@gmail.com
 position: 9 
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|   No. of International Journal   |  6  |
+|     No. of National Journal      |  2  |
+| No. of International Conferences |  7  |
+|    No.of national conferences    |  7  |
