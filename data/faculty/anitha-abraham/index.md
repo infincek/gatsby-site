@@ -13,9 +13,9 @@ dateOfJoiningCape: 30/07/2007
 ugAndInstitution: "B.Tech"
 pgAndInstitution: "M.Tech"
 subject: Computer Science
-phd: NIL
-specialization:
-otherData: "NIL"
+# phd: NIL
+# specialization:
+# otherData: "NIL"
 mobileNumber:
 mailid: anitha_256@yahoo.com
 position: 10

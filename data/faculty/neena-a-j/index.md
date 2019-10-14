@@ -13,10 +13,14 @@ experienceIndustry: 3 years
 ugAndInstitution: "B.Tech,Kerala University ."
 pgAndInstitution: "M.Tech,CUSAT"
 subject: SIGNAL PROCESSING
-phd: NIL
-specialization: NIL
-otherData: "No. of International Journal - 1,No. of National Journal - 2 ,No.of national conferences - 2"
+# phd: NIL
+# specialization: NIL
 mobileNumber: 9946940049
 mailid: neena.aj09@gmail.com
 position: 6
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|   No. of International Journal   |  1  |
+|     No. of National Journal      |  2  |
+|    No.of national conferences    |  2  |

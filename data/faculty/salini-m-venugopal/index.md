@@ -9,14 +9,17 @@ designation: Assistant Professor(Regular)
 dateOfJoining: 04/11/2013
 dateOfJoiningCape: 01/07/2013
 experienceTeaching: 10 Years
-experienceIndustry: NIL
+# experienceIndustry: NIL
 ugAndInstitution: "B.Tech, Calicut University"
 pgAndInstitution: "M.Tech, Karunya University"
 subject: Control&Instrumentation
-phd: NIL
-specialization: NIL
-otherData: "No. of International Conferences - 1 ,No.of national conferences - 1"
+# phd: NIL
+# specialization: NIL
 mobileNumber: 9847241212
 mailid: mvsalini@gmail.com
 position: 8
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+| No. of International Conferences |  1  |
+|    No.of national conferences    |  1  |

@@ -12,9 +12,9 @@ experienceIndustry: NIL
 ugAndInstitution: "College of Engineering Kidangoor, CUSAT"
 pgAndInstitution: "Rajiv Gandhi Institute of Science and Technology"
 subject: Computer Science and Engineering
-phd: NIL
-specialization:  NIL
-otherData: "NIL"
+# phd: NIL
+# specialization:  NIL
+# otherData: "NIL"
 mobileNumber: 9495743941    
 mailid: aryatjg7@gmail.com
 position: 14

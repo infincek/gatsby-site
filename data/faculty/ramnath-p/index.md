@@ -13,9 +13,8 @@ experienceIndustry: 3 years
 ugAndInstitution: "B Tech,Mechanical Engineering ,VTU ."
 pgAndInstitution: "M Tech,CUSAT"
 subject: Production Engineering
-phd: NIL
-specialization: NIL
-otherData: "No. of National Journal - 2,No.of national conferences - 2"
+# phd: NIL
+# specialization: NIL
 mobileNumber: 9447600241
 mailid: ramnath.p@gmail.com
 position: 1

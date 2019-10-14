@@ -9,7 +9,7 @@ designation: Associate Professor
 dateOfJoining: 25/01/2001
 dateOfJoiningCape: 08/11/1999
 experienceTeaching: 20 years
-experienceIndustry: Nil
+# experienceIndustry: Nil
 ugAndInstitution: "B.Tech,
 L.B.S College of Engineering,
 Kasargod"
@@ -18,7 +18,11 @@ VIT University, Vellore"
 subject: Middleware Technologies
 phd: National Institute of Technology Calicut
 specialization: Cloud Computing
-otherData: "NIL"
 mobileNumber: 9446217384
 mailid: ojusthomaslee@gmail.com
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|   No. of International Journal   |  3  |
+| No. of International Conferences |  7  |
+|    No.of national conferences    |  1  |

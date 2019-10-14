@@ -9,13 +9,13 @@ designation: Assistant Professor(Regular)
 dateOfJoining: 02/07/2013
 dateOfJoiningCape: 09/07/2012
 experienceTeaching: 9 Years
-experienceIndustry: "NIL"
+# experienceIndustry: "NIL"
 ugAndInstitution: CET/University of Kerala
 pgAndInstitution: CET/University of Kerala
 subject: Environmental Engineering
-phd: "NIL"
-specialization: NIL
-otherData: "NIL"
+# phd: "NIL"
+# specialization: NIL
+# otherData: "NIL"
 mobileNumber: 8281978472
 mailid: bindiyahari@yahoo.co.in
 position: 2

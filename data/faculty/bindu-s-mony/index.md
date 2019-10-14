@@ -9,7 +9,7 @@ designation: Assistant Professor(Regular)
 dateOfJoining: 01/01/2019
 dateOfJoiningCape: 01/07/2013
 experienceTeaching: 20 years
-experienceIndustry: NIL
+# experienceIndustry: NIL
 ugAndInstitution: "B Sc. Mathematics , Mahatma Gandhi University"
 pgAndInstitution: "MCA, Bharathidasan University"
 subject: Mathematics
