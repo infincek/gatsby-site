@@ -83,3 +83,24 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 </tbody>
 </table>
 </div>
+
+####E-Journals
+
+[EBSCO Engineering Collection](https://search.ebscohost.com)    
+
+Contents:
+ - E-Journals: 2464
+ - Engineering Source: 1608
+ - Computer & Applied Science Core: 1257
+ - eBook Engineering Core: 6280
+ - Business Abstracts with Full Text: 418
+
+####E-Books
+
+[Springer Engineering E-books Collection](https://link.springer.com)
+
+Contents:
+  -	E-Books: 3088
+
+
+[Library Book Search (OPAC)](https://192.168.8.212)
