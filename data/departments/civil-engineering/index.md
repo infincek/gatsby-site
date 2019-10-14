@@ -40,7 +40,7 @@ mission: "To provide quality education to students at undergraduate level throug
 - **PSO2**-Ability to evaluate the project costs including that of the environmental impacts.
 - **PSO3**-Ability to use various software and tools required for professional civil engineering practice.
 
-###Lab details
+###Lab Details
 <br>
 
 [box]
