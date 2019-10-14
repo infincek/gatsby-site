@@ -15,7 +15,10 @@ pgAndInstitution: IIT Madras
 subject: Civil Engineering
 phd: Madras University
 specialization: Civil Engineering- Engineering Education
-otherData: "NIL"
+# otherData: "NIL"
 mobileNumber: 9526304512
 mailid: bvmathew11@gmail.com
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|     No. of National Journal      |  2  |

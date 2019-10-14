@@ -8,10 +8,10 @@ image: ./image.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 01/07/2010
 dateOfJoiningCape: 01/07/2010
-experienceIndustry: NIL
+# experienceIndustry: NIL
 ugAndInstitution: "B.Tech"
 pgAndInstitution: "M.Tech"
-otherData: "NIL"
+# otherData: "NIL"
 mailid: aryarajan84@gmail.com
 position: 12
 ---

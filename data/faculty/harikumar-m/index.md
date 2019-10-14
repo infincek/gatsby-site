@@ -22,3 +22,8 @@ mobileNumber: 9745187337
 mailid: harikumar0907@gmail.com
 position: 7
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|   No. of International Journal   |  9  |
+| No. of International Conferences |  4  |
+|    No.of national conferences    |  2  |

@@ -1,5 +1,5 @@
 ---
-title: TINA PG
+title: Dr.TINA PG
 template: faculty
 hod: false
 department: ei
@@ -15,8 +15,13 @@ pgAndInstitution: "M Tech ,Dept. of Electronics, CUSAT"
 subject: Microwave & Radar Electronics
 phd: Dept. of Electronics, CUSAT
 specialization: Genomics Signal Processing
-otherData: "No. of International Journal - 3 , No. of International Conferences - 3, No.of national conferences - 1 "
+# otherData: 
 mobileNumber: 9496593261
 mailid: tinapgcek@gmail.com
 position: 1
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|   No. of International Journal   |  3  |
+| No. of International Conferences |  3  |
+|    No.of national conferences    |  1  |

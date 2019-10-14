@@ -13,9 +13,9 @@ experienceIndustry: 1 year
 ugAndInstitution: "B.Tech, College of Engineering,Adoor"
 pgAndInstitution: "M.Tech, Department of Electronics,CUSAT"
 subject: Optoelectronics & Laser technology
-phd: NIL
-specialization: NIL
-otherData: "NIL"
+# phd: NIL
+# specialization: NIL
+# otherData: "NIL"
 mobileNumber: 9496326560
 mailid: ameencca@yahoo.in
 position: 5

@@ -15,8 +15,12 @@ pgAndInstitution: "Dept.of Mathematics, University of Calicut"
 subject: Pure Mathematics
 phd: National Institute of Technology Calicut
 specialization: Network Analysis with Fuzzy Graph Theory
-otherData: nil
+# otherData: "No. of International Journal -4, No. of International Conferences - 2 (Research Paper Presentations),  "
 mobileNumber: 9745174583
 mailid: binka.7@gmail.com
 position: 5
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|   No. of International Journal   |  4  |
+| No. of International Conferences |  2  |

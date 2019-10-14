@@ -9,13 +9,13 @@ designation: Assistant Professor(Regular)
 dateOfJoining: 21/07/2015
 dateOfJoiningCape: 05/07/2012
 experienceTeaching: 14 years
-experienceIndustry: NIL
+# experienceIndustry: NIL
 ugAndInstitution: Mathematics,K.E College,Mannanam.
 pgAndInstitution: Dept.of Mathematics,CUSAT
 subject: Pure Mathematics
-phd: NIL
-specialization: NIL
-otherData: No. of National Journal - 2,No.of national conferences - 2
+# phd: NIL
+# specialization: NIL
+# otherData: 
 mobileNumber: 9446283678
 mailid: sreelakshmianand69@gmail.com
 position: 3

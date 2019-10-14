@@ -13,10 +13,13 @@ experienceIndustry: .25 years
 ugAndInstitution: "B.Tech,SNGCE Kadayiruppu/ M G University"
 pgAndInstitution: "M.Tech , SJCET,Palai/M G University"
 subject: Power Electronics
-phd: NIL
-specialization:  Computer and InformationScience
-otherData: "No. of International Journal - 1"
+# phd: NIL
+# specialization: 
+# otherData: 
 mobileNumber: 9048106047
 mailid: sreekalavalsan@gmail.com
 position: 1
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|   No. of International Journal   |  1  |

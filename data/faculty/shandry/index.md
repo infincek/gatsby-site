@@ -14,10 +14,13 @@ ugAndInstitution: "B.Tech,
 Adisankara Institute of Engineering & Technology, Kalady."
 pgAndInstitution: "Department of Computer Science,CUSAT"
 subject: Computer and Information Science
-phd: NIL
-specialization:  NIL
-otherData: "No. of International Journal - 3, No. of International Conferences - 1"
+# phd: NIL
+# specialization:  NIL
 mobileNumber: 9048825985
 mailid: shandrykk@gmail.com
 position: 5
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+|   No. of International Journal   |  3  |
+| No. of International Conferences |  1  |

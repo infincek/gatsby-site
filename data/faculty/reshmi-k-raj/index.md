@@ -13,10 +13,13 @@ experienceIndustry: 1 Year
 ugAndInstitution: "B Tech , Adi Shankara Institute of Engineering & Tehnology/ M. G. University"
 pgAndInstitution: "M Tech, RIT KOTTAYAM/ M. G. University"
 subject: Industrial Drives and Control
-phd: NIL
-specialization: NIL
-otherData: "No. of International Conferences - 1 ,No.of national conferences - 1"
+# phd: NIL
+# specialization: NIL
 mobileNumber: 8547814807
 mailid: reshmiraj96@gmail.com
 position: 7
 ---
+|           PUBLICATIONS           |     |
+| :------------------------------: | :-: |
+| No. of International Conferences |  7  |
+|    No.of national conferences    |  7  |

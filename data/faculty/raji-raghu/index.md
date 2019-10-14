@@ -8,13 +8,13 @@ image: ./raji-photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 6/8/2018
 experienceTeaching: 4 years
-experienceIndustry: NIL
+# experienceIndustry: NIL
 ugAndInstitution: Chemistry,Devamatha College Kuravilangadu.
 pgAndInstitution: KE College Mannanam
 subject: Chemistry
-phd: NIL
-specialization: NIL
-otherData: nil
+# phd: NIL
+# specialization: NIL
+# otherData: nil
 mobileNumber: 9961634646
 mailid: remyakg@gmail.com
 ---
