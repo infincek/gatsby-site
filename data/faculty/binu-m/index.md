@@ -9,7 +9,7 @@ designation: Assistant Professor(Regular)
 dateOfJoining: 02/07/2013
 dateOfJoiningCape: 09/07/2012
 experienceTeaching: 6 years
-experienceIndustry: NIL
+# experienceIndustry: NIL
 ugAndInstitution: "Mathematics, St. Mary's college Thrissur"
 pgAndInstitution: "Dept.of Mathematics, University of Calicut"
 subject: Pure Mathematics

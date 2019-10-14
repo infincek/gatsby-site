@@ -9,7 +9,7 @@ designation: Assistant Professor(Regular)
 dateOfJoining: 01/08/2016
 dateOfJoiningCape: 01/07/2010
 experienceTeaching: 11 years
-experienceIndustry: .25 years
+experienceIndustry: 0.25 years
 ugAndInstitution: "B.Tech,SNGCE Kadayiruppu/ M G University"
 pgAndInstitution: "M.Tech , SJCET,Palai/M G University"
 subject: Power Electronics
