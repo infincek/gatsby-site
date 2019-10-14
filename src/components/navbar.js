@@ -34,10 +34,11 @@ class Navbar extends React.Component {
         const topBarHeight = this.topBar.current.getBoundingClientRect().height;
         const nav = this.nav.current;
 
-        if(window.innerWidth < 901){
-            nav.classList.add("fixed");
-            this.navPlaceholder.current.style.height = nav.getBoundingClientRect().height + "px";
-        }else {
+        if (window.innerWidth < 901) {
+            nav.classList.add('fixed');
+            this.navPlaceholder.current.style.height =
+                nav.getBoundingClientRect().height + 'px';
+        } else {
             window.addEventListener('scroll', function(e) {
                 const top =
                     window.pageYOffset || document.documentElement.scrollTop;
@@ -66,7 +67,9 @@ class Navbar extends React.Component {
                         <div className="col ph item s6 m2 l2">
                             <i className="fa fa-phone color-primary" />
                             <div>
-                                <div className="prop color-primary">Contact</div>
+                                <div className="prop color-primary">
+                                    Contact
+                                </div>
                                 <div
                                     dangerouslySetInnerHTML={{
                                         __html: baseData.allBaseYaml.edges[0].node.data.phone.join(
@@ -74,6 +77,14 @@ class Navbar extends React.Component {
                                         )
                                     }}
                                 />
+                                <a
+                                    href={`mailto: ${baseData.allBaseYaml.edges[0].node.data.email}`}
+                                >
+                                    {
+                                        baseData.allBaseYaml.edges[0].node.data
+                                            .email
+                                    }
+                                </a>
                             </div>
                         </div>
                         <div className="col address item s6 m3 l2">
@@ -97,21 +108,11 @@ class Navbar extends React.Component {
                         <div className="col address item s6 m3 l2">
                             <i className="fa fa-bookmark color-primary" />
                             <div>
-                                <div className="prop color-primary">College Code : KGR</div>
+                                <div className="prop color-primary">
+                                    College Code : KGR
+                                </div>
                                 <div>
-                                    <a
-                                        className="text-primary"
-                                        href={
-                                            'mailto:' +
-                                            baseData.allBaseYaml.edges[0].node
-                                                .data.email
-                                        }
-                                    >
-                                        {
-                                            baseData.allBaseYaml.edges[0].node
-                                                .data.email
-                                        }
-                                    </a>
+                                    <p>{baseData.allBaseYaml.edges[0].node.data.code}</p>
                                 </div>
                             </div>
                         </div>
@@ -130,7 +131,10 @@ class Navbar extends React.Component {
                         <Navlinks />
                     </div>
                 </nav>
-                <div className="navbar-placeholder" ref={this.navPlaceholder}></div>
+                <div
+                    className="navbar-placeholder"
+                    ref={this.navPlaceholder}
+                ></div>
                 <Sidebar
                     sidebar={
                         <SidebarContents
@@ -189,6 +193,9 @@ function SidebarContents({ data }) {
                             __html: data.phone.join('<br/>')
                         }}
                     />
+                    <a className="text-primary" href={'mailto:' + data.email}>
+                        {data.email}
+                    </a>
                 </div>
                 <div className="col">
                     <i className="fa fa-map-marker color-primary" />
@@ -202,16 +209,9 @@ function SidebarContents({ data }) {
                     />
                 </div>
                 <div className="col">
-                    <i className="fa fa-envelope color-primary" />
-                    <p className="prop color-primary">Mail</p>
-                    <div>
-                        <a
-                            className="text-primary"
-                            href={'mailto:' + data.email}
-                        >
-                            {data.email}
-                        </a>
-                    </div>
+                    <i className="fa fa-bookmark color-primary" />
+                    <p className="prop color-primary">College Code: KGR</p>
+                    <div>{data.code}</div>
                 </div>
             </div>
         </div>
@@ -230,6 +230,7 @@ export default () => (
                                 phone
                                 address
                                 email
+                                code
                             }
                         }
                     }

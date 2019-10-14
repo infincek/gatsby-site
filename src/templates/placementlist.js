@@ -39,11 +39,15 @@ export default function({data}) {
 
     currentYearPlacements.forEach((cpe) => {
         if(cpe.frontmatter.selections){
+            cpe.frontmatter.selections.forEach(item => {
+                item.company = {name: cpe.frontmatter.title, url: cpe.fields.slug};
+            })
             currentlyPlacedStudents.push(...cpe.frontmatter.selections);
         }
     })
 
     const listPlacedStudents = [];
+
 
     currentlyPlacedStudents.forEach((cpe, cpi) => {
         listPlacedStudents.push(<PlacementSelection data={cpe} key={cpe.name+""+cpi}/>);
@@ -106,6 +110,9 @@ const PlacementSelection = ({data}) => {
                     <h5 className="name">{data.name}</h5>
                     <p className="dep">
                         {data.department}
+                    </p>
+                    <p className="company">
+                        <Link to={data.company.url} title={data.company.name}>{data.company.name}</Link>
                     </p>
                 </div>
             </div>
