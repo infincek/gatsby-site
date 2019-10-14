@@ -8,7 +8,8 @@ department: cse
 departmentFullName: Computer Science and Engineering
 image: ./shinu.jpg
 designation: Trade Instructor Gr-II
-dateOfJoining: 01/07/2010
+dateOfJoining: 11/07/2013
+dateOfJoiningCape: 01/07/2010
 mobileNumber: 9496541663
 mailid: shinu2009@gmail.com
 ---

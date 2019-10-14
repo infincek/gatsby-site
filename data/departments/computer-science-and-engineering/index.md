@@ -1,5 +1,5 @@
 ---
-title: Computer science and Engineering
+title: Computer Science and Engineering
 name: cse
 template: departments
 image: ./cslogo.png
@@ -43,11 +43,12 @@ Graduates of Computer Science and Engineering at College of Engineering Kidangoo
 - **PEO5**- **Pursue lifelong learning** and professional development through higher education.
 
 
-### Lab details
+### Lab Details
+<br>
 
 [box]
 [fl width='500']
-![P.C. Hardware Lab](lab3.jpg)
+![P.C. Hardware Lab](pc-hardware-lab.jpg)
 [/fl]
 **P.C. Hardware Lab**
 
@@ -57,7 +58,7 @@ PC Hardware lab is meant to provide hardware related training to students of the
 
 [box]
 [fl width='500']
-![Cloud Computing Lab](lab3.jpg)
+![Cloud Computing Lab](Multimedialab.jpg)
 [/fl]
 **Cloud Computing Lab**
 

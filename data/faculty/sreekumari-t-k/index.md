@@ -5,8 +5,9 @@ hod: false
 department: ce
 departmentFullName: Civil Engineering
 image: ./sreekumari.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 01/01/2014
+dateOfJoiningCape: 01/07/2013
 experienceTeaching: 12 Years
 experienceIndustry: 4 years
 ugAndInstitution: "RIT KOTTAYAM/ MG University."

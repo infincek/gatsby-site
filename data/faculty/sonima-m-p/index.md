@@ -5,8 +5,9 @@ hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./sonima-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 02/07/2013
+dateOfJoiningCape: 22/07/2011
 experienceTeaching: 7.5 years
 experienceIndustry: NIL
 ugAndInstitution: "Sree Narayana Mangalalam Institute of Management and Technology/M.G. University"

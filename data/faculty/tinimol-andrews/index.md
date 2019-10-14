@@ -5,7 +5,7 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./tin.jpg
-designation: Assistant Professor(Adhoc)
+designation: Assistant Professor (Adhoc)
 dateOfJoining: 05/08/2019
 experienceTeaching: 3.4 years
 experienceIndustry: NIL

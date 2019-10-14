@@ -5,8 +5,9 @@ hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./shi.jpg
-designation: Assistant Professor
-dateOfJoining: 07/01/2019
+designation: Assistant Professor(Regular)
+dateOfJoining: 01/07/2019
+dateOfJoiningCape: 09/07/2012
 experienceTeaching: 7.5 years
 experienceIndustry: 1 Year
 ugAndInstitution: "B.Tech,GEC palakkad"

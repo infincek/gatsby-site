@@ -5,8 +5,9 @@ hod: false
 department: it
 departmentFullName: Information Technology
 image: ./nisha-photo.jpg
-designation: Assistant Professor
-dateOfJoining: 4/7/2012
+designation: Assistant Professor(Regular)
+dateOfJoining: 04/07/2012
+dateOfJoiningCape: 07/09/2009
 experienceTeaching: 12 years
 experienceIndustry: NIL
 ugAndInstitution: " B Tech,College of Engineering,Vadakara."

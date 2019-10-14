@@ -5,7 +5,7 @@ hod: false
 department: it
 departmentFullName: Information Technology
 image: ./anish-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 01/06/2017
 dateOfJoiningCape: 19/03/2014
 experienceTeaching: 10 years

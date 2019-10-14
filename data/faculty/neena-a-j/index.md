@@ -5,8 +5,9 @@ hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./neena-photo.jpg
-designation: Assistant Professor
-dateOfJoining: 30/07/2016
+designation: Assistant Professor(Regular)
+dateOfJoining: 01/08/2016
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 9 years
 experienceIndustry: 3 years
 ugAndInstitution: "B.Tech,Kerala University ."

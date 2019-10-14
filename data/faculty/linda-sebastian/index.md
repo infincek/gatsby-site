@@ -5,7 +5,7 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./linda-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 26/05/2018
 dateOfJoiningCape: 26/08/2006
 experienceTeaching: 15 years

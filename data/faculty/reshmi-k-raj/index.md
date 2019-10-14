@@ -5,8 +5,9 @@ hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./reshmi-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 30/05/2017
+dateOfJoiningCape: 01/07/2013
 experienceTeaching: 8.5 years
 experienceIndustry: 1 Year
 ugAndInstitution: "B Tech , Adi Shankara Institute of Engineering & Tehnology/ M. G. University"

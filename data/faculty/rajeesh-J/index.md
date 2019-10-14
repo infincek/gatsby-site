@@ -7,6 +7,7 @@ departmentFullName: Electronics and Communication Engineering
 image: ./rajeesh-new.jpg
 designation: Professor
 dateOfJoining: 31/05/2018
+dateOfJoiningCape: 06/01/2016
 experienceTeaching: 17 years
 experienceIndustry: 8 years
 ugAndInstitution: 'B.Tech,Madurai Kamaraj University.'

@@ -5,8 +5,9 @@ hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./shandry-photo.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 04/07/2012
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 9 years
 experienceIndustry: 1 Year
 ugAndInstitution: "B.Tech,

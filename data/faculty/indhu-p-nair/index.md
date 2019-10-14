@@ -13,8 +13,8 @@ experienceIndustry: NIL
 ugAndInstitution: "B.Tech."
 pgAndInstitution: "M.Tech"
 subject: Computer Science
-phd: NIL
-specialization:  NIL
+#phd: NIL
+#specialization:  NIL
 otherData: "NIL"
 mobileNumber: 9048825985
 mailid: indhupnair@ce-kgr.org

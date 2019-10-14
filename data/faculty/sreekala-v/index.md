@@ -5,8 +5,9 @@ hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./sreekala.jpg
-designation: Assistant Professor
+designation: Assistant Professor(Regular)
 dateOfJoining: 01/08/2016
+dateOfJoiningCape: 01/07/2010
 experienceTeaching: 11 years
 experienceIndustry: .25 years
 ugAndInstitution: "B.Tech,SNGCE Kadayiruppu/ M G University"
