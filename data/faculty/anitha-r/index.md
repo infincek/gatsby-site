@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./image.jpg
+image: ./anitha-photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 04/03/2004
 dateOfJoiningCape: 01/07/2003

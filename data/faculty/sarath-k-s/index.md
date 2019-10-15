@@ -3,7 +3,7 @@ title: Sarath K S
 template: faculty
 hod: false
 teaching: false
-qualification: Degree , ITI
+qualification: Degree ,ITI
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./sarath.jpg
