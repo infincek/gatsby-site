@@ -23,7 +23,7 @@ Committee is responsible for giving awareness to senior students by pasting anti
 
 | Sl.No. | Name | Designation | Position |
 |:------:|:---------------------:|:--------------------:|:--------:|
-| 1 | Dr. Mathew B V | HOD/CE | Convener |
+| 1 | Dr. Rajeesh J | HOD/ECE | Convener |
 | 2 | Mrs.Lizy | Panchayat Member | Member |
 | 3 | Mr. Anu Raj | SI of Police | Member |
 | 4 | Dr. Tina P G | HOD/EIE | Member |
