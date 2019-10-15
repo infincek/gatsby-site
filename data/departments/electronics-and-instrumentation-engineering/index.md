@@ -4,9 +4,7 @@ name: ei
 template: departments
 image: ./eclogo.jpg
 banner: ./ei-photo1.jpg
-intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
-
-**Seats Available :**  60 + 3 *"
+intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario."
 vision: "To develop competent Electronics and Instrumentation Engineers with high academic credentials and to make the department recognized as a center of the learning community ,research, fraternity and industry."
 mission: "The mission of the department of Electronics and Instrumentation Engineering is to mould its students into competent Electronics and Instrumentation Engineers with cutting edge caliber in the field, competent in an international scene, to the demands of industry,research and entrepreneurship,while strictly adhering to moral values and professional ethics."
 ---
