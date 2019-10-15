@@ -18,6 +18,7 @@ function getContents(props) {
 }
 
 function DataCol(props) {
+    const designation = props.item.node.frontmatter.designation.replace(/ *\([^)]*\) */g, "");
     return (
         <div className="col s12 m6 l4 member">
             <div className="box">
@@ -36,7 +37,7 @@ function DataCol(props) {
                 <div className="description">
                     <p className="name">{props.item.node.frontmatter.title}</p>
                     <p className="subj">
-                        {props.item.node.frontmatter.designation}
+                        {designation}
                     </p>
                     {props.item.node.frontmatter.departmentFullName &&
                         <p className="dep">

@@ -7,7 +7,7 @@ banner: ./cs-new.jpg
 description: Computer science and Engineering Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 
-**Seats Available :**  108 *
+**Seats Available :**  90 (B.Tech) 18 (M.Tech)
 
 **Accreditation Status :** Applied-Accreditation in process. SAR filed"
 vision: "To become a center of excellence in Computer Science and Engineering imparting quality professional education to develop competent professionals with social values who are capable of life long learning."
