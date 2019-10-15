@@ -26,4 +26,4 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
     
 8. [Students List](/quicklinks/instdoc/student/)
     
-9. [Budget/ Audited Statement](/quicklinks/instdoc/budget/)
+9. [Balance Sheet/ Audited Statement](/quicklinks/instdoc/budget/)
