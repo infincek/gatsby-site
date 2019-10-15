@@ -7,7 +7,7 @@ qualification: Degree , ITI
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./female.jpg
-designation: Apprentice Trainee
+designation: Apprentice 
 dateOfJoining: 22/01/2019
 mobileNumber: 9526425291
 mailid: bisminabeegum86@gmail.com

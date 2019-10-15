@@ -91,7 +91,7 @@ export default ({ data }) => {
                     <div>
                         <MD htmlAst={post.htmlAst} components={components}/>
                     </div>
-                    <h3>Faculties</h3>
+                    <h3>Faculty</h3>
                     <Faculties data={data.faculties}/>
                     <h3>Technical Staffs</h3>
                     <Faculties data={data.technical}/>
