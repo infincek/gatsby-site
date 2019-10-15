@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./angel-photo.jpg
+image: ./angel.jpg
 designation: Associate Professor
 dateOfJoining: 18/03/2016
 dateOfJoiningCape: 18/03/2016

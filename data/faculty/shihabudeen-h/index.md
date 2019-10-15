@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./shi.jpg
+image: ./shihabudeen.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 01/07/2019
 dateOfJoiningCape: 09/07/2012
