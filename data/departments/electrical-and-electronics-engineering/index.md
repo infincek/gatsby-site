@@ -7,10 +7,19 @@ banner: ./eee.jpg
 intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 
 **Seats Available :**  60 + 3 * "
-vision: "To become a recognized leading institute offering high-quality professional education leading to academic excellence to a large number of talented students."
-mission: "To provide quality in both the theoretical and applied foundations of computer science and train students to effectively apply this education to solve real world problems."
+vision: "To be a centre of eminence in moulding technically competent and socially committed Electrical Engineers."
+mission: "To inculcate high quality education through eminence of faculty and facilities.
+To transform young minds into competent professionals who are motivated for lifelong learning to meet the needs of industry.
+To foster ethical values and impart passion to serve society.
+"
 ---
 
+### Program Educational Objectives (PEO)
+- **PEO1**- **Have sound knowledge** and technical skills required to remain productive in the field of Computer Science and Engineering.
+- **PEO2**- **Practice**, and propagate concept of Energy efficient systems..
+- **PEO3**- **Pursue research** or higher education in the fields of Electrical Engineering.
+- **PEO4**- Act as responsible, effective, and ethical citizens.
+- **PEO5**- Communicate and collaborate effectively.
 
 ###Program Outcomes
 - **Engineering knowledge:** Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
@@ -25,6 +34,11 @@ mission: "To provide quality in both the theoretical and applied foundations of 
 - **Communication:** Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
 - **Project management and finance:** Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
 - **Life-long learning:** Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+
+### Program Specific Outcomes (PSO)
+- **PSO1**-  Identify, analyse and solve the problems of Electrical & Electronic systems to satisfy the needs of industry and society.
+- **PSO2**- Use appropriate technology to design and develop energy efficient systems to uphold the merits of sustainability. 
+- **PSO3**- Pursue research and lifelong learning in the fields of Electrical and Electronics Engineering.
 
 ### Lab details
 

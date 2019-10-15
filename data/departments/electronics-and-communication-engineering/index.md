@@ -10,6 +10,10 @@ intro: "The Department was established in 2000, and now has become a full-fledge
 vision: "To be recognized as a centre of learning and research in the field of Electronics and Communication Engineering that produce high calibre engineers for the benefit of society."
 mission: "To achieve academic excellence in students of all ability levels through periodically updated curriculum, collaborative ventures with industries and effective teaching learning process with an ambience of wholesome Knowledge, Humanity, Creativity & Innovation."
 ---
+###Program Specific Outcomes (PSO)
+- **PSO1**- Apply the fundamental knowledge of communication, signal processing and semiconductor technology in the analysis and design of various electronic systems.
+- **PSO2**- Comprehend the technological advancements in the usage of modern tools to analyze and design electronic engineering systems. 
+- **PSO3**- Develop the skills required to apply the gathered knowledge in related fields to adapt to the dynamic trends in the field of Engineering and Technology. 
 
 ###Program Educational Objectives
 - Graduates possess essential professional skills in electronics and communication engineering fields for making reliable high end solutions for real life problems.
