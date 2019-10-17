@@ -21,17 +21,17 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 Committee is responsible for giving awareness to senior students by pasting anti-ragging posters on various locations of the college, Collecting undertaking from the senior students and their parents, Carry out surprise visit on hostels and college premises.
 
-| Sl.No. | Name | Designation | Position |
-|:------:|:---------------------:|:--------------------:|:--------:|
-| 1 | Dr. Rajeesh J | HOD/ECE | Convener |
-| 2 | Mrs.Lizy | Panchayat Member | Member |
-| 3 | Mr. Anu Raj | SI of Police | Member |
-| 4 | Dr. Tina P G | HOD/EIE | Member |
-| 5 | Prof. Shyma A | HOD/IT | Member |
-| 6 | Dr. C B Ajayakumar | HOD/Applied Sciences | Member |
-| 7 | Prof. Ojus Thomas Lee | HOD/CSE | Member |
-| 8 | Dr. Indu P Nair | HOD/EEE | Member |
-| 9 | Mr.Sabu Jacob | PTA Vice President | Member |
+|    Sl.No.    |    Name    |    Designation    |    Position    |
+|:------------:|:---------------------:|---------------------------------|----------------|
+|    1.    |    Dr. Rajeesh J    |    HOD/ECE    |    Convener    |
+|    2.    |    Shiby Mathew    |    President, Gramapanchayat    |    Member    |
+|    3.    |    Siby Thomas    |    Circle Inspector    |    Member    |
+|    4.    |    Hari Krishnan R    |    Chairman, College Union    |    Member    |
+|    5.    |    Dr.Mathew B V    |    HOD/CE    |    Member    |
+|    6.    |    Sunish Kurian    |    HOD/ Applied Sciences    |    Member    |
+|    7.     |    Ojus Thomas Lee    |    HOD/ CSE    |    Member    |
+|    8.    |    Dr. Indu P nair    |    HOD/ EEE    |    Member    |
+|    9.     |    P S Yahanan    |    PTA Vice President    |    Member    |
 
 ###National Anti-Ragging Helpline
 
