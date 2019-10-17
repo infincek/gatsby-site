@@ -30,7 +30,7 @@ Committee is responsible for giving awareness to senior students by pasting anti
 |    5.    |    Dr.Mathew B V    |    HOD/CE    |    Member    |
 |    6.    |    Sunish Kurian    |    HOD/ Applied Sciences    |    Member    |
 |    7.     |    Ojus Thomas Lee    |    HOD/ CSE    |    Member    |
-|    8.    |    Dr. Indu P nair    |    HOD/ EEE    |    Member    |
+|    8.    |    Dr. Indu P Nair    |    HOD/ EEE    |    Member    |
 |    9.     |    P S Yahanan    |    PTA Vice President    |    Member    |
 
 ###National Anti-Ragging Helpline
