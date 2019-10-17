@@ -155,3 +155,7 @@ The laboratory is facilitated with Anemometer, Ultrasonic Pulse velocity meter, 
  **Basic Civil Engineering Workshop**
 
 This lab is intended to conduct the practical sessions of the first year B-Tech students. Training sessions like Setting out of building, Area and Volume calculation of building and building components, making of brick bonds and basics surveying using levelling instruments are conducted by using this lab facility.
+
+###Previous Year Question Papers
+
+[click here](https://drive.google.com/drive/folders/12JmFKFF3QCbCD36-5Nm0qapy2_lsGZ6w?usp=sharing)
