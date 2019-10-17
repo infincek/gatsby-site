@@ -42,9 +42,16 @@ College of Engineering Kidangoor
 <br>
 
 <h6>PTA Secretary</h6>
-Romy Roy<br>
+Rinson Varghese<br>
 Assistant Professor<br>
-Department of Applied Science and Humanities<br>
+Department of Electronics and Communication Engineering<br>
+<br>
+
+****
+<br>
+
+<h6>Vice President</h6>
+P S Yohanan<br>
 <br>
 
 ****
