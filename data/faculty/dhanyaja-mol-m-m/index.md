@@ -1,5 +1,5 @@
 ---
-title: Dhanyaja Mol M M
+title: Dhanyajamol M M
 template: faculty
 hod: false
 teaching: false
