@@ -9,7 +9,7 @@ intro: "The Department was established in 2000, and now has become a full-fledge
 
 **Seats Available :**  90 (B.Tech) 18 (M.Tech)
 
-**Accreditation Status :** Applied-Accreditation in process. SAR filed"
+**Accreditation Status :** B. Tech programme in Computer Science & Engineering is accredited by NBA till 30.06.2022."
 vision: "To become a center of excellence in Computer Science and Engineering imparting quality professional education to develop competent professionals with social values who are capable of life long learning."
 mission: "To impart quality technical education to students at undergraduate level through constant knowledge upgradation by maintaining pace with the latest sophisticated innovations , research & development and industry interaction in the field of Computer Science and Engineering with focus on lifelong learning for the well-being of the society."
 ---
