@@ -8,7 +8,7 @@ intro: "The Civil Engineering Department was established in 2010, and now has be
 
 **Seat Available :**  60 + 3 *
 
-**Accreditation Status :** Applied-Accreditation in process. SAR filed"
+**Accreditation Status :** B. Tech programme in Civil Engineering is accredited by NBA till 30.06.2022."
 vision: "To be a leading centre of eminence, providing competent civil engineering professionals, with state of the art knowledge of the industry and commitment to sustainable development of the society."
 mission: "To provide quality education to students at undergraduate level through constant knowledge upgradation and to strive to maintain pace with the latest and most sophisticated innovations, research and development in the field of civil engineering within the ambit of sustainable development."
 ---
