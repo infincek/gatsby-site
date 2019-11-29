@@ -16,6 +16,6 @@ subject: Computer Science
 #phd: NIL
 #specialization:  NIL
 # otherData: "NIL"
-mobileNumber: 9048825985
+# mobileNumber: 8547674266
 mailid: indhupnair@ce-kgr.org
 ---
