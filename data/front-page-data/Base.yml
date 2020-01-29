@@ -62,8 +62,8 @@
             - name: RIGHT TO INFORMATION ACT
               url: /quicklinks/rti
         col3:
-            - name: CONTACT US
-              url: http://172.17.0.50/moodle
+            - name: Grievance
+              url: https://docs.google.com/forms/d/e/1FAIpQLSfqTQDVS9SH8xRtQ8W6WfxcFS63OiRxBeDXOPNbxFR-SvPfyg/viewform
             - name: FACULTY LOGIN
               url: http://172.17.0.50/moodle
             - name: DOWNLOADS
