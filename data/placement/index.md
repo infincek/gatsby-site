@@ -34,7 +34,7 @@ template: singlepage
 | 2018 | 51 | 65 | 25 |
 | 2019 | 51 | 82 | 34 |
 
-### CGPC Coodinator
+### Training and Placement Officer
 **Mr. Arun R.Chandran**
 <br>
 Assistant Professor in Electronics & Communications
