@@ -94,6 +94,10 @@ module.exports = {
                     {
                         name: 'Academic Calender',
                           link: '/academics/academicalender'
+                    },
+                    {
+                        name: 'Moodle',
+                        link: 'http://moodle.cekgr.co.in/'
                     }
                 ]
             },
