@@ -21,17 +21,23 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 Committee is responsible for giving awareness to senior students by pasting anti-ragging posters on various locations of the college, Collecting undertaking from the senior students and their parents, Carry out surprise visit on hostels and college premises.
 
+Chairman : Dr. K G Viswanadhan, Principal
+
 |    Sl.No.    |    Name    |    Designation    |    Position    |
 |:------------:|:---------------------:|---------------------------------|----------------|
 |    1.    |    Dr. Rajeesh J    |    HOD/ECE    |    Convener    |
-|    2.    |    Shiby Mathew    |    President, Gramapanchayat    |    Member    |
+|    2.    |    Lissy Abraham   |    Member, Gramapanchayat    |    Member    |
 |    3.    |    Siby Thomas    |    Circle Inspector    |    Member    |
-|    4.    |    Hari Krishnan R    |    Chairman, College Union    |    Member    |
+|    4.    |    Hari Krishna R    |    Chairman, College Union (Student Representative)    |    Member    |
 |    5.    |    Dr.Mathew B V    |    HOD/CE    |    Member    |
 |    6.    |    Sunish Kurian    |    HOD/ Applied Sciences    |    Member    |
-|    7.     |    Ojus Thomas Lee    |    HOD/ CSE    |    Member    |
+|    7.    |    Ojus Thomas Lee    |    HOD/ CSE    |    Member    |
 |    8.    |    Dr. Indu P Nair    |    HOD/ EEE    |    Member    |
-|    9.     |    P S Yahanan    |    PTA Vice President    |    Member    |
+|    9.    |    P S Yohannan    |    PTA Vice President    |    Member    |
+|    10.    |    Suvin Sundar    |    Administrative Officer    |    Member    |   
+|    11.    |    Binoy Kumar K S    |    Reporter, Dhesabhimani    |    Member    |
+|    12.    |    Jayan K S    |    Member Paliyetive Care Unit Kidangoor    |    Member    |
+|    13.    |    Vaishna Ben    |    S1 CSE (First Year Student Representative   |    Member    |
 
 ###National Anti-Ragging Helpline
 
