@@ -96,6 +96,10 @@ module.exports = {
                         link: '/academics/scst'
                     },
                     {
+                        name: 'Internal Complaint Committee',
+                        link: '/academics/icc'
+                    },
+                    {
                         name: 'Academic Calender',
                           link: '/academics/academicalender'
                     },
