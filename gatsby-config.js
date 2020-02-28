@@ -91,6 +91,14 @@ module.exports = {
                         name: 'IQAC',
                         link: '/academics/iqac'
                     },
+                      {
+                        name: 'SC/ST Cell',
+                        link: '/academics/scst'
+                    },
+                    {
+                        name: 'Internal Complaint Committee',
+                        link: '/academics/icc'
+                    },
                     {
                         name: 'Academic Calender',
                           link: '/academics/academicalender'
