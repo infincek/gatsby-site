@@ -91,6 +91,10 @@ module.exports = {
                         name: 'IQAC',
                         link: '/academics/iqac'
                     },
+                      {
+                        name: 'SC/ST Cell',
+                        link: '/academics/scst'
+                    },
                     {
                         name: 'Academic Calender',
                           link: '/academics/academicalender'
