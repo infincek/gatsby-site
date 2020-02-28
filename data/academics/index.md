@@ -11,4 +11,5 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 [Syllabus](https://ktu.edu.in/eu/acd/academicRegulation.htm?=d%2FoY2W6v3%2FgC8nqDvJQEH%2FPo1Vgvv0tN%2Be4eMVkD6M8GrmcoIlMugwKVVJWmeG8H)<br>
 [IQAC](/academics/iqac/)<br>
 [SC/ST Cell](/academics/scst/)<br>
+[Internal Complaint Committee](/academics/icc/)<br>
 [Academic Calender](/academics/academicalender/)<br>
