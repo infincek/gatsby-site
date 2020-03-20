@@ -6,9 +6,9 @@ department: ce
 departmentFullName: Civil Engineering
 image: ./jereen-photo.jpg
 designation: Assistant Professor(Adhoc)
-dateOfJoining: 24/07/2015
-dateOfJoiningCape: 01/08/2007
-experienceTeaching: 2 years
+dateOfJoining: 15/03/2017
+dateOfJoiningCape: 15/03/2017
+experienceTeaching: 3 years
 experienceIndustry: 1.5 years
 ugAndInstitution: "B.Tech, St.Joseph's College of Engineering and Technology/ M G University"
 pgAndInstitution: "M.Tech, Amal Jyothi College of Engineering / M G University"
