@@ -7,12 +7,7 @@
     
   new: true
   date: 2020-04-24
-- data: |-
-    Academic activities during the COVID-19 season
-                 In the COVID-19 season, we maintain our academic (and personal contacts ) with our students. We interact with our students through live online classes, recorded classes, sharing course materials through our campus management systems, learning management systems, and other online platforms.(CANVAS, Google classRoom, Zoom, Webex, etc).  We also conduct online review tests (time table for 1 Hr review tests) and quizzes of the portions visited through the COVID-19 season.
-  new: true
-  date: 2020-03-23
-- data: |-
+  - data: |-
     ONLINE-CLASS TEST 1- APRIL 2020 FOR B.TECH FIRST YEAR STUDENTS
     
     For Time table Please [Click Here.](/docs/S2-Time-Table-OnlineClassTest-1.pdf)
@@ -20,6 +15,11 @@
     General Guidlines to Students attending Online Class Test-1 APR 2020 [Click Here.](/docs/S2-OnlineClassTest-1-Instructions.pdf)
   new: true
   date: 2020-04-13
+- data: |-
+    Academic activities during the COVID-19 season
+                 In the COVID-19 season, we maintain our academic (and personal contacts ) with our students. We interact with our students through live online classes, recorded classes, sharing course materials through our campus management systems, learning management systems, and other online platforms.(CANVAS, Google classRoom, Zoom, Webex, etc).  We also conduct online review tests (time table for 1 Hr review tests) and quizzes of the portions visited through the COVID-19 season.
+  new: true
+  date: 2020-03-23
 - data: |-
     Competative quotations are invited from qualified firm for the supply of **Projector** in College office at College of Engineering Kidangoor.
     
