@@ -22,13 +22,13 @@
 
   new: true
   date: 2020-02-20
-- data: |-
-   Competitive quotations are invited from qualified firm for the purchase of **2 nos 5"x3" Office table** for HoD's room in Civil Dept and CSE Dept. at College of Engineering Kidangoor.
+#- data: |-
+   #Competitive quotations are invited from qualified firm for the purchase of **2 nos 5"x3" Office table** for HoD's room in Civil Dept and CSE Dept. at College of Engineering Kidangoor.
 
-   For more details Please [Click Here.](/docs/Quotation_purchase%20of%20office%20table.pdf)
+   #For more details Please [Click Here.](/docs/Quotation_purchase%20of%20office%20table.pdf)
 
-  # new: true
-  date: 2019-10-09
+  #new: true
+  #date: 2019-10-09
 
 - data: |-
    Competitive quotations are invited from qualified firm for the **purchase of Microcontrollers** for Microprocessor lab in Computer Science Dept. at College of Engineering Kidangoor.
