@@ -10,7 +10,10 @@
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
-          description: NBA Accreditated upto 30-06-2022  
+          description: NBA Accreditated upto 30-06-2022
+        - image: ./images/M.Tech_Placement.jpg
+          title: 
+          description:   
     announcements:
         - B.Tech S8 Regular and Supplementary Examinations postponed.
         - Online registration of NRI candidates for B Tech CSE/CE/EE/EC branches is started now. For registration please [click here](https://forms.gle/DVik7DfxUJoEeX1t5)
