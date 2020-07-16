@@ -16,7 +16,7 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 **Applications are invited for admission to the B.Tech courses under NRI quota in the Engineering Colleges under CAPE**<br><br>
  [Click here to download Prospectus for NRI Admission](B.Tech_NRI_Prospectus_2020-21.pdf)<br><br>
  [Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br>
- Click here to apply Online Appication
+ [Click here to apply Online Appication](https://forms.gle/peKwSHiG5HQyUp7o7)
  
 <br>
 <br>
