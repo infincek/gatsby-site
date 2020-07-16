@@ -41,7 +41,7 @@ Assistant Professor in Electronics & Communications
 <br>
 Contact Number: 9496264661
 <br>
-Email Address: cgpckgr@gmail.com
+Email Address: placement@ce-kgr.org
 
 ### CGPC Committee
 | Name 	| Designation 	|
