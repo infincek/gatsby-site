@@ -4,19 +4,24 @@ template: singlepage
 description: College of Engineering, Kidangoor (CEK), Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala.
 ---
 
-<h3>ADMISSION:Undergraduate Degree</h3>
-
-The institution offers Bachelor Degree Programs [4 year duration] under the affiliation of APJ Abdul Kalam Technological University. The Merit quota [60%] and Management quota [35%] seats are solely allotted by the Commissioner of Entrance Exams, Kerala [as per KEAM Rank]. In management quota, 2 seats per branch are reserved for the children of employees working under Co-operative sector. The admission to NRI [5%] quota seats are filled from the rank list, prepared by the college authority, based on the plus two marks [Mathematics, Physics, Chemistry or / Computer Science/Biotechnology/Biology].
-
-<br>
-<br>
-<h5>B.Tech NRI Admission 2020 </h5>
+<h3>B.Tech NRI Admission 2020 </h3>
 <br>
 
-**Applications are invited for admission to the B.Tech courses under NRI quota in the Engineering Colleges under CAPE**<br><br>
+**Applications are invited for admission to the B.Tech courses under NRI quota (2020-21) in the Engineering Colleges under CAPE.**<br><br>
+Interested candidates can apply online through the link given below on or before 5PM, 23/07/2020. The first phase of NRI Quota Admission will be held as per the rank list published on 24/07/2020 10:30AM.<br><br>
  [Click here to download Prospectus for NRI Admission](B.Tech_NRI_Prospectus_2020-21.pdf)<br><br>
  [Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br>
  [Click here to apply Online Appication](https://forms.gle/peKwSHiG5HQyUp7o7)
+ 
+ 
+<br>
+<br>
+ 
+<h3>ADMISSION:Undergraduate Degree</h3>
+
+The institution offers Bachelor Degree Programs [4 year duration] under the affiliation of APJ Abdul Kalam Technological University. The Merit quota [70%], Management quota [23%] and reserved seats [2%] for the children of employees working under Co-operative sector are solely allotted by the Commissioner of Entrance Exams, Kerala [as per KEAM Rank]. The admission to NRI [5%] quota seats are filled from the rank list, prepared by the college authority, based on the plus two marks [Mathematics, Physics, Chemistry or / Computer Science/Biotechnology/Biology].
+
+
  
 <br>
 <br>
@@ -24,11 +29,11 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 
 | Programs | Merit | Management | NRI | Total |
 |-----------------------------------------|-------|------------|-----|-------|
-| B tech in Civil Engineering | 36 | 19+2* | 3 | 60 |
-| B tech in Computer Science | 54 | 30+2* | 4 | 90 |
-| B Tech in Electronics and Communication | 36 | 19+2* | 3 | 60 |
-| B Tech in Electrical and Electronics | 36 | 19+2* | 3 | 60 |
-| Total | 162 | 95 | 13 | 270 |
+| B Tech in Civil Engineering | 42 | 14+1* | 3 | 60 |
+| B Tech in Computer Science | 63 | 21+2* | 4 | 90 |
+| B Tech in Electronics and Communication | 42 | 14+1* | 3 | 60 |
+| B Tech in Electrical and Electronics | 42 | 14+1* | 3 | 60 |
+| Total | 189 | 68 | 13 | 270 |
 
 <h5>B Tech Degree Program – Structure of Tuition Fee</h5>
 
@@ -38,7 +43,7 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 | Management seats | Rs. 65000/- [Sixty five thousand only] |
 | NRI seats | Rs. 100000/- [One lakh only] |
 
- Special fee (approximate) of Rs.25000/- should be paid before the beginning of classes for one time and approximately Rs.10000/- for the next years (including examination fee). Bus fee and hostel fee are applicable to be concerned.
+ Special fee (approximate) of Rs.18000/- should be paid before the beginning of classes for one time and approximately Rs.7000/- for the next years (including examination fee). Bus fee and hostel fee are applicable to be concerned.
 
  **Eligibility criteria for NRI Quota**
 
