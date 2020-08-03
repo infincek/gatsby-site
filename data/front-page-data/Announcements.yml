@@ -18,12 +18,18 @@
   new: true
   date: 2020-07-15
 - data: |-
+    Webinar on **SOURCE SEPARATION USING DFT AND ICA** organized by Department of Electronics & Communication Engineering, on 16-07-2020  10:00am. [Click here to Register](https://forms.gle/TRn3rVS1kBiTnrdXA)
+    
+    Watch on Youtube [Click Here](https://youtube.be/0LcyoHS1dZ4)
+  new: 
+  date: 2020-07-15
+- data: |-
     [KEAM-2020 Free Model Entrance Examination on 11 July 2020. Click here to Register](https://tinyurl.com/KEAM-MockTestRegistration-CAPE)
-  new: true
+  new: 
   date: 2020-07-09
 - data: |-
     [TIME TABLE FOR SECOND SERIES ONLINE EXAMINATION- JULY 2020](/docs/Time_Table_Series_2_July_2020.pdf)
-  new: true
+  new: 
   date: 2020-07-03
 - data: |-
     All Students are hereby informed that they have to remit their semester fees through State Bank Collect Scheme proceeding with the link. [https://www.onlinesbi.com](https://www.onlinesbi.com)
@@ -36,11 +42,11 @@
     
     procedure for Online Fee Collection [Click Here](docs/Fee_Structure_Format.jpg)
     
-  new: true
+  new: 
   date: 2020-07-01
 - data: |-
     **B.Tech S8 Regular and supplementary Examinations postponed.**
-  new: true
+  new: 
   date: 2020-06-29
 - data: |-
     [APJAKTU University Examination (S8 (HONS) May 2020) Seating Arrangement-29-06-2020](docs/APJAKTU_UniversityExam_29-06-2020.pdf)
