@@ -8,7 +8,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 <br>
 
 **Applications are invited for admission to the B.Tech courses under NRI quota (2020-21) in the Engineering Colleges under CAPE.**<br>
-Interested candidates can apply online through the link given below on or before 5PM, 04/08/2020. The second phase of NRI Quota Admission will be held as per the rank list published on 05/08/2020 10:30AM.<br><br>
+Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056**<br><br>
  [Click here to download Prospectus for NRI Admission](NRI_Prospectus_2020-2021.pdf)<br><br>
  [Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br>
  [Click here to apply Online Appication](https://forms.gle/peKwSHiG5HQyUp7o7)<br><br>
