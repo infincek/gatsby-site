@@ -35,20 +35,19 @@ template: singlepage
 | 2019 | 51 | 82 | 34 |
 
 ### Training and Placement Officer
-**Mr. Arun R.Chandran**
+**Mr. Syamesh K G**
 <br>
 Assistant Professor in Electronics & Communications
 <br>
-Contact Number: 9496264661
+Contact Number: 9747320686
 <br>
 Email Address: placement@ce-kgr.org
 
 ### CGPC Committee
 | Name 	| Designation 	|
 |:--------------------	|:------------------------------------------------------------------------------------	|
-| Mrs.Asha Vijayan 	| Assistant Professor in Computer Science and Engineering Contact Number: 9656852559 	|
 | Dr.Mathew B V 	| HOD Civil Engineering 	|
 | Dr.Indu P Nair 	| HOD Electrical and Electronics 	|
-| Mr.Ojus Thomas Lee 	| HOD Computer Science and Engineering 	|
-| Dr.Tina P.G 	| HOD Electronics and Instrumentation Engineering 	|
+| Dr.Ojus Thomas Lee 	| HOD Computer Science and Engineering 	|
+| Dr.Rajeesh J 	| HOD Electronics and Communication Engineering 	|
 | Mr.Suneesh Kurian 	| HOD Applied Science and Humanities 	|
