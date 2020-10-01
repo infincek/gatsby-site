@@ -32,7 +32,7 @@ template: singlepage
 | 2016 | 45 | 51 | 11 |
 | 2017 | 24 | 49 | 11 |
 | 2018 | 51 | 65 | 25 |
-| 2019 | 51 | 82 | 34 |
+| 2019 | 66 | 82 | 34 |
 
 ### Training and Placement Officer
 **Mr. Syamesh K G**
