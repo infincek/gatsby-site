@@ -62,6 +62,6 @@ selections:
       department: IT
       image: ./image.jpg
     - name: AISWARYA
-      department: M.Tech,CS
+      department: M.Tech,CIS
       image: ./female.jpg
 ---
