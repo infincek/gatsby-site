@@ -1,27 +1,22 @@
 ---
-title: Anith Krishnan
+title: Adil Nasser
 template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./anith.jpg
 designation: Assistant Professor(Regular)
-dateOfJoining: 05/07/2012
+dateOfJoining: 10/08/2020
 dateOfJoiningCape: 01/07/2010
-experienceTeaching: 9.75 Years
-experienceIndustry: 0.25 Years
-ugAndInstitution: "School of Engineering/Cochin University of Science & Technology."
-pgAndInstitution: "College of Engineering Trivandrum/University of Kerala"
-subject: Guidance & Navigational Control
+experienceTeaching: 8 Years
+experienceIndustry: Nil 
+ugAndInstitution: "Govt. Rajiv Gandhi Institute of Technology, Kottayam."
+pgAndInstitution: "Government Engineering College Thrissur"
+subject: 
 # phd: NIL
 # specialization: NIL
-# otherData: "No. of International Journal - 3, No. of International Conferences - 13, No.of national conferences - 2"
-mobileNumber: 9895696249
-mailild: anith.eeecek@gmail.com
-position: 4
+# otherData: No. of International Conferences - 1, No.of national conferences - 1"
+mobileNumber: 9400324549
+mailild: adilnv@gmail.com
+position: 9
 ---
-|           PUBLICATIONS           |     |
-| :------------------------------: | :-: |
-|   No. of International Journal   |  3  |
-| No. of International Conferences | 13  |
-|    No.of national conferences    |  2  |
