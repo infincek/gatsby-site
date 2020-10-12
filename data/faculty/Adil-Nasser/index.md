@@ -1,1 +1,21 @@
-
+---
+title: Adil Nasser
+template: faculty
+hod: false
+department: eee
+departmentFullName: Electrical and Electronics Engineering
+image: ./adil-Nasser.jpg
+designation: Assistant Professor(Regular)
+dateOfJoining: 10/08/2020
+dateOfJoiningCape: 03/10/2017
+experienceTeaching: 8 Years
+# experienceIndustry: NIL
+ugAndInstitution: "B.Tech, Govt. Rajiv Gandhi Institute of Technology, Kottayam"
+pgAndInstitution: "M.Tech, Government Engineering College Thrissur"
+subject:Power System 
+# phd: NIL
+# specialization: NIL
+mobileNumber: 9400324549
+mailid: adilnv@gmail.com
+position: 9
+---
