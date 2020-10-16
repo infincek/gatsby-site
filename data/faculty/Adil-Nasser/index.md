@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./adil-Nasser.jpg
+image: ./adil-Nasser1.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 10/08/2020
 dateOfJoiningCape: 
