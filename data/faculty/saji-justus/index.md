@@ -3,7 +3,7 @@ title: SAJI JUSTUS
 template: faculty
 hod: false
 department: ei
-departmentFullName: Applied Electronics & Instrumentation
+departmentFullName: Electronics & Instrumentation
 image: ./saji.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 01/07/2010
