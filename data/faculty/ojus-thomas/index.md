@@ -1,5 +1,5 @@
 ---
-title: Ojus Thomas Lee
+title: Dr.Ojus Thomas Lee
 template: faculty
 hod: true
 department: cse
