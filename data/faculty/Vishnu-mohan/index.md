@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ei
 departmentFullName: Applied Electronics & Instrumentation
-image: ./vishnu-mohan.jpg
+image: ./Vishnu-Mohan_photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 12/08/2020
 dateOfJoiningCape: 01/07/2010
