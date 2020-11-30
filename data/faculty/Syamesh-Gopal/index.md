@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./Syamesh-gopal.jpg
+image: ./Syamesh-Gopal.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 31/08/2006
 dateOfJoiningCape: 31/08/2006
