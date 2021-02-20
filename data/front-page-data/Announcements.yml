@@ -1,10 +1,17 @@
 - data: |-
-     **KTU S7 Examination Hall Seating Arrangements (AN)**
+     **KTU S7 Examination Hall Seating Arrangements (FN)**
      
-     [Click here](/docs/KTU_S7_Examionation_Seating_Arrangements.pdf)     
+     [Click here](/docs/KTU_S7_22.02.2021_FN_Seating.pdf)     
    
   new: true
-  date: 2021-02-16
+  date: 2021-02-20
+- data: |-
+     **KTU S7 Examination Hall Seating Arrangements (AN)**
+     
+     [Click here](/docs/KTU_S7_22.02.2021_ AN_Seating.pdf)     
+   
+  new: true
+  date: 2021-02-20
 - data: |-
      **FDP 0n Smart Materials and Technologies in Civil Engineering - FEb 22-26, 2021**
      
@@ -26,14 +33,6 @@
   new: true
   date: 2020-12-18
 - data: |-
-     Written exam/Interview scheduled for the post of Assistant Professor (Adhoc) in Physics.[Click here](/docs/Physics_AdHoc_Interview.pdf)
-  new: true
-  date: 2020-12-08
-- data: |-
-    [B.Tech Spot Admission](/docs/BTech_Spot_Admission.pdf)
-  new: true
-  date: 2020-12-02
-- data: |-
     [M.Tech Spot Admission](/docs/MTech_Spot_Admission.pdf)
   new: true
   date: 2020-11-30
@@ -45,15 +44,6 @@
    [**Inauguration of new Ladies Hostel on 03-10-2020 at 11:30AM**](/docs/Inaguration_LadiesHostel.pdf) **Inaugurated by Hon. Chief Minister Sri. Pinarayi Vijayan**
   new: true
   date: 2020-09-29
-- data: |-
-   Time table for **APJAKTU B.TECH. DEGREE S7 (S) EXAMINATION SEPREMBER 2020**
-   
-   [CE-LECTURE HALL-1 Click Here](/docs/seating_arrangement_CE_Lecturehall.pdf)
-   
-   [DRAWING HALL Click Here](/docs/seating_arrangement_drawinghall.pdf)
-
-  new: true
-  date: 2020-09-09
 - data: |-
     [ATAL FDP AUG 24 - 28,2020 ON MACHINE LEARNING AND APPLICATIONS](/docs/MACHINE_LEARNING_FDP_CSE.pdf) Organised by **Department of Computer Science & Engineering**
   new: true
@@ -118,10 +108,7 @@
     
   new: 
   date: 2020-07-01
-- data: |-
-    **B.Tech S8 Regular and supplementary Examinations postponed.**
-  new: 
-  date: 2020-06-29
+
 #- data: |-
 #    [APJAKTU University Examination (S8 (HONS) May 2020) Seating Arrangement-29-06-2020](docs/APJAKTU_UniversityExam_29-06-2020.pdf)
 #  new: true
