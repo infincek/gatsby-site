@@ -32,6 +32,7 @@ Interested candidates can apply online through the link given below. For more de
   <li>Candidates seeking NRI Quota should be a Child/Ward/Dependent of an NRI and should enclose a declaration form and employment certificate from the NRI who sponsor the applicant (form enclosed as Annexure I).</li>
 </ol>
 -->
+[Free Mock Entrance Examination and Training Programme for KEAM-2021. Click here to Register](http://bit.ly/keam-mockentrance)
 <br>
  
 
