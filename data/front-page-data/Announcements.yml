@@ -1,38 +1,42 @@
 - data: |-
-     **KTU S3 Examination (19.03.2021) Hall Seating Arrangements**
-     
-     [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_19-03-21.pdf)     
-          
+    [Free Mock Entrance Examination and Training Programme for KEAM-2021](/academics/admission)
   new: true
-  date: 2021-03-19
-- data: |-
-     **KTU S3 Examination (22.03.2021) Hall Seating Arrangements**
+  date: 2021-04-20
+#- data: |-
+#     **KTU S3 Examination (19.03.2021) Hall Seating Arrangements**
      
-     [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_22-03-21.pdf)     
+#     [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_19-03-21.pdf)     
           
-  new: true
-  date: 2021-03-19
-- data: |-
-     **KTU S3 Examination (25.03.2021) Hall Seating Arrangements**
+#  new: true
+#  date: 2021-03-19
+#- data: |-
+#     **KTU S3 Examination (22.03.2021) Hall Seating Arrangements**
      
-     [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_25-03-21.pdf)     
+ #    [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_22-03-21.pdf)     
           
-  new: true
-  date: 2021-03-19
-- data: |-
-     **KTU S3 Examination (29.03.2021) Hall Seating Arrangements**
+#  new: true
+#  date: 2021-03-19
+#- data: |-
+#     **KTU S3 Examination (25.03.2021) Hall Seating Arrangements**
      
-     [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_29-03-21.pdf)     
+ #    [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_25-03-21.pdf)     
           
-  new: true
-  date: 2021-03-19
-- data: |-
-     **KTU S3 Examination (31.03.2021) Hall Seating Arrangements**
+#  new: true
+#  date: 2021-03-19
+#- data: |-
+#     **KTU S3 Examination (29.03.2021) Hall Seating Arrangements**
      
-     [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_31-03-21.pdf)     
+#     [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_29-03-21.pdf)     
           
-  new: true
-  date: 2021-03-19
+#  new: true
+#  date: 2021-03-19
+#- data: |-
+#     **KTU S3 Examination (31.03.2021) Hall Seating Arrangements**
+     
+#     [Click here for FN Session Seating](/docs/S3_S_FE_SEATING_31-03-21.pdf)     
+          
+#  new: true
+#  date: 2021-03-19
 - data: |-
      Online Faculty Development programme on **Electric Vehicles** - 29th March - 2nd April.
      
@@ -41,13 +45,13 @@
           
   new: true
   date: 2021-03-10
-- data: |-
-     **KTU S5 Examination (18.03.2021) Hall Seating Arrangements**
+#- data: |-
+#     **KTU S5 Examination (18.03.2021) Hall Seating Arrangements**
      
-     [Click here for AN Session Seating](/docs/S5-SEATING_18.03.2021.pdf)     
+#     [Click here for AN Session Seating](/docs/S5-SEATING_18.03.2021.pdf)     
           
-  new: true
-  date: 2021-03-17
+#  new: true
+#  date: 2021-03-17
 #- data: |-
  #    **KTU S7 Examination (10.03.2021) Hall Seating Arrangements**
      
