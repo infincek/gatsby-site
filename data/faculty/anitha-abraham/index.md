@@ -18,5 +18,5 @@ subject: Computer Science
 # otherData: "NIL"
 mobileNumber:
 mailid: anitha_256@yahoo.com
-position: 10
+position: 5
 ---
