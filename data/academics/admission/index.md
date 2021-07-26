@@ -13,10 +13,10 @@ For more details and vaccancy position please call **Admission Help line Number:
 [Click here to download Certificate Proforma](Proforma_of_certificate.pdf)<br><br>
 [Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
 -->
-<h3>B.Tech NRI Admission 2020 </h3>
+<h3>B.Tech NRI Admission 2021 </h3>
 <br>
 
-**Applications are invited for admission to the B.Tech courses under NRI quota (2020-21) in the Engineering Colleges under CAPE.**<br>
+**Applications are invited for admission to the B.Tech courses under NRI quota (2021-22) in the Engineering Colleges under CAPE.**<br>
 Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056**
 <br><br>
 [Click here to download Prospectus for NRI Admission](NRI_Prospectus_2021-22.pdf)<br><br>
