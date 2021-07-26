@@ -1,4 +1,8 @@
 - data: |-
+    [B.Tech NRI Admission 2021](/academics/admission)
+  new: true
+  date: 2021-07-26
+- data: |-
    **KTU B.Tech S3 (R,S) Examination.** [Seating Arrangements_27.07.2021_FN](/docs/KTU_B.Tech_S3_SEATING_27-7-21_FN.pdf)
    
    **KTU B.Tech S3 (R,S) Examination.** [Seating Arrangements_27.07.2021_AN](/docs/KTU_B.Tech_S3_SEATING_27-7-21_AN.pdf)
@@ -237,10 +241,7 @@
 
   new: true
   date: 2020-07-31
-- data: |-
-    [B.Tech NRI Admission 2020](/academics/admission)
-  new: true
-  date: 2020-07-15
+
 - data: |-
     Webinar on **Genomic Signal Processing- A Bird's eye View** organized by Department of Electronics & Communication Engineering, on 20-07-2020  10:00am. [Click here to Register](https://bit.ly/genimics-ece-cek)
   new: 
