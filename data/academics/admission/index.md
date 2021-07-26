@@ -13,26 +13,26 @@ For more details and vaccancy position please call **Admission Help line Number:
 [Click here to download Certificate Proforma](Proforma_of_certificate.pdf)<br><br>
 [Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
 -->
-<!--<h3>B.Tech NRI Admission 2020 </h3>
+<h3>B.Tech NRI Admission 2021 </h3>
 <br>
--->
-<!--**Applications are invited for admission to the B.Tech courses under NRI quota (2020-21) in the Engineering Colleges under CAPE.**<br>
+
+**Applications are invited for admission to the B.Tech courses under NRI quota (2021-22) in the Engineering Colleges under CAPE.**<br>
 Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056**
 <br><br>
-[Click here to download Prospectus for NRI Admission](NRI_Prospectus_2020-2021.pdf)<br><br>
-[Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br>
+[Click here to download Prospectus for NRI Admission](NRI_Prospectus_2021-22.pdf)<br><br>
+<!--[Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br>
 [Click here to apply Online Appication](https://forms.gle/peKwSHiG5HQyUp7o7)<br><br>
  -->
-<!--**Eligibility criteria for NRI Quota**-->
-<!--
+**Eligibility criteria for NRI Quota**
+
  <ol>
   <li>Candidates who have passed Higher Secondary Examination of Board of Higher Secondary Education, Kerala or examination recognized equivalent thereto, with 45 % marks in Mathematics, Physics and Chemistry or / Computer Science / Biotechnology / Biology put together are eligible to Management and NRI seats of B Tech courses.</li>
   <li>SC/ST candidates need only a pass in qualifying examination for admission to B Tech courses.</li>
   <li>No entrance test is required for getting admission to B Tech course under NRI Quota.</li>
   <li>Candidates seeking NRI Quota should be a Child/Ward/Dependent of an NRI and should enclose a declaration form and employment certificate from the NRI who sponsor the applicant (form enclosed as Annexure I).</li>
 </ol>
--->
-[Free Mock Entrance Examination and Training Programme for KEAM-2021. Click here to Register](http://bit.ly/keam-mockentrance)
+
+<!--[Free Mock Entrance Examination and Training Programme for KEAM-2021. Click here to Register](http://bit.ly/keam-mockentrance)-->
 <br>
  
 
