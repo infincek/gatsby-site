@@ -51,8 +51,9 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 | B Tech in Civil Engineering | 42 | 14+1* | 3 | 60 |
 | B Tech in Computer Science | 63 | 21+2* | 4 | 90 |
 | B Tech in Electronics and Communication | 42 | 14+1* | 3 | 60 |
-| B Tech in Electrical and Electronics | 42 | 14+1* | 3 | 60 |
-| Total | 189 | 68 | 13 | 270 |
+| B Tech in Electrical and Electronics | 21 | 7+1* | 1 | 30 |
+| B Tech in Electrical and Computer Engineering | 21 | 7+1* | 1 | 30 |
+| Total | 189 | 68 | 12 | 270 |
 
 <h5>B Tech Degree Program – Structure of Tuition Fee</h5>
 
