@@ -1,5 +1,5 @@
 ---
-title: PADMAJAN S
+title: Padmajan S
 template: faculty
 hod: false
 teaching: false
