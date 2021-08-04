@@ -1,29 +1,27 @@
 ---
-title: Dr.Harikumar M
+title: CHRISTY FRANCIS LONTH
 template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./harikumar-photo.jpg
-designation: Assistant Professor(Regular)
-dateOfJoining: 24/06/2019
-dateOfJoiningCape: 11/12/2015
-experienceTeaching: 4.5 Years
-experienceIndustry: 1.5yrs
-ugAndInstitution: "CET/University of Kerala."
-pgAndInstitution: "NIT Calicut"
-subject: Environmental Geotechnology
-phd: NIT Calicut
-specialization: Geotechnical Engineering
-otherData: "No. of International Journal - 9,
-No. of International Conferences - 4,
-No.of national conferences - 2 "
-mobileNumber: 9745187337
-mailid: harikumar0907@gmail.com
-position: 7
+image: ./Christy_image.jpg
+designation: Assistant Professor(Adhoc)
+dateOfJoining: 24-01-2020
+dateOfJoiningCape: 24-01-2020
+experienceTeaching: 2.5 Years
+experienceIndustry: 6 months
+ugAndInstitution: "B.Tech/College of Engineering Kidangoor/Cochin University of Science and Technology (CUSAT)"
+pgAndInstitution: "M.Tech/St. Joseph’s College of Engineering and Technology, Palai/APJ Abdul Kalam Technological University (KTU)"
+subject: Structural Engineering and Construction Management
+phd: 
+specialization: 
+otherData: 
+No. of International Conferences - 1,
+No.of national conferences - Nil "
+mobileNumber: 9446452162
+mailid: christyflonth@gmail.com
+position: 9
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
-|   No. of International Journal   |  9  |
-| No. of International Conferences |  4  |
-|    No.of national conferences    |  2  |
+|   No. of International Journal   |  1  |
