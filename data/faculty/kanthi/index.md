@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./kanthi-image.jpg 
+image: ./kanthi-image-new.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 02/08/2021
 experienceTeaching: Nil
