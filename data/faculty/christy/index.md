@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./Christy_image.jpg
+image: ./Christy_image-new.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 24-01-2020
 dateOfJoiningCape: 24-01-2020 
