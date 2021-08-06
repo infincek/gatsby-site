@@ -19,9 +19,10 @@ For more details and vaccancy position please call **Admission Help line Number:
 **Applications are invited for admission to the B.Tech courses under NRI quota (2021-22) in the Engineering Colleges under CAPE.**<br>
 Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056, 9400666144, 7306183946, 9496326560**
 <br><br>
-[Click here to download Prospectus for NRI Admission](NRI_Prospectus_2021-22.pdf)<br><br>
+[Click here to download Prospectus for NRI Admission](NRI_Prospectus_2021-22.pdf)<br>
 <!--[Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br> -->
 [Click here to apply Online Appication](https://bit.ly/cek-nri-admin21)<br><br>
+[NRI Decalration Form](Declaration_NRI.pdf)<br><br> 
 
 **Eligibility criteria for NRI Quota**
 
