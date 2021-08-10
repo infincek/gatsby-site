@@ -12,7 +12,11 @@
         - image: ./images/GouripriyaJ_vvdn.jpg
         - image: ./images/nikhilshaji_solarlabs.jpg
         - image: ./images/Vishnu_poster_new.jpg
+        - image: ./images/Akshay_U_poster.jpg
+        - image: ./images/JinsuMani_Poster.jpg
         - image: ./images/StudentsPlaced_2021.jpg
+        - image: ./images/cek(17-21)_Toppers_CS&IT.jpg
+        - image: ./images/CSE_Honours.jpg
           title:
           description:
         - image: ./images/cllgan.jpg
