@@ -8,6 +8,10 @@
         - image: ./images/CSE_Honours.jpg
         - image: ./images/Civil_Honours_students.jpeg
         - image: ./images/civil_Toppers.jpeg
+        - image: ./images/ECE_EI_Gratuates.jpg
+        - image: ./images/EEE_Toppers.jpeg
+        - image: ./images/ECE_WT_Toppers.jpg
+        - image: ./images/Placed_students_2021.jpeg
         - image: ./images/Akshay_U_poster.jpg
         - image: ./images/JinsuMani_Poster.jpg
         - image: ./images/bonymol_CSE.jpg
