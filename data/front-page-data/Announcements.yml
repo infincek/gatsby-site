@@ -5,31 +5,15 @@
   new: true
   date: 2021-07-01
 - data: |-
-   **KTU B.Tech S1(S) 2015 Sch. Examination.** [Seating Arrangements_13.08.2021_FN](/docs/KTU_B.Tech_S1_Seating_13.08.2021_FN.pdf)
+   **KTU B.Tech S1(R,S) Examination.** [Seating Arrangements_16.08.2021_FN](/docs/KTU_B.Tech_S1_Seating_16.08.2021_AN.pdf)
    
   new: true
-  date: 2021-07-12
+  date: 2021-07-16
 - data: |-
    **Quotations are invited for the supply of projectors.** [For more details Please Click Here..](/docs/quotation_notice_projector.pdf)
       
   new: true
   date: 2021-08-12
-- data: |-
-   **Online FDP on Modern Trends in Civil Engineering & Construction Industry.** 2nd to 6th August 2021.
-   
-   Link for registration:- https://atalacademy.aicte-india.org
-   
-   Last Date of registration : 26-07-2021
-   
-   Date of confirmation via e-mail : 28-07-2021
-   
-   [Brochure and Schedule](/docs/CIVIL_ATAL_FDP_Brochure_Schedule.pdf)    
-  new: true
-  date: 2021-07-20
-- data: |-
-   **KTU B.Tech S1 (R,S) Examination.** [Seating Arrangements_16.07.2021_FN](/docs/KTU_B.Tech_S1_SEATING-16.07.2021_FN.pdf)    
-  new: true
-  date: 2021-07-15
 - data: |-
    **S1 & S3 KTU Examination** [War Room Structure](/docs/War_Room_Structure.pdf)     
   new: true
@@ -45,13 +29,6 @@
         
   new: true
   date: 2021-06-29
-- data: |-
-    [IEEE SB CEK Annual General Meeting](/docs/IEEE_SB_AnnualGeneralMeeting.pdf) Inaguration on 26-06-2021 , 5:30 pm.
-    
-    Guest of Honour - Prof. Nandan S, Chairperson IEEE YP Kerala Section
-            
-  new: true
-  date: 2021-06-25
 - data: |-
     Sealed competitive tenders are invited from qualified firms/persons for the purchase of **Firewall and Network Switches**. For more details [Click Here](/tenders).
             
@@ -186,13 +163,6 @@
 #  new: true
 #  date: 2021-02-23
 - data: |-
-     **FDP 0n Smart Materials and Technologies in Civil Engineering - FEb 22-26, 2021**
-     
-     [Click here for Brochure](/docs/FDP_SmartMaterials&Tech.pdf)     
-   
-  new: true
-  date: 2021-02-13 
-- data: |-
      **FDP 0n Data Analytics - FEb 15-19, 2021**
      
      [Click here for Brochure](/docs/fdp-dataanalytics-FEB21-Brochure.pdf)
@@ -205,62 +175,18 @@
      [Tender date for the **Supply of isolators and RCCBs** is extended.](/Tenders)
   new: true
   date: 2020-12-18
-- data: |-
-    [M.Tech Spot Admission](/docs/MTech_Spot_Admission.pdf)
-  new: true
-  date: 2020-11-30
-- data: |-
-    [Application to Co-operative Reserved  Quota Seats](/academics/admission)
-  new: true
-  date: 2020-10-06
-- data: |-
-   [**Inauguration of new Ladies Hostel on 03-10-2020 at 11:30AM**](/docs/Inaguration_LadiesHostel.pdf) **Inaugurated by Hon. Chief Minister Sri. Pinarayi Vijayan**
-  new: true
-  date: 2020-09-29
-- data: |-
-    [ATAL FDP AUG 24 - 28,2020 ON MACHINE LEARNING AND APPLICATIONS](/docs/MACHINE_LEARNING_FDP_CSE.pdf) Organised by **Department of Computer Science & Engineering**
-  new: true
-  date: 2020-08-22
-- data: |-
-    **UG Supplementary registration opened - B.Tech S7(S),S4 (S)**. [Click Here to Download Notification](/docs/Notif-UGSupplyRegn-Sept2020Stage1.pdf)
-    
-    Students are directed to register and make fee payment to college account on or before 17.08.2020, Monday.  
-  new: true
-  date: 2020-08-13
-- data: |-
-    Time table for **APJAKTU B.TECH. DEGREE S8 EXAMINATION (REGULAR) MAY 2020** [Click Here](/docs/Time_Table_APJAKTU_B.Tech_S8_Examination.pdf)
-  new: true
-  date: 2020-08-06
-- data: |-
-    Webinar on **DevOps with Alibaba Cloud** organized by Department of Computer Science & Engineering, on 03-08-2020  2:00pm-3:00pm.
-    
-    Resource Person :**Mr. Gavaskar S**, MVP  at Alibaba Cloud. 
-    
-    [Click here to Register](https://rb.gy/8ofx3g).
-    
-    [Click here for Brochure](/docs/Webinar_DevOps_Alibaba_Cloud_CSE.pdf)
-    
-    **1. Participants can attend a quiz after webinar and can receive certificate directly from Alibaba Cloud**
-    
-    **2. E-certificate will be provided to all the registered participants** 
-
-  new: true
-  date: 2020-07-31
-
-- data: |-
-    Webinar on **Genomic Signal Processing- A Bird's eye View** organized by Department of Electronics & Communication Engineering, on 20-07-2020  10:00am. [Click here to Register](https://bit.ly/genimics-ece-cek)
-  new: 
-  date: 2020-07-15
-- data: |-
-    Webinar on **SOURCE SEPARATION USING DFT AND ICA** organized by Department of Electronics & Communication Engineering, on 16-07-2020  10:00am. [Click here to Register](https://forms.gle/TRn3rVS1kBiTnrdXA)
-    
-    Watch on Youtube [Click Here](https://youtube.be/0LcyoHS1dZ4)
-  new: 
-  date: 2020-07-15
-- data: |-
-    [KEAM-2020 Free Model Entrance Examination on 11 July 2020. Click here to Register](https://tinyurl.com/KEAM-MockTestRegistration-CAPE)
-  new: 
-  date: 2020-07-09
+#- data: |-
+ #   [M.Tech Spot Admission](/docs/MTech_Spot_Admission.pdf)
+ # new: true
+ # date: 2020-11-30
+#- data: |-
+   # [Application to Co-operative Reserved  Quota Seats](/academics/admission)
+  #new: true
+ # date: 2020-10-06
+#- data: |-
+#    [KEAM-2020 Free Model Entrance Examination on 11 July 2020. Click here to Register](https://tinyurl.com/KEAM-MockTestRegistration-CAPE)
+#  new: 
+#  date: 2020-07-09
 #- data: |-
  #   [TIME TABLE FOR SECOND SERIES ONLINE EXAMINATION- JULY 2020](/docs/Time_Table_Series_2_July_2020.pdf)
  # new: 
@@ -369,40 +295,35 @@
     For more details Please [Click Here.](/docs/EEE_Quotation_Power_Electronics_Trainer_Kit.pdf)
   new: true
   date: 2020-02-27
-- data: |-
-    Competative quotations are invited from qualified firm for the maintenance in **Basic Electronics and Communication lab in Department of Electronics and Communication.**
+#- data: |-
+#    Competative quotations are invited from qualified firm for the maintenance in **Basic Electronics and Communication lab in Department of Electronics and Communication.**
     
-    Last date and time for receiving Quotations: 03/03/2020   12 Noon
+ #   Last date and time for receiving Quotations: 03/03/2020   12 Noon
     
-    Date and time for opening quotation: 03/03/2020  2 PM
+#    Date and time for opening quotation: 03/03/2020  2 PM
     
-    For more details Please [Click Here.](/docs/ECE_QUOTATION_NOTICE.pdf)
-  new: true
-  date: 2020-02-21
-- data: |-
-   Sealed competitive tenders are invited form qualified firms/persons for the purchase of **Equipments in Electrical and Electronics Engineering Department.**
+ #   For more details Please [Click Here.](/docs/ECE_QUOTATION_NOTICE.pdf)
+ # new: true
+ # date: 2020-02-21
+# - data: |-
+ #  Sealed competitive tenders are invited form qualified firms/persons for the purchase of **Equipments in Electrical and Electronics Engineering Department.**
    
-   Cost of Tender Form - Rs 354/- including GST
+#   Cost of Tender Form - Rs 354/- including GST
    
-   Last Date and Time for receipt tender form - 02/03/2020  12 Noon
+ #  Last Date and Time for receipt tender form - 02/03/2020  12 Noon
    
-   Opening date & Time - 03/03/2020  2 PM
+ #  Opening date & Time - 03/03/2020  2 PM
    
-   For Specifications and details Please [Click Here.](/docs/Tender_Form_Equipment_EEE.pdf) 
+ #  For Specifications and details Please [Click Here.](/docs/Tender_Form_Equipment_EEE.pdf) 
 
-  new: true
-  date: 2020-02-20
-- data: |- 
-   Parent Teacher Association, College of Engineering Kidangoor invites **Quotations** from eligible vendors for the **Supply of Drinking Water.**
+ # new: true
+ # date: 2020-02-20
+#- data: |- 
+ #  Parent Teacher Association, College of Engineering Kidangoor invites **Quotations** from eligible vendors for the **Supply of Drinking Water.**
     
-    For Specifications and details Please [Click Here.](/docs/PTA_Quotation_Notice_Drinking_Water.pdf)
-  new: true
-  date: 2020-02-12
-- data: |-
-    College Website has been revamped and updated by students **Mr. Samanyu S Neelson**, S7 EI, **Mr. Akshay U**, S5 CS, **Mr. Akhil M P**, S7 CS, **Mr. Athul C A**, S3 CS on 28/09/2019. Appreciations and Congratulations.
-  new: false
-- data: |-
-    For Equipments in Electronics and Communication Department at College of Engineering Kidangoor. For more details Please [Click Here.](/docs/tender_form-ec.pdf)
-  new:
-  date: 2019-07-25
-  
+  #  For Specifications and details Please [Click Here.](/docs/PTA_Quotation_Notice_Drinking_Water.pdf)
+ # new: true
+ # date: 2020-02-12
+# - data: |-
+#    College Website has been revamped and updated by students **Mr. Samanyu S Neelson**, S7 EI, **Mr. Akshay U**, S5 CS, **Mr. Akhil M P**, S7 CS, **Mr. Athul C A**, S3 CS on 28/09/2019. Appreciations and Congratulations.
+ # new: false 
