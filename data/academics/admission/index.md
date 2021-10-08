@@ -15,10 +15,12 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 -->
 <h3>B.Tech Lateral Entry Admission 2021 </h3>
 <br>
-<b>B.Tech Lateral Entry Entrance examination registration is open now. Apply at</b> [http://admissions.dtekerala.gov.in](www.admissions.dtekerala.gov.in)
- 
+B.Tech Lateral Entry Entrance examination registration is open now. Apply at
 <br>
-Last date for applying 09.10.2021
+
+[www.admissions.dtekerala.gov.in](http://admissions.dtekerala.gov.in)
+<br>
+Last date for applying 09.10.2021<br>
 <br>
 Application fee Rs 750/- for general candidates and Rs. 375 for SC/ST candidates.
  <br>
