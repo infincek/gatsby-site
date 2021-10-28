@@ -5,6 +5,7 @@ template: singlepage
 ---
 
 
+[btn to="/placement/2020-21" title="2020-21 Placements"][/btn]
 [btn to="/placement/2019-20" title="2019-20 Placements"][/btn]
 [btn to="/placement/2018-19" title="2018-19 Placements"][/btn]
 [btn to="/placement/2017-18" title="2017-18 Placements"][/btn]
