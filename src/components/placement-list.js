@@ -15,7 +15,7 @@ export default ({data}) => {
 
 const Item = (props) => {
     return(
-        <div className="col s12 m6 l4 placement-item">
+        <div className="col s12 m7 l4 placement-item">
             <div className="box">
                 <div className="image">
                     <Img
