@@ -6,5 +6,5 @@ template: placement
 selections:
     - name: Bonymol Baby
       department: CS
-      image: ./Bonymol.jpg
+      image: ./Bonymol_Baby.jpg
 ---
