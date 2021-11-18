@@ -25,4 +25,4 @@ selections:
     - name: Rajalakshmi S
       department: CSE
       image: ./Rajalakshmi_S.jpg
-  ---
+---
