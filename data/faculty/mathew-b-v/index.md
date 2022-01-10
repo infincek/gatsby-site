@@ -1,7 +1,7 @@
 ---
 title: Dr.Mathew B V
 template: faculty
-hod: true
+hod: false
 department: ce
 departmentFullName: Civil Engineering
 image: ./mathew-new.jpg
