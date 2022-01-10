@@ -1,7 +1,7 @@
 ---
 title: Dr.Rajeesh J
 template: faculty
-hod: true
+hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./rajeesh-new.jpg
