@@ -18,7 +18,7 @@ specialization: Medical Image Processing
 # otherData: "No. of International Journal - 23"
 mobileNumber: 9751280848
 mailid: ksangelviji@gmail.com
-position: 1
+position: 2
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
