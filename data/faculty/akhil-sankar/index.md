@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: dash
 departmentFullName: Mechanical Engineering
-image: ./Akhil-Sankar.jpg
+image: ./Akhil-Sankar1.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 12/03/2021
 dateOfJoiningCape:12/03/2021 
