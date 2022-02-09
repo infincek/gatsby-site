@@ -17,5 +17,5 @@ subject: Industrial Engineering and Management
 # specialization: NIL
 mobileNumber: 9447767835
 mailid: akhilsankark050394@gmail.com
-position: 6
+position: 
 ---
