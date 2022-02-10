@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: dash
 departmentFullName: Applied Science and Humanities
-image: ./Sreekanth.jpg 
+image: ./sreekanth_new.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 13/10/2021
 dateOfJoiningCape: 31/08/2006
