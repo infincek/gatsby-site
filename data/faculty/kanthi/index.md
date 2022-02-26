@@ -17,5 +17,5 @@ subject: Physics
 # specialization: NIL
 mobileNumber: 7994373690
 mailid: kanthithankachan@gmail.com 
-position: 9
+position: 
 ---
