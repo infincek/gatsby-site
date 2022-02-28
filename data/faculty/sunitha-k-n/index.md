@@ -18,5 +18,5 @@ subject: Mathematics
 # otherData: 
 mobileNumber: 9656635858
 mailid: Sunithakn1987@ gmail. Com
-position: 10
+position:
 ---
