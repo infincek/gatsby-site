@@ -3,7 +3,7 @@ title: RAKHI RAMACHANDRAN
 template: faculty
 hod: false
 department: CSE
-departmentFullName: COMPUTER SCIENCE & ENGINEERING
+departmentFullName: Computer Science & Engineering
 image: ./Rakhi-Ramachandran-nair-1.jpg 
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 08/02/2021
