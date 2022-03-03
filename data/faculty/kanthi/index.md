@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./kanthi-image.jpg
+image: ./sree.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 08/02/2021
 dateOfJoiningCape: 08/02/2021 
