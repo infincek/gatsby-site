@@ -1,7 +1,7 @@
 ---
 title: Divya S Nair
 template: faculty
-hod: false
+hod: true
 department: ce
 departmentFullName: Civil Engineering
 image: ./divya-photo.jpg
