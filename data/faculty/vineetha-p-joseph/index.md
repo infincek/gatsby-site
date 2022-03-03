@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
-image: ./reshmi-photo.jpg
+image: ./vineetha_p_joseph.jpg 
 designation: Assistant Professor(ADHOC)
 dateOfJoining: 12/06/2021
 dateOfJoiningCape: 12/06/2021
@@ -18,3 +18,4 @@ subject:
 mobileNumber: 9447765345
 mailid: vineethapj@gmail.com
 position: 10
+---
