@@ -10,8 +10,8 @@ dateOfJoining: 08/02/2021
 dateOfJoiningCape: 08/02/2021 
 experienceTeaching: Nil
 # experienceIndustry: NIL
-ugAndInstitution: "BSc, Govt. College Kottayam"
-pgAndInstitution: "MSc, Govt. College Kottayam"
+ugAndInstitution: "BSc, Govt. College Kottayam."
+pgAndInstitution: "MSc, Govt. College Kottayam."
 subject: Physics
 # phd: NIL
 # specialization: NIL
