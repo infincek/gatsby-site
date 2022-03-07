@@ -34,8 +34,9 @@ template: singlepage
 | 2017 | 24 | 49 | 11 |
 | 2018 | 51 | 65 | 25 |
 | 2019 | 66 | 82 | 34 |
-| 2020 | 60 | 70 | 42 |
-| 2021 | 42 | 46 | 38 |
+| 2020 | 62 | 72 | 42 |
+| 2021 | 54 | 61 | 42 |
+| 2022 | 23 | 30 | 38 |
 
 ### Training and Placement Officer
 **Mr. Syamesh K G**
@@ -49,8 +50,8 @@ Email Address: placement@ce-kgr.org
 ### CGPC Committee
 | Name 	| Designation 	|
 |:--------------------	|:------------------------------------------------------------------------------------	|
-| Dr.Mathew B V 	| HOD Civil Engineering 	|
-| Dr.Indu P Nair 	| HOD Electrical and Electronics 	|
-| Dr.Ojus Thomas Lee 	| HOD Computer Science and Engineering 	|
-| Dr.Rajeesh J 	| HOD Electronics and Communication Engineering 	|
-| Mr.Suneesh Kurian 	| HOD Applied Science and Humanities 	|
+| Mrs. Divya S Nair 	| HOD Civil Engineering 	|
+| Mrs. Praseetha K 	| HOD Electrical and Electronics 	|
+| Mrs. Jyothis Joseph 	| HOD Computer Science and Engineering 	|
+| Mrs. Syama R 	| HOD Electronics and Communication Engineering 	|
+| Mr.Vivek Raju 	| HOD Applied Science and Humanities 	|
