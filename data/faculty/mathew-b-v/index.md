@@ -1,7 +1,7 @@
 ---
 title: Dr.Mathew B V
 template: faculty
-hod: true
+hod: false
 department: ce
 departmentFullName: Civil Engineering
 image: ./mathew-new.jpg
@@ -18,6 +18,7 @@ specialization: Civil Engineering- Engineering Education
 # otherData: "NIL"
 mobileNumber: 9526304512
 mailid: bvmathew11@gmail.com
+position: 1
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
