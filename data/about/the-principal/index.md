@@ -1,40 +1,41 @@
 ---
 title: The Principal
 template: singlepage
-image: ./principal.jpg
-description: "Principal, College Of Engineering Kidangoor. Area of Specialisation: Mechanical Engineering, Production Engineering. Ph.D in Quality Engineering & Management form IISc Bangalore. M.Tech in Production Engineering from PSG College of Technology, Coimbatore. B.Tech in Mechanical Engineering from M A College of Engineering, Kothamangalam"
+image: ./MathewSir.jpg
+description: "Principal, College Of Engineering Kidangoor. Area of Specialisation: Civil Engineering -Engineering Education. Ph.D in Civil Engineering- Engineering Education from Madras University. M.Tech in Civil Engineering from IIT Madras. B.Tech in Civil Engineering from Govt. Engineering College Thrissur."
 ---
-![The Principal](./principal.jpg)
-### Dr. K G Viswanadhan
+![The Principal](./MathewSir.jpg)
+### Dr. B V Mathew
 
-Principal, College Of Engineering Kidangoor.
+Principal, College of Engineering Kidangoor.
 
-Area of Specialisation: Mechanical Engineering, Production Engineering
+Area of Specialisation: Civil Engineering - Engineering Education.
 
-[Profile](PrincipalProfile.pdf)
+<!--[Profile](PrincipalProfile.pdf) -->
 
 **Education Summary**
 
-* Ph.D in Quality Engineering & Management from IISc Bangalore
-* M.Tech in Production Engineering from PSG College of Technology, Coimbatore
-* B.Tech in Mechanical Engineering from M A College of Engineering, Kothamangalam
-
+* Ph.D in Civil Engineering-Engineering Education from Madras University.
+* M.Tech in Civil Engineering from IIT Madras.
+* B.Tech in Civil Engineering from Govt. Engineering College Thrissur.
+<!--
 ###### Additional Qualification
 
 * MBA from Bharathiar University, Coimbatore
 * PGDCA from Bharathiar University, Coimbatore
-* MCA from Bharathiar University, Coimbatore
+* MCA from Bharathiar University, Coimbatore 
+-->
 
-###### Experience details
+**Experience Details**
 
-18/02/2015 to Till Date Principal
+03/03/2022 to Till Date Principal
 
-01/01/2009 to 17/02/2015 Professor
+24/03/2009 to 20/10/2009 Professor
 
-01/01/2006 to 31/12/2008 Associate Professor
+01/09/2006 to 03/03/2022 Professor
 
-01/06/2000 to 31/12/2005 Selection grade lecturer
+01/06/2005 to 03/01/2022 Head of Department
 
-01/06/1995 to 31/05/2000 Senior Lecturer
+15/07/2002 to 31/08/2006 Associate Professor
 
-01/06/1989 to 31/05/1995 Lecturer
+08/08/1988 to 13/07/2002 Lecturer
