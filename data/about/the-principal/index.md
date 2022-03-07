@@ -18,13 +18,7 @@ Area of Specialisation: Civil Engineering - Engineering Education.
 * Ph.D in Civil Engineering-Engineering Education from Madras University.
 * M.Tech in Civil Engineering from IIT Madras.
 * B.Tech in Civil Engineering from Govt. Engineering College Thrissur.
-<!--
-###### Additional Qualification
 
-* MBA from Bharathiar University, Coimbatore
-* PGDCA from Bharathiar University, Coimbatore
-* MCA from Bharathiar University, Coimbatore 
--->
 
 **Experience Details**
 
