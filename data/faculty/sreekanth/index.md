@@ -2,8 +2,8 @@
 title: SREEKANTH S
 template: faculty
 hod: false
-department: dash
-departmentFullName: Applied Science and Humanities
+department: eee
+departmentFullName: Electrical and Electronics Engineering
 image: ./sreekanth_new.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 13/10/2021
