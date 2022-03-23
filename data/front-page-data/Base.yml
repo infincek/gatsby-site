@@ -64,7 +64,7 @@
     quickLinks:
         col1:
             - name: Moodle@cek
-              url: http://moodle.cekgr.co.in
+              url: https://cekgr.in
             - name: Institution Documents
               url: /quicklinks/instdoc
             - name: STUDENT CORNER
