@@ -6,7 +6,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 [Free Mock Entrance Examination and Training Programme for KEAM-2022](/docs/KEAM-22_pressRelease.pdf)
 
-Click here to Register](http://bit.ly/keam-crashcourse22)
+Click here to Register(http://bit.ly/keam-crashcourse22)
 
 <!--
 <h3>Application to Co-operative Reserved Quota Seats </h3>
