@@ -1,5 +1,5 @@
 ---
-title: Remya Krishna R
+title: Remya Krishnan R
 template: faculty
 hod: false
 department: ce
