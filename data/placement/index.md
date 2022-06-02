@@ -40,6 +40,9 @@ template: singlepage
 | 2020 | 60 | 70 | 42 |
 | 2021 | 47 | 54 | 45 |
 | 2022 | 14 | 20 | 15 |
+| 2020 | 62 | 72 | 45 |
+| 2021 | 55 | 62 | 48 |
+| 2022 | 23 | 31 | 18 |
 
 ### Training and Placement Officer
 **Mr. Syamesh K G**

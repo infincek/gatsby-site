@@ -4,7 +4,10 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
-        - image: ./images/CSE-Placed-Students_2022.jpg        
+        - image: ./images/IEDC-team-22.jpg
+          title: IEDC 
+          description: Congratulations to the team IEDC
+        - image: ./images/CSE-Placed-Students_2022.jpg
         - image: ./images/cek(17-21)_Toppers_CS&IT.jpg
         - image: ./images/CSE_Honours.jpg
         - image: ./images/Civil_Honours_students.jpeg
@@ -17,21 +20,15 @@
         - image: ./images/JinsuMani_Poster.jpg
         - image: ./images/bonymol_CSE.jpg
         - image: ./images/GouripriyaJ_vvdn.jpg
-        - image: ./images/nikhilshaji_solarlabs.jpg
-        - image: ./images/Vishnu_poster_new.jpg
-        - image: ./images/PlacedStudents_Infosys.jpg
-        - image: ./images/StudentsPlaced_2021.jpg
-        - image: ./images/cek_Placed_USTGlobal.jpg
+        - image: ./images/nikhilshaji_solarlabs.jpg        
+        - image: ./images/StudentsPlaced_2021.jpg        
         - image: ./images/CEK_Placement_TCS_2020.jpg
           title:
           description:
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
-          description: NBA Accreditated upto 30-06-2022
-        - image: ./images/M.Tech_Placement.jpg
-          title: 
-          description: 
+          description: NBA Accreditated upto 30-06-2022        
     announcements:
         - Adhoc Faculty - Notification [Click here](/docs/adhoc_notification.jpg)...[Apply Online](https://forms.gle/7AeYb9om2dcUBcAC7)
         - Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
@@ -67,7 +64,7 @@
     quickLinks:
         col1:
             - name: Moodle@cek
-              url: http://moodle.cekgr.co.in
+              url: https://cekgr.in
             - name: Institution Documents
               url: /quicklinks/instdoc
             - name: STUDENT CORNER
