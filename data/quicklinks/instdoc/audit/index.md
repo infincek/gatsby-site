@@ -24,10 +24,23 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 [Inst-Audit Report 2012- 2015](/docs/AUDIT%20REPORTS/Inst-Audit%20Report%202012-%202015.pdf)
 
+[Inst-Audit Report 2020- 2021](/docs/AUDIT%20REPORTS/AnnualReportFinal KGR2020-21.pdf)
+
+[Annual Report](/docs/AUDIT%20REPORTS/AnnualReportKGR2021-22-1.pdf)
+
 [Statutory Audit Report for the Period 01.04.2017 to 31.07.2017](/docs/AUDIT%20REPORTS/Statutory%20Audit%20Report%20for%20the%20Period%2001.04.2017%20to%2031.07.2017%20.pdf)
+[CGPC Report 2020-21](/docs/AUDIT%20REPORTS/CGPC_REPORT_2020-21.pdf)
+[CGPC Report 2021-22](/docs/AUDIT%20REPORTS/CGPC_REPORT_2021-22.pdf)
+[CGPC_AUDIT_REPORT_2020-21](/docs/AUDIT%20REPORTS/CGPC_AUDIT_REPORT_2020-21-1.pdf)
+[CGPC_AUDIT_REPORT_2021-22](/docs/AUDIT%20REPORTS/CGPC_AUDIT_REPORT_2021-22-2.pdf)
+
 
 [TEQIP Audit report 15-16](/docs/AUDIT%20REPORTS/TEQIP%20Audit%20report%2015-16.pdf)
 
 [TEQIP Audit Report 16-17](/docs/AUDIT%20REPORTS/TEQIP%20Audit%20Report%2016-17.pdf)
 
 [TEQIP Audit Report April to July 2017](/docs/AUDIT%20REPORTS/TEQIP%20Audit%20Report%20April%20to%20July%202017.pdf)
+[TEQIP Audit Report 2017-18](/docs/AUDIT%20REPORTS/2017-18-Audit Report-FF-1.pdf)
+[TEQIP Audit Report 2018-19](/docs/AUDIT%20REPORTS/2018-19-Audit Report-FF-1.pdf)
+[TEQIP Audit Report 2019-20](/docs/AUDIT%20REPORTS/2019-20-Audit Report-FF-1.pdf)
+[TEQIP Audit Report 2020-21](/docs/AUDIT%20REPORTS/2020-21-Audit Report-FF-1.pdf)
