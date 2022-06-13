@@ -21,7 +21,7 @@ position: 4
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
-| Number of Book chapters       | 1  |
+| Number of Book chapters       |  1  |
 | No. of International Journal   |  10  |
 |     No. of National Journal      |  1  |
 | No. of International Conferences |  8  |
