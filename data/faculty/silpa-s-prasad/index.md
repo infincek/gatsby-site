@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./shilpa.jpg
+image: ./silpa_s_prasad.jpg 
 designation: Assistant Professor(Regular)
 dateOfJoining: 30/07/2016
 dateOfJoiningCape: 01/07/2010
