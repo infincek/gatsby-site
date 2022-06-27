@@ -4,10 +4,6 @@ template: singlepage
 description: College of Engineering, Kidangoor (CEK), Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala.
 ---
 
-[Free Mock Entrance Examination and Training Programme for KEAM-2022](/docs/KEAM-22_pressRelease.pdf)
-
-Click here to Register(http://bit.ly/keam-crashcourse22)
-
 <!--
 <h3>Application to Co-operative Reserved Quota Seats </h3>
 <br>
@@ -32,16 +28,16 @@ Application fee Rs 750/- for general candidates and Rs. 375 for SC/ST candidates
  <br>
  <br>
 -->
-<h3>B.Tech NRI Admission 2021 </h3>
+<h3>B.Tech NRI Admission 2022 </h3>
 <br>
 
 **Applications are invited for admission to the B.Tech courses under NRI quota (2021-22) in the Engineering Colleges under CAPE.**<br>
 Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056, 9400666144, 7306183946, 9496326560**
 <br><br>
-[Click here to download Prospectus for NRI Admission](NRI_Prospectus_2021-22.pdf)<br>
+[Click here to download Prospectus for NRI Admission](NRI_PROSPECTUS_2022-23.pdf)<br>
 <!--[Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br> -->
-[Click here to apply Online Appication](https://bit.ly/cek-nri-admin21)<br><br>
-[NRI Decalration Form](Declaration_NRI.pdf)<br><br> 
+[Click here to apply Online Appication](https://tinyurl.com/NRI2022KGR)<br><br>
+<!--[NRI Decalration Form](Declaration_NRI.pdf)<br><br> -->
 
 **Eligibility criteria for NRI Quota**
 
@@ -52,6 +48,9 @@ Interested candidates can apply online through the link given below. For more de
   <li>Candidates seeking NRI Quota should be a Child/Ward/Dependent of an NRI and should enclose a declaration form and employment certificate from the NRI who sponsor the applicant (form enclosed as Annexure I).</li>
 </ol>
 
+[Free Mock Entrance Examination and Training Programme for KEAM-2022](/docs/KEAM-22_pressRelease.pdf)
+
+Click here to Register(http://bit.ly/keam-crashcourse22)
 <!--[Free Mock Entrance Examination and Training Programme for KEAM-2021. Click here to Register](http://bit.ly/keam-mockentrance)-->
 <br>
  
