@@ -12,10 +12,9 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 | Name | Designation |
 |:--------------------:|:---------------------------:|
-| Binimol V K | Assistant Professor, EEE |
-| Anitha Abraham | Assistant Professor, CSE |
-| Nisha C A | Assistant Professor, IT |
-| Reshmi K Raj | Assistant Professor, EEE |
+| Remisha Remanan | Instructor, ECE |
+| Pratheesh P | Trade Instructor, Mechanical |
+| Sudheesh K | Trade Instructor, ECE |
 
 
 #### Functions

@@ -5,6 +5,7 @@ template: singlepage
 ---
 
 
+[btn to="/placement/2020-21" title="2020-21 Placements"][/btn]
 [btn to="/placement/2019-20" title="2019-20 Placements"][/btn]
 [btn to="/placement/2018-19" title="2018-19 Placements"][/btn]
 [btn to="/placement/2017-18" title="2017-18 Placements"][/btn]
@@ -33,6 +34,9 @@ template: singlepage
 | 2017 | 24 | 49 | 11 |
 | 2018 | 51 | 65 | 25 |
 | 2019 | 66 | 82 | 34 |
+| 2020 | 62 | 72 | 45 |
+| 2021 | 55 | 62 | 48 |
+| 2022 | 23 | 31 | 18 |
 
 ### Training and Placement Officer
 **Mr. Syamesh K G**

@@ -105,7 +105,7 @@ module.exports = {
                     },
                     {
                         name: 'Moodle',
-                        link: 'http://moodle.cekgr.co.in/'
+                        link: 'https://cekgr.in/'
                     }
                 ]
             },

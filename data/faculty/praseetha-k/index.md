@@ -1,7 +1,7 @@
 ---
 title: Praseetha K
 template: faculty
-hod: false
+hod: true
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./praseetha-photo.jpg
