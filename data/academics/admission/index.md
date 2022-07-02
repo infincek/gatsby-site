@@ -8,7 +8,6 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 <h3>Application to Co-operative Reserved Quota Seats </h3>
 <br>
 
-change-admission
 # **Applications are invited for admission to the B.Tech Management Quota Seats (2020-21) reserved for children of Co-operative Sector employees in CAPE Engineering Colleges.**<br>
 # For more details and vaccancy position please call **Admission Help line Number:- 9188255056**<br><br>
 # [Click here to download application form](Applnform_Co-op-_Reserved_seat.pdf)<br><br>
@@ -37,7 +36,6 @@ change-admission
 <br>
 B.Tech Lateral Entry Entrance examination registration is open now. Apply at
 <br>
-
 [www.admissions.dtekerala.gov.in](http://admissions.dtekerala.gov.in)
 <br>
 Last date for applying 09.10.2021<br>
@@ -59,15 +57,13 @@ Interested candidates can apply online through the link given below. For more de
 
 **Eligibility criteria for NRI Quota**
 
-# <ol>
-#  <li>Candidates who have passed Higher Secondary Examination of Board of Higher Secondary Education, Kerala or examination recognized equivalent thereto, with 45 % marks in Mathematics, Physics and Chemistry or / Computer Science / Biotechnology / Biology put together are eligible to Management and NRI seats of B Tech courses.</li>
-#  <li>SC/ST candidates need only a pass in qualifying examination for admission to B Tech courses.</li>
-#  <li>No entrance test is required for getting admission to B Tech course under NRI Quota.</li>
-#  <li>Candidates seeking NRI Quota should be a Child/Ward/Dependent of an NRI and should enclose a declaration form and employment certificate from the NRI who sponsor the applicant (form enclosed as Annexure I).</li>
-#</ol>
-
-change-admission
-#<br>
+<ol>
+<li>Candidates who have passed Higher Secondary Examination of Board of Higher Secondary Education, Kerala or examination recognized equivalent thereto, with 45 % marks in Mathematics, Physics and Chemistry or / Computer Science / Biotechnology / Biology put together are eligible to Management and NRI seats of B Tech courses.</li>
+<li>SC/ST candidates need only a pass in qualifying examination for admission to B Tech courses.</li>
+<li>No entrance test is required for getting admission to B Tech course under NRI Quota.</li>
+<li>Candidates seeking NRI Quota should be a Child/Ward/Dependent of an NRI and should enclose a declaration form and employment certificate from the NRI who sponsor the applicant (form enclosed as Annexure I).</li>
+</ol>
+<br>
 
 [Free Mock Entrance Examination and Training Programme for KEAM-2022](/docs/KEAM-22_pressRelease.pdf)
 
@@ -75,32 +71,22 @@ Click here to Register(http://bit.ly/keam-crashcourse22)
 <!--[Free Mock Entrance Examination and Training Programme for KEAM-2021. Click here to Register](http://bit.ly/keam-mockentrance)-->
 <br>
  
-
 <h3>ADMISSION:Undergraduate Degree</h3>
 
 The institution offers Bachelor Degree Programs [4 year duration] under the affiliation of APJ Abdul Kalam Technological University. The Merit quota [90%], Management quota [5%] [reserved for the children of employees working under Co-operative sector] are solely allotted by the Commissioner of Entrance Exams, Kerala as per KEAM Rank. The admission to NRI [5%] quota seats are filled from the rank list, prepared by the college authority, based on the plus two marks [Mathematics, Physics, Chemistry or / Computer Science/Biotechnology/Biology].
 
-
- 
 <br>
 <br>
 <h5>Allocation of B Tech Degree Seats</h5>
 
 | Programs | Merit | Reserved for Co-operative sector | NRI | Total |
 |-----------------------------------------|-------|------------|-----|-------|
-change-admission
 | B Tech in Civil Engineering | 54 | 3 | 3 | 60 |
 | B Tech in Computer Science | 81 | 4 | 5 | 90 |
 | B Tech in Electronics and Communication | 54 | 3 | 3 | 60 |
 | B Tech in Electrical and Computer Engineering | 27 | 1 | 2 | 30 |
 | B Tech in Electrical and Electronics | 27 | 1 | 2 | 30 |
 | Total | 189 | 68 | 13 | 270 |
-| B Tech in Civil Engineering | 42 | 14+1* | 3 | 60 |
-| B Tech in Computer Science | 63 | 21+2* | 4 | 90 |
-| B Tech in Electronics and Communication | 42 | 14+1* | 3 | 60 |
-| B Tech in Electrical and Electronics | 21 | 7+1* | 1 | 30 |
-| B Tech in Electrical and Computer Engineering | 21 | 7+1* | 1 | 30 |
-| Total | 189 | 68 | 12 | 270 |
 
 <h5>B Tech Degree Program – Structure of Tuition Fee</h5>
 
