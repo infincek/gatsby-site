@@ -80,7 +80,7 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 <h5>Allocation of B Tech Degree Seats</h5>
 
 |  Programs |  Merit | Reserved for Co-operative sector| NRI      |  Total      |
-|----------------------------------------|-------|------------|-----|-------|
+|-----------------|-------|------------|-----|-------|
 | B Tech in Civil Engineering |   54  |   3  |     3     |     60  |
 | B Tech in Computer Science |  81  |   4   |      5    |   90  |
 | B Tech in Electronics and Communication |  54  |  3  |  3  |  60  |
@@ -91,7 +91,7 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 <h5>B Tech Degree Program – Structure of Tuition Fee</h5>
 
 | Quota | Tuition Fee [Per year] |
-|------------------|-----------------------------------------|
+|------------------|-----------------|
 | Merit seats | Rs. 35000/- [Thirty five thousand only] |
 | Reserved for Co-operative sector | Rs. 65000/- [Sixty five thousand only] (Scholarship of  Rs.30000/- may be given to eligibile candidates) |
 | NRI seats | Rs. 100000/- [One lakh only] |
@@ -109,7 +109,7 @@ The institution offers Post Graduate Degree Programs [2 year duration] under the
 <h5>Allocation of M Tech Degree Seats</h5>
 
 | Programs | Merit | Sponsored | Total |
-|--------------------------------------------|-------|-----------|-------|
+|---------------|-------|-----------|-------|
 | M Tech in Computer and Information Science | 14 | 4 | 18 |
 | M Tech in Wireless Technology | 14 | 4 | 18 |
 | Total | 28 | 8 | 36 |
