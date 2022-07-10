@@ -7,6 +7,7 @@
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
           description: Congratulations to the team IEDC
+        - image: ./images/NRI_Admission_2022.jpg
         - image: ./images/CSE-Placed-Students_2022.jpg
         - image: ./images/cek(17-21)_Toppers_CS&IT.jpg
         - image: ./images/CSE_Honours.jpg
@@ -26,9 +27,9 @@
           title:
           description:
         - image: ./images/cllgan.jpg
-        - image: ./images/nba_updated_to_clgsite1.jpg
-          title: CEK
-          description: NBA Accreditated upto 30-06-2022        
+        #- image: ./images/nba_updated_to_clgsite1.jpg
+        #  title: CEK
+        #  description: NBA Accreditated upto 30-06-2022        
     announcements:
         - Adhoc Faculty - Notification [Click here](/docs/adhoc_notification.jpg)...[Apply Online](https://forms.gle/7AeYb9om2dcUBcAC7)
         - Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
