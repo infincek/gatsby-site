@@ -24,8 +24,6 @@
         - image: ./images/nikhilshaji_solarlabs.jpg        
         - image: ./images/StudentsPlaced_2021.jpg        
         - image: ./images/CEK_Placement_TCS_2020.jpg
-          title:
-          description:
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
