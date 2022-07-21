@@ -31,8 +31,8 @@
     announcements:
         - Revised schedule for NRI Admission [Click Here..](/docs/NRI_Revised_Schedule.pdf)
         - Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
-        - Rank list of NRI Admission Phase-I Published. [Click Here..](/docs/NRI_RANKLIST.pdf)
-        - Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)        
+        #- Rank list of NRI Admission Phase-I Published. [Click Here..](/docs/NRI_RANKLIST.pdf)
+        #- Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)        
     welcomeMessage: |-
         **College of Engineering, Kidangoor (CEK)**, Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala. Now the institution is glistening with outstanding records in both academic and extracurricular fields backed by excellent faculty and full-fledged facilities.
     mission: |-
