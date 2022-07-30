@@ -49,11 +49,6 @@ Application fee Rs 750/- for general candidates and Rs. 375 for SC/ST candidates
 **Applications are invited for admission to the B.Tech courses under NRI quota (2021-22) in the Engineering Colleges under CAPE.**<br>
 Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056, 9400666144, 7306183946, 9496326560**
 <br><br>
-<!--
-[Rank List of NRI Admission Phase-I is published.](RankList_NRI_Admission2022.pdf)
-  
-# [Online Fee Payment](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
--->
 [Click here to download Prospectus for NRI Admission](NRI_PROSPECTUS_2022-23.pdf)<br>
 <!--[Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br> -->
 [Click here to apply Online Appication](https://tinyurl.com/NRI2022KGR)<br><br>
