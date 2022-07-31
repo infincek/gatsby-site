@@ -56,7 +56,7 @@ Interested candidates can apply online through the link given below. For more de
 <!--[Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br> -->
 [Click here to apply Online Appication](https://tinyurl.com/NRI2022KGR)<br><br>
 <!--[NRI Decalration Form](Declaration_NRI.pdf)<br><br> -->
-[Online Fee Collection]([https://](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
+[Online Fee Collection](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
  <br>
  <br>
 **Eligibility criteria for NRI Quota**
