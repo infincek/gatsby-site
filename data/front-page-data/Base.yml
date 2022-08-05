@@ -4,6 +4,8 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
+        - image: ./images/Placedstudents_2021-22.jpeg
+        - image: ./images/LET_OnlineCrashCourse_2022.jpg
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
           description: Congratulations to the team IEDC
@@ -16,13 +18,13 @@
         - image: ./images/ECE_EI_Gratuates.jpg
         - image: ./images/EEE_Toppers.jpeg
         - image: ./images/ECE_WT_Toppers.jpg
-        - image: ./images/Placed_students_2021.jpeg
+        #- image: ./images/Placed_students_2021.jpeg
         - image: ./images/Akshay_U_poster.jpg
         - image: ./images/JinsuMani_Poster.jpg
         - image: ./images/bonymol_CSE.jpg
         - image: ./images/GouripriyaJ_vvdn.jpg
         - image: ./images/nikhilshaji_solarlabs.jpg        
-        - image: ./images/StudentsPlaced_2021.jpg        
+        #- image: ./images/StudentsPlaced_2021.jpg        
         - image: ./images/CEK_Placement_TCS_2020.jpg
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
