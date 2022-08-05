@@ -16,7 +16,6 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 #<h3>B.Tech NRI Admission 2020 </h3>
 #<br>
-
 #**Applications are invited for admission to the B.Tech courses under NRI quota (2020-21) in the Engineering Colleges under CAPE.**<br>
 #Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056**
 #<br><br>
@@ -44,17 +43,22 @@ Application fee Rs 750/- for general candidates and Rs. 375 for SC/ST candidates
  <br>
  <br>
 -->
-<h3>B.Tech NRI Admission 2022 </h3>
+<h1>B.Tech NRI Admission 2022 </h1>
 <br>
 
 **Applications are invited for admission to the B.Tech courses under NRI quota (2021-22) in the Engineering Colleges under CAPE.**<br>
 Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056, 9400666144, 7306183946, 9496326560**
 <br><br>
+<b>B.Tech NRI Admission 2022 Phase II is started. Last Date of receipt Online Appication is 5th August 2022.<br>
+ <br>
+[Rank List of NRI Admission Phase-I is published](RankList_NRI_Admission2022.pdf)<br>
 [Click here to download Prospectus for NRI Admission](NRI_PROSPECTUS_2022-23.pdf)<br>
 <!--[Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br> -->
 [Click here to apply Online Appication](https://tinyurl.com/NRI2022KGR)<br><br>
 <!--[NRI Decalration Form](Declaration_NRI.pdf)<br><br> -->
-
+[Online Fee Collection](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
+ <br>
+ <br>
 **Eligibility criteria for NRI Quota**
 
 <ol>
@@ -79,10 +83,10 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 <br>
 <h5>Allocation of B Tech Degree Seats</h5>
 
-| Programs |    Merit   |    Reserved for Co-operative sector  |  NRI  | Total  |
-|-----------------------------------------|-------|------------|-----|-------|
-| B Tech in Civil Engineering |  54  |  3  |  3  |  60  |
-| B Tech in Computer Science |  81  |  4  |  5  |  90  |
+|  Programs |  Merit | Reserved for Co-operative sector| NRI      |  Total      |
+|-----------------|-------|------------|-----|-------|
+| B Tech in Civil Engineering |   54  |   3  |     3     |     60  |
+| B Tech in Computer Science |  81  |   4   |      5    |   90  |
 | B Tech in Electronics and Communication |  54  |  3  |  3  |  60  |
 | B Tech in Electrical and Computer Engineering |  27  |  1  |  2  |  30  |
 | B Tech in Electrical and Electronics |  27  |  1  |  2  |  30  |
@@ -91,7 +95,7 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 <h5>B Tech Degree Program – Structure of Tuition Fee</h5>
 
 | Quota | Tuition Fee [Per year] |
-|------------------|-----------------------------------------|
+|------------------|-----------------|
 | Merit seats | Rs. 35000/- [Thirty five thousand only] |
 | Reserved for Co-operative sector | Rs. 65000/- [Sixty five thousand only] (Scholarship of  Rs.30000/- may be given to eligibile candidates) |
 | NRI seats | Rs. 100000/- [One lakh only] |
@@ -109,7 +113,7 @@ The institution offers Post Graduate Degree Programs [2 year duration] under the
 <h5>Allocation of M Tech Degree Seats</h5>
 
 | Programs | Merit | Sponsored | Total |
-|--------------------------------------------|-------|-----------|-------|
+|---------------|-------|-----------|-------|
 | M Tech in Computer and Information Science | 14 | 4 | 18 |
 | M Tech in Wireless Technology | 14 | 4 | 18 |
 | Total | 28 | 8 | 36 |
