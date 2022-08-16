@@ -7,16 +7,14 @@
         - image: ./images/Placedstudents_2021-22.jpeg
         - image: ./images/LET_OnlineCrashCourse_2022.jpg
         - image: ./images/NRI_Admission_phase-II.jpg
+        - image: ./images/CE-1.jpg
+        - image: ./images/CSE-4.jpg
+        - image: ./images/EC-2.jpg
+        - image: ./images/EEE-3.jpg
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
           description: Congratulations to the team IEDC        
         - image: ./images/CSE-Placed-Students_2022.jpg
-        - image: ./images/cek(17-21)_Toppers_CS&IT.jpg
-        - image: ./images/CSE_Honours.jpg
-        - image: ./images/Civil_Honours_students.jpeg
-        - image: ./images/civil_Toppers.jpeg
-        - image: ./images/ECE_EI_Gratuates.jpg
-        - image: ./images/EEE_Toppers.jpeg
         - image: ./images/ECE_WT_Toppers.jpg
         #- image: ./images/Placed_students_2021.jpeg
         - image: ./images/Akshay_U_poster.jpg
@@ -29,7 +27,7 @@
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
-          description: NBA Accreditated upto 30-06-2022        
+          description: NBA Accreditated upto 2025        
     announcements:
         - B.Tech LET 2022 Free Online Crash Course & Mock Exam. Link for Registration [Please Click here...](https://tinyurl.com/letexam2022)
         - Revised schedule for NRI Admission [Click Here..](/docs/NRI_Revised_Schedule_2022.pdf)
