@@ -1,7 +1,7 @@
 ---
 title: Dr.Rajeesh J
 template: faculty
-hod: true
+hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./rajeesh-new.jpg
@@ -17,6 +17,7 @@ phd: Anna University
 specialization: Image Processing
 mobileNumber: 9442959056
 mailid: rajeesh26071969@gmail.com
+position: 1
 ---
 
 |           PUBLICATIONS           |     |
