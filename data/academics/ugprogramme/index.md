@@ -14,24 +14,24 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 
 <h5>Allocation of B Tech Degree Seats</h5>
 
-| Programs | Merit | Management | NRI | Total |
-|-----------------------------------------|-------|------------|-----|-------|
-| B tech in Civil Engineering | 42 | 14+1* | 3 | 60 |
-| B tech in Computer Science and Engineering | 63 | 21+2* | 4 | 90 |
-| B Tech in Electronics and Communication | 42 | 14+1* | 3 | 60 |
-| B Tech in Electrical and Electronics | 21 | 7+1* | 1 | 30 |
-| B Tech in Electrical and Computer Engineering | 21 | 7+1* | 1 | 30 |
-| Total | 189 | 68 | 12 | 270 |
+| Programs | Merit | Reserved for Co-operative sector | NRI | Total |
+|-----------------------------------------|-------|----------------------------------|-----|-------|
+| B tech in Civil Engineering |  54  |  3  |     3     |     60  |
+| B tech in Computer Science and Engineering |  81  | 4   |      5    |   90  |
+| B Tech in Electronics and Communication |  54   | 3  |  3  |  60  |
+| B Tech in Electrical and Electronics |  27  |  1  |  2  |  30  |
+| B Tech in Electrical and Computer Engineering |  27  |  1  |  2  |  30  |
+| Total |  243  |  12  |  15  |  270  |
 
 <h5>B Tech Degree Program – Structure of Tuition Fee</h5>
 
 | Quota | Tuition Fee [Per year] |
 |------------------|-----------------------------------------|
 | Merit seats | Rs. 35000/- [Thirty five thousand only] |
-| Management seats | Rs. 65000/- [Sixty five thousand only] |
+| Reserved for Co-operative sector | Rs. 65000/- [Sixty five thousand only] (Scholarship of  Rs.30000/- may be given to eligibile candidates) |
 | NRI seats | Rs. 100000/- [One lakh only] |
 
- Special fee (approximate) of Rs.25000/- should be paid before the beginning of classes for one time and approximately Rs.10000/- for the next years (including examination fee). Bus fee and hostel fee are applicable to be concerned.
+ Special fee (approximate) of Rs.18000/- should be paid before the beginning of classes for one time (**First Year only**) and approximately Rs.7000/- for the next years (including examination fee). Bus fee and hostel fee are applicable to be concerned.
 
  **Eligibility criteria for NRI Quota**
 
