@@ -13,7 +13,7 @@ The institution offers Post Graduate Degree Programs [2 year duration] under the
 | Programs | Merit | Sponsored | Total |
 |--------------------------------------------|-------|-----------|-------|
 | M Tech in Wireless Technology | 14 | 4 | 18 |
-| Total | 28 | 8 | 36 |
+
 
 <br>
 
