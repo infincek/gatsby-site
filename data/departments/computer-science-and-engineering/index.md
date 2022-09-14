@@ -7,9 +7,9 @@ banner: ./cs-new.jpg
 description: Computer science and Engineering Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 
-**Seats Available :**  90 (B.Tech) 18 (M.Tech)
+**Seats Available :**  90 (B.Tech) 
 
-**Accreditation Status :** B. Tech programme in Computer Science & Engineering is accredited by NBA till 30.06.2022."
+**Accreditation Status :** B. Tech programme in Computer Science & Engineering is accredited by NBA upto 2025."
 vision: "To become a center of excellence in Computer Science and Engineering imparting quality professional education to develop competent professionals with social values who are capable of life long learning."
 mission: "To impart quality technical education to students at undergraduate level through constant knowledge upgradation by maintaining pace with the latest sophisticated innovations , research & development and industry interaction in the field of Computer Science and Engineering with focus on lifelong learning for the well-being of the society."
 ---
@@ -22,9 +22,6 @@ mission: "To impart quality technical education to students at undergraduate lev
 - Seats Available : 90
 
 
-###### 2. Masters in Technology, Computer & Information Sciences.
-
-- Seats Available : 18
 
 
 <br>
