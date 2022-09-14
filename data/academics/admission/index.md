@@ -43,6 +43,10 @@ Application fee Rs 750/- for general candidates and Rs. 375 for SC/ST candidates
  <br>
  <br>
 -->
+
+<b>KEAM 2022 Option Facilitation Center from Sep 14 2022 onwards</b>
+1. Kidangoor Engineering College Campus Computer Center (9am-4pm). 
+2. 2. Kidangoor Grama Panchayath Auditorium (10am-5pm).
 <h1>B.Tech NRI Admission 2022 </h1>
 <br>
 
