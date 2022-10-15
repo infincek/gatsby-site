@@ -4,6 +4,20 @@ template: singlepage
 description: College of Engineering, Kidangoor (CEK), Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala.
 ---
 
+<h3>Application to Co-operative Reserved Quota Seats </h3>
+<br>
+
+**Applications are invited for admission to the B.Tech Management Quota Seats (2021-22) reserved for children of Co-operative Sector employees in CAPE Engineering Colleges.**<br>
+[Click here to download notification](Procedure_ApplicationForm_CapeEmployees_students.pdf)<br><br>
+[Click here to download Certificate Proforma](Proforma_Co-operative_Sector_Certificate.pdf)<br><br>
+<!--[Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
+-->
+<h3>B.Tech Lateral Entry Admission 2021 </h3>
+<br>
+**B.Tech Lateral Entry Entrance examination registration is open now. Apply at.** (https://admissions.dtekerala.gov.in)
+<br>
+<br>
+<b>Last date for applying 09.10.2021</b><br>
 <!--
 <h3>Application to Co-operative Reserved Quota Seats </h3>
 <br>
@@ -42,6 +56,8 @@ Last date for applying 09.10.2021<br>
 Application fee Rs 750/- for general candidates and Rs. 375 for SC/ST candidates.
  <br>
  <br>
+
+<h3>B.Tech NRI Admission 2021 </h3>
 -->
 
 <b>KEAM 2022 Option Facilitation Center from Sep 14 2022 onwards</b>
