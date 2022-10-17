@@ -6,18 +6,20 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 <h3>Application to Co-operative Reserved Quota Seats </h3>
 <br>
-
+<!--
 **Applications are invited for admission to the B.Tech Management Quota Seats (2021-22) reserved for children of Co-operative Sector employees in CAPE Engineering Colleges.**<br>
 [Click here to download notification](Procedure_ApplicationForm_CapeEmployees_students.pdf)<br><br>
 [Click here to download Certificate Proforma](Proforma_Co-operative_Sector_Certificate.pdf)<br><br>
 <!--[Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
 -->
+<!--
 <h3>B.Tech Lateral Entry Admission 2021 </h3>
 <br>
 **B.Tech Lateral Entry Entrance examination registration is open now. Apply at.** (https://admissions.dtekerala.gov.in)
 <br>
 <br>
 <b>Last date for applying 09.10.2021</b><br>
+-->
 <!--
 <h3>Application to Co-operative Reserved Quota Seats </h3>
 <br>
@@ -42,9 +44,10 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 <br>
 [Click here to download Notification](Procedure_ApplicationForm_CapeEmployees_students.pdf)<br><br>
 [Click here to download Certificate Proforma](Proforma_Co-operative_Sector_Certificate.pdf)<br><br>
-<!--[Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
 -->
-<!--
+<!--[Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
+
+
 <h3>B.Tech Lateral Entry Admission 2021 </h3>
 <br>
 B.Tech Lateral Entry Entrance examination registration is open now. Apply at
