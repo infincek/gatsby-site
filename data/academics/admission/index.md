@@ -21,29 +21,20 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 <b>Last date for applying 09.10.2021</b><br>
 -->
 <!--
-<h3>Application to Co-operative Reserved Quota Seats </h3>
-<br>
-
-# **Applications are invited for admission to the B.Tech Management Quota Seats (2020-21) reserved for children of Co-operative Sector employees in CAPE Engineering Colleges.**<br>
-# For more details and vaccancy position please call **Admission Help line Number:- 9188255056**<br><br>
-# [Click here to download application form](Applnform_Co-op-_Reserved_seat.pdf)<br><br>
-# [Click here to download Certificate Proforma](Proforma_of_certificate.pdf)<br><br>
-# [Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
-
-#<h3>B.Tech NRI Admission 2020 </h3>
-#<br>
-#**Applications are invited for admission to the B.Tech courses under NRI quota (2020-21) in the Engineering Colleges under CAPE.**<br>
-#Interested candidates can apply online through the link given below. For more details and vaccancy position please call **Admission Help line Number:- 9188255056**
-#<br><br>
-# [Click here to download Prospectus for NRI Admission](NRI_Prospectus_2020-2021.pdf)<br><br>
-# [Click here to download Vacancy Position and Fee Structure for NRI Admission](NRI_2020-21_Vacancy_Position_Fee_Structure.pdf)<br><br>
-# [Click here to apply Online Appication](https://forms.gle/peKwSHiG5HQyUp7o7)<br><br>
- 
+**Applications are invited for admission to the B.Tech Management Quota Seats (2020-21) reserved for children of Co-operative Sector employees in CAPE Engineering Colleges.**<br>
+For more details and vaccancy position please call **Admission Help line Number:- 9188255056**<br><br>
+[Click here to download application form](Applnform_Co-op-_Reserved_seat.pdf)<br><br>
+[Click here to download Certificate Proforma](Proforma_of_certificate.pdf)<br><br>
+[Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
 # **Eligibility criteria for NRI Quota**
 **Applications are invited for admission to the B.Tech Management Quota Seats (2021-22) reserved for children of Co-operative Sector employees in CAPE Engineering Colleges.**<br>
+-->
+<!--
 <br>
 [Click here to download Notification](Procedure_ApplicationForm_CapeEmployees_students.pdf)<br><br>
 [Click here to download Certificate Proforma](Proforma_Co-operative_Sector_Certificate.pdf)<br><br>
+-->
+<!--[Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
 -->
 <!--[Click here to Fees and other details](Details_Co-op._Reserved_seat.pdf)<br><br>
 
