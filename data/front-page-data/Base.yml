@@ -20,9 +20,9 @@
         - image: ./images/CSE-Placed-Students_2022.jpg
         - image: ./images/ECE_WT_Toppers.jpg
         #- image: ./images/Placed_students_2021.jpeg
-        - image: ./images/Akshay_U_poster.jpg
+        #- image: ./images/Akshay_U_poster.jpg
         - image: ./images/JinsuMani_Poster.jpg
-        - image: ./images/bonymol_CSE.jpg
+        #- image: ./images/bonymol_CSE.jpg
         - image: ./images/GouripriyaJ_vvdn.jpg
         - image: ./images/nikhilshaji_solarlabs.jpg        
         #- image: ./images/StudentsPlaced_2021.jpg        
