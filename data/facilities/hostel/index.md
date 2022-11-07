@@ -11,6 +11,6 @@ A number of hostels for both boys and girls, with good quality food and amenitie
 College provides hostel facility for 280 students in hostels located within 800 meters from the campus. Separate hostel facilities are available for boys and girls. Boys hostel can accommodate 135 students and girls hostel can accommodate 145 students. Tidy rooms and hygienic facilities make for an ideal stay away from home ambience. The mess facilities in the hostels are designed to meet hygiene standards. All these hostels are fully under the control of college PTA. College Ladies Hostel with an intake capacity of 100 students is under construction and expected to be completed by Dec 2019.
 
 College Office –  0482-2256056<br>
-PTA Secretary –  Rinson Varghese, Assistant Professor in ECE<br>
-Ladies Hostel Warden – Bushara M, Assistant Professor in ECE<br>
-Gents Hostel Warden – Saji Justus, Assistant Professor in ECE
+PTA Secretary –  Vivek Raju, HOD, Applied Science<br>
+Ladies Hostel Warden – Sonima M P, Assistant Professor in EEE<br>
+Gents Hostel Warden – Dr C B Ajayakumar, Assistant Professor in Mathematics.
