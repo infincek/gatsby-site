@@ -28,11 +28,11 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
   - Plastic Free Campaign
   - Set up Play Ground, Basket Ball court, Badminton Court .
 
-**PTA Executive Members (2018-19)**
+**PTA Executive Members (2021-22)**
 ****
 <br>
 <h6>President</h6>
-Dr. K.G. Viswanadhan<br>
+Dr. B V Mathew<br>
 Principal<br>
 College of Engineering Kidangoor
 <br>
@@ -42,16 +42,16 @@ College of Engineering Kidangoor
 <br>
 
 <h6>PTA Secretary</h6>
-Rinson Varghese<br>
+Vivek Raju<br>
 Assistant Professor<br>
-Department of Electronics and Communication Engineering<br>
+Department of Applied Sciences and Humanities<br>
 <br>
 
 ****
 <br>
 
 <h6>Vice President</h6>
-P S Yohanan<br>
+Dr. K B Bijumon<br>
 <br>
 
 ****
@@ -59,27 +59,37 @@ P S Yohanan<br>
 
 <h6>Executive Members</h6>
 <br>
-Mr. Sunish Kurian<br>
-Assistant Professor<br>
-Department of Applied Science & Humanities<br>
-<br>
-Mr. Joby James<br>
+Joby James<br>
 Assistant Professor<br>
 Electronics & Communication<br>
 <br>
-Dr. Indhu P Nair<br>
+Praseetha K<br>
 HOD<br>
 Electronics and Electrical Engineering<br>
 <br>
-Mr. Ojus Thomas Lee<br>
-HOD<br>
+Dr. Ojus Thomas Lee<br>
+Associate Professor<br>
 Computer Science & Engineering<br>
+<br>
+Abraham Kurian<br>
+K Babu <br>
+Rajasree <br>
+M N Pradeep <br>
+
 <br>
 
 ****
 <br>
 
-<h6>Mens Hostel Warden</h6>
-Mr. Saji Justus<br>
-Assistant professor<br>
-EI Department<br>
+**<h6>Mens Hostel Warden</h6>**
+Shihabudeen H <br>
+Assistant professor <br>
+Electronics and Communication Engineering <br>
+ 
+ ***
+ <br>
+ 
+ <h6>Ladies Hostel Warden</h6>
+Sonima M P  <br>
+Assistant professor <br>
+Electrical and Electronics Engineering<br>

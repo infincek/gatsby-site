@@ -1,7 +1,7 @@
 ---
 title: Dr.Ojus Thomas Lee
 template: faculty
-hod: true
+hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./ojus-photo.jpg
@@ -20,6 +20,7 @@ phd: National Institute of Technology Calicut
 specialization: Cloud Computing
 mobileNumber: 9446217384
 mailid: ojusthomaslee@gmail.com
+position: 1
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
