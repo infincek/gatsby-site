@@ -4,7 +4,8 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
-        - image: ./images/KILA_SKDC_Training_Programme.jpg 
+        - image: ./images/KILA_SKDC_Training_Programme.jpg
+        - image: ./images/cek-Kabaddi-Winner.jpg
         - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
         - image: ./images/ibs_placed_students.jpg
         - image: ./images/Placedstudents_2021-22.jpeg
