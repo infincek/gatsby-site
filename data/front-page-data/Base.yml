@@ -22,7 +22,7 @@
           title: IEDC 
           description: Congratulations to the team IEDC        
         - image: ./images/CSE-Placed-Students_2022.jpg              
-        #- image: ./images/CEK_Placement_TCS_2020.jpg
+        - image: ./images/CEK_Placement_TCS_2020.jpg
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
