@@ -4,8 +4,10 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
-        - image: ./images/KILA_SKDC_Training_Programme.jpg 
+        - image: ./images/KILA_SKDC_Training_Programme.jpg
+        - image: ./images/cek-Kabaddi-Winner.jpg
         - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
+        - image: ./images/winners.jpg
         - image: ./images/ibs_placed_students.jpg
         - image: ./images/6dTechno.jpg
         - image: ./images/QBURST.jpg
@@ -19,17 +21,20 @@
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
           description: Congratulations to the team IEDC        
-        - image: ./images/CSE-Placed-Students_2022.jpg
+        - image: ./images/CSE-Placed-Students_2022.jpg                
+        - image: ./images/CEK_Placement_TCS_2020.jpg
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
           description: NBA Accreditated upto 2025        
     announcements:
+        - Congratulations to Team Kabaddi women University champions 2022.
+        - Congratulations to C zone intercollegiate Badminton women championship Runner Up's 2022
         - Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
-        - B.Tech Spot admission will be conducted for the vacant seats from October 18th onwards.[Registration Link](https://tinyurl.com/kgrbtechspot2022).
+        #- B.Tech Spot admission will be conducted for the vacant seats from October 18th onwards.[Registration Link](https://tinyurl.com/kgrbtechspot2022).
         - Online Fee payment. [Click here](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
         - Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
-        - B.Tech Admission- Joining Schedule 1.[Day1_06-10-2022](/docs/Btech_Admission_Schedule-Day_01_06-10-2022.pdf) 2.[Day2_07-10-2022](/docs/Btech_Admission_Schedule-Day_2_07-10-2022.pdf)  3.[Day3_10-10-2022](/docs/Btech_Admission_Schedule-Day_3_10-10-2022.pdf)
+        #- B.Tech Admission- Joining Schedule 1.[Day1_06-10-2022](/docs/Btech_Admission_Schedule-Day_01_06-10-2022.pdf) 2.[Day2_07-10-2022](/docs/Btech_Admission_Schedule-Day_2_07-10-2022.pdf)  3.[Day3_10-10-2022](/docs/Btech_Admission_Schedule-Day_3_10-10-2022.pdf)
         #- Intreview for Adhoc Faculty - Notification [Click here](/docs/Adhoc_Interview_notice.pdf)
         #- KEAM 2022 Option Facilitation Center from Sep 14 2022 onwards 1. Kidangoor Engineering College Campus Computer Center (9am-4pm). 2. Kidangoor Grama Panchayath Auditorium (10am-5pm).
         - Computer Science Engineering and Civil Engineering branches are accredited by National Board of Accredetation till 2025.

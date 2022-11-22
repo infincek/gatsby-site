@@ -13,4 +13,7 @@ College provides hostel facility for 280 students in hostels located within 800 
 College Office –  0482-2256056 <br>
 PTA Secretary –  Vivek Raju, HOD, Applied Science <br>
 Ladies Hostel Warden – Sonima M P, Assistant Professor in EEE <br>
+College Office –  0482-2256056<br>
+PTA Secretary –  Vivek Raju, HOD, Applied Science<br>
+Ladies Hostel Warden – Sonima M P, Assistant Professor in EEE<br>
 Gents Hostel Warden – Dr C B Ajayakumar, Assistant Professor in Mathematics.
