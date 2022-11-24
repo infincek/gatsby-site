@@ -11,8 +11,8 @@
         - image: ./images/ibs_placed_students.jpg
         - image: ./images/6dTechno.jpg
         - image: ./images/Placedstudents_2021-22.jpeg
-        - image: ./images/LET_OnlineCrashCourse_2022.jpg
-        - image: ./images/NRI_Admission_phase-II.jpg
+        #- image: ./images/LET_OnlineCrashCourse_2022.jpg
+        #- image: ./images/NRI_Admission_phase-II.jpg
         - image: ./images/CE-1.jpg
         - image: ./images/CSE-4.jpg
         - image: ./images/EC-2.jpg
@@ -24,12 +24,12 @@
         #- image: ./images/ECE_WT_Toppers.jpg
         #- image: ./images/Placed_students_2021.jpeg
         #- image: ./images/Akshay_U_poster.jpg
-        - image: ./images/JinsuMani_Poster.jpg
+        #- image: ./images/JinsuMani_Poster.jpg
         #- image: ./images/bonymol_CSE.jpg
-        - image: ./images/GouripriyaJ_vvdn.jpg
-        - image: ./images/nikhilshaji_solarlabs.jpg        
+        #- image: ./images/GouripriyaJ_vvdn.jpg
+        #- image: ./images/nikhilshaji_solarlabs.jpg        
         #- image: ./images/StudentsPlaced_2021.jpg        
-        - image: ./images/CEK_Placement_TCS_2020.jpg
+        #- image: ./images/CEK_Placement_TCS_2020.jpg
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
