@@ -18,6 +18,6 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 | 8 | Sunil Kumar. E S | Clerical Assistant | 21 Yrs 1 Months | ![img](sunil.jpg)  |
 | 9 | Sabu P.L | Peon | 21 Yrs 01 Months | ![img](sabu.jpg)  |
 | 10 | Shajimon Joseph | Peon | 20 Yrs  | ![img](shajimon.jpg)  |
-| 11 | Rajesh Kumar K R | Driver Cum Attender | 9 Yrs | ![img](images.jpg)  |
+| 11 | Rajesh Kumar K R | Driver Cum Attender | 9 Yrs | ![img](Rajesh.jpg)  |
 | 12 | Sheela M J | Full Time Sweeper | 17 Yrs 10 Months | ![img](image.jpg)  |
 | 13 | Sindhu C S | Full Time Sweeper | 8 Yrs 7 Months | ![img](image.jpg)  |
