@@ -1,22 +1,22 @@
 ---
-title: Reshma Biju
+title: Reshma Dharman 
 template: faculty
 hod: false
-department: ce
-departmentFullName: Civil Engineering
-image: ./Reshma-Biju.jpg
+department: cse
+departmentFullName: Computer Science and Engineering
+image: ./sree.jpg 
 designation: Assistant Professor(Adhoc)
-dateOfJoining: 12/10/2022
-dateOfJoiningCape: 12/10/2022
+dateOfJoining: 16/11/2022
+# dateOfJoiningCape: 12/10/2022
 experienceTeaching: 1 Year
 experienceIndustry: 6 months
-ugAndInstitution: "Mangalam Collage of Engineering Ettumanoor, MG University."
-pgAndInstitution: "Mangalam Collage of Engineering Ettumanoor, MG University"
-subject: Structural Engineering and Construction Management
+ugAndInstitution: "Information Technology,CEK(KALLOOPPARA),CUSAT"
+pgAndInstitution: "Cyber Security and Information Security,CEK(KALLOOPPARA),CUSAT,2016"
+subject: Cyber Security and Information Security
 # phd: NIL
 # specialization: NIL
 # otherData: "NIL"
-mobileNumber: 8113091991
-mailid: reshmabiju375@gmail.com
+mobileNumber: 9526187173
+mailid: reshmadharman92@gmail.com
 position: 11
 ---
