@@ -8,10 +8,10 @@ image: ./Reshma-Biju.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 12/10/2022
 dateOfJoiningCape: 12/10/2022
-experienceTeaching: 1 years
+experienceTeaching: 1 Year
 experienceIndustry: 6 months
-ugAndInstitution: "Mangalam Collage of Engineering Ettumanoor, MG University ."
-pgAndInstitution: "Mangalam Collage of Engineering Ettumanoor, MG University, 2016"
+ugAndInstitution: "Mangalam Collage of Engineering Ettumanoor, MG University."
+pgAndInstitution: "Mangalam Collage of Engineering Ettumanoor, MG University"
 subject: Structural Engineering and Construction Management
 # phd: NIL
 # specialization: NIL
