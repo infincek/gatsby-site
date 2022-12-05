@@ -1,21 +1,21 @@
 ---
-title: Beema K S
+title: Chitra Merin Varghese
 template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./beemak.s.jpg
+image: ./ChitraMerinVarghese.jpg
 designation: Assistant Professor (Adhoc)
-dateOfJoining: 02/11/2022
-experienceTeaching: 4 Year
+dateOfJoining: 12/10/2022
+experienceTeaching: 2 Year
 experienceIndustry: NIL
-ugAndInstitution: "Ilahia College of Engineering and Technology, Muvattupuzha, MG University"
-pgAndInstitution: "Mangalam college of engineering. Ettumanoor, MG University, 2016"
-subject: Computer Science and Engineering
+ugAndInstitution: "Information Technology, College of Engineering Kidangoor, CUSAT"
+pgAndInstitution: "College of Engineering Poonjar, KTU, 2018"
+subject: Information Technology
 # phd: NIL
 # specialization:  NIL
 # otherData: "NIL"
-mobileNumber: 9947091305    
-mailid: its.me.beema@gmail.com
+mobileNumber: 8129289078    
+mailid: chitramv299@gmail.com
 position: 15
 ---
