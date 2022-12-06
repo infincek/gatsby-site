@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./beemak.s.jpg
+image: ./beema-k-s.jpg
 designation: Assistant Professor (Adhoc)
 dateOfJoining: 02/11/2022
 experienceTeaching: 4 Year
