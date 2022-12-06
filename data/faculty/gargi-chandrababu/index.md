@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./GargiChandrababu.jpg
+image: ./Gargi_Chandrababu.jpg
 designation: Assistant Professor (Adhoc)
 dateOfJoining: 17/10/2022
 experienceTeaching: 6 months
