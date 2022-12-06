@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./GayathriMohan.jpg
+image: ./Gayathri_Mohan_photo.jpg
 designation: Assistant Professor (Adhoc)
 dateOfJoining: 26/09/2022
 experienceTeaching: 56 months
