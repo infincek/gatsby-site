@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science & Engineering
-image: ./Rakhi-Ramachandran-nair-1.jpg 
+image: ./Rakhi-Ramachandran.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 08/02/2021
 dateOfJoiningCape: 08/02/2021 
@@ -17,5 +17,5 @@ subject: Computer and Information Science
 # specialization: NIL
 mobileNumber: 9562997153
 mailid: rakhinairtvla@gmail.com
-position: 15
+position: 9
 ---
