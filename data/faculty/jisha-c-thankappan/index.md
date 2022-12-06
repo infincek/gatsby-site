@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science & Engineering
-image: ./Jisha_Rajesh.jpg
+image: ./Jisha_Rajesh_photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 07/10/2022
 dateOfJoiningCape: 06/07/2017
