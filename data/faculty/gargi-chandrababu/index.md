@@ -1,5 +1,5 @@
 ---
-title: Arya T J
+title: Gargi Chandrababu
 template: faculty
 hod: false
 department: cse
