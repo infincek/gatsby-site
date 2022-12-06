@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./sree.jpg 
+image: ./reshma_darman.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 16/11/2022
 # dateOfJoiningCape: 12/10/2022
