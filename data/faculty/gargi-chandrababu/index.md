@@ -1,21 +1,21 @@
 ---
-title: Arya T J
+title: Gargi Chandrababu
 template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./arya-cs.jpg
+image: ./Gargi_Chandrababu.jpg
 designation: Assistant Professor (Adhoc)
-dateOfJoining: 06/08/2019
-experienceTeaching: 10 months
+dateOfJoining: 17/10/2022
+experienceTeaching: 6 months
 experienceIndustry: NIL
 ugAndInstitution: "College of Engineering Kidangoor, CUSAT"
-pgAndInstitution: "Rajiv Gandhi Institute of Science and Technology"
-subject: Computer Science and Engineering
+pgAndInstitution: "College of Engineering Kidangoor, KTU,2022"
+subject: Computer and Information Science.
 # phd: NIL
 # specialization:  NIL
 # otherData: "NIL"
-mobileNumber: 9495743941    
-mailid: aryatjg7@gmail.com
+mobileNumber: 9633750719    
+mailid: gargichandrababu@gmail.com
 position: 14
 ---
