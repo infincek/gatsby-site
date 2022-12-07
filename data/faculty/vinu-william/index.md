@@ -9,7 +9,7 @@ designation: Assistant Professor (Adhoc)
 dateOfJoining: 12/10/2022
 experienceTeaching: 56 months
 experienceIndustry: NIL
-#ugAndInstitution: "College of Engineering Kidangoor, CUSAT"
+# ugAndInstitution: ""
 pgAndInstitution: "College of Engineering Kidangoor, KTU"
 subject: Computer and Information Science.
 # phd: NIL
