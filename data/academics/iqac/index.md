@@ -10,7 +10,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ##### **Chairperson:** Dr. B V Mathew, Principal
 <br>
 
-##### **Convener:** Dr. Rajeesh J,  Professor/ECE
+##### **Convener:** Prof. Jyothis Joseph,  Ast. Professor & HOD /CSE
  
 <br>
 
@@ -19,19 +19,17 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 | Name | Designation |
 |:--------------------:|:---------------------------:|
-| Dr. K S Angel Viji | Asso. Professor, CSE |
-| Prof. Linda Sebastian | Asst. Professor, CSE |
-| Prof. Priya M | Asst. Professor, ECE |
-| Prof. Silpa S Prasad | Asst. Professor, ECE |
-| Prof. Reshma S | Asst. Professor, EEE |
-| Prof. Mary James Kappan | Asst. Professor, CE |
-| Prof. SreeLakshmi S | Asst. Professor, Applied Science | 
+| Pro. Divya S Nair | Asst. Professor & HOD, Civil |
+| Prof. Praseetha K | Asst. Professor & HOD, EEE |
+| Prof. Syama R | Asst. Professor & HOD, ECE |
+| Prof. Vivek Raju | Asst. Professor & HOD, Applied Science |
+| Bili K Nair | Junior Superintendent, CEK | 
 | Bobby K Issac | Senior AO, CAPE |
-| G. Vishwanadhan Nair | Chairman, Co-oprative Bank |
-| Mr. P.N Sasidharan Nair | Senior Project Engineer, KIFBI |
-| Mr. Alen Bijo  | Student, S6 CE |
-| Dr. Gilesh M P | IEEE | Professor, GCE Wayanad |
-| Mr. Joby Korah  | Alumni |
+| G. Vishwanadhan Nair | President, Co-oprative Bank |
+# | Mr. P.N Sasidharan Nair | Senior Project Engineer, KIFBI |
+| Chairman  | College Union |
+# | Dr. Gilesh M P | IEEE | Professor, GCE Wayanad |
+# | Mr. Joby Korah  | Alumni |
 
 
 #### Functions
