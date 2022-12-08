@@ -12,6 +12,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 | Name | Designation |
 |:--------------------:|:---------------------------:|
+| Reshmi K Raj | Asst. Professor, EEE |
 | Remisha Remanan | Instructor, ECE |
 | Pratheesh P | Trade Instructor, Mechanical |
 | Sudheesh K | Trade Instructor, ECE |
