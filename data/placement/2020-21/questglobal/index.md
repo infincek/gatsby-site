@@ -6,7 +6,7 @@ template: placement
 selections:
     - name: AMAL MATHEW
       department: CSE
-      image: ./AMAL-MATHEW.jpg
+      image: ./AMAL-MATHEW-cse.jpg
     - name: BINCY ELIAS
       department: CSE
       image: ./BINCY_ELIAS.jpg
@@ -21,8 +21,9 @@ selections:
       image: ./KRISHNA_PRIYA.jpg
     - name: N G GOPIKAKRISHNA
       department: CSE
-      image: ./N_G_GOPIKAKRISHNA.jpg
+      image: ./N_G_GOPIKAKRISHNA-cse.jpg
     - name: Rajalakshmi S
       department: CSE
-      image: ./Rajalakshmi_S.jpg
+      image: ./Rajalakshmi_S-cse.jpg
+      
 ---
