@@ -13,8 +13,8 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 | Name | Designation |
 |:--------------------:|:---------------------------:|
 | Sonima M P| Assistant Professor, EEE |
+| Asha K| Assistant Professor, ECE |
 | Anusha P A | Instructor in ME, Dep. of Applied Science and Humanities |
-| Aneesh K A | Instructor GradeII, EEE |
 | Student Representatives |
 
 #### Functions
