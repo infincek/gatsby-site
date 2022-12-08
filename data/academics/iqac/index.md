@@ -26,10 +26,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 | Bili K Nair | Junior Superintendent, CEK | 
 | Bobby K Issac | Senior AO, CAPE |
 | G. Vishwanadhan Nair | President, Co-oprative Bank |
-# | Mr. P.N Sasidharan Nair | Senior Project Engineer, KIFBI |
 | Chairman  | College Union |
-# | Dr. Gilesh M P | IEEE | Professor, GCE Wayanad |
-# | Mr. Joby Korah  | Alumni |
 
 
 #### Functions
