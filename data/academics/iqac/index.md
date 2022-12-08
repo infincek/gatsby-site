@@ -19,7 +19,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 | Name | Designation |
 |:--------------------:|:---------------------------:|
-| Pro. Divya S Nair | Asst. Professor & HOD, Civil |
+| Prof. Divya S Nair | Asst. Professor & HOD, Civil |
 | Prof. Praseetha K | Asst. Professor & HOD, EEE |
 | Prof. Syama R | Asst. Professor & HOD, ECE |
 | Prof. Vivek Raju | Asst. Professor & HOD, Applied Science |
