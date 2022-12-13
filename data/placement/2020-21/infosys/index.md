@@ -6,17 +6,17 @@ template: placement
 selections:
     - name: Christy Jose
       department: CS
-      image: ./Christy-Jose.jpg
+      image: ./Christy-Jose-cse.jpg
     - name: Nair Sanil Ramachandran
       department: CS
-      image: ./Nair-Sanil-Ramachandran.jpg
+      image: ./Nair-Sanil-Ramachandran-cse.jpg
     - name: SHARON SHIBU
       department: ECE
-      image: ./SHARON-SHIBU.jpg
+      image: ./SHARON-SHIBU-ece.jpg
     - name: RISHI RAJ
       department: EI
-      image: ./RISHI-RAJ.jpg
+      image: ./RISHI-RAJ-ei.jpg
     - name: Vinayak Chandran
       department: IT
-      image: ./Vinayak-Chandran.jpg
+      image: ./Vinayak-Chandran-it.jpg
 ---
