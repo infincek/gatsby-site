@@ -24,6 +24,5 @@ selections:
       image: ./N_G_GOPIKAKRISHNA-cse.jpg
     - name: Rajalakshmi S
       department: CSE
-      image: ./Rajalakshmi_S-cse.jpg
-      
+      image: ./Rajalakshmi_S-cse.jpg      
 ---
