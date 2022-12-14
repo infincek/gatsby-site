@@ -1,7 +1,7 @@
 ---
 title: Infosys 
 description: A global leader in next-generation digital services and consulting. 
-logo: ./infosys-1.jpg
+logo: ./infosys.jpg
 template: placement
 selections:
     - name: Christy Jose
