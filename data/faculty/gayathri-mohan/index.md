@@ -9,8 +9,8 @@ designation: Assistant Professor (Adhoc)
 dateOfJoining: 26/09/2022
 experienceTeaching: 56 months
 experienceIndustry: NIL
-ugAndInstitution: "College of Engineering Kidangoor, CUSAT"
-pgAndInstitution: "Rajiv Gandhi Institute of Science and Technology"
+ugAndInstitution: "Mangalam College of Engineering, Mahatma Gandhi University"
+pgAndInstitution: "Mangalam College of Engineering, Mahatma Gandhi University"
 subject: Computer Science and Engineering
 # phd: NIL
 # specialization:  NIL
