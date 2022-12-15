@@ -4,8 +4,8 @@ template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./shiney-thankachan.jpg
-designation: Assistant Professor(Regular)
+image: ./anju.skumar307@gmail.com
+designation: Assistant Professor(Adhoc)
 dateOfJoining: 14/11/2022
 # dateOfJoiningCape: 01/07/2003
 experienceTeaching: 06 Months
@@ -18,3 +18,4 @@ subject: TELECOMMUNICATION ENGINEERING
 mobileNumber: 6235177307
 mailid: anju.skumar307@gmail.com
 position: 13
+---
