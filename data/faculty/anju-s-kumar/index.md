@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./anju.skumar307@gmail.com
+image: ./Anju-S-Kumar.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 14/11/2022
 # dateOfJoiningCape: 01/07/2003
