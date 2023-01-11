@@ -8,7 +8,7 @@ intro: "The Civil Engineering Department was established in 2010, and now has be
 
 **Seat Available :**  60 + 3 *
 
-**Accreditation Status :** B. Tech programme in Civil Engineering is accredited by NBA till 30.06.2022."
+**Accreditation Status :** B. Tech programme in Civil Engineering is accredited by NBA upto 2025."
 vision: "To be a leading centre of eminence, providing competent civil engineering professionals, with state of the art knowledge of the industry and commitment to sustainable development of the society."
 mission: "To provide quality education to students at undergraduate level through constant knowledge upgradation and to strive to maintain pace with the latest and most sophisticated innovations, research and development in the field of civil engineering within the ambit of sustainable development."
 ---
@@ -36,8 +36,8 @@ mission: "To provide quality education to students at undergraduate level throug
 - **Life-long learning:** Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
 
 ###Program Specific Outcomes (PSO)
-- **PSO1**-Ability to carry out civil engineering planning and design independently.
-- **PSO2**-Ability to evaluate the project costs including that of the environmental impacts.
+- **PSO1**-Ability to carry out planning, analysis, design and cost estimate and to execute all types of civil engineering projects.
+- **PSO2**-Requisite understanding on impact of civil engineering projects and possesses in a global, economic, envirionmental and societal context.
 - **PSO3**-Ability to use various software and tools required for professional civil engineering practice.
 
 ###Lab Details

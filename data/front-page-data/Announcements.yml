@@ -1,9 +1,70 @@
+
 - data: |-
-    Tender Extension Notice for the Supply of DSLR Camera. For more details [Click Here](/docs/Quotation_Extensesion_Notice.pdf)
-    
-    [For Quotation Notice Please Click Here...](/tenders).            
+   Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
+   
+   All eligible candidates (including the online applicants) are to be present in person with required certificates.
+   
   new: true
-  date: 2021-04-05
+  date: 2022-10-19
+- data: |-
+   **B.Tech Spot Admission**
+   
+   Spot admission will be conducted for the vacant seats from October 18th onwards. 
+   
+   [Registration link](https://tinyurl.com/kgrbtechspot2022)
+   
+  new: true
+  date: 2022-10-15
+- data: |-
+   Competitive quotations are invited from qualified firms for the supply of **Sanitary Napkin Vending Machine and Incinerator (Sanitary Napkin Burning Machine)**
+   
+   For more details [Click Here](/tenders)    
+  new: true
+  date: 2022-10-15
+- data: |-
+   **B.Tech Admission- Joining Schedule** 
+   
+   [Day1_06-10-2022](/docs/Btech_Admission_Schedule-Day_01_06-10-2022.pdf) 
+   
+   [Day2_07-10-2022](/docs/Btech_Admission_Schedule-Day_2_07-10-2022.pdf) 
+   
+   [Day3_10-10-2022](/docs/Btech_Admission_Schedule-Day_3_10-10-2022.pdf)   
+  date: 2022-10-01
+  new: true  
+- data: |-
+    [B.Tech NRI Admission 2022](/academics/admission)
+    
+    [Rank List of NRI Admission Phase-I is published](/docs/RankList_NRI_Admission2022.pdf)
+  new: true
+  date: 2022-07-27
+- data: |-
+    - Intreview for Adhoc Faculty - Notification [Click here](/docs/Adhoc_Interview_notice.pdf)  
+  new: true
+  date: 2022-09-24
+- data: |-
+    Competitive quotations are invited from qualified firms for the supply of **Electronic Appliences**. For more details [Click Here](/tenders)  
+  new: true
+  date: 2022-07-30
+- data: |-
+    Quotations are invited from qualified firms for the supply of **Utensils-Aluminium**. For more details [Click Here](/tenders)    
+  new: true
+  date: 2022-07-30
+- data: |-
+    Quotations are invited from qualified firms for the supply of **Utensils-Steel**. For more details [Click Here](/tenders)
+  new: true
+  date: 2022-07-30
+- data: |-
+    Competitive quotations are invited from qualified firms for the supply of **2 numbers of Thermal Imaging Camere**. For more details [Click Here](/tenders).
+  new: true
+  date: 2022-07-11
+- data: |-
+    Competitive quotations are invited from qualified firms for the supply of **Metacentric Height Apparatus**. For more details [Click Here](/tenders).
+  new: true
+  date: 2022-06-25
+- data: |-
+    Competitive quotations are invited from qualified firms for the purchase of 3 steel almirah. For more details [Click Here](/tenders).
+  new: true
+  date: 2022-06-23
 - data: |-
    Quotationa are invited for **Current Transformer Assembly -11KV- cast resin -5/5 A, Burden 10VA, accuracy class 0.2 S.**
    
@@ -23,17 +84,17 @@
 - data: |-
     Tender Extension Notice for **the Supply and installation of Off Grid inverter and Battery system to be connected with the existing 3 kW Solar panels.** For more details [Click Here](/tenders).
   new: true
-  date: 2021-12-20
+  date: 2022-06-22
 - data: |-
     Invites Sealed quotations from qualified firms for the repair and maintenance of Desktop Accessories. For more details [Click Here](/tenders).
     
     Invites Sealed quotations from qualified firms for the supply of Electric Meters. For more details [Click Here](/tenders).                
-  new: true
+  new: 
   date: 2021-12-01
 - data: |-
     Sealed Tenders are invited for the Supply and installation of **Off Grid inverter and Battery system to be connected with the existing 3 kW Solar panels.** For more details [Click Here](/tenders).
             
-  new: true
+  new: 
   date: 2021-10-27
 - data: |-
     [Application to Co-operative Reserved  Quota Seats](/academics/admission)
@@ -43,7 +104,7 @@
     [B.Tech NRI Admission 2021](/academics/admission)
                
     How to pay NRI application fees by SBI Collect [Click Here](/docs/nri_sbi_fee_collect.pdf)
-  new: true
+  new: 
   date: 2021-10-05
 - data: |-
     Date to be extended upto 27-10-2011
@@ -58,21 +119,10 @@
   new: true
   date: 2021-08-17
 - data: |-
-   **KTU B.Tech S2(R) Examination.** [Seating Arrangements_27.10.2021_FN](/docs/KTUB.Tech_S2_Seating_27.10.2021_FN.pdf)
-   
-   **KTU B.Tech S2(R) Examination.** [Seating Arrangements_27.10.2021_AN](/docs/KTUB.Tech_S2_Seating_27.10.2021_AN.pdf)
-   
-  new: true
-  date: 2021-10-26
-- data: |-
    **Quotations are invited for the supply of projectors.** [For more details Please Click Here..](/docs/quotation_notice_projector.pdf)
       
   new: true
   date: 2021-08-12
-- data: |-
-   **S1 & S3 KTU Examination** [War Room Structure](/docs/War_Room_Structure.pdf)     
-  new: true
-  date: 2021-07-08
 - data: |-
     **FDP ON ROLE OF POWER ELECTRONICS IN RENEWABLE ENERGY SYSTEMS** on 5TH-9TH July 2021, 2:00 PM to 5:00 PM organized by **Department of Electrical & Electronics Engineering**
     

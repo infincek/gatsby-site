@@ -4,42 +4,70 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
-        - image: ./images/CSE-Placed-Students_2022.jpg        
-        - image: ./images/cek(17-21)_Toppers_CS&IT.jpg
-        - image: ./images/CSE_Honours.jpg
-        - image: ./images/Civil_Honours_students.jpeg
-        - image: ./images/civil_Toppers.jpeg
-        - image: ./images/ECE_EI_Gratuates.jpg
-        - image: ./images/EEE_Toppers.jpeg
-        - image: ./images/ECE_WT_Toppers.jpg
-        - image: ./images/Placed_students_2021.jpeg
-        - image: ./images/Akshay_U_poster.jpg
-        - image: ./images/JinsuMani_Poster.jpg
-        - image: ./images/bonymol_CSE.jpg
-        - image: ./images/GouripriyaJ_vvdn.jpg
-        - image: ./images/nikhilshaji_solarlabs.jpg
-        - image: ./images/Vishnu_poster_new.jpg
-        - image: ./images/PlacedStudents_Infosys.jpg
-        - image: ./images/StudentsPlaced_2021.jpg
-        - image: ./images/cek_Placed_USTGlobal.jpg
-        - image: ./images/CEK_Placement_TCS_2020.jpg
-          title:
-          description:
+        - image: ./images/IEEE-EmergingStudent-award.jpg
+        - image: ./images/KhoKho_C-zone-runnerup.jpg
+        - image: ./images/winners.jpg
+        - image: ./images/cek-Kabaddi-Winner.jpg
+        - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
+        - image: ./images/KILA_SKDC_Training_Programme.jpg
+        - image: ./images/ibs_placed_students.jpg
+        - image: ./images/tata-elxsi-2.jpg
+        - image: ./images/tata-elxsi1.jpg
+        - image: ./images/6dTechno.jpg
+        - image: ./images/acsia.jpg
+        - image: ./images/QBURST.jpg
+        - image: ./images/TCS.jpg
+        #- image: ./images/Placedstudents_2021-22.jpeg
+        #- image: ./images/LET_OnlineCrashCourse_2022.jpg
+        #- image: ./images/NRI_Admission_phase-II.jpg
+        - image: ./images/CE-1.jpg
+        - image: ./images/CSE-4.jpg
+        - image: ./images/EC-2.jpg
+        - image: ./images/EEE-3.jpg
+        - image: ./images/IEDC-team-22.jpg
+          title: IEDC 
+          description: Congratulations to the team IEDC        
+        - image: ./images/CSE-Placed-Students_2022.jpg
+        #- image: ./images/ECE_WT_Toppers.jpg
+        #- image: ./images/Placed_students_2021.jpeg
+        #- image: ./images/Akshay_U_poster.jpg
+        #- image: ./images/JinsuMani_Poster.jpg
+        #- image: ./images/bonymol_CSE.jpg
+        #- image: ./images/GouripriyaJ_vvdn.jpg
+        #- image: ./images/nikhilshaji_solarlabs.jpg        
+        #- image: ./images/StudentsPlaced_2021.jpg        
+        #- image: ./images/CEK_Placement_TCS_2020.jpg
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
-          description: NBA Accreditated upto 30-06-2022
-        - image: ./images/M.Tech_Placement.jpg
-          title: 
-          description: 
+          description: NBA Accreditated upto 2025        
     announcements:
-        - Adhoc Faculty - Notification [Click here](/docs/adhoc_notification.jpg)...[Apply Online](https://forms.gle/7AeYb9om2dcUBcAC7)
+        - Congratulations to Team Kabaddi women University champions 2022.
+        - Congratulations to C zone intercollegiate Badminton women championship Runner Up's 2022
+        - Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
+        #- B.Tech Spot admission will be conducted for the vacant seats from October 18th onwards.[Registration Link](https://tinyurl.com/kgrbtechspot2022).
+        - Online Fee payment. [Click here](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
         - Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
-        - FDP 0n Exploring Image Processing and Computer Vision Using Python - March 01-05, 2021. [Click here for Brochure](/docs/Brochure_Imageprocessing_fdp.pdf)
-        - Academic activities during the COVID-19 season.  [click here](/docs/Online_Activities.pdf)        
-        - College of Engineering Kidangoor proudly announces the achievement of Outcome Based Accreditation by our B.Tech Computer Science & Engineering and Civil Engineering Programmes through the assessment process of NBA Accreditation, NewDelhi.
-        - Congratulations to C zone intercollegiate badminton women championship Runner Up's 2019-20
-        - Congratulations to Abhijith Kannan, S3 EEE for becoming a Microsoft Student Partner
+        #- B.Tech Admission- Joining Schedule 1.[Day1_06-10-2022](/docs/Btech_Admission_Schedule-Day_01_06-10-2022.pdf) 2.[Day2_07-10-2022](/docs/Btech_Admission_Schedule-Day_2_07-10-2022.pdf)  3.[Day3_10-10-2022](/docs/Btech_Admission_Schedule-Day_3_10-10-2022.pdf)
+        #- Intreview for Adhoc Faculty - Notification [Click here](/docs/Adhoc_Interview_notice.pdf)
+        #- KEAM 2022 Option Facilitation Center from Sep 14 2022 onwards 1. Kidangoor Engineering College Campus Computer Center (9am-4pm). 2. Kidangoor Grama Panchayath Auditorium (10am-5pm).
+        - Computer Science Engineering and Civil Engineering branches are accredited by National Board of Accredetation till 2025.
+        #- B.Tech LET 2022 Free Online Crash Course & Mock Exam. Link for Registration [Please Click here...](https://tinyurl.com/letexam2022)
+        #- Revised schedule for NRI Admission [Click Here..](/docs/NRI_Revised_Schedule_2022.pdf)
+        #- NRI Admission Phase-II is started. Last date for submit the application is 5th August 2022.
+        #- Rank list of NRI Admission Phase-I Published. [Click Here..](/docs/RankList_NRI_Admission2022.pdf)
+        #- Adhoc Faculty - Notification [Click here](/docs/adhoc_notification.jpg)...[Apply Online](https://forms.gle/7AeYb9om2dcUBcAC7)
+        #- Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
+        #- FDP 0n Exploring Image Processing and Computer Vision Using Python - March 01-05, 2021. [Click here for Brochure](/docs/Brochure_Imageprocessing_fdp.pdf)
+        #- Academic activities during the COVID-19 season.  [click here](/docs/Online_Activities.pdf)        
+        #- Congratulations to C zone intercollegiate badminton women championship Runner Up's 2019-20
+        #- Congratulations to Abhijith Kannan, S3 EEE for becoming a Microsoft Student Partner
+        #- Revised schedule for NRI Admission [Click Here..](/docs/NRI_Revised_Schedule_2022.pdf)
+        #- Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
+        #- Rank list of NRI Admission Phase-I Published. [Click Here..](/docs/NRI_RANKLIST.pdf)
+        #- Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)        
+        #- Rank list of NRI Admission Phase-I Published. [Click Here..](/docs/RankList_NRI_Admission2022.pdf)
+        #- Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
     welcomeMessage: |-
         **College of Engineering, Kidangoor (CEK)**, Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala. Now the institution is glistening with outstanding records in both academic and extracurricular fields backed by excellent faculty and full-fledged facilities.
     mission: |-
@@ -67,7 +95,7 @@
     quickLinks:
         col1:
             - name: Moodle@cek
-              url: http://moodle.cekgr.co.in
+              url: https://cekgr.in
             - name: Institution Documents
               url: /quicklinks/instdoc
             - name: STUDENT CORNER
