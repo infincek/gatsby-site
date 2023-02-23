@@ -1,7 +1,7 @@
 ---
 title: Soumya K G
 template: faculty
-hod: true
+hod: false
 department: eee
 departmentFullName: Electrical and Electronics Engineering
 image: ./SOUMYA-K.G.jpg
