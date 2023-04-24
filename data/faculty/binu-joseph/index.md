@@ -4,10 +4,10 @@ template: faculty
 hod: false
 teaching: false
 qualification: ITI, Diploma
-department: ei
-departmentFullName: Applied Electronics & Instrumentation
+department: ece
+departmentFullName: Electronics & Communication
 image: ./binu-photo.jpg
-designation: Trademan (contract)
+designation: Trademan
 dateOfJoining: 06/07/2008
 dateOfJoiningCape: 06/07/2008
 mobileNumber: 9446125893
