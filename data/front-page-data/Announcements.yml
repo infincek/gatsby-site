@@ -10,12 +10,6 @@
   new: true
   date: 2023-02-04
 - data: |-
-    The deadline for submitting  Quotations for College Canteen has been extended upto 15th February 2023. 
-    
-    [For more details Please Click here](/docs/Quotation_Notice_Canteen.pdf)   
-  new: true
-  date: 2023-02-07
-- data: |-
    Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
    
    All eligible candidates (including the online applicants) are to be present in person with required certificates.
@@ -53,11 +47,7 @@
     [Rank List of NRI Admission Phase-I is published](/docs/RankList_NRI_Admission2022.pdf)
   new: true
   date: 2022-07-27
-- data: |-
-    - Intreview for Adhoc Faculty - Notification [Click here](/docs/Adhoc_Interview_notice.pdf)  
-  new: true
-  date: 2022-09-24
-- data: |-
+  - data: |-
     Competitive quotations are invited from qualified firms for the supply of **Electronic Appliences**. For more details [Click Here](/tenders)  
   new: true
   date: 2022-07-30
