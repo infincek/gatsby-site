@@ -29,10 +29,10 @@
         #- image: ./images/Placedstudents_2021-22.jpeg
         #- image: ./images/LET_OnlineCrashCourse_2022.jpg
         #- image: ./images/NRI_Admission_phase-II.jpg
-        - image: ./images/CE-1.jpg
-        - image: ./images/CSE-4.jpg
-        - image: ./images/EC-2.jpg
-        - image: ./images/EEE-3.jpg
+        #- image: ./images/CE-1.jpg
+        #- image: ./images/CSE-4.jpg
+        #- image: ./images/EC-2.jpg
+        #- image: ./images/EEE-3.jpg
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
           description: Congratulations to the team IEDC        
@@ -56,7 +56,7 @@
         - Congratulations to Ashwin Jayadevan (S6 CSE) for securing Second prize in Discuss throw for the University Inter Collegiate Athletic meet 2022-23.
         - Congratulations to Team Kabaddi women University champions 2022.
         - Congratulations to C zone intercollegiate Badminton women championship Runner Up's 2022
-        - Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
+        #- Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
         #- B.Tech Spot admission will be conducted for the vacant seats from October 18th onwards.[Registration Link](https://tinyurl.com/kgrbtechspot2022).
         - Online Fee payment. [Click here](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
         - Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)
