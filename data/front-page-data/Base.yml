@@ -4,6 +4,7 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
+        - image: ./images/NSS-_NIC-2023.jpg
         - image: ./images/KEAM_mocktest-2023-1.jpg
           title: KEAM Mock test
           description: Register Now[bit.ly/keam23kgr](http://bit.ly/keam23kgr)
@@ -32,10 +33,10 @@
         #- image: ./images/Placedstudents_2021-22.jpeg
         #- image: ./images/LET_OnlineCrashCourse_2022.jpg
         #- image: ./images/NRI_Admission_phase-II.jpg
-        - image: ./images/CE-1.jpg
-        - image: ./images/CSE-4.jpg
-        - image: ./images/EC-2.jpg
-        - image: ./images/EEE-3.jpg
+        #- image: ./images/CE-1.jpg
+        #- image: ./images/CSE-4.jpg
+        #- image: ./images/EC-2.jpg
+        #- image: ./images/EEE-3.jpg
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
           description: Congratulations to the team IEDC        
