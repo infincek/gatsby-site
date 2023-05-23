@@ -4,12 +4,25 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
+        - image: ./images/NSS-_NIC-2023.jpg
+        - image: ./images/KEAM_mocktest-2023-1.jpg
+          title: KEAM Mock test
+          description: Register Now[bit.ly/keam23kgr](http://bit.ly/keam23kgr)
+        - image: ./images/CAPE-Techno-Arts-fest.jpg
+          title: SAAGA | SAASTRA
+          description: CAPE Techno - Arts fest 2023.[https://capefest.in/](https://capefest.in/)
+        - image: ./images/CEK-lumiere-2023.jpg
+          title: LUMIERE'23
+          description: National Level Techno-Cultural Fest.[https://ceklumiere.com](https://ceklumiere.com)
+        - image: ./images/Project-expo-2023.jpg
         - image: ./images/IEEE-EmergingStudent-award.jpg
         - image: ./images/KhoKho_C-zone-runnerup.jpg
         - image: ./images/winners.jpg
+        - image: ./images/NSS-cek.jpg
+        - image: ./images/ieee-winners.jpg
         - image: ./images/cek-Kabaddi-Winner.jpg
-        - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
-        - image: ./images/KILA_SKDC_Training_Programme.jpg
+        #- image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
+        #- image: ./images/KILA_SKDC_Training_Programme.jpg
         - image: ./images/ibs_placed_students.jpg
         - image: ./images/tata-elxsi-2.jpg
         - image: ./images/tata-elxsi1.jpg
@@ -20,10 +33,10 @@
         #- image: ./images/Placedstudents_2021-22.jpeg
         #- image: ./images/LET_OnlineCrashCourse_2022.jpg
         #- image: ./images/NRI_Admission_phase-II.jpg
-        - image: ./images/CE-1.jpg
-        - image: ./images/CSE-4.jpg
-        - image: ./images/EC-2.jpg
-        - image: ./images/EEE-3.jpg
+        #- image: ./images/CE-1.jpg
+        #- image: ./images/CSE-4.jpg
+        #- image: ./images/EC-2.jpg
+        #- image: ./images/EEE-3.jpg
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
           description: Congratulations to the team IEDC        
@@ -42,9 +55,12 @@
           title: CEK
           description: NBA Accreditated upto 2025        
     announcements:
+        - മാറുന്ന കാലത്തിൻ്റെ നേർക്കാഴ്‌ച്ചയായി, ആടിയും പാടിയും നിറങ്ങൾക്കൊണ്ട് കലകളുടെ ഒരായിരം ഓർമ്മകൾ നെയ്തുകൂട്ടാൻ ഒരു വേദി കൂടി...SAAGA | SAASTRA
+          CAPE Techno - Arts fest 2023
+        - Congratulations to Ashwin Jayadevan (S6 CSE) for securing Second prize in Discuss throw for the University Inter Collegiate Athletic meet 2022-23.
         - Congratulations to Team Kabaddi women University champions 2022.
         - Congratulations to C zone intercollegiate Badminton women championship Runner Up's 2022
-        - Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
+        #- Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
         #- B.Tech Spot admission will be conducted for the vacant seats from October 18th onwards.[Registration Link](https://tinyurl.com/kgrbtechspot2022).
         - Online Fee payment. [Click here](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
         - Instructions of Fee Payment Through SBI Collect. [Click here](/docs/Fee_Payment_through_SBI_Collect.pdf)

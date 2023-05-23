@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./shiney-thankachan.jpg
+image: ./Shiney-Thankachan-new.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 01/10/2022
 dateOfJoiningCape: 01/07/2003

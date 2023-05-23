@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: dash
 departmentFullName: Applied Science and Humanities
-image: ./sree.jpg
+image: ./sreedevi-r-varma-new.jpg 
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 12/02/2021
 dateOfJoiningCape: 12/02/2021
