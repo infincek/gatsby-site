@@ -21,7 +21,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 Committee is responsible for giving awareness to senior students by pasting anti-ragging posters on various locations of the college, Collecting undertaking from the senior students and their parents, Carry out surprise visit on hostels and college premises.
 
-Chairman : Dr. B V Mathew, Principal
+Chairman : Dr. Indhu P Nair, Principal
 
 |    Sl.No.    |    Name    |    Designation    |    Position    |
 |:------------:|:---------------------:|---------------------------------|----------------|
