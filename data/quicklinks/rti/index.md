@@ -11,7 +11,18 @@ The following officers are designated as Appellate Authority and Public Informat
 Name of Institution :   **College of Engineering Kidangoor** <br>
 Name of Public Authority :  **Co-operative Academy of Professional Education**
 
-| Sl No. | Name | Designation of Officers | Designated post | Phone No.with STD | Fax | Email |
+| Sl No. | Name | Designation of Officers | Designated post | Phone No.with STD |  Email |
 |--------|---------------------|-------------------------|----------------------------|-------------------|--------------|-------------------|
-| 1 | Dr.Indhu P Nair | Principal | Appellate Authority | 04822-255056 | 04822-255056 | cekcape@gmail.com |
-| 2 | Bili K Nair | Junior Superintendent | Public Information Officer | 04822-257656 | 04822-255056 | cekcape@gmail.com |
+| 1 | Dr.Indhu P Nair | Principal | Appellate Authority | 04822-256056 |  cekcape@gmail.com |
+| 2 | Bili K Nair | Junior Superintendent | Public Information Officer | 7907152711 | cekcape@gmail.com |
+
+<b>Mode of Payment</b>
+<br>
+Money order, Demand Draft, Postal order, Direct Cash payment.
+<br>
+Money order, Demand Draft, and Postal order to be taken in favour of the :
+<br>
+<b>Principal</b><br>
+<b>College of Engineering Kidangoor</b><br>
+<b>Kidangoor South P O</b><br>
+<b>Kottayam. Pin-686583</b>
