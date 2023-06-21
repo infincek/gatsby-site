@@ -4,10 +4,12 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
+        - image: ./images/EEE_S5_S3.jpg
+        - image: ./images/CSE_S5_S3.jpg
+        - image: ./images/ECE_S5.jpg
+        - image: ./images/CE_S5_S3.jpg
+        - image: ./images/nss2-blooddonation.jpg
         - image: ./images/NSS-_NIC-2023.jpg
-        - image: ./images/KEAM_mocktest-2023-1.jpg
-          title: KEAM Mock test
-          description: Register Now[bit.ly/keam23kgr](http://bit.ly/keam23kgr)
         - image: ./images/CAPE-Techno-Arts-fest.jpg
           title: SAAGA | SAASTRA
           description: CAPE Techno - Arts fest 2023.[https://capefest.in/](https://capefest.in/)
