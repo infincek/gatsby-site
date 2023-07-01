@@ -16,7 +16,7 @@ subject: Computer aided Structural Engineering
 # phd: NIL
 # specialization: NIL
 # otherData: "No. of International Conferences - 1"
-mobileNumber: 9447598378
+mobileNumber: 9972703366
 mailid: divyasnaircek@gmail.com
 position: 3
 ---
