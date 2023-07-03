@@ -4,6 +4,7 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institutions
+        - image: ./images/placement-2023-full.jpg
         - image: ./images/acabes.jpg
         - image: ./images/PLACED-MIX-new.jpg
         - image: ./images/Quest_Global_2023.jpg
@@ -35,6 +36,12 @@
         - image: ./images/acsia.jpg
         - image: ./images/QBURST.jpg
         - image: ./images/TCS.jpg
+        - image: ./images/IEEE-EmergingStudent-award.jpg
+        - image: ./images/KhoKho_C-zone-runnerup.jpg
+        - image: ./images/winners.jpg
+        - image: ./images/cek-Kabaddi-Winner.jpg
+        - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
+        - image: ./images/KILA_SKDC_Training_Programme.jpg        
         #- image: ./images/Placedstudents_2021-22.jpeg
         #- image: ./images/LET_OnlineCrashCourse_2022.jpg
         #- image: ./images/NRI_Admission_phase-II.jpg
