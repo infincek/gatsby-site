@@ -6,6 +6,21 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 <h3>Projects</h3>
 
+**CERD 2022-23 Projects**
+
+| Sl.No. | Principal Investigator                                | Student Investigator                                         | Title                         | Amount(Rs.) |
+|--------|------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-------------|
+| 1   | Shiney Thankachan  <br> Asst.Professor <br> Deptartment of ECE <br> Dr.Silpa S Prasad <br>Co-Investigator <br> Asst.Professor <br> Deptartment of ECE       | Jikku Vijay <br> A Sana  <br> Jayasankar R  | Metamaterial Incorporated wearable antenna for 5G application | 25,000       |
+| 2   | Sonima M.P  <br> Asst. Professor <br> Department of EEE  <br>Praseetha K<br> Co-Investigator <br>  Head of the Department <br> Department of EEE    |   Aromal Salimon <br> Sidharth Saju <br>Arun E V <br>Irshad I       | Preliminary Action Control for Prevention of Wildfire and Drought Using IOT and Lora Device by Forest Weather Forecasting               | 25,180       |
+| 3   | Praseetha K   <br> Head of the Department <br> Department of EEE <br> Apara Jose <br> Co-Investigator <br> Asst. Professor <br> Department of EEE | Albin J Babu <br> Athul Rajan<br> John Shaji <br> Sooraj Sunil     | EV Regeneration Through Air and Magnetic Shock              | 48,500       |
+| 4   | Bindiya Hari P   <br> Asst. Professor <br> Department of CE <br> Remya Krishnan R <br> Co-Investigator <br> Asst. Professor <br> Department of CE| Fathima Yoosuf  <br> Bhagya P V <br> Sreesankar TS  <br>  Mathew Zacharia     | Treatment of Textile Wastewater Banana Trunk using Adsorbents              | 29,799       |
+| 5   | Bindiya Hari P   <br> Asst. Professor <br> Department of CE <br> Divya S Nair <br> Co-Investigator <br> Asst. Professor & HOD <br> Department of CE| Bilfi M Abraham  <br> B Vasudev <br> Nanditha P  <br> Sandra H Pillai    | Dairy Wastewater sludge Treatment Electricity Microbial Fuel Cell              | 25,250       |
+| 6   | Divya S Nair   <br> Asst. Professor & HOD <br> Department of CE <br> Bhavya G Nair <br> Co-Investigator <br> Asst. Professor <br> Department of CE| Aiswarya Anil   <br> Anchala Monichan <br> Sony T Saji     | Investigation On Sugarcane Bagasse Ash Based Geopolymer Brick              | 50,000       |
+| 7  | Dr. Ojus Thomas Lee   <br> Asso. Professor  <br> Department of CSE <br> Chitra Merin Varghese  <br> Co-Investigator <br> Asst. Professor <br> Department of CSE| Sreejith S    <br> S Jayakrishnan  <br> Akshara Santhosh  <br>Ardra Haridas     |Reading Device for deaf and blind in real time speech            | 22,000       |
+
+
+
+
 **CERD 2018-19 Projects**
 
 | Sl.No. | Principal Investigator                                | Student Investigator                                         | Title                         | Amount(Rs.) |

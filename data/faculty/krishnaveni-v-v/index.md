@@ -2,8 +2,8 @@
 title: Krishnaveni V V
 template: faculty
 hod: false
-department: it
-departmentFullName: Information Technology
+department: cse
+departmentFullName: Computer Science and Engineering
 image: ./krishnaveni.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 12/08/2014

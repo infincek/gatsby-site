@@ -1,5 +1,5 @@
 ---
-title: Dr.TOM Taj T J
+title: Dr.Tom K Raj
 template: faculty
 hod: false
 department: dash

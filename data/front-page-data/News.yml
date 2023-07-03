@@ -1,14 +1,27 @@
 
 - data: |-
+   **RTI**
+   Fee can be remitted by way of DD/PO in the name of *PRL,CE KGR* payable at Kidangoor.   
+  date: 2023-05-23
+  new: true
+- data: |-
+   Congratulations Ashwin![Ashwin](/images/ashin-jayadevan.jpg)
+   
+  date: 2023-04-29
+  new: true
+- data: |-
+   KEAM 2023 Offline Crash Course![keam2023](/images/keam-2023-crashcourse.jpg)
+   
+   KEAM എഞ്ചിനീയറിംഗ് എൻട്രൻസ് സൗജന്യ പരിശീലനത്തിനായി താഴെ കാണുന്ന ലിങ്കിൽ ക്ലിക്ക് ചെയ്ത് രജിസ്റ്റർ ചെയ്യുക.
+   
+   [https://tinyurl.com/KGR-KEAM2023](https://tinyurl.com/KGR-KEAM2023)  
+  date: 2023-04-04
+  new: true
+- data: |-
    Congratulations CEK Kabaddi Girls Team![Kabaddi](/images/kabaddi_winner.jpg)
    
   date: 2022-11-12
   new: true
-- data: |-
-   Orientation Program for First years ![IEEE](/images/IEEE-studentsBranch.jpg)
-   
-  date: 2022-11-09
-  new: true  
 - data: |-
    Congratulations to C zone intercollegiate Kabaddi women championship Runner Up's 2022. ![Kabaddi](/images/Kabaddi-CZone_champions.jpg)
    
@@ -19,42 +32,6 @@
    
   date: 2022-11-07
   new: true  
-- data: |-
-    Online Faculty Development Programme on **ENVIRONMENTAL ISSUES IN SOCIETAL DEVELOPMENT** Sponsored by TEQIP-II
-    
-    Date:22 to 26 August 2022
-    
-    Organised by Department of Civil Engineering. 
-    
-    Last date of Registration:18-08-2022
-    Date of confirmation:20-08-2022
-   
-    Registration Link: https://bit.ly/3oWV6WF
-   
-    For Brochure [Please Click here...](/docs/FDP_Brochure_CEK.pdf)
-   
-  date: 2022-08-05
-  new: true
-- data: |-
-    **2 day Workshop on PCB Design and Fabrication** Conducted by Skill Development Centre.
-    
-    Date:20,21 June 2022
-    
-    Interested candidates are requested to register thriugh the Google form https://tinyurl.com/skdcpcb
-    
-    Registration Fee:Rs.200 (Payment can be made through Google pay number 9400324549).![SKDC](/images/SKDC_2dayworkshop_pcb.jpg)
-    
-  date: 2022-06-15
-  new: true
-- data: |-
-    **Congratulations Team TINCH**
-    
-    Team **TINCH** from CEK developed **nammudevipani.in** to support Agricultaral department of Pathanamthitta District. An easily accessible platform developed for the delivery of various essential commodities including fresh vegetables to the common people at their door step.![TINCH](/images/startup_onlinevipani_1.jpg)
-  new: false
-- data: |-
-    The First startup from our college **TINCH**  has won the first runnerup in **Finastra International Women's day Hackathon**
-    
-  date: 2021-04-25
 - data: |-
     Congratulations to Angel Shaju S2 CE for achieved  **India Book of Records 2022 titled Whistling National Anthem while Playing Tabla**
   date: 2021-04-25
