@@ -24,7 +24,7 @@ Area of Specialisation: Electrical Engineering.
 
 1. Principal - College of Engineering Kidangoor – 01/06/2023 till date.
    
-2. Principal in charge- College of Engineering Aranmula – 20/10/2021 - 30-05-2023
+2. Principal - College of Engineering Aranmula – 20/10/2021 - 30-05-2023
    
 3. Associate Professor and HoD- Department of Electrical & Electronics Engineering –  College of Engineering Kidangoor – 6/2/2006- 19/10/2021.
    
