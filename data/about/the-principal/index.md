@@ -1,7 +1,7 @@
 ---
 title: The Principal
 template: singlepage
-image: ./MathewSir.jpg
+image: ./Indhumiss.jpg
 description: "Principal, College Of Engineering Kidangoor. Area of Specialisation: Civil Engineering -Engineering Education. Ph.D in Civil Engineering- Engineering Education from Madras University. M.Tech in Civil Engineering from IIT Madras. B.Tech in Civil Engineering from Govt. Engineering College Thrissur."
 ---
 ![The Principal](./Indhumiss.jpg)
