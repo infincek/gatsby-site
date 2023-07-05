@@ -18,6 +18,6 @@ template: singlepage
 | 7 | Director SPFU | Ex-Officio Member |  |
 | 8 | Dr. G P Padmakumar, Registrar,KTU | Member | University Nominee |
 | 9 | Dr. Ramesh Unnikrishnan, Regional Officer & DirectorAICTE-South Western Regional Office (SWRO)Thiruvananthapuram | Member | AICTE Nominee |
-| 10 | Prof. (Dr.) Indhu P Nair, College of Engineering Kidangoor | Ex-Officio Member Secretary | Principal of Institution |
+| 10 | Prof. (Dr.) Indhu P Nair,College of Engineering Kidangoor | Ex-Officio Member Secretary | Principal of Institution |
 | 11 | Prof. (Dr.) Rajeesh J, Professor,College of Engineering Kidangoor | Member | Institutional Member |
 | 12 | Prof. (Dr.) Ojus Thomas Lee, Associate Professor,College of Engineering Kidangoor | Member |  Institutional Member |
