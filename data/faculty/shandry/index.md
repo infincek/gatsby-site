@@ -18,7 +18,7 @@ subject: Computer and Information Science
 # specialization:  NIL
 mobileNumber: 9048825985
 mailid: shandrykk@gmail.com
-position: 5
+position: 10
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
