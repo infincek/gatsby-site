@@ -17,7 +17,7 @@ subject: Industrial Drives and Control
 # specialization: NIL
 mobileNumber: 8547814807
 mailid: reshmiraj96@gmail.com
-position: 7
+position: 6
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |

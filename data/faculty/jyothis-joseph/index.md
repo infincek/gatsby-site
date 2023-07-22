@@ -1,7 +1,7 @@
 ---
 title: Jyothis Joseph
 template: faculty
-hod: true
+hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./jyothis-photo.jpg
