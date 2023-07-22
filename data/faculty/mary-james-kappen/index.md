@@ -1,7 +1,7 @@
 ---
 title: Mary James Kappen
 template: faculty
-hod: false
+hod: true
 department: ce
 departmentFullName: Civil Engineering
 image: ./mary-photo.jpg
