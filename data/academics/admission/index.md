@@ -87,21 +87,22 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 |  Programs |  Merit | Reserved for Co-operative sector| NRI      |  Total      |
 |-----------------|-------|------------|-----|-------|
 | B Tech in Civil Engineering |   54  |   3  |     3     |     60  |
-| B Tech in Computer Science |  81  |   4   |      5    |   90  |
+| B Tech in Computer Science |  108  |   6   |      6    |   120  |
 | B Tech in Electronics and Communication |  54  |  3  |  3  |  60  |
 | B Tech in Electrical and Computer Engineering |  27  |  1  |  2  |  30  |
 | B Tech in Electrical and Electronics |  27  |  1  |  2  |  30  |
-| Total |  243  |  12  |  15  |  270  |
+| Total |  270  |  14  |  16  |  300  |
 
 <h5>B Tech Degree Program – Structure of Tuition Fee</h5>
 
 | Quota | Tuition Fee [Per year] |
 |------------------|-----------------|
 | Merit seats | Rs. 35000/- [Thirty five thousand only] |
+| Merit Full Fee seats | Rs. 65000/- [Sixty five thousand only] (Only Computer Science and Engineering)|
 | Reserved for Co-operative sector | Rs. 65000/- [Sixty five thousand only] (Scholarship of  Rs.30000/- may be given to eligibile candidates) |
 | NRI seats | Rs. 100000/- [One lakh only] |
 
- Special fee (approximate) of Rs.18000/- should be paid before the beginning of classes for one time (**First Year only**) and approximately Rs.7000/- for the next years (including examination fee). Bus fee and hostel fee are applicable to be concerned.
+ Special fee (approximate) of Rs.19950/- should be paid before the beginning of classes for one time (**First Year only**) and approximately Rs.8000/- for the next years (including examination fee). Bus fee and hostel fee are applicable to be concerned.
 
  
 <br>
@@ -113,11 +114,11 @@ The institution offers Post Graduate Degree Programs [2 year duration] under the
 
 <h5>Allocation of M Tech Degree Seats</h5>
 
-| Programs | Merit | Sponsored | Total |
+| Programs      <b> <b>| Merit | Sponsored | Total |
 |---------------|-------|-----------|-------|
-| M Tech in Computer and Information Science | 14 | 4 | 18 |
+<!--| M Tech in Computer and Information Science | 14 | 4 | 18 |-->
 | M Tech in Wireless Technology | 14 | 4 | 18 |
-| Total | 28 | 8 | 36 |
+| Total | 14 | 4 | 18 |
 
 <br>
 
