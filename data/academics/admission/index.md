@@ -125,10 +125,11 @@ Registrtion Link
 <li>Candidates seeking NRI Quota should be a Child/Ward/Dependent of an NRI and should enclose a declaration form and employment certificate from the NRI who sponsor the applicant (form enclosed as Annexure I).</li>
 </ol>
 <br>
-
+<!--
 <h3>Application to Co-operative Reserved Quota Seats </h3>
 <br>
 
 **Applications are invited for admission to the B.Tech Management Quota Seats (2021-22) reserved for children of Co-operative Sector employees in CAPE Engineering Colleges.**<br>
 [Click here to download notification](Procedure_ApplicationForm_CapeEmployees_students.pdf)<br><br>
 [Click here to download Certificate Proforma](Proforma_Co-operative_Sector_Certificate.pdf)<br><br>
+-->
