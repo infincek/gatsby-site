@@ -12,8 +12,8 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 <br>
 <h5>Allocation of B Tech Degree Seats</h5>
 
-|  Programs |  Merit | Reserved for Co-operative sector| NRI      |  Total      |
-|-----------------|-------|------------|-----|-------|
+|  Programs       |  Merit | Reserved for Co-operative sector|  NRI      |  Total      |
+|-----------------|--------|---------------------------------|-----------|-------------|
 | B Tech in Civil Engineering |   54  |   3  |     3     |     60  |
 | B Tech in Computer Science |  108  |   6   |      6    |   120  |
 | B Tech in Electronics and Communication |  54  |  3  |  3  |  60  |
