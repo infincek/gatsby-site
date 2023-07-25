@@ -114,7 +114,7 @@ The institution offers Post Graduate Degree Programs [2 year duration] under the
 
 <h5>Allocation of M Tech Degree Seats</h5>
 
-| Programs      <b> <b>| Merit | Sponsored | Total |
+| Programs     | Merit | Sponsored | Total |
 |---------------|-------|-----------|-------|
 | M Tech in Wireless Technology | 14 | 4 | 18 |
 | Total | 14 | 4 | 18 |
