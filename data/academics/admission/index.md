@@ -128,7 +128,8 @@ Registrtion Link
 <!--
 <h3>Application to Co-operative Reserved Quota Seats </h3>
 <br>
-
+-->
+<!--
 **Applications are invited for admission to the B.Tech Management Quota Seats (2021-22) reserved for children of Co-operative Sector employees in CAPE Engineering Colleges.**<br>
 [Click here to download notification](Procedure_ApplicationForm_CapeEmployees_students.pdf)<br><br>
 [Click here to download Certificate Proforma](Proforma_Co-operative_Sector_Certificate.pdf)<br><br>
