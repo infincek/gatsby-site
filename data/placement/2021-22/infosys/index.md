@@ -16,4 +16,4 @@ selections:
     - name: ROHAN JAISON
       department: CSE
       image: ./ROHAN JAISON.jpg
-  ---
+---
