@@ -5,7 +5,7 @@ logo: ./infosys-1.jpg
 template: placement
 selections:
     - name: ABOOBACKER SAFWAN
-      department: CS
+      department: CSE
       image: ./ABOOBACKER SAFWAN.jpg
     - name: GAYATHRY M S
       department: ECE
