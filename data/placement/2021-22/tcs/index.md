@@ -40,9 +40,6 @@ selections:
     - name: SITHARA V
       department: CSE
       image: ./SITHARA V.jpg
-    - name: SITHARA V
-      department: CSE
-      image: ./SITHARA V.jpg
     - name: SNEHAL MARIAM ABRAHAM
       department: CSE
       image: ./SNEHAL MARIAM ABRAHAM.jpg    
