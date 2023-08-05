@@ -1,7 +1,7 @@
 ---
 title: Mary James Kappen
 template: faculty
-hod: false
+hod: true
 department: ce
 departmentFullName: Civil Engineering
 image: ./mary-photo.jpg
@@ -18,5 +18,5 @@ subject: Computer Aided Structural ANALYSIS AND DESIGN
 # otherData: "NIL"
 mobileNumber: 9496464455
 mailid: maryjkappen@gmail.com
-position: 2
+position: 1
 ---

@@ -17,7 +17,7 @@ subject: Signal Processing
 # specialization: NIL
 mobileNumber: 9447797841
 mailid: priyanlr@gmail.com
-position: 3
+position: 7
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |

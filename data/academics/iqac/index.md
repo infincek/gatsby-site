@@ -7,10 +7,10 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 <br>
 <br>
 
-##### **Chairperson:** Dr. B V Mathew, Principal
+##### **Chairperson:** Dr. Indhu P Nair, Principal
 <br>
 
-##### **Convener:** Prof. Jyothis Joseph,  Ast. Professor & HOD /CSE
+##### **Convener:** Prof. Jyothis Joseph,  Asst. Professor & HOD /CSE
  
 <br>
 
