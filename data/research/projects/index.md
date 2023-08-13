@@ -6,7 +6,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 <h3>Projects</h3>
 
-**CERD 2018-19 Projects**
+**CERD 2022-23 Projects**
 
 | Sl.No. | Principal Investigator                                | Student Investigator                                         | Title                         | Amount(Rs.) |
 |--------|------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-------------|

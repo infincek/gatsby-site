@@ -18,7 +18,7 @@ subject: Computer and Information Science
 # otherData: "No. of International Journal - 2, No.of national conferences - 1"
 mobileNumber: 9497488335
 mailid: linmaria.sebastian@gmail.com
-position: 4
+position: 5
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |

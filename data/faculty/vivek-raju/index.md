@@ -1,7 +1,7 @@
 ---
 title: VIVEK RAJU
 template: faculty
-hod: true
+hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
 image: ./vivek-Raju.jpg

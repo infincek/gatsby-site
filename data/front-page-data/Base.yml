@@ -3,11 +3,18 @@
     carousel:
         - image: ./images/main-block.jpg
           title: CEK
-          description: A Luscious and Green campus among CAPE institutions
+          description: A Luscious and Green campus among CAPE institution
+        - image: ./images/CEK-Results.new.jpg
+        - image: ./images/placement-2023-full.jpg
+        - image: ./images/acabes.jpg
+        - image: ./images/PLACED-MIX-new.jpg
+        - image: ./images/Quest_Global_2023.jpg
+        - image: ./images/EEE_S5_S3.jpg
+        - image: ./images/CSE_S5_S3.jpg
+        - image: ./images/ECE_S5.jpg
+        - image: ./images/CE_S5_S3.jpg
+        - image: ./images/nss2-blooddonation.jpg
         - image: ./images/NSS-_NIC-2023.jpg
-        - image: ./images/KEAM_mocktest-2023-1.jpg
-          title: KEAM Mock test
-          description: Register Now[bit.ly/keam23kgr](http://bit.ly/keam23kgr)
         - image: ./images/CAPE-Techno-Arts-fest.jpg
           title: SAAGA | SAASTRA
           description: CAPE Techno - Arts fest 2023.[https://capefest.in/](https://capefest.in/)
@@ -21,7 +28,7 @@
         - image: ./images/NSS-cek.jpg
         - image: ./images/ieee-winners.jpg
         - image: ./images/cek-Kabaddi-Winner.jpg
-        #- image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
+        - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
         #- image: ./images/KILA_SKDC_Training_Programme.jpg
         - image: ./images/ibs_placed_students.jpg
         - image: ./images/tata-elxsi-2.jpg
@@ -30,6 +37,12 @@
         - image: ./images/acsia.jpg
         - image: ./images/QBURST.jpg
         - image: ./images/TCS.jpg
+        - image: ./images/IEEE-EmergingStudent-award.jpg
+        - image: ./images/KhoKho_C-zone-runnerup.jpg
+        - image: ./images/winners.jpg
+        - image: ./images/cek-Kabaddi-Winner.jpg
+        - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
+        - image: ./images/KILA_SKDC_Training_Programme.jpg        
         #- image: ./images/Placedstudents_2021-22.jpeg
         #- image: ./images/LET_OnlineCrashCourse_2022.jpg
         #- image: ./images/NRI_Admission_phase-II.jpg
@@ -55,6 +68,12 @@
           title: CEK
           description: NBA Accreditated upto 2025        
     announcements:
+        - B.Tech NRI admission 2023 Ranklist published.[Ranklist](/docs/NRIAdmission2023Ranklist.pdf)
+        - Online Fee payment for 2023 Admission. [Click here for fee payment](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580). (Select BTech and LE admission NEW from payment category)  
+        - Congratulations to Ashwin Jayadevan (S6 CSE) for securing Second prize in Discuss throw for the University Inter Collegiate Athletic meet 2022-23.
+        - Congratulations to Team Kabaddi women University champions 2022.
+        - Congratulations to C zone intercollegiate Badminton women championship Runner Up's 2022
+        - RTI Fee can be remitted by way of DD/PO in the name of PRL,CE KGR payable at Kidangoor.
         - മാറുന്ന കാലത്തിൻ്റെ നേർക്കാഴ്‌ച്ചയായി, ആടിയും പാടിയും നിറങ്ങൾക്കൊണ്ട് കലകളുടെ ഒരായിരം ഓർമ്മകൾ നെയ്തുകൂട്ടാൻ ഒരു വേദി കൂടി...SAAGA | SAASTRA
           CAPE Techno - Arts fest 2023
         - Congratulations to Ashwin Jayadevan (S6 CSE) for securing Second prize in Discuss throw for the University Inter Collegiate Athletic meet 2022-23.
@@ -99,7 +118,6 @@
         We are committed to molding,competent professionals in engineering with integrity, fairness, technological excellence, human and social values who engage in lifelong learning through good teaching practices and professional excellence to meet the requirements of the prospective employers,the industry and the society with high degree of satisfaction through continual improvement.
     phone:
         - +91-48 22-256 056
-        - +91 48 22 255 056
         - Admission Help Desk Number:- 9188255056,9400666144
     fax: "04822 256056"
     address: |-

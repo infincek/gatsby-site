@@ -32,7 +32,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ****
 <br>
 <h6>President</h6>
-Dr. B V Mathew<br>
+Dr. Indhu P Nair<br>
 Principal<br>
 College of Engineering Kidangoor
 <br>
@@ -59,6 +59,11 @@ Dr. K B Bijumon<br>
 
 <h6>Executive Members</h6>
 <br>
+Dr. Ojus Thomas Lee<br>
+Associate Professor<br>
+Computer Science & Engineering<br>
+<br>
+<br>
 Joby James<br>
 Assistant Professor<br>
 Electronics & Communication<br>
@@ -66,10 +71,6 @@ Electronics & Communication<br>
 Praseetha K<br>
 HOD<br>
 Electronics and Electrical Engineering<br>
-<br>
-Dr. Ojus Thomas Lee<br>
-Associate Professor<br>
-Computer Science & Engineering<br>
 <br>
 Abraham Kurian<br>
 K Babu <br>
