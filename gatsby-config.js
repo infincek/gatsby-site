@@ -126,11 +126,11 @@ module.exports = {
                         link:
                             '/departments/electrical-and-electronics-engineering/'
                     },
-                    {
+                    /*{
                         name: 'Electronics & Instrumentation Engineering',
                         link:
                             '/departments/electronics-and-instrumentation-engineering'
-                    },
+                    },*/
                     {
                         name: 'Electronics & Communication Engineering',
                         link:
