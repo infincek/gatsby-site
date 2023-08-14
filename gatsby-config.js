@@ -136,10 +136,10 @@ module.exports = {
                         link:
                             '/departments/electronics-and-communication-engineering'
                     },
-                    {
+                   /* {
                         name: 'Information Technology',
                         link: '/departments/information-technology'
-                    },
+                    },*/
                     {
                         name: 'Humanities and Science',
                         link: '/departments/applied-science-and-humanities'
