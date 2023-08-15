@@ -17,5 +17,5 @@ phd: Doing GCE Kannur(KTU)
 # specialization: 
 mobileNumber: 9447376100
 mailid: reshmasaroj@gmail.com 
-position: 6
+position: 7
 ---

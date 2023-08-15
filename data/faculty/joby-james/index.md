@@ -17,7 +17,7 @@ subject: Signal Processing
 # otherData: "No. of International Conferences - 1,"
 mobileNumber: 9446929210
 mailid: jamesjoby@gmail.com
-position: 2
+position: 6
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |

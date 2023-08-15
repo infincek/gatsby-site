@@ -17,7 +17,7 @@ subject: Computer and Information Science
 # specialization: NIL
 mobileNumber: 8129011466
 mailid: nisha.ca@gmail.com
-position: 2
+position: 7
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
