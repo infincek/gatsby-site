@@ -1,6 +1,6 @@
 ---
 title: Electrical and Computer Engineering
-name: eee
+name: el
 template: departments
 image: ./eeelogo11.jpg
 banner: ./eee1.jpg
