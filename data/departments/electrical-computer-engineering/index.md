@@ -1,8 +1,9 @@
 ---
-title: Electrical and Electronics Engineering
+title: Electrical and Computer Engineering
 name: eee
 template: departments
-image: ./eee1.jpg
+image: ./eeelogo11.jpg
+banner: ./eee1.jpg
 intro: "The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.
 
 **Seats Available :**  60 + 3 * "
