@@ -18,5 +18,5 @@ subject:
 # otherData: "No. of International Journal - 3, No. of International Conferences - 13, No.of national conferences - 2"
 mobileNumber: 9496208034
 mailild: aparnamjose@gmail.com
-position: 10
+position: 8
 ---

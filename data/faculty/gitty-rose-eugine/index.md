@@ -18,5 +18,5 @@ subject: Geotechnical Engineering
 # otherData: "NIL"
 mobileNumber: 9846418556
 mailid: gitty.rose@gmail.com
-position: 5
+position: 6
 ---
