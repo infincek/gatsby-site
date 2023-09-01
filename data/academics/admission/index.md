@@ -5,8 +5,9 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ---
 
 <h1>B.Tech Lateral Entry Admission 2023 </h1><br>
+
 [B.Tech Lateral Entry 2023 Admission Schedule](let_2023_admission.pdf)<br><br>
-[B.Tech Lateral Entry 2023 Document Checklist](let_2023_admission_DOCUMENTS_CHECK LIST.pdf)<br><br>
+[B.Tech Lateral Entry 2023 Document Checklist](let_2023_admission_DOCUMENTS_CHECK_LIST.pdf)<br><br>
 <b>B.Tech Lateral Entry 2023 Fee Structure</b>
 <br><br>[Merit Regulated Fee](let_2023_admission_fee_structure1.pdf)
 <br><br>[SC/ST/OEC](let_2023_admission_fee_structure2.pdf)<br><br>
