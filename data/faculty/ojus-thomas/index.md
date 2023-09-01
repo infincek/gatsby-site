@@ -1,7 +1,7 @@
 ---
 title: Dr.Ojus Thomas Lee
 template: faculty
-hod: false
+hod: true
 department: cse
 departmentFullName: Computer Science and Engineering
 image: ./ojus-photo.jpg

@@ -18,7 +18,7 @@ Name of Public Authority :  **Co-operative Academy of Professional Education**
 
 <b>Mode of Payment</b>
 <br>
-Money order, Demand Draft, Postal order, Direct Cash payment.
+Money order, Demand Draft, Postal order, Direct Cash payment and Account Transfer
 <br>
 Money order, Demand Draft, and Postal order to be taken in favour of the :
 <br>
@@ -26,3 +26,12 @@ Money order, Demand Draft, and Postal order to be taken in favour of the :
 <b>College of Engineering Kidangoor</b><br>
 <b>Kidangoor South P O</b><br>
 <b>Kottayam. Pin-686583</b>
+
+<b>Account Transfer to be taken in favour of the:</b>
+<br>
+<b>Principal-CE Kidangoor</b><br>
+<b>Bank Name: SBI</b><br>
+<b>Branch: SBI Kidangoor</b><br>
+<b>IFSCode : SBIN0070106</b><br>
+<b>Account Number: 57038969912</b><br>
+

@@ -126,20 +126,20 @@ module.exports = {
                         link:
                             '/departments/electrical-and-electronics-engineering/'
                     },
-                    {
+                    /*{
                         name: 'Electronics & Instrumentation Engineering',
                         link:
                             '/departments/electronics-and-instrumentation-engineering'
-                    },
+                    },*/
                     {
                         name: 'Electronics & Communication Engineering',
                         link:
                             '/departments/electronics-and-communication-engineering'
                     },
-                    {
+                   /* {
                         name: 'Information Technology',
                         link: '/departments/information-technology'
-                    },
+                    },*/
                     {
                         name: 'Humanities and Science',
                         link: '/departments/applied-science-and-humanities'
