@@ -4,6 +4,15 @@ template: singlepage
 description: College of Engineering, Kidangoor (CEK), Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala.
 ---
 
+<h1>B.Tech Lateral Entry Admission 2023 </h1><br>
+
+[B.Tech Lateral Entry 2023 Admission Schedule](let_2023_admission.pdf)<br><br>
+[B.Tech Lateral Entry 2023 Document Checklist](let_2023_admission_DOCUMENTS_CHECK_LIST.pdf)<br><br>
+<b>B.Tech Lateral Entry 2023 Fee Structure</b>
+<br><br>[Merit Regulated Fee](let_2023_admission_fee_structure1.pdf)
+<br><br>[SC/ST/OEC](let_2023_admission_fee_structure2.pdf)<br><br>
+
+
 <h3>ADMISSION:Undergraduate Degree</h3>
 
 The institution offers Bachelor Degree Programs [4 year duration] under the affiliation of APJ Abdul Kalam Technological University. The Merit quota [90%], Management quota [5%] [reserved for the children of employees working under Co-operative sector] are solely allotted by the Commissioner of Entrance Exams, Kerala as per KEAM Rank. The admission to NRI [5%] quota seats are filled from the rank list, prepared by the college authority, based on the plus two marks [Mathematics, Physics, Chemistry or / Computer Science/Biotechnology/Biology].
