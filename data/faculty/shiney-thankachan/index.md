@@ -1,7 +1,7 @@
 ---
 title: SHINEY THANKACHAN
 template: faculty
-hod: false
+hod: true
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./Shiney-Thankachan-new.jpg

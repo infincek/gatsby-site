@@ -17,7 +17,7 @@ subject: Information and communication Engg
 # specialization:  
 mobileNumber:  9446764513
 mailid: veni.anuraj@gmail.com
-position: 3
+position: 9
 
 ---
 |           PUBLICATIONS           |     |
