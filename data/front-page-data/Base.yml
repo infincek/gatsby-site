@@ -1,4 +1,4 @@
-- data:
+.etlab.in- data:
     image: ./images/college.jpg
     carousel:
         - image: ./images/main-block.jpg
@@ -143,6 +143,6 @@
             - name: DOWNLOADS
               url: /quicklinks/downloads
             - name: CAMPUS MANAGEMENT SYSTEM
-              url: https://edu.ezygo.app
+              url: https://cek.etlab.in
             - name: CAPE
               url: https://www.capekerala.org
