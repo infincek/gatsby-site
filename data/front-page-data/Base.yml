@@ -1,4 +1,4 @@
-.etlab.in- data:
+- data:
     image: ./images/college.jpg
     carousel:
         - image: ./images/main-block.jpg
