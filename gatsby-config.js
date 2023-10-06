@@ -124,7 +124,13 @@ module.exports = {
                     {
                         name: 'Electrical & Electronics Engineering',
                         link:
-                            '/departments/electrical-and-electronics-engineering/'
+                            '/departments/electrical-and-electronics-engineering/',
+                        children: [
+                            {
+                                name: 'Electrical & Computer Engineering',
+                                link: '/departments/electrical-and-electronics-engineering/electrical-computer-engineering',
+                            },
+                        ],
                     },
                     /*{
                         name: 'Electronics & Instrumentation Engineering',
