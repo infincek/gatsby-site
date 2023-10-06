@@ -1,7 +1,7 @@
 ---
 title: SYAMA R
 template: faculty
-hod: true
+hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
 image: ./Syama-R.jpg
