@@ -10,7 +10,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ##### **Chairperson:** Dr. Indhu P Nair, Principal
 <br>
 
-##### **Convener:** Prof. Jyothis Joseph,  Asst. Professor & HOD /CSE
+##### **Convener:** Prof. Praseetha K,  Asst. Professor & HOD /EEE
  
 <br>
 
@@ -39,4 +39,8 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 - Documentation of the various programmes/activities leading to quality improvement.
 - Acting as a nodal agency of the Institution for coordinating quality-related activities, including adoption and dissemination of best practices.
 - Development of Quality Culture in the institution.
+
+#### Reports
+
+- [Annual Report 2022-2023](AnnualReportKGR2022-23_final.pdf)
 
