@@ -35,23 +35,25 @@ template: singlepage
 | 2018 | 51 | 65 | 25 |
 | 2019 | 66 | 82 | 34 |
 | 2020 | 62 | 72 | 45 |
-| 2021 | 55 | 62 | 48 |
-| 2022 | 23 | 31 | 18 |
+| 2021 | 60 | 67 | 48 |
+| 2022 | 46 | 60 | 45 |
+| 2023 | 48 | 62 | 49 |
 
 ### Training and Placement Officer
-**Mr. Syamesh K G**
+**Prof. Rekha K S**
 <br>
-Assistant Professor in Electronics & Communications
+Assistant Professor in Computer Science & Engineering
 <br>
-Contact Number: 9747320686
+Contact Number: 9447469970
 <br>
 Email Address: placement@ce-kgr.org
 
 ### CGPC Committee
 | Name 	| Designation 	|
 |:--------------------	|:------------------------------------------------------------------------------------	|
-| Dr.Mathew B V 	| HOD Civil Engineering 	|
-| Dr.Indu P Nair 	| HOD Electrical and Electronics 	|
-| Dr.Ojus Thomas Lee 	| HOD Computer Science and Engineering 	|
-| Dr.Rajeesh J 	| HOD Electronics and Communication Engineering 	|
-| Mr.Suneesh Kurian 	| HOD Applied Science and Humanities 	|
+| Prof. Syamesh K G 	| Assistant Professor,Electronics and Communication Engineering 	|
+| Prof. Aparna Jose 	| Assistant Professor,Electrical and Electronics Engineering 	|
+| Prof. Syama R 	| Assistant Professor, Electronics and Communication Engineering 	|
+| Prof. Chitra S Nair 	| Assistant Professor, Civil Engineering 	|
+| Prof. Shandry K K 	| Assistant Professor, Computer Science & Engineering 	|
+| Prof. Vivek Raju 	| Assistant Professor, Applied Science and Humanities 	|
