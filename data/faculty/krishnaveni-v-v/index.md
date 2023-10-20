@@ -2,8 +2,8 @@
 title: Krishnaveni V V
 template: faculty
 hod: false
-department: it
-departmentFullName: Information Technology
+department: cse
+departmentFullName: Computer Science and Engineering
 image: ./krishnaveni.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 12/08/2014
@@ -17,7 +17,7 @@ subject: Information and communication Engg
 # specialization:  
 mobileNumber:  9446764513
 mailid: veni.anuraj@gmail.com
-position: 3
+position: 9
 
 ---
 |           PUBLICATIONS           |     |

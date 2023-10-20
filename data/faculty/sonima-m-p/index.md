@@ -18,5 +18,5 @@ subject: Industrial Drives and Control
 # otherData: "NIL"
 mobileNumber: 9496347470
 mailid: sonima.mp@gmail.com
-position: 6
+position: 5
 ---

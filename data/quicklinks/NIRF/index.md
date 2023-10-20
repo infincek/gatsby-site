@@ -4,4 +4,8 @@ template: singlepage
 description: College of Engineering, Kidangoor (CEK), Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala.
 ---
 
-[NIRF](/docs/CEK_NIRF_2022.pdf)
+[NIRF2021](/docs/CEK_NIRF_2021.pdf)
+<br><br>
+[NIRF2022](/docs/CEK_NIRF_2022.pdf)
+<br><br>
+[NIRF2023](/docs/CEK_NIRF_2023.pdf)
