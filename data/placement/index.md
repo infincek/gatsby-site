@@ -57,13 +57,3 @@ Email Address: placement@ce-kgr.org
 | Prof. Chitra S Nair 	| Assistant Professor, Civil Engineering 	|
 | Prof. Shandry K K 	| Assistant Professor, Computer Science & Engineering 	|
 | Prof. Vivek Raju 	| Assistant Professor, Applied Science and Humanities 	|
-| Divya S Nair 	| HOD Civil Engineering 	|
-| Praseetha K 	| HOD Electrical and Electronics 	|
-| Jyothis Joseph 	| HOD Computer Science and Engineering 	|
-| Syama R 	| HOD Electronics and Communication Engineering 	|
-| Vivek Raju 	| HOD Applied Science and Humanities 	|
-| Sreekumari T K 	| Assistant Professor, Civil Engineering 	|
-| Aparna Jose 	| Assistant Professor,Electrical and Electronics Engineering 	|
-| Rekha K S 	| Assistant Professor,Computer Science and Engineering 	|
-| Dhanya Narayan 	| Assistant Professor,Electronics and Communication Engineering 	|
-
