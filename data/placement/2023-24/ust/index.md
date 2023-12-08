@@ -1,6 +1,6 @@
 ---
-title: UST: Digital Transformation Solutions Company 
-description: UST: Digital Transformation Solutions Company.
+title: UST
+description: UST- Digital Transformation Solutions Company.
 logo: ./ust-logo.jpg
 template: placement
 selections:
