@@ -1,14 +1,14 @@
 ---
 title: Haridas M S
 template: faculty
-hod: false
+hod: true
 department: eee
 departmentFullName: Electrical and Electronics
 image: ./haridas-photo.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 15/06/2019
 dateOfJoiningCape: 01/07/2010
-experienceTeaching: 9 Years
+experienceTeaching: 13 Years
 # experienceIndustry: NIL
 ugAndInstitution: "B.Tech, RIT KOTTAYAM/ MG University"
 pgAndInstitution: "M.Tech, RIT KOTTAYAM/ MG University"
