@@ -4,6 +4,8 @@ description: Placement details
 template: singlepage
 ---
 
+[btn to="/placement/2021-22" title="2023-24 Placements"][/btn]
+[btn to="/placement/2021-22" title="2022-23 Placements"][/btn]
 [btn to="/placement/2021-22" title="2021-22 Placements"][/btn]
 [btn to="/placement/2020-21" title="2020-21 Placements"][/btn]
 [btn to="/placement/2019-20" title="2019-20 Placements"][/btn]
