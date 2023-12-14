@@ -17,7 +17,7 @@ phd: CUSAT, Pursuing
 # specialization: NIL
 mobileNumber: 9447469970
 mailid: rekhaswapnesh@gmail.com
-position: 3
+position: 4
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
