@@ -7,16 +7,16 @@ selections:
     - name: V Adithya
       department: CE
       image: ./Adithya_V.jpg
-    - name: Anuja_J_Madhom.jpg
-      department: ECE
+    - name: Anuja J Madhom.jpg
+      department: CE
       image: ./Anju_J_Madhom.jpg
-    - name: Ardhra_Maria_Tomy.jpg
-      department: CSE
+    - name: Ardhra Maria Tomy.jpg
+      department: CE
       image: ./Ardhra_Maria_Tomy.jpg
     - name: Haleen Simenthy
-      department: CSE
+      department: CE
       image: ./Haleen_Simenthy.jpg
     - name: Harikrishnan S
-      department: CSE
+      department: CE
       image: ./Harikrishnan_S.jpg
 ---
