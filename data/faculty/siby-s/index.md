@@ -1,22 +1,22 @@
 ---
-title: Gitty Rose Eugine
+title: Siby S
 template: faculty
 hod: false
-department: ce
-departmentFullName: Civil Engineering
-image: ./gitty.jpg
+department: dash
+departmentFullName: Department of Applied Science & Humanities
+image: ./Siby_S.jpg
 designation: Assistant Professor(Regular)
-dateOfJoining: 30/09/2013
-dateOfJoiningCape: 08/07/2013
-experienceTeaching: 9years
-experienceIndustry: 1.5yrs
-ugAndInstitution: "CET/University of Kerala."
-pgAndInstitution: "CET/University of Kerala"
-subject: Geotechnical Engineering
-# phd: NIL
+dateOfJoining: 24/07/2023
+dateOfJoiningCape: 25/01/2005
+experienceTeaching: 21 years
+experienceIndustry: 2 yrs
+ugAndInstitution: "Mechanical Engg., College of Engg. Kasaragod, Calicut University."
+pgAndInstitution: "Mechanical Engg., School of Engineering, CUSAT."
+subject: Mechanical Engineering
+phd: Selected for PhD in KTU
 # specialization: NIL
 # otherData: "NIL"
-mobileNumber: 9846418556
-mailid: gitty.rose@gmail.com
-position: 6
+mobileNumber: 9961466328
+mailid: sibys@ce-kgr.org
+position: 1
 ---
