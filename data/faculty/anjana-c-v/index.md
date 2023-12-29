@@ -1,21 +1,21 @@
 ---
-title: Beema K S
+title: Anjana C V
 template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./beema-k-s.jpg
+image: ./Anjana-C-V.jpg
 designation: Assistant Professor (Adhoc)
-dateOfJoining: 02/11/2022
-experienceTeaching: 4 Year
+dateOfJoining: 25/10/2023
+experienceTeaching: 1 Year
 experienceIndustry: NIL
-ugAndInstitution: "Ilahia College of Engineering and Technology, Muvattupuzha, MG University"
-pgAndInstitution: "Mangalam college of engineering. Ettumanoor, MG University, 2016"
+ugAndInstitution: "Information Technology, College of Engineering Kidangoor, KTU"
+pgAndInstitution: "St.Joseph's College of Engineering and Technology Palai, KTU"
 subject: Computer Science and Engineering
 # phd: NIL
 # specialization:  NIL
 # otherData: "NIL"
-mobileNumber: 9947091305    
-mailid: its.me.beema@gmail.com
-position: 15
+mobileNumber: 9744043884    
+mailid: anjanachennothu@gmail.com
+position: 16
 ---
