@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./appu-photo1.jpg
+image: ./Chithra-S-Nair.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 13/07/2023
 dateOfJoiningCape: 16/08/2013
