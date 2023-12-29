@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./Ajayakumar-c-b.jpg
+image: ./Siby_S.jpg
 designation: Assistant Professor (Regular)
 dateOfJoining: 24/07/2023
 dateOfJoiningCape: 25/01/2005
