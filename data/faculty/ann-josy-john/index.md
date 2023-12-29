@@ -8,7 +8,7 @@ image: ./Ann_josy_john.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 09/11/2023
 # dateOfJoiningCape: 06/07/2012
-experienceTeaching: 10 Years
+experienceTeaching: 6 Years
 # experienceIndustry: NIL
 ugAndInstitution: "B.Tech, P.R.S College of Engineering and Technology Thiruvananthapuram, Kerala University"
 pgAndInstitution: "M.Tech, Mangalam College of Engineering and Technology Kottayam, M.G.University"
