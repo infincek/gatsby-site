@@ -1,7 +1,7 @@
 ---
 title: Ann Josy John
 template: faculty
-hod: true
+hod: false
 department: eee
 departmentFullName: Electrical and Computer Engineering
 image: ./Ann_josy_john.jpg
