@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./Ajayakumar-c-b.jpg
+image: ./sreerekha.jpg
 designation: Assistant Professor (Adhoc)
 dateOfJoining: 18/06/2023
 # dateOfJoiningCape: 29/10/2008
