@@ -6,7 +6,7 @@ department: eee
 departmentFullName: Electrical and Computer Engineering
 image: ./Ann_josy_john.jpg
 designation: Assistant Professor(Adhoc)
-dateOfJoining: 09/11/2023
+dateOfJoining: 11/09/2023
 # dateOfJoiningCape: 06/07/2012
 experienceTeaching: 6 Years
 # experienceIndustry: NIL
