@@ -10,7 +10,7 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 ##### **Chairperson:** Dr. Indhu P Nair, Principal
 <br>
 
-##### **Convener:** Prof. Jyothis Joseph,  Asst. Professor & HOD /CSE
+##### **Convener:** Prof. Praseetha K,  Asst. Professor & HOD /EEE
  
 <br>
 
@@ -19,11 +19,10 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 | Name | Designation |
 |:--------------------:|:---------------------------:|
-| Prof. Divya S Nair | Asst. Professor & HOD, Civil |
-| Prof. Praseetha K | Asst. Professor & HOD, EEE |
-| Prof. Syama R | Asst. Professor & HOD, ECE |
-| Prof. Vivek Raju | Asst. Professor & HOD, Applied Science |
-| Bili K Nair | Junior Superintendent, CEK | 
+| Prof. Mary James Kappen | Asst. Professor & HOD, Civil |
+| Prof. Ojus Thomas Lee | Asso. Professor & HOD, CSE |
+| Prof. shiney Thankachan | Asst. Professor & HOD, ECE |
+| Prof. Ajayakumar C B | Asst. Professor & HOD, Applied Science |
 | Bobby K Issac | Senior AO, CAPE |
 | G. Vishwanadhan Nair | President, Co-oprative Bank |
 | Chairman  | College Union |
@@ -39,4 +38,8 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 - Documentation of the various programmes/activities leading to quality improvement.
 - Acting as a nodal agency of the Institution for coordinating quality-related activities, including adoption and dissemination of best practices.
 - Development of Quality Culture in the institution.
+
+#### Reports
+
+- [Annual Report 2022-2023](AnnualReportKGR2022-23_final.pdf)
 
