@@ -30,4 +30,4 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 [KTU 2022-23](/docs/CUSAT%20-%20KTU%20RECOGNITION%20ORDERS/KTU_Affiliation_2022-23.pdf)
 
-[KTU 2022-23](/docs/CUSAT%20-%20KTU%20RECOGNITION%20ORDERS/KTU_Affiliation_2023-24.pdf)
+[KTU 2023-24](/docs/CUSAT%20-%20KTU%20RECOGNITION%20ORDERS/KTU_Affiliation_2023-24.pdf)
