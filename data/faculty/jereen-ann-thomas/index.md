@@ -16,7 +16,7 @@ subject: Structural Engineering and construction management
 # phd: NIL
 # specialization: NIL
 # otherData: "No. of International Journal - 1, No. of International Conferences - 1"
-mobileNumber: 9562024170
+# mobileNumber: 9562024170
 mailid: jereenann1391@gmail.com
 position: 8
 ---
