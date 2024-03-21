@@ -9,3 +9,5 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 [NIRF2022](/docs/CEK_NIRF_2022.pdf)
 <br><br>
 [NIRF2023](/docs/CEK_NIRF_2023.pdf)
+<br><br>
+[NIRF2024](/docs/NIRF_Final.pdf)
