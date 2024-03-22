@@ -4,22 +4,21 @@ template: faculty
 hod: false
 department: eee
 departmentFullName: Electrical and Computer Engineering
-image: ./Ann_josy_john.jpg
+image: ./sruthi-varrier.jpg
 designation: Assistant Professor(Adhoc)
-dateOfJoining: 11/09/2023
-# dateOfJoiningCape: 06/07/2012
-experienceTeaching: 6 Years
-# experienceIndustry: NIL
-ugAndInstitution: "B.Tech, P.R.S College of Engineering and Technology Thiruvananthapuram, Kerala University"
-pgAndInstitution: "M.Tech, Mangalam College of Engineering and Technology Kottayam, M.G.University"
-subject: Computer Science and Engineering
+dateOfJoining: 09/11/2023
+dateOfJoiningCape: 09/11/2023
+experienceTeaching: 2.5 Years
+experienceIndustry: 2 Years
+ugAndInstitution: "B.Tech, Prime College of Engineering, Calicut University"
+pgAndInstitution: "M.Tech, Rajagiri School of Engineering and Technology, KTU,2021"
+subject: Computer Science and Information System
 # phd: Nil
 # specialization: Nil
-mobileNumber: 9447776159
-mailid: annjosijohn@gmail.com
-position: 10
+mobileNumber: 8547819144
+mailid: sruthirvarrier@gmail.com
+position: 11
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
-|   No. of International Journal   |  2  |
-| No. of International Conferences |  2  |
+| No. of International Conferences | 1  |
