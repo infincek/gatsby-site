@@ -6,7 +6,7 @@ teaching: false
 qualification: Degree ,ITI
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./DiviyaSasidharan.jpg
+image: ./Anjali_V-J.jpg
 designation: Tradesman Trainee
 dateOfJoining: 23/01/2024
 #dateOfJoiningCape: 01/07/2010
