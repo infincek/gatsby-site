@@ -5,7 +5,7 @@ hod: false
 teaching: false
 qualification: Diploma
 department: eee
-departmentFullName: Electronics and Electrical Engineering
+departmentFullName: Electrical and Electronics Engineering
 image: ./Mini-MB.jpg
 designation: Instructor Gr-I
 dateOfJoining: 12/10/2022

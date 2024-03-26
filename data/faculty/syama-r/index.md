@@ -4,10 +4,10 @@ template: faculty
 hod: false
 department: ece
 departmentFullName: Electronics and Communication Engineering
-image: ./Syama-R.jpg
+image: ./Syama-R-nw.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 03/12/2021
-dateOfJoiningCape: 03/12/2021
+dateOfJoiningCape: 31/08/2006
 experienceTeaching: 17 Years
 # experienceIndustry: NIL
 ugAndInstitution: "B.Tech, Govt. Rajiv Gandhi Institute of Technology, Kottayam"

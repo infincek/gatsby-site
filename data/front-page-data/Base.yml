@@ -4,8 +4,12 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institution
+        - image: ./images/ZF_commercial-vehiclesoltns.jpg
         - image: ./images/CEK-Results.new.jpg
         - image: ./images/cricket_team-2024.jpg
+        - image: ./images/UST_Global_editted.jpg
+        - image: ./images/Tata_Elxsi-edited.jpg
+        - image: ./images/aarbee.jpg
         - image: ./images/placement-2023-full.jpg
         - image: ./images/acabes.jpg
         - image: ./images/PLACED-MIX-new.jpg
@@ -14,23 +18,14 @@
         - image: ./images/CSE_S5_S3.jpg
         - image: ./images/ECE_S5.jpg
         - image: ./images/CE_S5_S3.jpg
-        - image: ./images/nss2-blooddonation.jpg
-        - image: ./images/NSS-_NIC-2023.jpg
-        - image: ./images/CAPE-Techno-Arts-fest.jpg
-          title: SAAGA | SAASTRA
-          description: CAPE Techno - Arts fest 2023.[https://capefest.in/](https://capefest.in/)
-        - image: ./images/CEK-lumiere-2023.jpg
-          title: LUMIERE'23
-          description: National Level Techno-Cultural Fest.[https://ceklumiere.com](https://ceklumiere.com)
-        - image: ./images/Project-expo-2023.jpg
-        - image: ./images/IEEE-EmergingStudent-award.jpg
-        - image: ./images/KhoKho_C-zone-runnerup.jpg
+        #- image: ./images/nss2-blooddonation.jpg
+        #- image: ./images/NSS-_NIC-2023.jpg
+        #- image: ./images/IEEE-EmergingStudent-award.jpg
+        #- image: ./images/KhoKho_C-zone-runnerup.jpg
         - image: ./images/winners.jpg
         - image: ./images/NSS-cek.jpg
         - image: ./images/ieee-winners.jpg
         - image: ./images/cek-Kabaddi-Winner.jpg
-        - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
-        #- image: ./images/KILA_SKDC_Training_Programme.jpg
         - image: ./images/ibs_placed_students.jpg
         - image: ./images/tata-elxsi-2.jpg
         - image: ./images/tata-elxsi1.jpg
@@ -40,47 +35,29 @@
         - image: ./images/TCS.jpg
         - image: ./images/IEEE-EmergingStudent-award.jpg
         - image: ./images/KhoKho_C-zone-runnerup.jpg
-        - image: ./images/winners.jpg
-        - image: ./images/cek-Kabaddi-Winner.jpg
+        #- image: ./images/winners.jpg
+        #- image: ./images/cek-Kabaddi-Winner.jpg
         - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
-        - image: ./images/KILA_SKDC_Training_Programme.jpg        
-        #- image: ./images/Placedstudents_2021-22.jpeg
-        #- image: ./images/LET_OnlineCrashCourse_2022.jpg
-        #- image: ./images/NRI_Admission_phase-II.jpg
-        #- image: ./images/CE-1.jpg
-        #- image: ./images/CSE-4.jpg
-        #- image: ./images/EC-2.jpg
-        #- image: ./images/EEE-3.jpg
+        #- image: ./images/KILA_SKDC_Training_Programme.jpg        
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
           description: Congratulations to the team IEDC        
-        - image: ./images/CSE-Placed-Students_2022.jpg
-        #- image: ./images/ECE_WT_Toppers.jpg
-        #- image: ./images/Placed_students_2021.jpeg
-        #- image: ./images/Akshay_U_poster.jpg
-        #- image: ./images/JinsuMani_Poster.jpg
-        #- image: ./images/bonymol_CSE.jpg
-        #- image: ./images/GouripriyaJ_vvdn.jpg
-        #- image: ./images/nikhilshaji_solarlabs.jpg        
-        #- image: ./images/StudentsPlaced_2021.jpg        
-        #- image: ./images/CEK_Placement_TCS_2020.jpg
         - image: ./images/cllgan.jpg
         - image: ./images/nba_updated_to_clgsite1.jpg
           title: CEK
           description: NBA Accreditated upto 2025        
     announcements:
-        - Admission 2023 [Student Registration Form](https://cek.etlab.in/registration)
-        - B.Tech NRI admission 2023 Ranklist published.[Ranklist](/docs/NRIAdmission2023Ranklist.pdf)
+        - IQAC Annual Report 2022-23[click here](/academics/iqac)
+        #- Admission 2023 [Student Registration Form](https://cek.etlab.in/registration)
+        #- B.Tech NRI admission 2023 Ranklist published.[Ranklist](/docs/NRIAdmission2023Ranklist.pdf)
         - Online Fee payment for 2023 Admission. [Click here for fee payment](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580). (Select BTech and LE admission NEW from payment category)  
         - Congratulations to Ashwin Jayadevan (S6 CSE) for securing Second prize in Discuss throw for the University Inter Collegiate Athletic meet 2022-23.
         - Congratulations to Team Kabaddi women University champions 2022.
         - Congratulations to C zone intercollegiate Badminton women championship Runner Up's 2022
         - RTI Fee can be remitted by way of DD/PO in the name of PRL,CE KGR payable at Kidangoor.
-        - മാറുന്ന കാലത്തിൻ്റെ നേർക്കാഴ്‌ച്ചയായി, ആടിയും പാടിയും നിറങ്ങൾക്കൊണ്ട് കലകളുടെ ഒരായിരം ഓർമ്മകൾ നെയ്തുകൂട്ടാൻ ഒരു വേദി കൂടി...SAAGA | SAASTRA
-          CAPE Techno - Arts fest 2023
-        - Congratulations to Ashwin Jayadevan (S6 CSE) for securing Second prize in Discuss throw for the University Inter Collegiate Athletic meet 2022-23.
-        - Congratulations to Team Kabaddi women University champions 2022.
-        - Congratulations to C zone intercollegiate Badminton women championship Runner Up's 2022
+        #- Congratulations to Ashwin Jayadevan (S6 CSE) for securing Second prize in Discuss throw for the University Inter Collegiate Athletic meet 2022-23.
+        #- Congratulations to Team Kabaddi women University champions 2022.
+        #- Congratulations to C zone intercollegiate Badminton women championship Runner Up's 2022
         #- Spot admission to vacant seats in CS,EC,EE,EL and CE will be held on 20-10-2022 at 10am. Ranklist will be published based on applications at 11am.
         #- B.Tech Spot admission will be conducted for the vacant seats from October 18th onwards.[Registration Link](https://tinyurl.com/kgrbtechspot2022).
         - Online Fee payment. [Click here](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
