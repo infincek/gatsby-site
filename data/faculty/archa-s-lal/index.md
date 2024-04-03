@@ -18,7 +18,7 @@ subject: Geomachanics and Structures
 # otherData: "No. of International Journal - 1, No. of International Conferences - 1"
 mobileNumber: 7907014961
 mailid: archasujulal@gmail.com
-position: 11
+position: 14
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
