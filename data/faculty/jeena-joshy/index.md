@@ -18,7 +18,7 @@ subject: Structural Engineering and Construction Management
 # otherData: "No. of International Journal - 1, No. of International Conferences - 1"
 mobileNumber: 9496206171
 mailid: jeena6596@gmail.com
-position: 10
+position: 15
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |
