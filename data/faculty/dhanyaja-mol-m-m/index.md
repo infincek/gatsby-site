@@ -6,7 +6,7 @@ teaching: false
 qualification: B.Tech in Computer Science
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./dhanyaja.jpg
+image: ./dhanyaja-new.jpg
 designation: Computer Programmer
 dateOfJoining: 06/08/2013
 dateOfJoiningCape: 06/08/2013

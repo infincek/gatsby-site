@@ -1,7 +1,7 @@
 ---
 title: Haridas M S
 template: faculty
-hod: false
+hod: true
 department: eee
 departmentFullName: Electrical and Electronics
 image: ./haridas-photo.jpg

@@ -4,11 +4,11 @@ template: faculty
 hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./Akhil-Sankar1.jpg
+image: ./Akhil-Sankar.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 12/03/2021
 dateOfJoiningCape: 12/03/2021 
-experienceTeaching: 2.5 Years
+experienceTeaching: 3.5 Years
 # experienceIndustry: NIL
 ugAndInstitution: "B.Tech, College of Engineering Adoor"
 pgAndInstitution: "M.Tech, Rajiv Gandhi Institute of Technology, Kottayam"
