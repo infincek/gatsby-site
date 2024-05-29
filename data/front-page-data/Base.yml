@@ -4,9 +4,15 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institution
-        - image: ./images/cricket_team-2024_updated.jpg
+        - image: ./images/madras_engg-industry-2024.jpg
         - image: ./images/ZF_commercial-vehiclesoltns.jpg
+        - image: ./images/S1CSE-toppers.jpg
+        - image: ./images/S1ECE_Toppers.jpg
+        - image: ./images/s3cse-toppers.jpg
+        - image: ./images/S5CE-toppers.jpg
+        - image: ./images/S5CSE-Toppers.jpg
         - image: ./images/CEK-Results.new.jpg
+        - image: ./images/cricket_team-2024_updated.jpg
         - image: ./images/UST_Global_editted.jpg
         - image: ./images/Tata_Elxsi-edited.jpg
         - image: ./images/aarbee.jpg
@@ -14,10 +20,10 @@
         - image: ./images/acabes.jpg
         - image: ./images/PLACED-MIX-new.jpg
         - image: ./images/Quest_Global_2023.jpg
-        - image: ./images/EEE_S5_S3.jpg
-        - image: ./images/CSE_S5_S3.jpg
-        - image: ./images/ECE_S5.jpg
-        - image: ./images/CE_S5_S3.jpg
+        #- image: ./images/EEE_S5_S3.jpg
+        #- image: ./images/CSE_S5_S3.jpg
+        #- image: ./images/ECE_S5.jpg
+        #- image: ./images/CE_S5_S3.jpg
         #- image: ./images/nss2-blooddonation.jpg
         #- image: ./images/NSS-_NIC-2023.jpg
         #- image: ./images/IEEE-EmergingStudent-award.jpg
