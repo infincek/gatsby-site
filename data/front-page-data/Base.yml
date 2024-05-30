@@ -103,11 +103,10 @@
         COLLEGE OF ENGINEERING KIDANGOOR
         KIDANGOOR SOUTH P.O
         KOTTAYAM – 686 583
-    - name: Admission 2024
-      url: /academics/admission
+- name: Admission 2024
+  url: /academics/admission
     email: cekcape@gmail.com    
-    code: AISHE Code :- c-9457
-    
+    code: AISHE Code :- c-9457    
     quickLinks:
         col1:
             - name: Moodle@cek
