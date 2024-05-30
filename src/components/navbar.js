@@ -212,6 +212,9 @@ function SidebarContents({ data }) {
                     <i className="fa fa-bookmark color-primary" />
                     <p className="prop color-primary">College Code: KGR</p>
                     <div>{data.code}</div>
+                    <a className="text-primary" href={'mailto:' + data.email}>
+                        {data.email}
+                    </a>    
                 </div>
             </div>
         </div>
@@ -230,7 +233,7 @@ export default () => (
                                 phone
                                 address
                                 email
-                                code
+                                code                                
                             }
                         }
                     }
