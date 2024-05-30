@@ -213,6 +213,7 @@ function SidebarContents({ data }) {
                     <p className="prop color-primary">College Code: KGR</p>
                     <div>{data.code}</div>
                     <p className="prop color-primary">Admission 2024</p>
+                    <div>{data.code}</div>
                     <a className="text-primary" href={'mailto:' + data.url}>
                         {data.url}
                     </a>    
