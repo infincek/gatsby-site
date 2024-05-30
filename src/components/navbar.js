@@ -212,8 +212,9 @@ function SidebarContents({ data }) {
                     <i className="fa fa-bookmark color-primary" />
                     <p className="prop color-primary">College Code: KGR</p>
                     <div>{data.code}</div>
-                    <a className="text-primary" href={'mailto:' + data.email}>
-                        {data.email}
+                    <p className="prop color-primary">Admission 2024</p>
+                    <a className="text-primary" href={'mailto:' + data.url}>
+                        {data.url}
                     </a>    
                 </div>
             </div>
