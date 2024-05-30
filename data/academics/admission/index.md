@@ -4,13 +4,22 @@ template: singlepage
 description: College of Engineering, Kidangoor (CEK), Kottayam is one among the premier institutions in the state. The college is governed by the Co-operative Academy of Professional Education established by the Government of Kerala. The admissions are based on the rank obtained by the students in the State Entrance examinations and functioning of the college is according to the rules and regulations formulated by the Government of Kerala.
 ---
 
-<h1>B.Tech Lateral Entry Admission 2023 </h1><br>
+<h1>ADMISSION 2024</h1>
+കേരളാ ഗവൺമെൻ്റ് സ്ഥാപനമായ കോളേജ് ഓഫ് എഞ്ചിനീയറിംഗ് കിടങ്ങൂരിൽ 2024 അദ്ധ്യയന വർഷത്തെ ബി.ടെക്  പ്രവേശനത്തിന് രജിസ്ട്രേഷൻ ആരംഭിച്ചു. 
 
-[B.Tech Lateral Entry 2023 Admission Schedule](let_2023_admission.pdf)<br><br>
-[B.Tech Lateral Entry 2023 Document Checklist](let_2023_admission_DOCUMENTS_CHECK_LIST.pdf)<br><br>
-<b>B.Tech Lateral Entry 2023 Fee Structure</b>
-<br><br>[Merit Regulated Fee](let_2023_admission_fee_structure1.pdf)
-<br><br>[SC/ST/OEC](let_2023_admission_fee_structure2.pdf)<br><br>
+
+Register here: https://bit.ly/kgr2024admn
+
+📌 Registration started for admission in B Tech CS, EC, EE, CE & EL (Electrical and Computer Engineering)
+
+📌 പ്രവേശന യോഗ്യത : Plus two :45% marks (Maths/Physics/Chemistry/Biology/Computer Science)
+
+📌 KEAM എൻട്രൻസ് എഴുതാത്തവർക്കും പ്രവേശനം നേടാവുന്ന Non-KEAM (lapsed seats), NRI എന്നീ വിഭാഗങ്ങളിലെ സീറ്റുകളിലാണ് ഇപ്പോൾ രജിസ്ട്രേഷൻ ആരംഭിച്ചിരിക്കുന്നത്
+
+📌80% Plus two മാർക്കും, വാർഷിക വരുമാനവും അടിസ്ഥാനമാക്കിയുള്ള Co-operative Scholarship അർഹരായ എല്ലാ വിഭാഗം വിദ്യാർത്ഥികൾക്കും ലഭ്യമാണ്.
+
+📞For details, please contact
+Admission HELPDESK: 9188255056, 9895069770, 7012888290
 
 
 <h3>ADMISSION:Undergraduate Degree</h3>
