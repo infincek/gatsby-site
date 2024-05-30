@@ -212,7 +212,7 @@ function SidebarContents({ data }) {
                     <i className="fa fa-bookmark color-primary" />
                     <p className="prop color-primary">College Code: KGR</p>
                     <div>{data.code}</div>
-                    <a href="/academics/admission" target="_blank>
+                    <a href="https://www.ce-kgr.org/academics/admission/" target="_blank">
                       Admission 2024
                     </a>
                 </div>
