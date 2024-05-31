@@ -94,17 +94,32 @@ The institution offers Bachelor Degree Programs [4 year duration] under the affi
 | Total |  243  |  12  |  15  |  270  |
 
 <h5>B Tech Degree Program – Structure of Tuition Fee</h5>
+<h5><b>CSE</b></h5>
+
+| Quota | Tuition Fee [Per year] |
+|--------------------|-------------------|
+| Merit seat with full fee | Rs. 65000 /- [Sixty five thousand only] (36 seats) |
+| Merit Regulated Fee | Rs. 40000/- [Forty thousand only] (72 seats) |
+| NRI seats | Rs. 100000/- [One lakh only] (6 seats) |
+| For Not qualified KEAM | Rs. 65000/- [Sixty five thousand only] ( KEAM qualified candidate not joined seats) |
+<!--
+ Special fee (approximate) of Rs.18000/- should be paid before the beginning of classes for one time (**First Year only**) and approximately Rs.7000/- for the next years (including examination fee). Bus fee and hostel fee are applicable to be concerned.
+-->
+<h5><b>ECE/CE</b></h5>
+
+| Quota | Tuition Fee [Per year] |
+|--------------------|--------------------|
+| Merit seat with full fee | Rs. 40000 /- [Forty thousand only] (54 seats) |
+| NRI seats | Rs. 100000/- [One lakh only] (3 seats) |
+| For Not qualified KEAM | Rs. 45000/- [Forty five thousand only] (KEAM qualified candidate not joined seats) |
+
+<h5><b>EEE/EL</b></h5>
 
 | Quota | Tuition Fee [Per year] |
 |------------------|-----------------|
-| Merit seats | Rs. 35000/- [Thirty five thousand only] |
-| Reserved for Co-operative sector | Rs. 65000/- [Sixty five thousand only] (Scholarship of  Rs.30000/- may be given to eligibile candidates) |
-| NRI seats | Rs. 100000/- [One lakh only] |
-
- Special fee (approximate) of Rs.18000/- should be paid before the beginning of classes for one time (**First Year only**) and approximately Rs.7000/- for the next years (including examination fee). Bus fee and hostel fee are applicable to be concerned.
-
- 
-<br>
+| Merit seat with full fee | Rs. 40000 /- [Forty thousand only] (27 seats) |
+| NRI seats | Rs. 100000/- [One lakh only] (2 seats) |
+| For Not qualified KEAM | Rs. 45000/- [Forty five thousand only] (KEAM qualified candidate not joined seats) |
 <br>
 
 <h3>ADMISSION:Post Graduate Degree</h3>
