@@ -18,7 +18,7 @@ subject: Computer & Information Science
 # otherData: "No.of national conferences - 2"
 mobileNumber: 9447843374
 mailid: alphamathew30@gmail.com
-position: 2
+position: 8
 ---
 |           PUBLICATIONS           |     |
 | :------------------------------: | :-: |

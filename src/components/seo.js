@@ -21,8 +21,8 @@ function SEO({ description, lang, meta, title, image, keywords }) {
 
     const metaDescription = description || site.siteMetadata.description;
     const metaKeywords =
-        keywords + ', CEK, KGR, College of Engineering, Kidangoor, Kottayam' ||
-        'CEK, KGR, College of Engineering, Kidangoor, Kottayam';
+        keywords + ', CEK, KGR, College of Engineering Kidangoor, Kottayam' ||
+        'CEK, KGR, College of Engineering Kidangoor, Kottayam';
     let ogImage = image || site.siteMetadata.logo;
     ogImage = origin + '' + ogImage;
 
