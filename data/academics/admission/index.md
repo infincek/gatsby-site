@@ -111,7 +111,7 @@ Application fee Rs 750/- for general candidates and Rs. 375 for SC/ST candidates
 
 <h3>B.Tech NRI Admission 2021 </h3>
 -->
-
+<!--
 <h1>B.Tech NRI Admission 2023 </h1>
 <br>
 
@@ -121,7 +121,7 @@ Interested candidates can apply online through the link given below. For more de
 Registrtion Link
 
 [bit.ly/NRI2023](http://bit.ly/NRI2023)
-
+-->
 
 <!--
 <br><br>
@@ -136,6 +136,7 @@ Registrtion Link
 [Online Fee Collection](https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=384580)
  <br>
  <br>
+ <!--
 **Eligibility criteria for NRI Quota**
 
 <ol>
@@ -145,6 +146,7 @@ Registrtion Link
 <li>Candidates seeking NRI Quota should be a Child/Ward/Dependent of an NRI and should enclose a declaration form and employment certificate from the NRI who sponsor the applicant (form enclosed as Annexure I).</li>
 </ol>
 <br>
+-->
 <!--
 <h3>Application to Co-operative Reserved Quota Seats </h3>
 <br>
