@@ -6,6 +6,13 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 <h3>Projects</h3>
 
+**CERD 2023-24 Projects**
+
+| Sl.No. | Principal Investigator                                | Student Investigator                                         | Title                         | Amount(Rs.) |
+|--------|------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-------------|
+| 1   | Divya S Nair  <br> Asst.Professor <br> Deptartment of CE       |   | Geopolymer Paver Blocks - Using Rice Husk Ash : An Eco-friendly Construction Materila | 14,850     |
+| 2   | Krishnaveni V V  <br> Asst. Professor <br> Department of CSE     |          | Empowering Communication : Smart Glasses for Real-time Speech Display for Deaf Individuals               | 15,000       |
+
 **CERD 2022-23 Projects**
 
 | Sl.No. | Principal Investigator                                | Student Investigator                                         | Title                         | Amount(Rs.) |
