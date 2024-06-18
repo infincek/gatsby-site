@@ -8,10 +8,11 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 **CERD 2023-24 Projects**
 
-| Sl.No. | Principal Investigator                                | Student Investigator                                         | Title                         | Amount(Rs.) |
-|--------|------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-------------|
-| 1   | Divya S Nair  <br> Asst.Professor <br> Deptartment of CE       |   | Geopolymer Paver Blocks - Using Rice Husk Ash : An Eco-friendly Construction Materila | 14,850     |
-| 2   | Krishnaveni V V  <br> Asst. Professor <br> Department of CSE     |          | Empowering Communication : Smart Glasses for Real-time Speech Display for Deaf Individuals               | 15,000       |
+| Sl.No. | Principal Investigator                                | Student Investigator                                           | Title                         | Amount(Rs.) |
+|--------|----------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------|-------------|
+| 1   | Divya S Nair  <br> Asst.Professor <br> Deptartment of CE       | Preethymol Prakash <br> P S Greeshma Nair <br> Kavya Balakrishnan <br> Fathimathul FarsanaE A  | Hybrid Fiber : Reinforced Geopolymer Cocrete : An Eco-friendly Construction Materials  | 14,850     |
+| 2   | Divya S Nair  <br> Asst.Professor <br> Deptartment of CE       |  Harikrishanan S <br> Sidharth Krishna  C T <br> Sanjay Kumar P S <br> Jinu Joseph | Geopolymer Paver Blocks - Using Rice Husk Ash : An Eco-friendly Construction Materials | 14,850     |
+| 3   | Krishnaveni V V  <br> Asst. Professor <br> Department of CSE     |          | Empowering Communication : Smart Glasses for Real-time Speech Display for Deaf Individuals               | 15,000       |
 
 **CERD 2022-23 Projects**
 
