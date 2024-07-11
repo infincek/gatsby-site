@@ -10,8 +10,15 @@
         - image: ./images/S8ECE-toppers-new.jpg
         - image: ./images/S8EEE-toppers.jpg
         - image: ./images/cricket_team-2024_updated.jpg
+        - image: ./images/madras_engg-industry-2024.jpg
         - image: ./images/ZF_commercial-vehiclesoltns.jpg
+        - image: ./images/S1CSE-toppers.jpg
+        - image: ./images/S1ECE_Toppers.jpg
+        - image: ./images/s3cse-toppers.jpg
+        - image: ./images/S5CE-toppers.jpg
+        - image: ./images/S5CSE-Toppers.jpg
         - image: ./images/CEK-Results.new.jpg
+        - image: ./images/cricket_team-2024_updated.jpg
         - image: ./images/UST_Global_editted.jpg
         - image: ./images/Tata_Elxsi-edited.jpg
         - image: ./images/aarbee.jpg
@@ -19,10 +26,10 @@
         - image: ./images/acabes.jpg
         - image: ./images/PLACED-MIX-new.jpg
         - image: ./images/Quest_Global_2023.jpg
-        - image: ./images/EEE_S5_S3.jpg
-        - image: ./images/CSE_S5_S3.jpg
-        - image: ./images/ECE_S5.jpg
-        - image: ./images/CE_S5_S3.jpg
+        #- image: ./images/EEE_S5_S3.jpg
+        #- image: ./images/CSE_S5_S3.jpg
+        #- image: ./images/ECE_S5.jpg
+        #- image: ./images/CE_S5_S3.jpg
         #- image: ./images/nss2-blooddonation.jpg
         #- image: ./images/NSS-_NIC-2023.jpg
         #- image: ./images/IEEE-EmergingStudent-award.jpg
@@ -102,14 +109,14 @@
         We are committed to molding,competent professionals in engineering with integrity, fairness, technological excellence, human and social values who engage in lifelong learning through good teaching practices and professional excellence to meet the requirements of the prospective employers,the industry and the society with high degree of satisfaction through continual improvement.
     phone:
         - +91-48 22-256 056
-        - Admission Help Desk Number:- 9188255056
+        - Admission Help Desk Number:- 9188255056        
     fax: "04822 256056"
     address: |-
         COLLEGE OF ENGINEERING KIDANGOOR
         KIDANGOOR SOUTH P.O
         KOTTAYAM – 686 583
-    email: cekcape@gmail.com
-    code: AISHE Code :- c-9457
+    email: cekcape@gmail.com    
+    code: AISHE Code :- c-9457    
     quickLinks:
         col1:
             - name: Moodle@cek
