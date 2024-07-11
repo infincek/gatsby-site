@@ -38,18 +38,18 @@
         - image: ./images/NSS-cek.jpg
         - image: ./images/ieee-winners.jpg
         - image: ./images/cek-Kabaddi-Winner.jpg
-        - image: ./images/ibs_placed_students.jpg
-        - image: ./images/tata-elxsi-2.jpg
-        - image: ./images/tata-elxsi1.jpg
-        - image: ./images/6dTechno.jpg
-        - image: ./images/acsia.jpg
-        - image: ./images/QBURST.jpg
-        - image: ./images/TCS.jpg
-        - image: ./images/IEEE-EmergingStudent-award.jpg
+        #- image: ./images/ibs_placed_students.jpg
+        #- image: ./images/tata-elxsi-2.jpg
+        #- image: ./images/tata-elxsi1.jpg
+        #- image: ./images/6dTechno.jpg
+        #- image: ./images/acsia.jpg
+        #- image: ./images/QBURST.jpg
+        #- image: ./images/TCS.jpg
+        #- image: ./images/IEEE-EmergingStudent-award.jpg
         - image: ./images/KhoKho_C-zone-runnerup.jpg
         #- image: ./images/winners.jpg
         #- image: ./images/cek-Kabaddi-Winner.jpg
-        - image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
+        #- image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
         #- image: ./images/KILA_SKDC_Training_Programme.jpg        
         - image: ./images/IEDC-team-22.jpg
           title: IEDC 
