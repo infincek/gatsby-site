@@ -4,6 +4,11 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institution
+        - image: ./images/placedstudents_2024.jpg
+        - image: ./images/S8CE-toppers-LANDSCAPE.jpg
+        - image: ./images/S8CSE-toppers.jpg
+        - image: ./images/S8ECE-toppers-new.jpg
+        - image: ./images/S8EEE-toppers.jpg
         - image: ./images/cricket_team-2024_updated.jpg
         - image: ./images/ZF_commercial-vehiclesoltns.jpg
         - image: ./images/CEK-Results.new.jpg
