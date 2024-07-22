@@ -3,6 +3,23 @@
     carousel:
         - image: ./images/main-block.jpg
           title: CEK
+          description: A Luscious and Green campus among CAPE institutions
+        - image: ./images/NSS-_NIC-2023.jpg
+        - image: ./images/LET_admission2024.jpg
+          title: B.Tech Lateral Entry Admission
+          description: Register Now[bit.ly/kgr2024lateral](https://bit.ly/kgr2024lateral)
+        - image: ./images/KEAM_mocktest-2023-1.jpg
+          title: KEAM Mock test
+          description: Register Now[bit.ly/keam23kgr](http://bit.ly/keam23kgr)
+        - image: ./images/CAPE-Techno-Arts-fest.jpg
+          title: SAAGA | SAASTRA
+          description: CAPE Techno - Arts fest 2023.[https://capefest.in/](https://capefest.in/)
+        - image: ./images/CEK-lumiere-2023.jpg
+          title: LUMIERE'23
+          description: National Level Techno-Cultural Fest.[https://ceklumiere.com](https://ceklumiere.com)
+        - image: ./images/Project-expo-2023.jpg
+        - image: ./images/IEEE-EmergingStudent-award.jpg
+        - image: ./images/KhoKho_C-zone-runnerup.jpg
           description: A Luscious and Green campus among CAPE institution
         - image: ./images/placement-2024.jpg
         - image: ./images/S8CE-toppers-LANDSCAPE.jpg
