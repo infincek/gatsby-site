@@ -32,11 +32,11 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 
 [AICTE Approval 2013-14](/docs/AICTEApprovals/AICTEApproval2013-14.pdf)
 
-[AICTE Approval 2014-15](/docs/AICTEApprovals/AICTEApproval2014-15.pdf)
+[AICTE Approval 2014-15](/docs/AICTEApprovals/AICTE_2014-15.pdf)
 
-[AICTE Approval 2015-16](/docs/AICTEApprovals/AICTEApproval2015-16.pdf)
+[AICTE Approval 2015-16](/docs/AICTEApprovals/AICTE EOA_Report_2015-16.pdf)
 
-[AICTE Approval 2016-17](/docs/AICTEApprovals/AICTEApproval2016-17.pdf)
+[AICTE Approval 2016-17](/docs/AICTEApprovals/EOA Report 2016-17.pdf)
 
 [AICTE Approval 2017-18](/docs/AICTEApprovals/AICTEApproval2017-18.pdf)
 
@@ -47,4 +47,8 @@ description: College of Engineering, Kidangoor (CEK), Kottayam is one among the 
 [AICTE Approval 2020-21](/docs/AICTEApprovals/AICTE_Approval_2020-21.pdf)
 
 [AICTE Approval 2021-22](/docs/AICTEApprovals/AICTE_Approval_2021-22.pdf)
+
+[AICTE Approval 2022-23](/docs/AICTEApprovals/AICTE_approval_2022-23.pdf)
+
+[AICTE Approval 2023-24](/docs/AICTEApprovals/EOA-Report-2023-24.PDF)
 

@@ -1,10 +1,10 @@
 ---
 title: VIVEK RAJU
 template: faculty
-hod: true
+hod: false
 department: dash
 departmentFullName: Department of Applied Sciences and Humanities
-image: ./vivek-Raju.jpg
+image: ./vivek-Raju-1.jpg
 designation: Assistant Professor(Regular)
 dateOfJoining: 29/10/2021
 dateOfJoiningCape: 04/02/2010

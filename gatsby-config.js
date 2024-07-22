@@ -124,22 +124,28 @@ module.exports = {
                     {
                         name: 'Electrical & Electronics Engineering',
                         link:
-                            '/departments/electrical-and-electronics-engineering/'
+                            '/departments/electrical-and-electronics-engineering/',
+                        children: [
+                            {
+                                name: 'Electrical & Computer Engineering',
+                                link: '/departments/electrical-and-electronics-engineering/electrical-computer-engineering',
+                            },
+                        ],
                     },
-                    {
+                    /*{
                         name: 'Electronics & Instrumentation Engineering',
                         link:
                             '/departments/electronics-and-instrumentation-engineering'
-                    },
+                    },*/
                     {
                         name: 'Electronics & Communication Engineering',
                         link:
                             '/departments/electronics-and-communication-engineering'
                     },
-                    {
+                   /* {
                         name: 'Information Technology',
                         link: '/departments/information-technology'
-                    },
+                    },*/
                     {
                         name: 'Humanities and Science',
                         link: '/departments/applied-science-and-humanities'

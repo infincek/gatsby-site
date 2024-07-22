@@ -20,12 +20,9 @@ The overwhelming public response to its educational mission has inspired CAPE to
 Excellence is the watchword in all our endeavours and our staff and students strive for attaining it through hard work, perseverance and dedication.
 
 **Contact Information:**<br>
-Co-operative Academy of Professional Education(CAPE)
-
-
-Ist Floor, Co-Bank Towers<br>
-Vikas Bhavan P.O.,<br>
-Thiruvananthapuram Pin-695033<br>
-Phone :0471-2316236, 2316204;<br>
-Fax : 0471-2310049<br>
+Co-operative Academy of Professional Education(CAPE)<br>
+St. Sebastian Church Road<br>
+Vallakadavu P.O,<br>
+Thiruvananthapuram Pin-695008<br>
+Ph: 0471-2316236, 2316204<br>
 E-mail : capekerala@gmail.com<br>

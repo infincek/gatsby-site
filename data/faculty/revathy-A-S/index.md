@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: cse
 departmentFullName: Computer Science and Engineering
-image: ./RevathySankar.jpg
+image: ./Revathy_Sankar.jpg
 designation: Assistant Professor (Adhoc)
 dateOfJoining: 13/10/2022
 experienceTeaching: 4 Year

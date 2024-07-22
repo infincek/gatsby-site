@@ -4,7 +4,7 @@ template: faculty
 hod: false
 department: ce
 departmentFullName: Civil Engineering
-image: ./Reshma-Biju.jpg
+image: ./Reshma-Biju-1.jpg
 designation: Assistant Professor(Adhoc)
 dateOfJoining: 12/10/2022
 dateOfJoiningCape: 12/10/2022
