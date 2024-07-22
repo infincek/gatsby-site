@@ -5,7 +5,7 @@ import Contact from "../components/contact.js";
 const meta = {
     title: 'Contact',
     description:'Contact information of College of Engineering Kidangoor',
-    keywords: 'contact, phone, email,map, location'
+    keywords: 'contact, phone, email,map, location,admission'
 };
 
 export default () => {

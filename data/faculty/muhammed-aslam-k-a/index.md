@@ -5,7 +5,7 @@ hod: false
 teaching: false
 qualification: ITI
 department: eee
-departmentFullName: Electrical & Electronics Engineering
+departmentFullName: Electrical and Electronics Engineering
 image: ./aslam_photo.jpg
 designation: Trade Instructor Gr-I
 dateOfJoining: 02/07/2010
