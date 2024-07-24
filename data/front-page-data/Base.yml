@@ -4,6 +4,7 @@
         - image: ./images/main-block.jpg
           title: CEK
           description: A Luscious and Green campus among CAPE institution
+        - image: ./images/TCS-2024.jpg
         - image: ./images/placement-2024.jpg
         - image: ./images/S8CE-toppers-LANDSCAPE.jpg
         - image: ./images/S8CSE-toppers.jpg
@@ -22,10 +23,10 @@
         - image: ./images/UST_Global_editted.jpg
         - image: ./images/Tata_Elxsi-edited.jpg
         - image: ./images/aarbee.jpg
-        - image: ./images/placement-2023-full.jpg
+        #- image: ./images/placement-2023-full.jpg
         - image: ./images/acabes.jpg
         - image: ./images/PLACED-MIX-new.jpg
-        - image: ./images/Quest_Global_2023.jpg
+        #- image: ./images/Quest_Global_2023.jpg
         #- image: ./images/EEE_S5_S3.jpg
         #- image: ./images/CSE_S5_S3.jpg
         #- image: ./images/ECE_S5.jpg
@@ -34,10 +35,10 @@
         #- image: ./images/NSS-_NIC-2023.jpg
         #- image: ./images/IEEE-EmergingStudent-award.jpg
         #- image: ./images/KhoKho_C-zone-runnerup.jpg
-        - image: ./images/winners.jpg
-        - image: ./images/NSS-cek.jpg
+        #- image: ./images/winners.jpg
+        #- image: ./images/NSS-cek.jpg
         - image: ./images/ieee-winners.jpg
-        - image: ./images/cek-Kabaddi-Winner.jpg
+        #- image: ./images/cek-Kabaddi-Winner.jpg
         #- image: ./images/ibs_placed_students.jpg
         #- image: ./images/tata-elxsi-2.jpg
         #- image: ./images/tata-elxsi1.jpg
@@ -46,7 +47,7 @@
         #- image: ./images/QBURST.jpg
         #- image: ./images/TCS.jpg
         #- image: ./images/IEEE-EmergingStudent-award.jpg
-        - image: ./images/KhoKho_C-zone-runnerup.jpg
+        #- image: ./images/KhoKho_C-zone-runnerup.jpg
         #- image: ./images/winners.jpg
         #- image: ./images/cek-Kabaddi-Winner.jpg
         #- image: ./images/SKDC_KILA_Training_Programme_CEK.jpg
