@@ -19,13 +19,13 @@
         - image: ./images/S5CE-toppers.jpg
         - image: ./images/S5CSE-Toppers.jpg
         - image: ./images/CEK-Results.new.jpg
-        - image: ./images/cricket_team-2024_updated.jpg
+        #- image: ./images/cricket_team-2024_updated.jpg
         - image: ./images/UST_Global_editted.jpg
         - image: ./images/Tata_Elxsi-edited.jpg
         - image: ./images/aarbee.jpg
         #- image: ./images/placement-2023-full.jpg
         - image: ./images/acabes.jpg
-        - image: ./images/PLACED-MIX-new.jpg
+        #- image: ./images/PLACED-MIX-new.jpg
         #- image: ./images/Quest_Global_2023.jpg
         #- image: ./images/EEE_S5_S3.jpg
         #- image: ./images/CSE_S5_S3.jpg
