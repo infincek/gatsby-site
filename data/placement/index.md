@@ -42,11 +42,11 @@ template: singlepage
 | 2023 | 48 | 62 | 49 |
 
 ### Training and Placement Officer
-**Prof. Rekha K S**
+**Prof. JISHA C THANKAPPAN **
 <br>
 Assistant Professor in Computer Science & Engineering
 <br>
-Contact Number: 9447469970
+Contact Number: 9895831316
 <br>
 Email Address: placement@ce-kgr.org
 
