@@ -42,7 +42,7 @@ template: singlepage
 | 2023 | 48 | 62 | 49 |
 
 ### Training and Placement Officer
-**Prof. JISHA C THANKAPPAN **
+**Prof. JISHA C THANKAPPAN**
 <br>
 Assistant Professor in Computer Science & Engineering
 <br>
